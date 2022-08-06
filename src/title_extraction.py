@@ -35,6 +35,3 @@ path = '../data/'
 df = pd.DataFrame(list(zip(patents, dates, titles)), columns =['patent_number', 'date', 'title'])
 df['date'] =  pd.to_datetime(df['date'])
 df.to_csv(f'{path}{args.start//1000}k-{args.end//1000}k.csv', index=False)
-
-
-# logistic regression log loss: minimize summation of (log(1 + exp^-(yi* Wtxi))) + wt*w
