@@ -1,0 +1,1414 @@
+patent_number,date,title,tokens,nltk_pos,is_prpn_nltk,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len
+US100005A,1870-02-22,Makcar wahbam beylikgy ,"['Makcar', 'wahbam', 'beylikgy']","[('Makcar', 'NNP'), ('wahbam', 'NN'), ('beylikgy', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US100009A,1870-02-22,briggs ,['briggs'],"[('briggs', 'NNS')]",0,['PROPN'],['PERSON'],1,1,1
+US100017A,1870-02-22,Joseph m ,"['Joseph', 'm']","[('Joseph', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US100035A,1870-02-22,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100037A,1870-02-22,Austin d ,"['Austin', 'd']","[('Austin', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US100044A,1870-02-22,James kind el ,"['James', 'kind', 'el']","[('James', 'NNP'), ('kind', 'NN'), ('el', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US100049A,1870-02-22,Theis ,['Theis'],"[('Theis', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US100056A,1870-02-22,George r ,"['George', 'r']","[('George', 'NNP'), ('r', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100071A,1870-02-22,Edwin t ,"['Edwin', 't']","[('Edwin', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100078A,1870-02-22,David b ,"['David', 'b']","[('David', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100090A,1870-02-22,george warsop ,"['george', 'warsop']","[('george', 'NN'), ('warsop', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100096A,1870-02-22,Henry a ,"['Henry', 'a']","[('Henry', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US100097A,1870-02-22,John allgaier ,"['John', 'allgaier']","[('John', 'NNP'), ('allgaier', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US100113A,1870-02-22,Joseph breeden ,"['Joseph', 'breeden']","[('Joseph', 'NNP'), ('breeden', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100115A,1870-02-22,William-brown ,['William-brown'],"[('William-brown', 'JJ')]",0,"['PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,3
+US100121A,1870-02-22,William e ,"['William', 'e']","[('William', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100123A,1870-02-22,Leonard crofoot ,"['Leonard', 'crofoot']","[('Leonard', 'NNP'), ('crofoot', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100126A,1870-02-22,James m ,"['James', 'm']","[('James', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US100131A,1870-02-22,James balleny elkington ,"['James', 'balleny', 'elkington']","[('James', 'NNP'), ('balleny', 'VBP'), ('elkington', 'NN')]",1,"['PROPN', 'VERB', 'PROPN']",['PERSON'],1,1,3
+US100137A,1870-02-22,gilpatkic ,['gilpatkic'],"[('gilpatkic', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US100152A,1870-02-22,Frederick holzach ,"['Frederick', 'holzach']","[('Frederick', 'NNP'), ('holzach', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100169A,1870-02-22,Harris harding margeson ,"['Harris', 'harding', 'margeson']","[('Harris', 'NNP'), ('harding', 'VBG'), ('margeson', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US100193A,1870-02-22,John ross ,"['John', 'ross']","[('John', 'NNP'), ('ross', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100200A,1870-02-22,skinnek ,['skinnek'],"[('skinnek', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US100246A,1870-03-01,Liam e ,"['Liam', 'e']","[('Liam', 'NNP'), ('e', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US100267A,1870-03-01,Edward mortimer deey ,"['Edward', 'mortimer', 'deey']","[('Edward', 'NNP'), ('mortimer', 'NN'), ('deey', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US100275A,1870-03-01,William p ,"['William', 'p']","[('William', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100276A,1870-03-01,William p ,"['William', 'p']","[('William', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100285A,1870-03-01,James h ,"['James', 'h']","[('James', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100289A,1870-03-01,Charles hart ,"['Charles', 'hart']","[('Charles', 'NNP'), ('hart', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100290A,1870-03-01,heald ,['heald'],"[('heald', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US100294A,1870-03-01,John howarth ,"['John', 'howarth']","[('John', 'NNP'), ('howarth', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100305A,1870-03-01,Benjamin green martin ,"['Benjamin', 'green', 'martin']","[('Benjamin', 'NNP'), ('green', 'JJ'), ('martin', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US100337A,1870-03-01,Charles steteeeldt ,"['Charles', 'steteeeldt']","[('Charles', 'NNP'), ('steteeeldt', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100346A,1870-03-01,William wellington ,"['William', 'wellington']","[('William', 'NNP'), ('wellington', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100353A,1870-03-01,Eayre  ,['Eayre'],"[('Eayre', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US100356A,1870-03-01,Joseph beck ,"['Joseph', 'beck']","[('Joseph', 'NNP'), ('beck', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US100361A,1870-03-01,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100383A,1870-03-01,George k ,"['George', 'k']","[('George', 'NNP'), ('k', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100397A,1870-03-01,Thomas fostee hamilton ,"['Thomas', 'fostee', 'hamilton']","[('Thomas', 'NNP'), ('fostee', 'NN'), ('hamilton', 'NN')]",1,"['PROPN', 'NOUN', 'PROPN']",['PERSON'],1,1,3
+US100411A,1870-03-01,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100415A,1870-03-01,keith ,['keith'],"[('keith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US100422A,1870-03-01,Miles lookhart ,"['Miles', 'lookhart']","[('Miles', 'NNS'), ('lookhart', 'RB')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100427A,1870-03-01,William magill ,"['William', 'magill']","[('William', 'NNP'), ('magill', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100449A,1870-03-01,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100478A,1870-03-01,Albert s ,"['Albert', 's']","[('Albert', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US100487A,1870-03-01,Improved barber s chair ,"['Improved', 'barber', 's', 'chair']","[('Improved', 'VBN'), ('barber', 'NN'), ('s', 'NN'), ('chair', 'NN')]",0,"['VERB', 'NOUN', 'PART', 'NOUN']",['PERSON'],0,1,4
+US100494A,1870-03-08,James m ,"['James', 'm']","[('James', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US100509A,1870-03-08,Edwin  ,['Edwin'],"[('Edwin', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US100523A,1870-03-08,John w ,"['John', 'w']","[('John', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100527A,1870-03-08,James w ,"['James', 'w']","[('James', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100531A,1870-03-08,George p ,"['George', 'p']","[('George', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100535A,1870-03-08,William lee ,"['William', 'lee']","[('William', 'NNP'), ('lee', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100596A,1870-03-08,Jambs d ,"['Jambs', 'd']","[('Jambs', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US100612A,1870-03-08,James fitzgerald ,"['James', 'fitzgerald']","[('James', 'NNP'), ('fitzgerald', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100619A,1870-03-08,William fiarsen ,"['William', 'fiarsen']","[('William', 'NNP'), ('fiarsen', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100646A,1870-03-08,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US100653A,1870-03-08,Bufus spaulding merbill ,"['Bufus', 'spaulding', 'merbill']","[('Bufus', 'NNP'), ('spaulding', 'NN'), ('merbill', 'NN')]",1,"['PROPN', 'VERB', 'NOUN']",['PERSON'],1,1,3
+US100667A,1870-03-08,William russel prince ,"['William', 'russel', 'prince']","[('William', 'NNP'), ('russel', 'NN'), ('prince', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US100703A,1870-03-08,Henry fowler ,"['Henry', 'fowler']","[('Henry', 'NNP'), ('fowler', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100709A,1870-03-15,Charles f ,"['Charles', 'f']","[('Charles', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US100745A,1870-03-15,Henry iranke ,"['Henry', 'iranke']","[('Henry', 'NNP'), ('iranke', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US100761A,1870-03-15,Self and james kelly ,"['Self', 'and', 'james', 'kelly']","[('Self', 'NNP'), ('and', 'CC'), ('james', 'NNS'), ('kelly', 'RB')]",1,"['NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,4
+US100766A,1870-03-15,John hunt ing ton ,"['John', 'hunt', 'ing', 'ton']","[('John', 'NNP'), ('hunt', 'NN'), ('ing', 'VBG'), ('ton', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,4
+US100803A,1870-03-15,John calvin rankin ,"['John', 'calvin', 'rankin']","[('John', 'NNP'), ('calvin', 'NN'), ('rankin', 'NN')]",1,"['PROPN', 'NOUN', 'ADJ']",['PERSON'],1,1,3
+US100804A,1870-03-15,George h ,"['George', 'h']","[('George', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100819A,1870-03-15,Henry townsend ,"['Henry', 'townsend']","[('Henry', 'NNP'), ('townsend', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US100826A,1870-03-15,Albert s ,"['Albert', 's']","[('Albert', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US100832A,1870-03-15,Martin l ,"['Martin', 'l']","[('Martin', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100856A,1870-03-15,Clark ,['Clark'],"[('Clark', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US100857A,1870-03-15,William j ,"['William', 'j']","[('William', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100866A,1870-03-15,Daniel h ,"['Daniel', 'h']","[('Daniel', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100867A,1870-03-15,William curran ,"['William', 'curran']","[('William', 'NNP'), ('curran', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100877A,1870-03-15,Alonzo faekaft ,"['Alonzo', 'faekaft']","[('Alonzo', 'NNP'), ('faekaft', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100880A,1870-03-15,James f ,"['James', 'f']","[('James', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US100899A,1870-03-15,Edward p ,"['Edward', 'p']","[('Edward', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100923A,1870-03-15,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100947A,1870-03-15,Elihu spencer ,"['Elihu', 'spencer']","[('Elihu', 'NNP'), ('spencer', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US100955A,1870-03-15,George waddington ,"['George', 'waddington']","[('George', 'NNP'), ('waddington', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US100962A,1870-03-22,Joseph f ,"['Joseph', 'f']","[('Joseph', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US100992A,1870-03-22,William doyle ,"['William', 'doyle']","[('William', 'NNP'), ('doyle', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101000A,1870-03-22,Henry g ,"['Henry', 'g']","[('Henry', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101007A,1870-03-22,Mellvin b ,"['Mellvin', 'b']","[('Mellvin', 'NNP'), ('b', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US101009A,1870-03-22,Nathaniel haskell ,"['Nathaniel', 'haskell']","[('Nathaniel', 'NNP'), ('haskell', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101016A,1870-03-22,Henry a ,"['Henry', 'a']","[('Henry', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US101041A,1870-03-22,raymond ,['raymond'],"[('raymond', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US101054A,1870-03-22,Lawson shipm an ,"['Lawson', 'shipm', 'an']","[('Lawson', 'NNP'), ('shipm', 'VBD'), ('an', 'DT')]",1,"['PROPN', 'NOUN', 'PRON']",['PERSON'],1,1,3
+US101061A,1870-03-22,taylor ,['taylor'],"[('taylor', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US101066A,1870-03-22,William westlake ,"['William', 'westlake']","[('William', 'NNP'), ('westlake', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101078A,1870-03-22,Joseph f ,"['Joseph', 'f']","[('Joseph', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US101085A,1870-03-22,Charles g ,"['Charles', 'g']","[('Charles', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101114A,1870-03-22,John faessler ,"['John', 'faessler']","[('John', 'NNP'), ('faessler', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US101123A,1870-03-22,David hahn ,"['David', 'hahn']","[('David', 'NNP'), ('hahn', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101142A,1870-03-22,Henry loewenberg ,"['Henry', 'loewenberg']","[('Henry', 'NNP'), ('loewenberg', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101164A,1870-03-22,John g ,"['John', 'g']","[('John', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101173A,1870-03-22,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US101174A,1870-03-22,Charles speak ,"['Charles', 'speak']","[('Charles', 'NNP'), ('speak', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US101177A,1870-03-22,Walter s ,"['Walter', 's']","[('Walter', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101190A,1870-03-22,John d ,"['John', 'd']","[('John', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US101203A,1870-03-22,Frederick wittram ,"['Frederick', 'wittram']","[('Frederick', 'NNP'), ('wittram', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101215A,1870-03-29,David berkey ,"['David', 'berkey']","[('David', 'NNP'), ('berkey', 'NN')]",1,"['PROPN', 'INTJ']",['PERSON'],1,1,2
+US101217A,1870-03-29,George p ,"['George', 'p']","[('George', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101220A,1870-03-29,James booth ,"['James', 'booth']","[('James', 'NNP'), ('booth', 'CC')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101236A,1870-03-29,Daniel w ,"['Daniel', 'w']","[('Daniel', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101244A,1870-03-29,Charles estabkooks ,"['Charles', 'estabkooks']","[('Charles', 'NNP'), ('estabkooks', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101248A,1870-03-29,John t ,"['John', 't']","[('John', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101283A,1870-03-29,Oscar loew ,"['Oscar', 'loew']","[('Oscar', 'NNP'), ('loew', 'NN')]",1,"['INTJ', 'ADJ']",['PERSON'],0,1,2
+US101286A,1870-03-29,Ed elisha mack ,"['Ed', 'elisha', 'mack']","[('Ed', 'NNP'), ('elisha', 'VBZ'), ('mack', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US101296A,1870-03-29,merrick ,['merrick'],"[('merrick', 'NN')]",0,['ADJ'],['PERSON'],0,1,1
+US101308A,1870-03-29,Michael powell ,"['Michael', 'powell']","[('Michael', 'NNP'), ('powell', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101341A,1870-03-29,William e ,"['William', 'e']","[('William', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101350A,1870-03-29,Jackson g ,"['Jackson', 'g']","[('Jackson', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101352A,1870-03-29,xcopeley ,['xcopeley'],"[('xcopeley', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US101356A,1870-03-29,Ardson ,['Ardson'],"[('Ardson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US101360A,1870-03-29,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101375A,1870-03-29,James moore ,"['James', 'moore']","[('James', 'NNP'), ('moore', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101382A,1870-03-29,Charles robinson ,"['Charles', 'robinson']","[('Charles', 'NNP'), ('robinson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101390A,1870-03-29,William e ,"['William', 'e']","[('William', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101397A,1870-03-29,Charles g ,"['Charles', 'g']","[('Charles', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101406A,1870-03-29,hart smith ,"['hart', 'smith']","[('hart', 'NN'), ('smith', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101425A,1870-04-05,Silas h ,"['Silas', 'h']","[('Silas', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101426A,1870-04-05,Thomas s ,"['Thomas', 's']","[('Thomas', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US101443A,1870-04-05,Nathan douglas ,"['Nathan', 'douglas']","[('Nathan', 'NNP'), ('douglas', 'NNS')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101458A,1870-04-05,Thomas s ,"['Thomas', 's']","[('Thomas', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US101463A,1870-04-05,William o ,"['William', 'o']","[('William', 'NNP'), ('o', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101501A,1870-04-05,Charles perkes ,"['Charles', 'perkes']","[('Charles', 'NNP'), ('perkes', 'NNS')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US101503A,1870-04-05,Robert james pond ,"['Robert', 'james', 'pond']","[('Robert', 'NNP'), ('james', 'NNS'), ('pond', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US101506A,1870-04-05,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101509A,1870-04-05,Merritt eichaeds ,"['Merritt', 'eichaeds']","[('Merritt', 'NNP'), ('eichaeds', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101519A,1870-04-05,William scarlett ,"['William', 'scarlett']","[('William', 'NNP'), ('scarlett', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101525A,1870-04-05,Liam h ,"['Liam', 'h']","[('Liam', 'NNP'), ('h', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US101575A,1870-04-05,bragdon ,['bragdon'],"[('bragdon', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US101593A,1870-04-05,William p ,"['William', 'p']","[('William', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101606A,1870-04-05,William galloway ,"['William', 'galloway']","[('William', 'NNP'), ('galloway', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101614A,1870-04-05,Joseph h ,"['Joseph', 'h']","[('Joseph', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101621A,1870-04-05,John hulbert ,"['John', 'hulbert']","[('John', 'NNP'), ('hulbert', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101629A,1870-04-05,Tobias kohn ,"['Tobias', 'kohn']","[('Tobias', 'NNP'), ('kohn', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101634A,1870-04-05,Nathaniel k ,"['Nathaniel', 'k']","[('Nathaniel', 'NNP'), ('k', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US101643A,1870-04-05,John miller ,"['John', 'miller']","[('John', 'NNP'), ('miller', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101646A,1870-04-05,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101656A,1870-04-05,Oliver palmer ,"['Oliver', 'palmer']","[('Oliver', 'RB'), ('palmer', 'NN')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101677A,1870-04-05,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101689A,1870-04-05,Andrew e ,"['Andrew', 'e']","[('Andrew', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101699A,1870-04-12,William allport ,"['William', 'allport']","[('William', 'NNP'), ('allport', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101702A,1870-04-12,Improvement in trucks tor moyibfq botlbsktss ,"['Improvement', 'in', 'trucks', 'tor', 'moyibfq', 'botlbsktss']","[('Improvement', 'NN'), ('in', 'IN'), ('trucks', 'NNS'), ('tor', 'VBP'), ('moyibfq', 'JJ'), ('botlbsktss', 'NN')]",0,"['NOUN', 'ADP', 'NOUN', 'VERB', 'PROPN', 'NOUN']",['PERSON'],1,1,6
+US101731A,1870-04-12,Self and charles ware ,"['Self', 'and', 'charles', 'ware']","[('Self', 'NNP'), ('and', 'CC'), ('charles', 'NNS'), ('ware', 'VBP')]",1,"['NOUN', 'CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,4
+US101756A,1870-04-12,Albert w ,"['Albert', 'w']","[('Albert', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101775A,1870-04-12,George shove ,"['George', 'shove']","[('George', 'NNP'), ('shove', 'VBD')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101846A,1870-04-12,George d ,"['George', 'd']","[('George', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101869A,1870-04-12,Stuaet gwynn ,"['Stuaet', 'gwynn']","[('Stuaet', 'NNP'), ('gwynn', 'NN')]",1,"['ADJ', 'NOUN']",['PERSON'],0,1,2
+US101902A,1870-04-12,Leon eugene camebon mooke and james shockey hamilton ,"['Leon', 'eugene', 'camebon', 'mooke', 'and', 'james', 'shockey', 'hamilton']","[('Leon', 'NNP'), ('eugene', 'NN'), ('camebon', 'NN'), ('mooke', 'NN'), ('and', 'CC'), ('james', 'NNS'), ('shockey', 'VBP'), ('hamilton', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,8
+US101911A,1870-04-12,John g ,"['John', 'g']","[('John', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101917A,1870-04-12,Charles henry roberts ,"['Charles', 'henry', 'roberts']","[('Charles', 'NNP'), ('henry', 'NN'), ('roberts', 'NNS')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US101923A,1870-04-12,Nathaniel rows ,"['Nathaniel', 'rows']","[('Nathaniel', 'NNP'), ('rows', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101941A,1870-04-12,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US101973A,1870-04-19,Ville ,['Ville'],"[('Ville', 'NNP')]",1,['PROPN'],['PERSON'],1,1,1
+US101984A,1870-04-19,John g ,"['John', 'g']","[('John', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US101985A,1870-04-19,William w ,"['William', 'w']","[('William', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102005A,1870-04-19,John houpt ,"['John', 'houpt']","[('John', 'NNP'), ('houpt', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102009A,1870-04-19,Reuben hurd ,"['Reuben', 'hurd']","[('Reuben', 'NNP'), ('hurd', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102049A,1870-04-19,scanlan ,['scanlan'],"[('scanlan', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US102065A,1870-04-19,Charles tatloe ,"['Charles', 'tatloe']","[('Charles', 'NNP'), ('tatloe', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US102066A,1870-04-19,Alexander thompson ,"['Alexander', 'thompson']","[('Alexander', 'NNP'), ('thompson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102067A,1870-04-19,Joseph wood tuttle and julius peterson ,"['Joseph', 'wood', 'tuttle', 'and', 'julius', 'peterson']","[('Joseph', 'NNP'), ('wood', 'NN'), ('tuttle', 'NN'), ('and', 'CC'), ('julius', 'NN'), ('peterson', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,6
+US102080A,1870-04-19,beeman ,['beeman'],"[('beeman', 'NN')]",0,['ADJ'],['PERSON'],0,1,1
+US102086A,1870-04-19,brown ,['brown'],"[('brown', 'NN')]",0,['ADJ'],['PERSON'],0,1,1
+US102116A,1870-04-19,Harris and william howell ,"['Harris', 'and', 'william', 'howell']","[('Harris', 'NNP'), ('and', 'CC'), ('william', 'NN'), ('howell', 'NN')]",1,"['PROPN', 'CCONJ', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,4
+US102136A,1870-04-19,Erwin lavens and james c ,"['Erwin', 'lavens', 'and', 'james', 'c']","[('Erwin', 'NNP'), ('lavens', 'NNS'), ('and', 'CC'), ('james', 'NNS'), ('c', 'VBP')]",1,"['ADJ', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US102137A,1870-04-19,Harvey thomas lee ,"['Harvey', 'thomas', 'lee']","[('Harvey', 'NNP'), ('thomas', 'VBZ'), ('lee', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US102139A,1870-04-19,Eugene martin ,"['Eugene', 'martin']","[('Eugene', 'NNP'), ('martin', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102141A,1870-04-19,William t ,"['William', 't']","[('William', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102149A,1870-04-19,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102158A,1870-04-19,Nathaniel wiley rich ,"['Nathaniel', 'wiley', 'rich']","[('Nathaniel', 'NNP'), ('wiley', 'NN'), ('rich', 'NN')]",1,"['PROPN', 'PROPN', 'ADJ']",['PERSON'],1,1,3
+US102160A,1870-04-19,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102179A,1870-04-19,Alexander w ,"['Alexander', 'w']","[('Alexander', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102182A,1870-04-19,Richard tattershall ,"['Richard', 'tattershall']","[('Richard', 'NNP'), ('tattershall', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102183A,1870-04-19,David b ,"['David', 'b']","[('David', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102210A,1870-04-26,George j ,"['George', 'j']","[('George', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102216A,1870-04-26,Alexander brodie ,"['Alexander', 'brodie']","[('Alexander', 'NNP'), ('brodie', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102230A,1870-04-26,Albert w ,"['Albert', 'w']","[('Albert', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102244A,1870-04-26,ottmar franke ,"['ottmar', 'franke']","[('ottmar', 'NN'), ('franke', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102272A,1870-04-26,Thomas l ,"['Thomas', 'l']","[('Thomas', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102296A,1870-04-26,Paul migngt ,"['Paul', 'migngt']","[('Paul', 'NNP'), ('migngt', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102300A,1870-04-26,John s ,"['John', 's']","[('John', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US102301A,1870-04-26,Seph h ,"['Seph', 'h']","[('Seph', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102302A,1870-04-26,George h ,"['George', 'h']","[('George', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102348A,1870-04-26,Henderson willard ,"['Henderson', 'willard']","[('Henderson', 'NNP'), ('willard', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102351A,1870-04-26,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102367A,1870-04-26,William brown ,"['William', 'brown']","[('William', 'NNP'), ('brown', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102374A,1870-04-26,Patrick h ,"['Patrick', 'h']","[('Patrick', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102383A,1870-04-26,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102397A,1870-04-26,Michael hey ,"['Michael', 'hey']","[('Michael', 'NNP'), ('hey', 'NN')]",1,"['PROPN', 'INTJ']",['PERSON'],1,1,2
+US102406A,1870-04-26,Julius katz ,"['Julius', 'katz']","[('Julius', 'NNP'), ('katz', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102407A,1870-04-26,William j ,"['William', 'j']","[('William', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102408A,1870-04-26,John killefer ,"['John', 'killefer']","[('John', 'NNP'), ('killefer', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US102447A,1870-04-26,Jokn g ,"['Jokn', 'g']","[('Jokn', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102468A,1870-05-03,Joseph d ,"['Joseph', 'd']","[('Joseph', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US102482A,1870-05-03,Albert bridges ,"['Albert', 'bridges']","[('Albert', 'NNP'), ('bridges', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102490A,1870-05-03,Amos s ,"['Amos', 's']","[('Amos', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US102499A,1870-05-03,Frank b ,"['Frank', 'b']","[('Frank', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102500A,1870-05-03,John coleman ,"['John', 'coleman']","[('John', 'NNP'), ('coleman', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102511A,1870-05-03,Thomas de witt ,"['Thomas', 'de', 'witt']","[('Thomas', 'NNP'), ('de', 'FW'), ('witt', 'NN')]",1,"['PROPN', 'X', 'X']",['PERSON'],1,1,3
+US102539A,1870-05-03,Richard m ,"['Richard', 'm']","[('Richard', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US102549A,1870-05-03,Charles augustus ,"['Charles', 'augustus']","[('Charles', 'NNP'), ('augustus', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102552A,1870-05-03,James h ,"['James', 'h']","[('James', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102564A,1870-05-03,James wilson magers ,"['James', 'wilson', 'magers']","[('James', 'NNP'), ('wilson', 'NN'), ('magers', 'NNS')]",1,"['PROPN', 'PROPN', 'VERB']",['PERSON'],1,1,3
+US102568A,1870-05-03,Joseph w ,"['Joseph', 'w']","[('Joseph', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US102596A,1870-05-03,George rymel ,"['George', 'rymel']","[('George', 'NNP'), ('rymel', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102605A,1870-05-03,Jacob w ,"['Jacob', 'w']","[('Jacob', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102608A,1870-05-03,John g ,"['John', 'g']","[('John', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102641A,1870-05-03,Self and thomas w ,"['Self', 'and', 'thomas', 'w']","[('Self', 'NNP'), ('and', 'CC'), ('thomas', 'VB'), ('w', 'NN')]",1,"['NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,4
+US102658A,1870-05-03,William damerbl ,"['William', 'damerbl']","[('William', 'NNP'), ('damerbl', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102662A,1870-05-03,Thomas s ,"['Thomas', 's']","[('Thomas', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US102663A,1870-05-03,Jonathan dillen ,"['Jonathan', 'dillen']","[('Jonathan', 'NNP'), ('dillen', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US102665A,1870-05-03,Richard a ,"['Richard', 'a']","[('Richard', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US102676A,1870-05-03,George geer ,"['George', 'geer']","[('George', 'NNP'), ('geer', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102683A,1870-05-03,Edward kirk ,"['Edward', 'kirk']","[('Edward', 'NNP'), ('kirk', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102709A,1870-05-03,John raddin ,"['John', 'raddin']","[('John', 'NNP'), ('raddin', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102726A,1870-05-03,David l ,"['David', 'l']","[('David', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US102742A,1870-05-03,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102751A,1870-05-10,bartlett ,['bartlett'],"[('bartlett', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US102764A,1870-05-10,Gustav adolph buchholz ,"['Gustav', 'adolph', 'buchholz']","[('Gustav', 'NNP'), ('adolph', 'NN'), ('buchholz', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US102765A,1870-05-10,Isaac s ,"['Isaac', 's']","[('Isaac', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US102766A,1870-05-10,Hubert burgess ,"['Hubert', 'burgess']","[('Hubert', 'NNP'), ('burgess', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102768A,1870-05-10,Richard bush ,"['Richard', 'bush']","[('Richard', 'NNP'), ('bush', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102807A,1870-05-10,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102822A,1870-05-10,William jackson ,"['William', 'jackson']","[('William', 'NNP'), ('jackson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102828A,1870-05-10,Albert d ,"['Albert', 'd']","[('Albert', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US102845A,1870-05-10,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102849A,1870-05-10,James montgomery ,"['James', 'montgomery']","[('James', 'NNP'), ('montgomery', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102877A,1870-05-10,William stockton ,"['William', 'stockton']","[('William', 'NNP'), ('stockton', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102889A,1870-05-10,David vogt ,"['David', 'vogt']","[('David', 'NNP'), ('vogt', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US102905A,1870-05-10,John b ,"['John', 'b']","[('John', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102924A,1870-05-10,Ellis doty ,"['Ellis', 'doty']","[('Ellis', 'NNP'), ('doty', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US102941A,1870-05-10,Joseph ingels ,"['Joseph', 'ingels']","[('Joseph', 'NNP'), ('ingels', 'NNS')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US102965A,1870-05-10,Wil li am p h e l an ,"['Wil', 'li', 'am', 'p', 'h', 'e', 'l', 'an']","[('Wil', 'NNP'), ('li', 'VBZ'), ('am', 'VBP'), ('p', 'JJ'), ('h', 'NN'), ('e', 'NN'), ('l', 'VBD'), ('an', 'DT')]",1,"['ADJ', 'PROPN', 'AUX', 'PROPN', 'PROPN', 'PROPN', 'X', 'PRON']","['PERSON', 'PERSON']",1,1,8
+US102967A,1870-05-10,Hugh m ,"['Hugh', 'm']","[('Hugh', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US102983A,1870-05-10,Thomas franklin smith ,"['Thomas', 'franklin', 'smith']","[('Thomas', 'NNP'), ('franklin', 'NN'), ('smith', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US102996A,1870-05-10,Winslowwellington ,['Winslowwellington'],"[('Winslowwellington', 'NNP')]",1,['PROPN'],['PERSON'],1,1,1
+US103002A,1870-05-10,Allison l ,"['Allison', 'l']","[('Allison', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103010A,1870-05-17,Albert c ,"['Albert', 'c']","[('Albert', 'NNP'), ('c', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US103023A,1870-05-17,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103032A,1870-05-17,Joseph duvall and john wintbrbottom ,"['Joseph', 'duvall', 'and', 'john', 'wintbrbottom']","[('Joseph', 'NNP'), ('duvall', 'NN'), ('and', 'CC'), ('john', 'NN'), ('wintbrbottom', 'NN')]",1,"['PROPN', 'VERB', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US103083A,1870-05-17,Francis h ,"['Francis', 'h']","[('Francis', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103134A,1870-05-17,Adolph erase and lemu-el salladey ,"['Adolph', 'erase', 'and', 'lemu-el', 'salladey']","[('Adolph', 'NNP'), ('erase', 'NN'), ('and', 'CC'), ('lemu-el', 'JJ'), ('salladey', 'NN')]",1,"['PROPN', 'NOUN', 'CCONJ', 'PROPN', 'PUNCT', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,7
+US103140A,1870-05-17,John clark ,"['John', 'clark']","[('John', 'NNP'), ('clark', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103141A,1870-05-17,Richard t ,"['Richard', 't']","[('Richard', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103176A,1870-05-17,Charles hakkinsony of philadelphia ,"['Charles', 'hakkinsony', 'of', 'philadelphia']","[('Charles', 'NNP'), ('hakkinsony', 'NN'), ('of', 'IN'), ('philadelphia', 'NN')]",1,"['PROPN', 'NOUN', 'ADP', 'PROPN']","['PERSON', 'GPE']",1,1,4
+US103179A,1870-05-17,William hebd ,"['William', 'hebd']","[('William', 'NNP'), ('hebd', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103188A,1870-05-17,John w ,"['John', 'w']","[('John', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103217A,1870-05-17,Edwin r ,"['Edwin', 'r']","[('Edwin', 'NNP'), ('r', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103222A,1870-05-17,George f ,"['George', 'f']","[('George', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103225A,1870-05-17,andrew myers ,"['andrew', 'myers']","[('andrew', 'NN'), ('myers', 'NNS')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103235A,1870-05-17,Alexander gpatton ,"['Alexander', 'gpatton']","[('Alexander', 'NNP'), ('gpatton', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103248A,1870-05-17,William p ,"['William', 'p']","[('William', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103252A,1870-05-17,Egbert spear ,"['Egbert', 'spear']","[('Egbert', 'CD'), ('spear', 'JJ')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103285A,1870-05-24,John berry ,"['John', 'berry']","[('John', 'NNP'), ('berry', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103292A,1870-05-24,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103294A,1870-05-24,Josiah burgess ,"['Josiah', 'burgess']","[('Josiah', 'NNP'), ('burgess', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103317A,1870-05-24,Charles a ,"['Charles', 'a']","[('Charles', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US103354A,1870-05-24,Frank moon ,"['Frank', 'moon']","[('Frank', 'NNP'), ('moon', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103372A,1870-05-24,richardson ,['richardson'],"[('richardson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US103422A,1870-05-24,brown ,['brown'],"[('brown', 'NN')]",0,['ADJ'],['PERSON'],0,1,1
+US103427A,1870-05-24,Jacob bush ,"['Jacob', 'bush']","[('Jacob', 'NNP'), ('bush', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103449A,1870-05-24,James greek and rufus j ,"['James', 'greek', 'and', 'rufus', 'j']","[('James', 'NNP'), ('greek', 'JJ'), ('and', 'CC'), ('rufus', 'JJ'), ('j', 'NN')]",1,"['PROPN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US103454A,1870-05-24,John f ,"['John', 'f']","[('John', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US103456A,1870-05-24,Charles hatterslei ,"['Charles', 'hatterslei']","[('Charles', 'NNP'), ('hatterslei', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103526A,1870-05-24,James h ,"['James', 'h']","[('James', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103534A,1870-05-24,Thomas scott williams and freeman augustus taber ,"['Thomas', 'scott', 'williams', 'and', 'freeman', 'augustus', 'taber']","[('Thomas', 'NNP'), ('scott', 'NN'), ('williams', 'NNS'), ('and', 'CC'), ('freeman', 'JJ'), ('augustus', 'NN'), ('taber', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN', 'AUX']","['PERSON', 'PERSON']",1,1,7
+US103541A,1870-05-31,Albert assmanf ,"['Albert', 'assmanf']","[('Albert', 'NNP'), ('assmanf', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103584A,1870-05-31,David a ,"['David', 'a']","[('David', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US103607A,1870-05-31,Roger hartley ,"['Roger', 'hartley']","[('Roger', 'NNP'), ('hartley', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103621A,1870-05-31,johnson ,['johnson'],"[('johnson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US103623A,1870-05-31,Moses kinsey ,"['Moses', 'kinsey']","[('Moses', 'NNS'), ('kinsey', 'VBP')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103625A,1870-05-31,James l ,"['James', 'l']","[('James', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103629A,1870-05-31,John lintner ,"['John', 'lintner']","[('John', 'NNP'), ('lintner', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103647A,1870-05-31,Adolph onslow ,"['Adolph', 'onslow']","[('Adolph', 'NNP'), ('onslow', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103670A,1870-05-31,Willard e ,"['Willard', 'e']","[('Willard', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103672A,1870-05-31,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US103686A,1870-05-31,William taylor ,"['William', 'taylor']","[('William', 'NNP'), ('taylor', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103692A,1870-05-31,John s ,"['John', 's']","[('John', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US103695A,1870-05-31,Ja-mes davenport whelpley and jacob jones stoker ,"['Ja-mes', 'davenport', 'whelpley', 'and', 'jacob', 'jones', 'stoker']","[('Ja-mes', 'NNS'), ('davenport', 'NN'), ('whelpley', 'NN'), ('and', 'CC'), ('jacob', 'NN'), ('jones', 'NNS'), ('stoker', 'NN')]",0,"['NOUN', 'PUNCT', 'NOUN', 'PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,9
+US103698A,1870-05-31,Daniel a ,"['Daniel', 'a']","[('Daniel', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US103704A,1870-05-31,William beckett ,"['William', 'beckett']","[('William', 'NNP'), ('beckett', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103708A,1870-05-31,Robert bleakie ,"['Robert', 'bleakie']","[('Robert', 'NNP'), ('bleakie', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103715A,1870-05-31,Eduard buys ,"['Eduard', 'buys']","[('Eduard', 'NNP'), ('buys', 'NNS')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US103721A,1870-05-31,Hugh h ,"['Hugh', 'h']","[('Hugh', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103736A,1870-05-31,Seth gregoey ,"['Seth', 'gregoey']","[('Seth', 'NNP'), ('gregoey', 'NN')]",1,"['ADJ', 'NOUN']",['PERSON'],0,1,2
+US103742A,1870-05-31,Peter hbald ,"['Peter', 'hbald']","[('Peter', 'NNP'), ('hbald', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103744A,1870-05-31,John hildebrand ,"['John', 'hildebrand']","[('John', 'NNP'), ('hildebrand', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103756A,1870-05-31,William livingstone ,"['William', 'livingstone']","[('William', 'NNP'), ('livingstone', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103771A,1870-05-31,Henry l ,"['Henry', 'l']","[('Henry', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103786A,1870-05-31,Henry i ,"['Henry', 'i']","[('Henry', 'NNP'), ('i', 'NN')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US103812A,1870-05-31,Richard a ,"['Richard', 'a']","[('Richard', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US103840A,1870-06-07,Henry broomell ,"['Henry', 'broomell']","[('Henry', 'NNP'), ('broomell', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103850A,1870-06-07,Thomas w ,"['Thomas', 'w']","[('Thomas', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103875A,1870-06-07,Thomas s ,"['Thomas', 's']","[('Thomas', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US103879A,1870-06-07,Nicholas ,['Nicholas'],"[('Nicholas', 'NNS')]",0,['PROPN'],['PERSON'],1,1,1
+US103880A,1870-06-07,John jacob herbert ,"['John', 'jacob', 'herbert']","[('John', 'NNP'), ('jacob', 'NN'), ('herbert', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US103883A,1870-06-07,Thomas hill ,"['Thomas', 'hill']","[('Thomas', 'NNP'), ('hill', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103894A,1870-06-07,William anderson kerb ,"['William', 'anderson', 'kerb']","[('William', 'NNP'), ('anderson', 'NN'), ('kerb', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US103896A,1870-06-07,Stephen e ,"['Stephen', 'e']","[('Stephen', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US103936A,1870-06-07,James l ,"['James', 'l']","[('James', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US103943A,1870-06-07,David v ,"['David', 'v']","[('David', 'NNP'), ('v', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US103947A,1870-06-07,William henry walenn ,"['William', 'henry', 'walenn']","[('William', 'NNP'), ('henry', 'NN'), ('walenn', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US103997A,1870-06-07,Robert diven ,"['Robert', 'diven']","[('Robert', 'NNP'), ('diven', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US104021A,1870-06-07,William hailes ,"['William', 'hailes']","[('William', 'NNP'), ('hailes', 'NNS')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US104024A,1870-06-07,Daniel hart ,"['Daniel', 'hart']","[('Daniel', 'NNP'), ('hart', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104041A,1870-06-07,Liam koch ,"['Liam', 'koch']","[('Liam', 'NNP'), ('koch', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US104070A,1870-06-07,Liam h ,"['Liam', 'h']","[('Liam', 'NNP'), ('h', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US104073A,1870-06-07,William spear ,"['William', 'spear']","[('William', 'NNP'), ('spear', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104075A,1870-06-07,William  ,['William'],"[('William', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US104083A,1870-06-07,Baker s oven ,"['Baker', 's', 'oven']","[('Baker', 'NNP'), ('s', 'VBD'), ('oven', 'RB')]",1,"['PROPN', 'VERB', 'NOUN']",['PERSON'],1,1,3
+US104090A,1870-06-07,Avard joseph ,"['Avard', 'joseph']","[('Avard', 'NNP'), ('joseph', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104099A,1870-06-14,William ballard ,"['William', 'ballard']","[('William', 'NNP'), ('ballard', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104135A,1870-06-14,Joseph s ,"['Joseph', 's']","[('Joseph', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US104136A,1870-06-14,Joseph w ,"['Joseph', 'w']","[('Joseph', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US104163A,1870-06-14,Hubert l ,"['Hubert', 'l']","[('Hubert', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104164A,1870-06-14,Hubert l ,"['Hubert', 'l']","[('Hubert', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104171A,1870-06-14,Hermann henry lindflorst ,"['Hermann', 'henry', 'lindflorst']","[('Hermann', 'NNP'), ('henry', 'NN'), ('lindflorst', 'NN')]",1,"['PROPN', 'NOUN', 'ADV']",['PERSON'],1,1,3
+US104177A,1870-06-14,George f ,"['George', 'f']","[('George', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104201A,1870-06-14,William reagan ,"['William', 'reagan']","[('William', 'NNP'), ('reagan', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104221A,1870-06-14,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US104225A,1870-06-14,John f ,"['John', 'f']","[('John', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US104226A,1870-06-14,John storer ,"['John', 'storer']","[('John', 'NNP'), ('storer', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104227A,1870-06-14,Leroy m ,"['Leroy', 'm']","[('Leroy', 'NNP'), ('m', 'NN')]",1,"['VERB', 'VERB']",['PERSON'],0,1,2
+US104228A,1870-06-14,William k ,"['William', 'k']","[('William', 'NNP'), ('k', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104244A,1870-06-14,Joseph f ,"['Joseph', 'f']","[('Joseph', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US104263A,1870-06-14,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104265A,1870-06-14,Self and william h ,"['Self', 'and', 'william', 'h']","[('Self', 'NNP'), ('and', 'CC'), ('william', 'NN'), ('h', 'NN')]",1,"['NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,4
+US104286A,1870-06-14,William m ,"['William', 'm']","[('William', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US104322A,1870-06-14,Charles a ,"['Charles', 'a']","[('Charles', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US104341A,1870-06-14,Charles f ,"['Charles', 'f']","[('Charles', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US104373A,1870-06-14,John w ,"['John', 'w']","[('John', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104378A,1870-06-14,William p ,"['William', 'p']","[('William', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104416A,1870-06-21,Adolph brandes ,"['Adolph', 'brandes']","[('Adolph', 'NNP'), ('brandes', 'NNS')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US104421A,1870-06-21,David camherer ,"['David', 'camherer']","[('David', 'NNP'), ('camherer', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104426A,1870-06-21,Edward b ,"['Edward', 'b']","[('Edward', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104428A,1870-06-21,corpe ,['corpe'],"[('corpe', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US104441A,1870-06-21,Charles  ,['Charles'],"[('Charles', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US104450A,1870-06-21,James  g ,"['James', 'g']","[('James', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'SPACE', 'PROPN']",['PERSON'],1,1,3
+US104457A,1870-06-21,Richard h ,"['Richard', 'h']","[('Richard', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104463A,1870-06-21,Albert d ,"['Albert', 'd']","[('Albert', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US104470A,1870-06-21,Oscar loew ,"['Oscar', 'loew']","[('Oscar', 'NNP'), ('loew', 'NN')]",1,"['INTJ', 'ADJ']",['PERSON'],0,1,2
+US104486A,1870-06-21,Michael c ,"['Michael', 'c']","[('Michael', 'NNP'), ('c', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US104493A,1870-06-21,John a ,"['John', 'a']","[('John', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US104499A,1870-06-21,George s ,"['George', 's']","[('George', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US104507A,1870-06-21,Thomas  ,['Thomas'],"[('Thomas', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US104526A,1870-06-21,Charles g ,"['Charles', 'g']","[('Charles', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104531A,1870-06-21,Amos adams ,"['Amos', 'adams']","[('Amos', 'NNP'), ('adams', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104536A,1870-06-21,Benjamin baker ,"['Benjamin', 'baker']","[('Benjamin', 'NNP'), ('baker', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104564A,1870-06-21,Thomas duncan ,"['Thomas', 'duncan']","[('Thomas', 'NNP'), ('duncan', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104573A,1870-06-21,Henry ge en e k ,"['Henry', 'ge', 'en', 'e', 'k']","[('Henry', 'NNP'), ('ge', 'NN'), ('en', 'NN'), ('e', 'NN'), ('k', 'NN')]",1,"['PROPN', 'PROPN', 'ADP', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US104575A,1870-06-21,William golden ,"['William', 'golden']","[('William', 'NNP'), ('golden', 'JJ')]",1,"['PROPN', 'ADJ']",['PERSON'],1,1,2
+US104585A,1870-06-21,Lander h ,"['Lander', 'h']","[('Lander', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104589A,1870-06-21,George ii ,"['George', 'ii']","[('George', 'NNP'), ('ii', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104599A,1870-06-21,keith ,['keith'],"[('keith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US104611A,1870-06-21,Benjamin marshall ,"['Benjamin', 'marshall']","[('Benjamin', 'NNP'), ('marshall', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104616A,1870-06-21,Petefia ,['Petefia'],"[('Petefia', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US104634A,1870-06-21,Thomas o brien ,"['Thomas', 'o', 'brien']","[('Thomas', 'NNP'), ('o', 'PRP'), ('brien', 'VBD')]",1,"['PROPN', 'INTJ', 'NOUN']","['PERSON', 'PERSON']",1,1,3
+US104651A,1870-06-21,William m ,"['William', 'm']","[('William', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US104659A,1870-06-21,John stoker ,"['John', 'stoker']","[('John', 'NNP'), ('stoker', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US104703A,1870-06-28,George buchanan ,"['George', 'buchanan']","[('George', 'NNP'), ('buchanan', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104721A,1870-06-28,Improvement in liniment for treating- nettralg-ia ,"['Improvement', 'in', 'liniment', 'for', 'treating-', 'nettralg-ia']","[('Improvement', 'NN'), ('in', 'IN'), ('liniment', 'NN'), ('for', 'IN'), ('treating-', 'JJ'), ('nettralg-ia', 'JJ')]",0,"['NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,8
+US104741A,1870-06-28,James  kidbeb ,"['James', 'kidbeb']","[('James', 'NNP'), ('kidbeb', 'VB')]",1,"['PROPN', 'SPACE', 'NOUN']",['PERSON'],1,1,3
+US104746A,1870-06-28,G e or gel e g k e n by ,"['G', 'e', 'or', 'gel', 'e', 'g', 'k', 'e', 'n', 'by']","[('G', 'NNP'), ('e', 'NN'), ('or', 'CC'), ('gel', 'NN'), ('e', 'NN'), ('g', 'NN'), ('k', 'NN'), ('e', 'NN'), ('n', 'NN'), ('by', 'IN')]",1,"['NOUN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'X', 'ADP']",['PERSON'],1,1,10
+US104748A,1870-06-28,Luther lincoln ,"['Luther', 'lincoln']","[('Luther', 'NNP'), ('lincoln', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104755A,1870-06-28,Charles s ,"['Charles', 's']","[('Charles', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US104759A,1870-06-28,Robert louthee nbill ,"['Robert', 'louthee', 'nbill']","[('Robert', 'NNP'), ('louthee', 'NN'), ('nbill', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US104764A,1870-06-28,Nathaniel plympton ,"['Nathaniel', 'plympton']","[('Nathaniel', 'NNP'), ('plympton', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104771A,1870-06-28,Henry r ,"['Henry', 'r']","[('Henry', 'NNP'), ('r', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104772A,1870-06-28,John j ,"['John', 'j']","[('John', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104784A,1870-06-28,James i ,"['James', 'i']","[('James', 'NNP'), ('i', 'NN')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US104788A,1870-06-28,George miller sternberg ,"['George', 'miller', 'sternberg']","[('George', 'NNP'), ('miller', 'NNP'), ('sternberg', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US104789A,1870-06-28,Edwin r ,"['Edwin', 'r']","[('Edwin', 'NNP'), ('r', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104795A,1870-06-28,thompson ,['thompson'],"[('thompson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US104884A,1870-06-28,Peter w ,"['Peter', 'w']","[('Peter', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104889A,1870-06-28,David banders ,"['David', 'banders']","[('David', 'NNP'), ('banders', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104894A,1870-06-28,William sheill ,"['William', 'sheill']","[('William', 'NNP'), ('sheill', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104897A,1870-06-28,Joseph steger ,"['Joseph', 'steger']","[('Joseph', 'NNP'), ('steger', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US104900A,1870-06-28,Andrew thalhofer ,"['Andrew', 'thalhofer']","[('Andrew', 'NNP'), ('thalhofer', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104909A,1870-06-28,George weinman ,"['George', 'weinman']","[('George', 'NNP'), ('weinman', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104941A,1870-07-05,Andrew dilger ,"['Andrew', 'dilger']","[('Andrew', 'NNP'), ('dilger', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104956A,1870-07-05,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US104963A,1870-07-05,William kurtz ,"['William', 'kurtz']","[('William', 'NNP'), ('kurtz', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US104983A,1870-07-05,Albert m ,"['Albert', 'm']","[('Albert', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105017A,1870-07-05,Edward wbbsteb ,"['Edward', 'wbbsteb']","[('Edward', 'NNP'), ('wbbsteb', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105027A,1870-07-05,Henry belfield ,"['Henry', 'belfield']","[('Henry', 'NNP'), ('belfield', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105029A,1870-07-05,bennett ,['bennett'],"[('bennett', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US105074A,1870-07-05,George heliker and abram burlew ,"['George', 'heliker', 'and', 'abram', 'burlew']","[('George', 'NNP'), ('heliker', 'NN'), ('and', 'CC'), ('abram', 'NN'), ('burlew', 'NN')]",1,"['PROPN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",['PERSON'],1,1,5
+US105110A,1870-07-05,Joshua merrill ,"['Joshua', 'merrill']","[('Joshua', 'NNP'), ('merrill', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105135A,1870-07-05,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US105149A,1870-07-05,Egbert l ,"['Egbert', 'l']","[('Egbert', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'INTJ']",['PERSON'],1,1,2
+US105150A,1870-07-05,Albin waeth ,"['Albin', 'waeth']","[('Albin', 'NNP'), ('waeth', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105186A,1870-07-12,William g ,"['William', 'g']","[('William', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105195A,1870-07-12,Thomas briggs gregory ,"['Thomas', 'briggs', 'gregory']","[('Thomas', 'NNP'), ('briggs', 'VBZ'), ('gregory', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US105207A,1870-07-12,James s ,"['James', 's']","[('James', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105208A,1870-07-12,James s ,"['James', 's']","[('James', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105215A,1870-07-12,Henry s ,"['Henry', 's']","[('Henry', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US105220A,1870-07-12,Jacob keplinger ,"['Jacob', 'keplinger']","[('Jacob', 'NNP'), ('keplinger', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105230A,1870-07-12,Daniel j ,"['Daniel', 'j']","[('Daniel', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105239A,1870-07-12,Thomas w ,"['Thomas', 'w']","[('Thomas', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105243A,1870-07-12,Egbert patterson ,"['Egbert', 'patterson']","[('Egbert', 'NNP'), ('patterson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105247A,1870-07-12,William pile ,"['William', 'pile']","[('William', 'NNP'), ('pile', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105272A,1870-07-12,George miller sternberg ,"['George', 'miller', 'sternberg']","[('George', 'NNP'), ('miller', 'NNP'), ('sternberg', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US105289A,1870-07-12,William wyatt ,"['William', 'wyatt']","[('William', 'NNP'), ('wyatt', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105295A,1870-07-12,Samuel s ,"['Samuel', 's']","[('Samuel', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105296A,1870-07-12,Samuel s ,"['Samuel', 's']","[('Samuel', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105297A,1870-07-12,Samuel s ,"['Samuel', 's']","[('Samuel', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105305A,1870-07-12,John e ,"['John', 'e']","[('John', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105309A,1870-07-12,Edward cottam ,"['Edward', 'cottam']","[('Edward', 'NNP'), ('cottam', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105316A,1870-07-12,abdpson davis ,"['abdpson', 'davis']","[('abdpson', 'NN'), ('davis', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105384A,1870-07-12,William teamer ,"['William', 'teamer']","[('William', 'NNP'), ('teamer', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105392A,1870-07-12,William l ,"['William', 'l']","[('William', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105433A,1870-07-19,Charles r ,"['Charles', 'r']","[('Charles', 'NNP'), ('r', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105449A,1870-07-19,David  ,['David'],"[('David', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US105456A,1870-07-19,Richard hoskin ,"['Richard', 'hoskin']","[('Richard', 'NNP'), ('hoskin', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105462A,1870-07-19,Leopold katzenstein ,"['Leopold', 'katzenstein']","[('Leopold', 'NNP'), ('katzenstein', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105463A,1870-07-19,Karl m ,"['Karl', 'm']","[('Karl', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105478A,1870-07-19,Joseph mitchell ,"['Joseph', 'mitchell']","[('Joseph', 'NNP'), ('mitchell', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105494A,1870-07-19,William robinson ,"['William', 'robinson']","[('William', 'NNP'), ('robinson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105496A,1870-07-19,Charles schneider ,"['Charles', 'schneider']","[('Charles', 'NNP'), ('schneider', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105498A,1870-07-19,Whalebone ,['Whalebone'],"[('Whalebone', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US105538A,1870-07-19,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105545A,1870-07-19,Thomas w ,"['Thomas', 'w']","[('Thomas', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105549A,1870-07-19,And james h ,"['And', 'james', 'h']","[('And', 'CC'), ('james', 'NNS'), ('h', 'VBP')]",0,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US105567A,1870-07-19,Hamilton ,['Hamilton'],"[('Hamilton', 'NNP')]",1,['PROPN'],['PERSON'],1,1,1
+US105588A,1870-07-19,Geokgffi mitchell ,"['Geokgffi', 'mitchell']","[('Geokgffi', 'NNP'), ('mitchell', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105614A,1870-07-19,Robert white ,"['Robert', 'white']","[('Robert', 'NNP'), ('white', 'JJ')]",1,"['PROPN', 'ADJ']",['PERSON'],1,1,2
+US105616A,1870-07-19,And thomas l ,"['And', 'thomas', 'l']","[('And', 'CC'), ('thomas', 'VB'), ('l', 'NN')]",0,"['CCONJ', 'PROPN', 'X']",['PERSON'],1,1,3
+US105626A,1870-07-26,Nelson h ,"['Nelson', 'h']","[('Nelson', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105628A,1870-07-26,Nelson  barnum ,"['Nelson', 'barnum']","[('Nelson', 'NNP'), ('barnum', 'NN')]",1,"['PROPN', 'SPACE', 'NOUN']",['PERSON'],1,1,3
+US105637A,1870-07-26,galley ,['galley'],"[('galley', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US105639A,1870-07-26,Daniel campbell ,"['Daniel', 'campbell']","[('Daniel', 'NNP'), ('campbell', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105642A,1870-07-26,John cabroll ,"['John', 'cabroll']","[('John', 'NNP'), ('cabroll', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105651A,1870-07-26,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105659A,1870-07-26,David ca ebatjgh ,"['David', 'ca', 'ebatjgh']","[('David', 'NNP'), ('ca', 'MD'), ('ebatjgh', 'VB')]",1,"['PROPN', 'AUX', 'VERB']",['PERSON'],1,1,3
+US105661A,1870-07-26,Nelson edwa ,"['Nelson', 'edwa']","[('Nelson', 'NNP'), ('edwa', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105668A,1870-07-26,William gilman ,"['William', 'gilman']","[('William', 'NNP'), ('gilman', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105672A,1870-07-26,Joseph hackett ,"['Joseph', 'hackett']","[('Joseph', 'NNP'), ('hackett', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US105709A,1870-07-26,Robert milburn and thomas browning ,"['Robert', 'milburn', 'and', 'thomas', 'browning']","[('Robert', 'NNP'), ('milburn', 'NN'), ('and', 'CC'), ('thomas', 'NN'), ('browning', 'NN')]",1,"['PROPN', 'VERB', 'CCONJ', 'PROPN', 'VERB']","['PERSON', 'PERSON']",1,1,5
+US105714A,1870-07-26,Edward milner ,"['Edward', 'milner']","[('Edward', 'NNP'), ('milner', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105721A,1870-07-26,Gurdon w ,"['Gurdon', 'w']","[('Gurdon', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105726A,1870-07-26,Edward b ,"['Edward', 'b']","[('Edward', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105740A,1870-07-26,Richard w ,"['Richard', 'w']","[('Richard', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105746A,1870-07-26,warren ,['warren'],"[('warren', 'NNS')]",0,['PROPN'],['PERSON'],1,1,1
+US105748A,1870-07-26,Whalbn ,['Whalbn'],"[('Whalbn', 'NN')]",0,['INTJ'],['PERSON'],0,1,1
+US105753A,1870-07-26,John atwater wilkinson ,"['John', 'atwater', 'wilkinson']","[('John', 'NNP'), ('atwater', 'NN'), ('wilkinson', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US105759A,1870-07-26,wright ,['wright'],"[('wright', 'NN')]",0,['VERB'],['PERSON'],0,1,1
+US105791A,1870-07-26,Liam e ,"['Liam', 'e']","[('Liam', 'NNP'), ('e', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US105792A,1870-06-21,Ludwiq ottmar franks ,"['Ludwiq', 'ottmar', 'franks']","[('Ludwiq', 'NNP'), ('ottmar', 'PRP'), ('franks', 'NNS')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US105806A,1870-07-26,Anson b ,"['Anson', 'b']","[('Anson', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105809A,1870-07-26,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105814A,1870-07-26,John kraus ,"['John', 'kraus']","[('John', 'NNP'), ('kraus', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105817A,1870-07-26,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US105823A,1870-07-26,John a ,"['John', 'a']","[('John', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US105825A,1870-07-26,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US105859A,1870-07-26,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105862A,1870-07-26,William john tate ,"['William', 'john', 'tate']","[('William', 'NNP'), ('john', 'NN'), ('tate', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US105883A,1870-08-02,bailex ,['bailex'],"[('bailex', 'NN')]",0,['ADV'],['PERSON'],0,1,1
+US105896A,1870-08-02,Charles s ,"['Charles', 's']","[('Charles', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US105900A,1870-08-02,Edward w ,"['Edward', 'w']","[('Edward', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105915A,1870-08-02,Xwebs ,['Xwebs'],"[('Xwebs', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US105939A,1870-08-02,George harris ,"['George', 'harris']","[('George', 'NNP'), ('harris', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US105942A,1870-08-02,Mark hodgson ,"['Mark', 'hodgson']","[('Mark', 'NNP'), ('hodgson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105948A,1870-08-02,William kearney ,"['William', 'kearney']","[('William', 'NNP'), ('kearney', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US105997A,1870-08-02,William teal ,"['William', 'teal']","[('William', 'NNP'), ('teal', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106034A,1870-08-02,Jonathan w ,"['Jonathan', 'w']","[('Jonathan', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106040A,1870-08-02,Edward evans ,"['Edward', 'evans']","[('Edward', 'NNP'), ('evans', 'NNS')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106059A,1870-08-02,Mortimer  ,['Mortimer'],"[('Mortimer', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US106070A,1870-08-02,John lundgken ,"['John', 'lundgken']","[('John', 'NNP'), ('lundgken', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US106075A,1870-08-02,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106119A,1870-08-09,campbell ,['campbell'],"[('campbell', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US106131A,1870-08-09,James davis ,"['James', 'davis']","[('James', 'NNP'), ('davis', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106132A,1870-08-09,Perry w ,"['Perry', 'w']","[('Perry', 'NNP'), ('w', 'NN')]",1,"['VERB', 'ADV']",['PERSON'],0,1,2
+US106133A,1870-08-09,Lorenzo dean ,"['Lorenzo', 'dean']","[('Lorenzo', 'NNP'), ('dean', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106140A,1870-08-09,William f ,"['William', 'f']","[('William', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106154A,1870-08-09,Robert ham ,"['Robert', 'ham']","[('Robert', 'NNP'), ('ham', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106210A,1870-08-09,David e ,"['David', 'e']","[('David', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106224A,1870-08-09,John s ,"['John', 's']","[('John', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US106262A,1870-08-09,John g ,"['John', 'g']","[('John', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106280A,1870-08-09,James t ,"['James', 't']","[('James', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106326A,1870-08-16,Alveus j ,"['Alveus', 'j']","[('Alveus', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106332A,1870-08-16,John d ,"['John', 'd']","[('John', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US106333A,1870-08-16,x x x t t ,"['x', 'x', 'x', 't', 't']","[('x', 'JJ'), ('x', 'NNP'), ('x', 'NNP'), ('t', 'NN'), ('t', 'NN')]",1,"['X', 'PROPN', 'PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,5
+US106349A,1870-08-16,Bench-vises ,['Bench-vises'],"[('Bench-vises', 'NNS')]",0,"['NOUN', 'PUNCT', 'NOUN']",['PERSON'],0,1,3
+US106368A,1870-08-16,hilton jones ,"['hilton', 'jones']","[('hilton', 'NN'), ('jones', 'NNS')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106379A,1870-08-16,David marshall ,"['David', 'marshall']","[('David', 'NNP'), ('marshall', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106392A,1870-08-16,David a ,"['David', 'a']","[('David', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US106405A,1870-08-16,Samuel w ,"['Samuel', 'w']","[('Samuel', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106410A,1870-08-16,William f ,"['William', 'f']","[('William', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106423A,1870-08-16,Joseph h ,"['Joseph', 'h']","[('Joseph', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106427A,1870-08-16,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106435A,1870-08-16,Albert g ,"['Albert', 'g']","[('Albert', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106446A,1870-08-16,Nicholas young ,"['Nicholas', 'young']","[('Nicholas', 'NNS'), ('young', 'JJ')]",0,"['PROPN', 'ADJ']",['PERSON'],1,1,2
+US106456A,1870-08-16,William e ,"['William', 'e']","[('William', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106458A,1870-08-16,Ting screw-threads ,"['Ting', 'screw-threads']","[('Ting', 'VBG'), ('screw-threads', 'NNS')]",0,"['PROPN', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,4
+US106461A,1870-08-16,George e ,"['George', 'e']","[('George', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106471A,1870-08-16,Jonathan l ,"['Jonathan', 'l']","[('Jonathan', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US106484A,1870-08-16,Henry henley ,"['Henry', 'henley']","[('Henry', 'NNP'), ('henley', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106501A,1870-08-16,Andrew patterson ,"['Andrew', 'patterson']","[('Andrew', 'NNP'), ('patterson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106504A,1870-08-16,John potter ,"['John', 'potter']","[('John', 'NNP'), ('potter', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106506A,1870-08-16,Adam reid ,"['Adam', 'reid']","[('Adam', 'NNP'), ('reid', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106552A,1870-08-23,William f ,"['William', 'f']","[('William', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106569A,1870-08-23,William elmer ,"['William', 'elmer']","[('William', 'NNP'), ('elmer', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106588A,1870-08-23,Joseph huff ,"['Joseph', 'huff']","[('Joseph', 'NNP'), ('huff', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106590A,1870-08-23,Leonard a ,"['Leonard', 'a']","[('Leonard', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US106609A,1870-08-23,Benjamin nott ,"['Benjamin', 'nott']","[('Benjamin', 'NNP'), ('nott', 'NN')]",1,"['PROPN', 'INTJ']",['PERSON'],1,1,2
+US106629A,1870-08-23,Charles e ,"['Charles', 'e']","[('Charles', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106650A,1870-08-23,Daniel l ,"['Daniel', 'l']","[('Daniel', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'INTJ']",['PERSON'],1,1,2
+US106652A,1870-08-23,Michael bee ,"['Michael', 'bee']","[('Michael', 'NNP'), ('bee', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106656A,1870-08-23,bryan ,['bryan'],"[('bryan', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US106663A,1870-08-23,Charles colby and henry charles ward ,"['Charles', 'colby', 'and', 'henry', 'charles', 'ward']","[('Charles', 'NNP'), ('colby', 'NN'), ('and', 'CC'), ('henry', 'NN'), ('charles', 'NNS'), ('ward', 'VBP')]",1,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,6
+US106695A,1870-08-23,Fbanklin marion hindman and nicholas hiatt ,"['Fbanklin', 'marion', 'hindman', 'and', 'nicholas', 'hiatt']","[('Fbanklin', 'NNP'), ('marion', 'NN'), ('hindman', 'NN'), ('and', 'CC'), ('nicholas', 'NNS'), ('hiatt', 'VBP')]",1,"['PROPN', 'NOUN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN']","['GPE', 'PERSON']",1,1,6
+US106696A,1870-08-23,Erville ,['Erville'],"[('Erville', 'NNP')]",1,['PROPN'],['PERSON'],1,1,1
+US106700A,1870-08-23,Emile lefeanc and joseph nagoija ,"['Emile', 'lefeanc', 'and', 'joseph', 'nagoija']","[('Emile', 'NNP'), ('lefeanc', 'NN'), ('and', 'CC'), ('joseph', 'NN'), ('nagoija', 'NN')]",1,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US106708A,1870-08-23,mccqy ,['mccqy'],"[('mccqy', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US106747A,1870-08-23,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106748A,1870-08-23,Edward p ,"['Edward', 'p']","[('Edward', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106750A,1870-08-23,Jonathan r ,"['Jonathan', 'r']","[('Jonathan', 'NNP'), ('r', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106767A,1870-08-30,Lathes ,['Lathes'],"[('Lathes', 'NNS')]",0,['NOUN'],['PERSON'],0,1,1
+US106781A,1870-08-30,John cocekane ,"['John', 'cocekane']","[('John', 'NNP'), ('cocekane', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106786A,1870-08-30,John penn curry ,"['John', 'penn', 'curry']","[('John', 'NNP'), ('penn', 'NN'), ('curry', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US106801A,1870-08-30,George jordan firmin ,"['George', 'jordan', 'firmin']","[('George', 'NNP'), ('jordan', 'NN'), ('firmin', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US106820A,1870-08-30,George m ,"['George', 'm']","[('George', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US106821A,1870-08-30,George m ,"['George', 'm']","[('George', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US106882A,1870-08-30,Lewis w ,"['Lewis', 'w']","[('Lewis', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106890A,1870-08-30,Charles m ,"['Charles', 'm']","[('Charles', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US106899A,1870-08-30,George westinghouse ,"['George', 'westinghouse']","[('George', 'NNP'), ('westinghouse', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106925A,1870-08-30,George penrice farmer ,"['George', 'penrice', 'farmer']","[('George', 'NNP'), ('penrice', 'NN'), ('farmer', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US106927A,1870-08-30,Joshua b ,"['Joshua', 'b']","[('Joshua', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106940A,1870-08-30,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106946A,1870-08-30,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106960A,1870-08-30,Chester purdy ,"['Chester', 'purdy']","[('Chester', 'NNP'), ('purdy', 'NN')]",1,"['NOUN', 'VERB']",['PERSON'],0,1,2
+US106962A,1870-08-30,John r ,"['John', 'r']","[('John', 'NNP'), ('r', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106965A,1870-08-30,Thomas sharp and charles s ,"['Thomas', 'sharp', 'and', 'charles', 's']","[('Thomas', 'NNP'), ('sharp', 'JJ'), ('and', 'CC'), ('charles', 'NNS'), ('s', 'VBP')]",1,"['PROPN', 'ADJ', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US106985A,1870-09-06,Thomas w ,"['Thomas', 'w']","[('Thomas', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106991A,1870-09-06,James brittok ,"['James', 'brittok']","[('James', 'NNP'), ('brittok', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US106997A,1870-09-06,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US106998A,1870-09-06,Edwin chahberlin ,"['Edwin', 'chahberlin']","[('Edwin', 'NNP'), ('chahberlin', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107030A,1870-09-06,George benedict eowler ,"['George', 'benedict', 'eowler']","[('George', 'NNP'), ('benedict', 'VBP'), ('eowler', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US107043A,1870-09-06,Samuel h ,"['Samuel', 'h']","[('Samuel', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107054A,1870-09-06,Edward hunter ,"['Edward', 'hunter']","[('Edward', 'NNP'), ('hunter', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107062A,1870-09-06,John keesey ,"['John', 'keesey']","[('John', 'NNP'), ('keesey', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US107071A,1870-09-06,Oscar loew ,"['Oscar', 'loew']","[('Oscar', 'NNP'), ('loew', 'NN')]",1,"['INTJ', 'ADJ']",['PERSON'],0,1,2
+US107097A,1870-09-06,Ors to themselves and charles l ,"['Ors', 'to', 'themselves', 'and', 'charles', 'l']","[('Ors', 'NNP'), ('to', 'TO'), ('themselves', 'PRP'), ('and', 'CC'), ('charles', 'NNS'), ('l', 'VBP')]",1,"['PROPN', 'ADP', 'PRON', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,6
+US107101A,1870-09-06,Edward h ,"['Edward', 'h']","[('Edward', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107109A,1870-09-06,John j ,"['John', 'j']","[('John', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US107122A,1870-09-06,Simeon taylor ,"['Simeon', 'taylor']","[('Simeon', 'NNP'), ('taylor', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US107124A,1870-09-06,John thomas ,"['John', 'thomas']","[('John', 'NNP'), ('thomas', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US107150A,1870-09-06,James s ,"['James', 's']","[('James', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US107202A,1870-09-06,James d ,"['James', 'd']","[('James', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107281A,1870-09-13,Alo nzo d ,"['Alo', 'nzo', 'd']","[('Alo', 'NNP'), ('nzo', 'MD'), ('d', 'VB')]",1,"['PROPN', 'ADV', 'X']",['PERSON'],1,1,3
+US107335A,1870-09-13,George chamberlin ,"['George', 'chamberlin']","[('George', 'NNP'), ('chamberlin', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US107378A,1870-09-13,Jambs w ,"['Jambs', 'w']","[('Jambs', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US107392A,1870-09-13,Andrew jackson luff-barry ,"['Andrew', 'jackson', 'luff-barry']","[('Andrew', 'NNP'), ('jackson', 'NN'), ('luff-barry', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN']",['PERSON'],1,1,5
+US107394A,1870-09-13,James h ,"['James', 'h']","[('James', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107399A,1870-09-13,Ghables e ,"['Ghables', 'e']","[('Ghables', 'NNS'), ('e', 'VBP')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107478A,1870-09-20,John gates ,"['John', 'gates']","[('John', 'NNP'), ('gates', 'NNS')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US107543A,1870-09-20,Joseph eidge ,"['Joseph', 'eidge']","[('Joseph', 'NNP'), ('eidge', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US107549A,1870-09-20,Thomas peentiss sanborn ,"['Thomas', 'peentiss', 'sanborn']","[('Thomas', 'NNP'), ('peentiss', 'VBP'), ('sanborn', 'NN')]",1,"['PROPN', 'VERB', 'PROPN']",['PERSON'],1,1,3
+US107584A,1870-09-20,Louis yenne ,"['Louis', 'yenne']","[('Louis', 'NNP'), ('yenne', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107596A,1870-09-20,Paul oeredo ,"['Paul', 'oeredo']","[('Paul', 'NNP'), ('oeredo', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107711A,1870-09-27,Adolph ott ,"['Adolph', 'ott']","[('Adolph', 'NNP'), ('ott', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107718A,1870-09-27,Thomas thompson ponsonby ,"['Thomas', 'thompson', 'ponsonby']","[('Thomas', 'NNP'), ('thompson', 'NN'), ('ponsonby', 'NN')]",1,"['PROPN', 'NOUN', 'PROPN']",['PERSON'],1,1,3
+US107748A,1870-09-27,Harrison anderson ,"['Harrison', 'anderson']","[('Harrison', 'NNP'), ('anderson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US107797A,1870-09-27,Daniel moeherspjt ,"['Daniel', 'moeherspjt']","[('Daniel', 'NNP'), ('moeherspjt', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US107990A,1870-10-04,George wilkes ,"['George', 'wilkes']","[('George', 'NNP'), ('wilkes', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US108041A,1870-10-04,Art hue gut mo r van ,"['Art', 'hue', 'gut', 'mo', 'r', 'van']","[('Art', 'NN'), ('hue', 'NN'), ('gut', 'NN'), ('mo', 'NN'), ('r', 'NN'), ('van', 'NN')]",0,"['NOUN', 'NOUN', 'NOUN', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,6
+US108106A,1870-10-11,Self and george moore ,"['Self', 'and', 'george', 'moore']","[('Self', 'NNP'), ('and', 'CC'), ('george', 'NN'), ('moore', 'NN')]",1,"['NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,4
+US108151A,1870-10-11,Frederick johnson ,"['Frederick', 'johnson']","[('Frederick', 'NNP'), ('johnson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US108166A,1870-10-11,Joseph morgan ,"['Joseph', 'morgan']","[('Joseph', 'NNP'), ('morgan', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US108228A,1870-10-11,And james l ,"['And', 'james', 'l']","[('And', 'CC'), ('james', 'NNS'), ('l', 'VBP')]",0,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US108270A,1870-10-11,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US108294A,1870-10-11,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US108305A,1870-10-11,Glaus van eaagezt ,"['Glaus', 'van', 'eaagezt']","[('Glaus', 'NNP'), ('van', 'NN'), ('eaagezt', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US108378A,1870-10-18,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US108412A,1870-10-18,William p ,"['William', 'p']","[('William', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US108424A,1870-10-18,And james l ,"['And', 'james', 'l']","[('And', 'CC'), ('james', 'NNS'), ('l', 'VBP')]",0,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US108433A,1870-10-18,Eayre  ,['Eayre'],"[('Eayre', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US108437A,1870-10-18,William berri ,"['William', 'berri']","[('William', 'NNP'), ('berri', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US108459A,1870-10-18,Isaac de haven ,"['Isaac', 'de', 'haven']","[('Isaac', 'NNP'), ('de', 'FW'), ('haven', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US108467A,1870-10-18,James entwistle ,"['James', 'entwistle']","[('James', 'NNP'), ('entwistle', 'VB')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US108507A,1870-10-18,Milton v ,"['Milton', 'v']","[('Milton', 'NNP'), ('v', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US108558A,1870-10-25,Leverett bradley ,"['Leverett', 'bradley']","[('Leverett', 'NNP'), ('bradley', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US108629A,1870-10-25,reilley ,['reilley'],"[('reilley', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US108633A,1870-10-25,William robinson ,"['William', 'robinson']","[('William', 'NNP'), ('robinson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US108681A,1870-10-25,Otto bbtteo-k ,"['Otto', 'bbtteo-k']","[('Otto', 'NNP'), ('bbtteo-k', 'NN')]",1,"['PROPN', 'VERB', 'PUNCT', 'NOUN']",['PERSON'],1,1,4
+US108770A,1870-11-01,Charles  ,['Charles'],"[('Charles', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US108785A,1870-11-01,Richard i ,"['Richard', 'i']","[('Richard', 'NNP'), ('i', 'NN')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US108796A,1870-11-01,William kearney ,"['William', 'kearney']","[('William', 'NNP'), ('kearney', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US108847A,1870-11-01,Charles louis thiery ,"['Charles', 'louis', 'thiery']","[('Charles', 'NNP'), ('louis', 'VBZ'), ('thiery', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US108948A,1870-11-01,Joseph h ,"['Joseph', 'h']","[('Joseph', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US108999A,1870-11-08,John gates ,"['John', 'gates']","[('John', 'NNP'), ('gates', 'NNS')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US109080A,1870-11-08,Edward a ,"['Edward', 'a']","[('Edward', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US109082A,1870-11-08,James t ,"['James', 't']","[('James', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US109171A,1870-11-15,Reinhold boeklen ,"['Reinhold', 'boeklen']","[('Reinhold', 'NNP'), ('boeklen', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US109213A,1870-11-15,Charles w ,"['Charles', 'w']","[('Charles', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US109246A,1870-11-15,Oliver porter ,"['Oliver', 'porter']","[('Oliver', 'RB'), ('porter', 'NN')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US109259A,1870-11-15,Hamilton ,['Hamilton'],"[('Hamilton', 'NNP')]",1,['PROPN'],['PERSON'],1,1,1
+US109440A,1870-11-22,William t ,"['William', 't']","[('William', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US109475A,1870-11-22,Leonard watrous ,"['Leonard', 'watrous']","[('Leonard', 'NNP'), ('watrous', 'JJ')]",1,"['PROPN', 'ADJ']",['PERSON'],1,1,2
+US109549A,1870-11-22,William robinson ,"['William', 'robinson']","[('William', 'NNP'), ('robinson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US109558A,1870-11-22,jo john e ,"['jo', 'john', 'e']","[('jo', 'NN'), ('john', 'NN'), ('e', 'NN')]",0,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US109636A,1870-11-29,Joseph lb roy ,"['Joseph', 'lb', 'roy']","[('Joseph', 'NNP'), ('lb', 'VBZ'), ('roy', 'NN')]",1,"['PROPN', 'AUX', 'VERB']",['PERSON'],1,1,3
+US109662A,1870-11-29,William edgar prall ,"['William', 'edgar', 'prall']","[('William', 'NNP'), ('edgar', 'NN'), ('prall', 'NN')]",1,"['PROPN', 'ADJ', 'NOUN']",['PERSON'],1,1,3
+US109701A,1870-11-29,Improvement in horse or mule shoes ,"['Improvement', 'in', 'horse', 'or', 'mule', 'shoes']","[('Improvement', 'NN'), ('in', 'IN'), ('horse', 'NN'), ('or', 'CC'), ('mule', 'NN'), ('shoes', 'NNS')]",0,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,6
+US109757A,1870-11-29,Thomas  ,['Thomas'],"[('Thomas', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US109772A,1870-11-29,William m ,"['William', 'm']","[('William', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US109774A,1870-11-29,Wftenville ,['Wftenville'],"[('Wftenville', 'NNP')]",1,['PROPN'],['PERSON'],1,1,1
+US109820A,1870-12-06,Daniel y ,"['Daniel', 'y']","[('Daniel', 'NNP'), ('y', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US109844A,1870-12-06,Frederick sandham ,"['Frederick', 'sandham']","[('Frederick', 'NNP'), ('sandham', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US109845A,1870-12-06,Samuel w ,"['Samuel', 'w']","[('Samuel', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US109874A,1870-12-06,Charles m ,"['Charles', 'm']","[('Charles', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US109890A,1870-12-06,Charles green ,"['Charles', 'green']","[('Charles', 'NNP'), ('green', 'JJ')]",1,"['PROPN', 'ADJ']",['PERSON'],1,1,2
+US110023A,1870-12-13,Josiah s ,"['Josiah', 's']","[('Josiah', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US110024A,1870-12-13,elliot ,['elliot'],"[('elliot', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US110165A,1870-12-13,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US110166A,1870-12-13,heman s ,"['heman', 's']","[('heman', 'NN'), ('s', 'NN')]",0,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US110241A,1870-12-20,Taylor ,['Taylor'],"[('Taylor', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US110263A,1870-12-20,William miller ,"['William', 'miller']","[('William', 'NNP'), ('miller', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US110273A,1870-12-20,Peter h ,"['Peter', 'h']","[('Peter', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US110360A,1870-12-20,Edwin b ,"['Edwin', 'b']","[('Edwin', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US110365A,1870-12-20,Egbert b ,"['Egbert', 'b']","[('Egbert', 'NN'), ('b', 'NN')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US110463A,1870-12-27,austin hewett ,"['austin', 'hewett']","[('austin', 'NN'), ('hewett', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US110477A,1870-12-27,Harey lawksniob ,"['Harey', 'lawksniob']","[('Harey', 'NNP'), ('lawksniob', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US110517A,1870-12-27,Edward walker ,"['Edward', 'walker']","[('Edward', 'NNP'), ('walker', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US110605A,1870-12-27,taylor ,['taylor'],"[('taylor', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US110696A,1871-01-03,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US110708A,1871-01-03,Lewis wilkinson ,"['Lewis', 'wilkinson']","[('Lewis', 'NNP'), ('wilkinson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US110709A,1871-01-03,Improvement in children s hobby-horses ,"['Improvement', 'in', 'children', 's', 'hobby-horses']","[('Improvement', 'NN'), ('in', 'IN'), ('children', 'NNS'), ('s', 'JJ'), ('hobby-horses', 'NNS')]",0,"['NOUN', 'ADP', 'NOUN', 'PART', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],0,1,7
+US110743A,1871-01-03,John crabtree ,"['John', 'crabtree']","[('John', 'NNP'), ('crabtree', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US110749A,1871-01-03,Samuel de veau ,"['Samuel', 'de', 'veau']","[('Samuel', 'NNP'), ('de', 'FW'), ('veau', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US110801A,1871-01-03,James m ,"['James', 'm']","[('James', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US110850A,1871-01-10,Thomas harrington ,"['Thomas', 'harrington']","[('Thomas', 'NNP'), ('harrington', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US110930A,1871-01-10,Henry millingar ,"['Henry', 'millingar']","[('Henry', 'NNP'), ('millingar', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US110967A,1871-01-17,Lorenzo i ,"['Lorenzo', 'i']","[('Lorenzo', 'NNP'), ('i', 'NN')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US111213A,1871-01-24,Oliver hyde ,"['Oliver', 'hyde']","[('Oliver', 'NNP'), ('hyde', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US111281A,1871-01-24,John t ,"['John', 't']","[('John', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US111297A,1871-01-31,James m ,"['James', 'm']","[('James', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US111328A,1871-01-31,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US111450A,1871-01-31,william -b ,"['william', '-b']","[('william', 'NN'), ('-b', 'NN')]",0,"['PROPN', 'PUNCT']",['PERSON'],1,1,2
+US111495A,1871-01-31,Stinb ,['Stinb'],"[('Stinb', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US111544A,1871-02-07,John w ,"['John', 'w']","[('John', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US111568A,1871-02-07,Alvin davis puffer ,"['Alvin', 'davis', 'puffer']","[('Alvin', 'NNP'), ('davis', 'NN'), ('puffer', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US111611A,1871-02-07,Jijdd m ,"['Jijdd', 'm']","[('Jijdd', 'NNP'), ('m', 'NN')]",1,"['NOUN', 'VERB']",['PERSON'],0,1,2
+US111633A,1871-02-07,William f ,"['William', 'f']","[('William', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US111644A,1871-02-07,Charles w ,"['Charles', 'w']","[('Charles', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US111654A,1871-02-07,John lightfoot ,"['John', 'lightfoot']","[('John', 'NNP'), ('lightfoot', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US111658A,1871-02-07,William w ,"['William', 'w']","[('William', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US111798A,1871-02-14,Thomas adams ,"['Thomas', 'adams']","[('Thomas', 'NNP'), ('adams', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US111820A,1871-02-14,Daniel oeos-by ,"['Daniel', 'oeos-by']","[('Daniel', 'NNP'), ('oeos-by', 'NN')]",1,"['PROPN', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,4
+US111848A,1871-02-14,jackson ,['jackson'],"[('jackson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US111885A,1871-02-14,Giuseppe tagliabue ,"['Giuseppe', 'tagliabue']","[('Giuseppe', 'NNP'), ('tagliabue', 'NN')]",1,"['NOUN', 'VERB']",['PERSON'],0,1,2
+US111888A,1871-02-14,James k ,"['James', 'k']","[('James', 'NNP'), ('k', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US111910A,1871-02-21,John j ,"['John', 'j']","[('John', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US111980A,1871-02-21,William j ,"['William', 'j']","[('William', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US112102A,1871-02-21,Henry whittemore ,"['Henry', 'whittemore']","[('Henry', 'NNP'), ('whittemore', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US112217A,1871-02-28,brown ,['brown'],"[('brown', 'NN')]",0,['ADJ'],['PERSON'],0,1,1
+US112219A,1871-02-28,Henry bushnell s ,"['Henry', 'bushnell', 's']","[('Henry', 'NNP'), ('bushnell', 'NN'), ('s', 'NN')]",1,"['PROPN', 'NOUN', 'VERB']",['PERSON'],1,1,3
+US112289A,1871-02-28,Gtis pateni oepioe ,"['Gtis', 'pateni', 'oepioe']","[('Gtis', 'NNP'), ('pateni', 'NN'), ('oepioe', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US112354A,1871-03-07,Improvement in attaching knob s to their spindles ,"['Improvement', 'in', 'attaching', 'knob', 's', 'to', 'their', 'spindles']","[('Improvement', 'NN'), ('in', 'IN'), ('attaching', 'VBG'), ('knob', 'NN'), ('s', 'NN'), ('to', 'TO'), ('their', 'PRP$'), ('spindles', 'NNS')]",0,"['NOUN', 'ADP', 'VERB', 'NOUN', 'X', 'ADP', 'PRON', 'NOUN']",['PERSON'],0,1,8
+US112400A,1871-03-07,Wushihgton ,['Wushihgton'],"[('Wushihgton', 'NNP')]",1,['PROPN'],['PERSON'],1,1,1
+US112437A,1871-03-07,Stephen chester ,"['Stephen', 'chester']","[('Stephen', 'NNP'), ('chester', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US112511A,1871-03-07,thompson ,['thompson'],"[('thompson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US112515A,1871-03-07,John ernst uhl ,"['John', 'ernst', 'uhl']","[('John', 'NNP'), ('ernst', 'NN'), ('uhl', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US112551A,1871-03-14,Ghaelie b ,"['Ghaelie', 'b']","[('Ghaelie', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US112594A,1871-03-14,Geor g e h a y e s ,"['Geor', 'g', 'e', 'h', 'a', 'y', 'e', 's']","[('Geor', 'NNP'), ('g', 'NN'), ('e', 'NN'), ('h', 'VBD'), ('a', 'DT'), ('y', 'NN'), ('e', 'NN'), ('s', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'VERB']",['PERSON'],1,1,8
+US112595A,1871-03-14,Pell and william j ,"['Pell', 'and', 'william', 'j']","[('Pell', 'NNP'), ('and', 'CC'), ('william', 'VBD'), ('j', 'NN')]",1,"['INTJ', 'CCONJ', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,4
+US112599A,1871-03-14,Imiprovembnt in securing wheel-tires ,"['Imiprovembnt', 'in', 'securing', 'wheel-tires']","[('Imiprovembnt', 'NNP'), ('in', 'IN'), ('securing', 'VBG'), ('wheel-tires', 'NNS')]",1,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,6
+US112642A,1871-03-14,Nicholas h ,"['Nicholas', 'h']","[('Nicholas', 'NNS'), ('h', 'NN')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US112689A,1871-03-14,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US112694A,1871-03-14,Disteiot of ,"['Disteiot', 'of']","[('Disteiot', 'NNP'), ('of', 'IN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US112706A,1871-03-14,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US112767A,1871-03-21,Charles beent ,"['Charles', 'beent']","[('Charles', 'NNP'), ('beent', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US112834A,1871-03-21,Valentine myers ,"['Valentine', 'myers']","[('Valentine', 'NN'), ('myers', 'NNS')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US112851A,1871-03-21,Edward p ,"['Edward', 'p']","[('Edward', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US112865A,1871-03-21,Lewis w ,"['Lewis', 'w']","[('Lewis', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US112878A,1871-03-21,Joseph m ,"['Joseph', 'm']","[('Joseph', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US112895A,1871-03-21,Michael c ,"['Michael', 'c']","[('Michael', 'NNP'), ('c', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US113031A,1871-03-28,William charles edge ,"['William', 'charles', 'edge']","[('William', 'NNP'), ('charles', 'NNS'), ('edge', 'VBP')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US113202A,1871-03-28,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US113331A,1871-04-04,Richard o neil ,"['Richard', 'o', 'neil']","[('Richard', 'NNP'), ('o', 'PRP'), ('neil', 'VBP')]",1,"['PROPN', 'INTJ', 'NOUN']",['PERSON'],1,1,3
+US113333A,1871-04-04,John shearer paiste ,"['John', 'shearer', 'paiste']","[('John', 'NNP'), ('shearer', 'NN'), ('paiste', 'NN')]",1,"['PROPN', 'NOUN', 'VERB']",['PERSON'],1,1,3
+US113356A,1871-04-04,Self and ja self and james beatty ,"['Self', 'and', 'ja', 'self', 'and', 'james', 'beatty']","[('Self', 'NNP'), ('and', 'CC'), ('ja', 'NN'), ('self', 'NN'), ('and', 'CC'), ('james', 'NNS'), ('beatty', 'VBP')]",1,"['NOUN', 'CCONJ', 'VERB', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,7
+US113443A,1871-04-04,Oliver d ,"['Oliver', 'd']","[('Oliver', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US113505A,1871-04-11,William  ,['William'],"[('William', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US113529A,1871-04-11,Michael -kennedy ,"['Michael', '-kennedy']","[('Michael', 'NNP'), ('-kennedy', 'NN')]",1,"['PROPN', 'PUNCT']",['PERSON'],1,1,2
+US113562A,1871-04-11,William j ,"['William', 'j']","[('William', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US113624A,1871-04-11,Thomas h ,"['Thomas', 'h']","[('Thomas', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US113656A,1871-04-11,William p ,"['William', 'p']","[('William', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US113679A,1871-04-11,John james lundy ,"['John', 'james', 'lundy']","[('John', 'NNP'), ('james', 'VBZ'), ('lundy', 'JJ')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US113685A,1871-04-11,John w ,"['John', 'w']","[('John', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US113702A,1871-04-11,Joseph w ,"['Joseph', 'w']","[('Joseph', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US113762A,1871-04-18,Julius w ,"['Julius', 'w']","[('Julius', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US113783A,1871-04-18,Donald d ,"['Donald', 'd']","[('Donald', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US113801A,1871-04-18,Richard sammer ,"['Richard', 'sammer']","[('Richard', 'NNP'), ('sammer', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US113824A,1871-04-18,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US113943A,1871-04-18,William steschult ,"['William', 'steschult']","[('William', 'NNP'), ('steschult', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US114002A,1871-04-25,Joseph s ,"['Joseph', 's']","[('Joseph', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US114005A,1871-04-25,Edward a ,"['Edward', 'a']","[('Edward', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US114027A,1871-04-25,Joab morss and franklin b ,"['Joab', 'morss', 'and', 'franklin', 'b']","[('Joab', 'NNP'), ('morss', 'NN'), ('and', 'CC'), ('franklin', 'NN'), ('b', 'NN')]",1,"['PROPN', 'NOUN', 'CCONJ', 'PROPN', 'NOUN']","['PERSON', 'ORG']",1,1,5
+US114032A,1871-04-25,Patrick o connor ,"['Patrick', 'o', 'connor']","[('Patrick', 'NNP'), ('o', 'PRP'), ('connor', 'VBP')]",1,"['PROPN', 'INTJ', 'NOUN']",['PERSON'],1,1,3
+US114089A,1871-04-25,Joseph f ,"['Joseph', 'f']","[('Joseph', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US114111A,1871-04-25,John corley ,"['John', 'corley']","[('John', 'NNP'), ('corley', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US114224A,1871-04-25,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US114338A,1871-05-02,George pibrge ,"['George', 'pibrge']","[('George', 'NNP'), ('pibrge', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US114410A,1871-05-02,Hugh w ,"['Hugh', 'w']","[('Hugh', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US114450A,1871-05-02,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US114496A,1871-05-02,James m ,"['James', 'm']","[('James', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US114541A,1871-05-09,William r ,"['William', 'r']","[('William', 'NNP'), ('r', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US114585A,1871-05-09,Clinton h ,"['Clinton', 'h']","[('Clinton', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US114691A,1871-05-09,Philippe koch ,"['Philippe', 'koch']","[('Philippe', 'NNP'), ('koch', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US114848A,1871-05-16,Josiah s ,"['Josiah', 's']","[('Josiah', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US115142A,1871-05-23,Edward williams ,"['Edward', 'williams']","[('Edward', 'NNP'), ('williams', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US115163A,1871-05-23,William -chicken ,"['William', '-chicken']","[('William', 'NNP'), ('-chicken', 'NNP')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US115189A,1871-05-23,Thomas s ,"['Thomas', 's']","[('Thomas', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US115285A,1871-05-30,Edward dithridge ,"['Edward', 'dithridge']","[('Edward', 'NNP'), ('dithridge', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US115310A,1871-05-30,Lidie ,['Lidie'],"[('Lidie', 'NNP')]",1,['PROPN'],['PERSON'],1,1,1
+US115327A,1871-05-30,William p ,"['William', 'p']","[('William', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US115373A,1871-05-30,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US115409A,1871-05-30,Albebt albektson ,"['Albebt', 'albektson']","[('Albebt', 'NNP'), ('albektson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US115424A,1871-05-30,Xjmprpvementin l lathes for turning axles ,"['Xjmprpvementin', 'l', 'lathes', 'for', 'turning', 'axles']","[('Xjmprpvementin', 'NN'), ('l', 'NN'), ('lathes', 'NNS'), ('for', 'IN'), ('turning', 'VBG'), ('axles', 'NNS')]",0,"['ADJ', 'NOUN', 'VERB', 'ADP', 'VERB', 'NOUN']",['PERSON'],0,1,6
+US115449A,1871-05-30,Davis henry  ,"['Davis', 'henry']","[('Davis', 'NNP'), ('henry', 'NN')]",1,"['PROPN', 'PROPN', 'SPACE']",['PERSON'],1,1,3
+US115486A,1871-05-30,George lauded ,"['George', 'lauded']","[('George', 'NNP'), ('lauded', 'VBD')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US115527A,1871-05-30,Edwin russell ,"['Edwin', 'russell']","[('Edwin', 'NNP'), ('russell', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US115534A,1871-05-30,Charles d ,"['Charles', 'd']","[('Charles', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US115544A,1871-05-30,Andrew ttjefbull ,"['Andrew', 'ttjefbull']","[('Andrew', 'NNP'), ('ttjefbull', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US115568A,1871-06-06,Johx s ,"['Johx', 's']","[('Johx', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US115577A,1871-06-06,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US115606A,1871-06-06,Johjt haeeis ,"['Johjt', 'haeeis']","[('Johjt', 'NNP'), ('haeeis', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US115641A,1871-06-06,robinson ,['robinson'],"[('robinson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US115644A,1871-06-06,Watson sanford ,"['Watson', 'sanford']","[('Watson', 'NNP'), ('sanford', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US115667A,1871-06-06,George westlxghotjse ,"['George', 'westlxghotjse']","[('George', 'NNP'), ('westlxghotjse', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US115678A,1871-06-06,William henry barwick ,"['William', 'henry', 'barwick']","[('William', 'NNP'), ('henry', 'NN'), ('barwick', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US115694A,1871-06-06,William e ,"['William', 'e']","[('William', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US115706A,1871-06-06,Joseph m ,"['Joseph', 'm']","[('Joseph', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US115738A,1871-06-06,Egbert jenkiks and theodore woods ,"['Egbert', 'jenkiks', 'and', 'theodore', 'woods']","[('Egbert', 'NNP'), ('jenkiks', 'NN'), ('and', 'CC'), ('theodore', 'NN'), ('woods', 'NNS')]",1,"['PROPN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",['PERSON'],1,1,5
+US115748A,1871-06-06,John j ,"['John', 'j']","[('John', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US115810A,1871-06-13,Joseph e ,"['Joseph', 'e']","[('Joseph', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US115851A,1871-06-13,Charles p ,"['Charles', 'p']","[('Charles', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US115855A,1871-06-13,Edward hewitt asd john mcaitliffe ,"['Edward', 'hewitt', 'asd', 'john', 'mcaitliffe']","[('Edward', 'NNP'), ('hewitt', 'NN'), ('asd', 'NN'), ('john', 'NN'), ('mcaitliffe', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,5
+US115856A,1871-06-13,Charles e ,"['Charles', 'e']","[('Charles', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US115888A,1871-06-13,John pfeifeb ,"['John', 'pfeifeb']","[('John', 'NNP'), ('pfeifeb', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US115891A,1871-06-13,William poeieb ,"['William', 'poeieb']","[('William', 'NNP'), ('poeieb', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US115941A,1871-06-13,Sigstoes to william b ,"['Sigstoes', 'to', 'william', 'b']","[('Sigstoes', 'NNS'), ('to', 'TO'), ('william', 'VB'), ('b', 'NN')]",0,"['NOUN', 'ADP', 'PROPN', 'NOUN']","['ORG', 'PERSON']",1,1,4
+US116064A,1871-06-20,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US116106A,1871-06-20,William s ,"['William', 's']","[('William', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US116333A,1871-06-27,Joseph o ,"['Joseph', 'o']","[('Joseph', 'NNP'), ('o', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US116698A,1871-07-04,William feeeib ,"['William', 'feeeib']","[('William', 'NNP'), ('feeeib', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US116704A,1871-07-04,Henry grogan ,"['Henry', 'grogan']","[('Henry', 'NNP'), ('grogan', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US116755A,1871-07-04,Joshua w ,"['Joshua', 'w']","[('Joshua', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US116893A,1871-07-11,ceaig ,['ceaig'],"[('ceaig', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US116958A,1871-07-11,James hothersall and joseph banks ,"['James', 'hothersall', 'and', 'joseph', 'banks']","[('James', 'NNP'), ('hothersall', 'NN'), ('and', 'CC'), ('joseph', 'NN'), ('banks', 'NNS')]",1,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,5
+US117056A,1871-07-18,William doxoghue ,"['William', 'doxoghue']","[('William', 'NNP'), ('doxoghue', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US117366A,1871-07-25,William ball ,"['William', 'ball']","[('William', 'NNP'), ('ball', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US117388A,1871-07-25,John s ,"['John', 's']","[('John', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US117761A,1871-08-08,John b ,"['John', 'b']","[('John', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US117763A,1871-08-08,Josef feitsch ,"['Josef', 'feitsch']","[('Josef', 'NNP'), ('feitsch', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US117837A,1871-08-08,Charles h ,"['Charles', 'h']","[('Charles', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US118194A,1871-08-22,Jambs burson ,"['Jambs', 'burson']","[('Jambs', 'NNP'), ('burson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US118251A,1871-08-22,Leeoy e ,"['Leeoy', 'e']","[('Leeoy', 'NNP'), ('e', 'NN')]",1,"['ADJ', 'NOUN']",['PERSON'],0,1,2
+US118257A,1871-08-22,Michael miller ,"['Michael', 'miller']","[('Michael', 'NNP'), ('miller', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US118402A,1871-08-22,David d ,"['David', 'd']","[('David', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US118619A,1871-08-29,James w ,"['James', 'w']","[('James', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US119027A,1871-09-19,William wallace giedwood ,"['William', 'wallace', 'giedwood']","[('William', 'NNP'), ('wallace', 'NN'), ('giedwood', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US119246A,1871-09-26,Lee and theodoee ,"['Lee', 'and', 'theodoee']","[('Lee', 'NNP'), ('and', 'CC'), ('theodoee', 'NN')]",1,"['PROPN', 'CCONJ', 'VERB']",['PERSON'],1,1,3
+US119493A,1871-10-03,Stephen v ,"['Stephen', 'v']","[('Stephen', 'NNP'), ('v', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US119545A,1871-10-03,William m ,"['William', 'm']","[('William', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US119726A,1871-10-10,Nathan thompson ,"['Nathan', 'thompson']","[('Nathan', 'NNP'), ('thompson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US119871A,1871-10-10,Christopher g ,"['Christopher', 'g']","[('Christopher', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US120210A,1871-10-24,Adolph mulleb ,"['Adolph', 'mulleb']","[('Adolph', 'NNP'), ('mulleb', 'NN')]",1,"['ADJ', 'NOUN']",['PERSON'],0,1,2
+US120246A,1871-10-24,Owen coogan ,"['Owen', 'coogan']","[('Owen', 'NNP'), ('coogan', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US120743A,1871-11-07,Edmund dobman hodgson ,"['Edmund', 'dobman', 'hodgson']","[('Edmund', 'NNP'), ('dobman', 'NN'), ('hodgson', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US120753A,1871-11-07,Johk liddeed ,"['Johk', 'liddeed']","[('Johk', 'NNP'), ('liddeed', 'VBD')]",1,"['NOUN', 'VERB']",['PERSON'],0,1,2
+US120788A,1871-11-07,William s ,"['William', 's']","[('William', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US120867A,1871-11-14,James w ,"['James', 'w']","[('James', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US120982A,1871-11-14,Benjamin s ,"['Benjamin', 's']","[('Benjamin', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US121092A,1871-11-21,Edwaed lawson fenebty ,"['Edwaed', 'lawson', 'fenebty']","[('Edwaed', 'NNP'), ('lawson', 'NN'), ('fenebty', 'NN')]",1,"['ADJ', 'NOUN', 'NOUN']","['NORP', 'PERSON']",0,1,3
+US121401A,1871-11-28,mozabt ,['mozabt'],"[('mozabt', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US121697A,1871-12-05,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US121854A,1871-12-12,Thomas damon ,"['Thomas', 'damon']","[('Thomas', 'NNP'), ('damon', 'NN')]",1,"['PROPN', 'ADJ']",['PERSON'],1,1,2
+US122037A,1871-12-19,William lloyd ,"['William', 'lloyd']","[('William', 'NNP'), ('lloyd', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US122098A,1871-12-26,Frank andeeson ,"['Frank', 'andeeson']","[('Frank', 'NNP'), ('andeeson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US122489A,1872-01-02,William e ,"['William', 'e']","[('William', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US122756A,1872-01-16,William camerer ,"['William', 'camerer']","[('William', 'NNP'), ('camerer', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US122890A,1872-01-23,Joseph hodgejn-s ,"['Joseph', 'hodgejn-s']","[('Joseph', 'NNP'), ('hodgejn-s', 'NN')]",1,"['PROPN', 'PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,4
+US123053A,1872-01-23,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US123211A,1872-01-30,William weavee ,"['William', 'weavee']","[('William', 'NNP'), ('weavee', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US123273A,1872-01-30,William maxwell ,"['William', 'maxwell']","[('William', 'NNP'), ('maxwell', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US123303A,1872-01-30,stewart  ,['stewart'],"[('stewart', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US123325A,1872-02-06,Ebenezeb blackmail ,"['Ebenezeb', 'blackmail']","[('Ebenezeb', 'NNP'), ('blackmail', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US123343A,1872-02-06,William heath ,"['William', 'heath']","[('William', 'NNP'), ('heath', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US123408A,1872-02-06,Charles gottlob macht ,"['Charles', 'gottlob', 'macht']","[('Charles', 'NNP'), ('gottlob', 'VBZ'), ('macht', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US123421A,1872-02-06,Dahibl b ,"['Dahibl', 'b']","[('Dahibl', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US123440A,1872-02-06,Joseph f ,"['Joseph', 'f']","[('Joseph', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US123527A,1872-02-06,Charles verny  ,"['Charles', 'verny']","[('Charles', 'NNP'), ('verny', 'NN')]",1,"['PROPN', 'NOUN', 'SPACE']",['PERSON'],1,1,3
+US123545A,1872-02-13,Charles j ,"['Charles', 'j']","[('Charles', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US123606A,1872-02-13,bailt ,['bailt'],"[('bailt', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US123799A,1872-02-20,Waltee james tueneb ,"['Waltee', 'james', 'tueneb']","[('Waltee', 'NNP'), ('james', 'NNS'), ('tueneb', 'VBP')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US124230A,1872-03-05,thompson ,['thompson'],"[('thompson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US124233A,1872-03-05,David d ,"['David', 'd']","[('David', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US124250A,1872-03-05,John butler ,"['John', 'butler']","[('John', 'NNP'), ('butler', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US124340A,1872-03-05,Joseph dalton ,"['Joseph', 'dalton']","[('Joseph', 'NNP'), ('dalton', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US124348A,1872-03-05,Henry w ,"['Henry', 'w']","[('Henry', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US124396A,1872-03-05,Egbert b ,"['Egbert', 'b']","[('Egbert', 'NN'), ('b', 'NN')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US124398A,1872-03-05,Isabella wallee ,"['Isabella', 'wallee']","[('Isabella', 'NNP'), ('wallee', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US124422A,1872-03-12,David b ,"['David', 'b']","[('David', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US124608A,1872-03-12,Joseph mobeland ,"['Joseph', 'mobeland']","[('Joseph', 'NNP'), ('mobeland', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US124617A,1872-03-12,Eobebt w ,"['Eobebt', 'w']","[('Eobebt', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US124652A,1872-03-12,Werner stauf ,"['Werner', 'stauf']","[('Werner', 'NNP'), ('stauf', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US124835A,1872-03-19,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US125090A,1872-03-26,William sedgwick ,"['William', 'sedgwick']","[('William', 'NNP'), ('sedgwick', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US125609A,1872-04-09,Said noeeis assig ,"['Said', 'noeeis', 'assig']","[('Said', 'NNP'), ('noeeis', 'NN'), ('assig', 'NN')]",1,"['VERB', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US125673A,1872-04-16,William c ,"['William', 'c']","[('William', 'NNP'), ('c', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US125737A,1872-04-16,Shaft ,['Shaft'],"[('Shaft', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US125795A,1872-04-16,John w ,"['John', 'w']","[('John', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US125856A,1872-04-16,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US126242A,1872-04-30,Richaed s ,"['Richaed', 's']","[('Richaed', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US126790A,1872-05-14,John du bois ,"['John', 'du', 'bois']","[('John', 'NNP'), ('du', 'NN'), ('bois', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US126981A,1872-05-21,Hezekiah olney ,"['Hezekiah', 'olney']","[('Hezekiah', 'NNP'), ('olney', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US127235A,1872-05-28,Reuben w ,"['Reuben', 'w']","[('Reuben', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US127388A,1872-05-28,John a ,"['John', 'a']","[('John', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US127389A,1872-05-28,Iseael townsend ,"['Iseael', 'townsend']","[('Iseael', 'NNP'), ('townsend', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US127683A,1872-06-11,Disteigt of ,"['Disteigt', 'of']","[('Disteigt', 'NNP'), ('of', 'IN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US127795A,1872-06-11,Samuel ii ,"['Samuel', 'ii']","[('Samuel', 'NNP'), ('ii', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US127809A,1872-06-11,John b ,"['John', 'b']","[('John', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US127839A,1872-06-11,William blackburn ,"['William', 'blackburn']","[('William', 'NNP'), ('blackburn', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US127891A,1872-06-11,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US127924A,1872-06-11,David b ,"['David', 'b']","[('David', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US128072A,1872-06-18,Amos i ,"['Amos', 'i']","[('Amos', 'NNP'), ('i', 'NN')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US128106A,1872-06-18,Charles brombacher ,"['Charles', 'brombacher']","[('Charles', 'NNP'), ('brombacher', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US128367A,1872-06-25,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US128403A,1872-06-25,kibby ,['kibby'],"[('kibby', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US128599A,1872-07-02,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US128721A,1872-07-09,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US128847A,1872-07-09,briggs ,['briggs'],"[('briggs', 'NNS')]",0,['PROPN'],['PERSON'],1,1,1
+US128849A,1872-07-09,Samuel s ,"['Samuel', 's']","[('Samuel', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US128903A,1872-07-09,Gobtolf f ,"['Gobtolf', 'f']","[('Gobtolf', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US128914A,1872-07-09,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US128926A,1872-07-09,thatcher ,['thatcher'],"[('thatcher', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US128975A,1872-07-16,Feedeelk pedeeson and easmtjs olsef ,"['Feedeelk', 'pedeeson', 'and', 'easmtjs', 'olsef']","[('Feedeelk', 'NNP'), ('pedeeson', 'NN'), ('and', 'CC'), ('easmtjs', 'NN'), ('olsef', 'NN')]",1,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,5
+US128999A,1872-07-16,Samuel beooks and john standish ,"['Samuel', 'beooks', 'and', 'john', 'standish']","[('Samuel', 'NNP'), ('beooks', 'NN'), ('and', 'CC'), ('john', 'NN'), ('standish', 'NN')]",1,"['PROPN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US129045A,1872-07-16,Abchibald mcbeide ,"['Abchibald', 'mcbeide']","[('Abchibald', 'NNP'), ('mcbeide', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US129148A,1872-07-16,linke ,['linke'],"[('linke', 'NN')]",0,['ADJ'],['PERSON'],0,1,1
+US129199A,1872-07-16,jackson ,['jackson'],"[('jackson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US129227A,1872-07-16,Hinckley ,['Hinckley'],"[('Hinckley', 'NNP')]",1,['NOUN'],['PERSON'],0,1,1
+US129257A,1872-07-16,Stephen g ,"['Stephen', 'g']","[('Stephen', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US129506A,1872-07-16,John woodville ,"['John', 'woodville']","[('John', 'NNP'), ('woodville', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US129622A,1872-07-16,William tellnee ,"['William', 'tellnee']","[('William', 'NNP'), ('tellnee', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US129683A,1872-07-23,James robertson ,"['James', 'robertson']","[('James', 'NNP'), ('robertson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US129758A,1872-07-23,John simpson ,"['John', 'simpson']","[('John', 'NNP'), ('simpson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US129794A,1872-07-23,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US129808A,1872-07-23,Ralph l ,"['Ralph', 'l']","[('Ralph', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US129818A,1872-07-23,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US129831A,1872-07-23,judson ,['judson'],"[('judson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US129867A,1872-07-23,John e ,"['John', 'e']","[('John', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US130049A,1872-07-30,James biggins ,"['James', 'biggins']","[('James', 'NNP'), ('biggins', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US130400A,1872-08-13,John abbeceombie and elijah d ,"['John', 'abbeceombie', 'and', 'elijah', 'd']","[('John', 'NNP'), ('abbeceombie', 'NN'), ('and', 'CC'), ('elijah', 'NN'), ('d', 'NN')]",1,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'X']",['PERSON'],1,1,5
+US130657A,1872-08-20,John a ,"['John', 'a']","[('John', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US130673A,1872-08-20,Eathan thompson ,"['Eathan', 'thompson']","[('Eathan', 'NNP'), ('thompson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US130708A,1872-08-20,Albert l ,"['Albert', 'l']","[('Albert', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US130831A,1872-08-27,Heney van hoevenbeegh ,"['Heney', 'van', 'hoevenbeegh']","[('Heney', 'NNP'), ('van', 'NN'), ('hoevenbeegh', 'NN')]",1,"['PROPN', 'PROPN', 'VERB']",['PERSON'],1,1,3
+US130918A,1872-08-27,Assigfoe to baenett ,"['Assigfoe', 'to', 'baenett']","[('Assigfoe', 'NNP'), ('to', 'TO'), ('baenett', 'VB')]",1,"['ADJ', 'PART', 'VERB']",['PERSON'],0,1,3
+US130992A,1872-09-03,haggett ,['haggett'],"[('haggett', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US131263A,1872-09-10,William foekee ,"['William', 'foekee']","[('William', 'NNP'), ('foekee', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US131279A,1872-09-10,Kick kavanag-h ,"['Kick', 'kavanag-h']","[('Kick', 'NNP'), ('kavanag-h', 'NN')]",1,"['PROPN', 'PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,4
+US131280A,1872-09-10,Albert komp ,"['Albert', 'komp']","[('Albert', 'NNP'), ('komp', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US131349A,1872-09-17,Daniel m ,"['Daniel', 'm']","[('Daniel', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US131366A,1872-09-17,Johf a ,"['Johf', 'a']","[('Johf', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US131504A,1872-09-24,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US131532A,1872-09-24,Ghaeles h ,"['Ghaeles', 'h']","[('Ghaeles', 'NNS'), ('h', 'VBP')]",0,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US131613A,1872-09-24,bee bee-hives ,"['bee', 'bee-hives']","[('bee', 'NN'), ('bee-hives', 'NNS')]",0,"['PROPN', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,4
+US131705A,1872-09-24,motq-ittmqqrtphic cqmk fqssowe s pxqcessj ,"['motq-ittmqqrtphic', 'cqmk', 'fqssowe', 's', 'pxqcessj']","[('motq-ittmqqrtphic', 'JJ'), ('cqmk', 'NN'), ('fqssowe', 'NN'), ('s', 'NN'), ('pxqcessj', 'NN')]",0,"['ADJ', 'PUNCT', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,7
+US131944A,1872-10-08,Constantine de negei ,"['Constantine', 'de', 'negei']","[('Constantine', 'NNP'), ('de', 'FW'), ('negei', 'FW')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US131965A,1872-10-08,Elliott ,['Elliott'],"[('Elliott', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US131966A,1872-10-08,Frank w ,"['Frank', 'w']","[('Frank', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US131993A,1872-10-08,Haeey blake ,"['Haeey', 'blake']","[('Haeey', 'NNP'), ('blake', 'NN')]",1,"['ADJ', 'VERB']",['PERSON'],0,1,2
+US132244A,1872-10-15,bruce  ,['bruce'],"[('bruce', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US132330A,1872-10-15,Joseph e ,"['Joseph', 'e']","[('Joseph', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US132553A,1872-10-29,wormalb ,['wormalb'],"[('wormalb', 'NN')]",0,['VERB'],['PERSON'],0,1,1
+US132640A,1872-10-29,Thomas james dekne and august hentschel ,"['Thomas', 'james', 'dekne', 'and', 'august', 'hentschel']","[('Thomas', 'NNP'), ('james', 'NNS'), ('dekne', 'NN'), ('and', 'CC'), ('august', 'NN'), ('hentschel', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN']","['PERSON', 'DATE']",1,1,6
+US132946A,1872-11-12,John s ,"['John', 's']","[('John', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US133070A,1872-11-12,Edwin e ,"['Edwin', 'e']","[('Edwin', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US133386A,1872-11-26,richardson ,['richardson'],"[('richardson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US133419A,1872-11-26,dean and edward h ,"['dean', 'and', 'edward', 'h']","[('dean', 'NN'), ('and', 'CC'), ('edward', 'NN'), ('h', 'NN')]",0,"['PROPN', 'CCONJ', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,4
+US133465A,1872-11-26,James g ,"['James', 'g']","[('James', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US133476A,1872-11-26,And henry s ,"['And', 'henry', 's']","[('And', 'CC'), ('henry', 'NN'), ('s', 'NN')]",0,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3
+US133621A,1872-12-03,betteley ,['betteley'],"[('betteley', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US133738A,1872-12-10,John jay young ,"['John', 'jay', 'young']","[('John', 'NNP'), ('jay', 'NN'), ('young', 'JJ')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US133756A,1872-12-10,William caetweight ,"['William', 'caetweight']","[('William', 'NNP'), ('caetweight', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US133815A,1872-12-10,John n ,"['John', 'n']","[('John', 'NNP'), ('n', 'NN')]",1,"['PROPN', 'CCONJ']",['PERSON'],1,1,2
+US134003A,1872-12-17,David eenshaw ,"['David', 'eenshaw']","[('David', 'NNP'), ('eenshaw', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US134094A,1872-12-17,George e ,"['George', 'e']","[('George', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US134147A,1872-12-24,John keck ,"['John', 'keck']","[('John', 'NNP'), ('keck', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US134244A,1872-12-24,Loeenzo d ,"['Loeenzo', 'd']","[('Loeenzo', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US134302A,1872-12-24,William e ,"['William', 'e']","[('William', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US134305A,1872-12-24,John north ,"['John', 'north']","[('John', 'NNP'), ('north', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US134332A,1872-12-24,beeeeton todd ,"['beeeeton', 'todd']","[('beeeeton', 'NN'), ('todd', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US134374A,1872-12-31,Himan frank ,"['Himan', 'frank']","[('Himan', 'NNP'), ('frank', 'VBD')]",1,"['NOUN', 'VERB']",['PERSON'],0,1,2
+US134404A,1872-12-31,Henry m ,"['Henry', 'm']","[('Henry', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US134408A,1872-12-31,George westixghouse ,"['George', 'westixghouse']","[('George', 'NNP'), ('westixghouse', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US134434A,1872-12-31,Joseph mabtdt ,"['Joseph', 'mabtdt']","[('Joseph', 'NNP'), ('mabtdt', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US134456A,1872-12-31,Ssvjproveiviewt in invalid-bedsteads ,"['Ssvjproveiviewt', 'in', 'invalid-bedsteads']","[('Ssvjproveiviewt', 'NNP'), ('in', 'IN'), ('invalid-bedsteads', 'NNS')]",1,"['ADJ', 'ADP', 'ADJ', 'PUNCT', 'NOUN']",['PERSON'],0,1,5
+US134472A,1872-12-31,Ghaeles geaham ,"['Ghaeles', 'geaham']","[('Ghaeles', 'NNS'), ('geaham', 'VBP')]",0,"['NOUN', 'VERB']",['PERSON'],0,1,2
+US134570A,1873-01-07,Samuel stein ,"['Samuel', 'stein']","[('Samuel', 'NNP'), ('stein', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US134608A,1873-01-07,Jambs w ,"['Jambs', 'w']","[('Jambs', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US134846A,1873-01-14,Half his eight to william h ,"['Half', 'his', 'eight', 'to', 'william', 'h']","[('Half', 'PDT'), ('his', 'PRP$'), ('eight', 'CD'), ('to', 'TO'), ('william', 'VB'), ('h', 'NN')]",0,"['DET', 'PRON', 'NUM', 'PART', 'PROPN', 'PROPN']",['PERSON'],1,1,6
+US134850A,1873-01-14,Bernard a ,"['Bernard', 'a']","[('Bernard', 'IN'), ('a', 'DT')]",0,"['VERB', 'PRON']",['PERSON'],0,1,2
+US134887A,1873-01-14,John hewitt ,"['John', 'hewitt']","[('John', 'NNP'), ('hewitt', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US135099A,1873-01-21,william h ,"['william', 'h']","[('william', 'NN'), ('h', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US135120A,1873-01-21,Thaddeus hyatt ,"['Thaddeus', 'hyatt']","[('Thaddeus', 'NNP'), ('hyatt', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US135235A,1873-01-28,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US135484A,1873-02-04,Edward manuel ,"['Edward', 'manuel']","[('Edward', 'NNP'), ('manuel', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US135782A,1873-02-11,John i ,"['John', 'i']","[('John', 'NNP'), ('i', 'NN')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US136034A,1873-02-18,Abel combs ,"['Abel', 'combs']","[('Abel', 'NNP'), ('combs', 'NN')]",1,"['NOUN', 'VERB']",['PERSON'],0,1,2
+US136066A,1873-02-18,johnson ,['johnson'],"[('johnson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US136094A,1873-02-18,Joshua w ,"['Joshua', 'w']","[('Joshua', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US136185A,1873-02-25,Edwin b ,"['Edwin', 'b']","[('Edwin', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US136208A,1873-02-25,Joseph n ,"['Joseph', 'n']","[('Joseph', 'NNP'), ('n', 'NN')]",1,"['PROPN', 'CCONJ']",['PERSON'],1,1,2
+US136442A,1873-03-04,Jose arnaldo mabquez ,"['Jose', 'arnaldo', 'mabquez']","[('Jose', 'NNP'), ('arnaldo', 'NN'), ('mabquez', 'NN')]",1,"['PROPN', 'NOUN', 'PROPN']",['PERSON'],1,1,3
+US136447A,1873-03-04,Haeey ceoswell moeeis ,"['Haeey', 'ceoswell', 'moeeis']","[('Haeey', 'NNP'), ('ceoswell', 'NN'), ('moeeis', 'NN')]",1,"['PROPN', 'VERB', 'NOUN']",['PERSON'],1,1,3
+US136522A,1873-03-04,Job johnson ,"['Job', 'johnson']","[('Job', 'NNP'), ('johnson', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US136600A,1873-03-11,Charles hubifg ,"['Charles', 'hubifg']","[('Charles', 'NNP'), ('hubifg', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US137031A,1873-03-18,Tobias koyee ,"['Tobias', 'koyee']","[('Tobias', 'NNP'), ('koyee', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US137267A,1873-03-25,webster  ,['webster'],"[('webster', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US137294A,1873-04-01,Eaelswobth ceockett ,"['Eaelswobth', 'ceockett']","[('Eaelswobth', 'NNP'), ('ceockett', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US137468A,1873-04-01,Sidney s ,"['Sidney', 's']","[('Sidney', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US137524A,1873-04-08,Remsen ,['Remsen'],"[('Remsen', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US137604A,1873-04-08,Samuel s ,"['Samuel', 's']","[('Samuel', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US137608A,1873-04-08,William guilfoyle ,"['William', 'guilfoyle']","[('William', 'NNP'), ('guilfoyle', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US137636A,1873-04-08,John thom ,"['John', 'thom']","[('John', 'NNP'), ('thom', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US137702A,1873-04-08,John matthews ,"['John', 'matthews']","[('John', 'NNP'), ('matthews', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US137854A,1873-04-15,James mcoafferty ,"['James', 'mcoafferty']","[('James', 'NNP'), ('mcoafferty', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US137927A,1873-04-15,Alphonse etieote jabbe and pieeee joseph jabee ,"['Alphonse', 'etieote', 'jabbe', 'and', 'pieeee', 'joseph', 'jabee']","[('Alphonse', 'NNP'), ('etieote', 'NN'), ('jabbe', 'NN'), ('and', 'CC'), ('pieeee', 'NN'), ('joseph', 'NN'), ('jabee', 'NN')]",1,"['NOUN', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'PROPN', 'PROPN']",['PERSON'],1,1,7
+US138047A,1873-04-22,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US138364A,1873-04-29,John j ,"['John', 'j']","[('John', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US138599A,1873-05-06,Allen weight and alvin f ,"['Allen', 'weight', 'and', 'alvin', 'f']","[('Allen', 'NNP'), ('weight', 'NN'), ('and', 'CC'), ('alvin', 'NN'), ('f', 'NN')]",1,"['ADJ', 'NOUN', 'CCONJ', 'PROPN', 'X']",['PERSON'],1,1,5
+US138652A,1873-05-06,Lyman hunt ,"['Lyman', 'hunt']","[('Lyman', 'NNP'), ('hunt', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US138770A,1873-05-13,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US139192A,1873-05-20,Edward ,['Edward'],"[('Edward', 'NNP')]",1,['PROPN'],['PERSON'],1,1,1
+US139336A,1873-05-27,Improvement in reaches for bob-sleds ,"['Improvement', 'in', 'reaches', 'for', 'bob-sleds']","[('Improvement', 'NN'), ('in', 'IN'), ('reaches', 'NNS'), ('for', 'IN'), ('bob-sleds', 'NNS')]",0,"['NOUN', 'ADP', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,7
+US139354A,1873-05-27,Stephen w ,"['Stephen', 'w']","[('Stephen', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US139468A,1873-06-03,Egbert judson ,"['Egbert', 'judson']","[('Egbert', 'NNP'), ('judson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US139656A,1873-06-10,Improvement in devices fdr steaming oil-wells ,"['Improvement', 'in', 'devices', 'fdr', 'steaming', 'oil-wells']","[('Improvement', 'NN'), ('in', 'IN'), ('devices', 'NNS'), ('fdr', 'JJ'), ('steaming', 'VBG'), ('oil-wells', 'NNS')]",0,"['NOUN', 'ADP', 'NOUN', 'PROPN', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,8
+US139724A,1873-06-10,Thomas e ,"['Thomas', 'e']","[('Thomas', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US139746A,1873-06-10,Thomas vaeney ,"['Thomas', 'vaeney']","[('Thomas', 'NNP'), ('vaeney', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US139970A,1873-06-17,William w ,"['William', 'w']","[('William', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US140116A,1873-06-24,Jacob h ,"['Jacob', 'h']","[('Jacob', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US140196A,1873-06-24,Abbaham t ,"['Abbaham', 't']","[('Abbaham', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US140200A,1873-06-24,jobf h ,"['jobf', 'h']","[('jobf', 'NN'), ('h', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US140202A,1873-06-24,James m ,"['James', 'm']","[('James', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US140210A,1873-06-24,x geo george mcadams ,"['x', 'geo', 'george', 'mcadams']","[('x', 'JJ'), ('geo', 'NN'), ('george', 'NN'), ('mcadams', 'NNS')]",0,"['PUNCT', 'PROPN', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,4
+US140260A,1873-06-24,William ebbitt ,"['William', 'ebbitt']","[('William', 'NNP'), ('ebbitt', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US140298A,1873-06-24,John murphy ,"['John', 'murphy']","[('John', 'NNP'), ('murphy', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US140618A,1873-07-08,Stephen dudley field ,"['Stephen', 'dudley', 'field']","[('Stephen', 'NNP'), ('dudley', 'VBZ'), ('field', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US140959A,1873-07-15,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US141166A,1873-07-22,David t ,"['David', 't']","[('David', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US141347A,1873-07-29,David heer ,"['David', 'heer']","[('David', 'NNP'), ('heer', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US141403A,1873-07-29,thompson ,['thompson'],"[('thompson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US141428A,1873-08-05,John ceowley ,"['John', 'ceowley']","[('John', 'NNP'), ('ceowley', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US141454A,1873-08-05,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US141508A,1873-08-05,Improvement jn cooking-stoves ,"['Improvement', 'jn', 'cooking-stoves']","[('Improvement', 'JJ'), ('jn', 'NN'), ('cooking-stoves', 'NNS')]",0,"['NOUN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,5
+US141522A,1873-08-05,Self and louis vasaly ,"['Self', 'and', 'louis', 'vasaly']","[('Self', 'NNP'), ('and', 'CC'), ('louis', 'VBD'), ('vasaly', 'NN')]",1,"['NOUN', 'CCONJ', 'NOUN', 'PROPN']",['PERSON'],1,1,4
+US141571A,1873-08-05,John matthews ,"['John', 'matthews']","[('John', 'NNP'), ('matthews', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US141585A,1873-08-05,Johan h ,"['Johan', 'h']","[('Johan', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US141594A,1873-08-05,John b ,"['John', 'b']","[('John', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US141597A,1873-08-05,Joseph h ,"['Joseph', 'h']","[('Joseph', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US141762A,1873-08-12,Lobenzo chase ,"['Lobenzo', 'chase']","[('Lobenzo', 'NNP'), ('chase', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US141879A,1873-08-19,George l ,"['George', 'l']","[('George', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US141921A,1873-08-19,William cooke ,"['William', 'cooke']","[('William', 'NNP'), ('cooke', 'VBD')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US141948A,1873-08-19,John b ,"['John', 'b']","[('John', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US142070A,1873-08-19,Jonathan yebkes ,"['Jonathan', 'yebkes']","[('Jonathan', 'NNP'), ('yebkes', 'NNS')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US142185A,1873-08-26,William wolff ,"['William', 'wolff']","[('William', 'NNP'), ('wolff', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US142194A,1873-08-26,William w ,"['William', 'w']","[('William', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US142235A,1873-08-26,William huffman ,"['William', 'huffman']","[('William', 'NNP'), ('huffman', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US142243A,1873-08-26,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US142263A,1873-08-26,morrison ,['morrison'],"[('morrison', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US142330A,1873-09-02,And joseph h ,"['And', 'joseph', 'h']","[('And', 'CC'), ('joseph', 'NN'), ('h', 'NN')]",0,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US142432A,1873-09-02,William s ,"['William', 's']","[('William', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US142460A,1873-09-02,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US142461A,1873-09-02,Charles e ,"['Charles', 'e']","[('Charles', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US142586A,1873-09-09,John m ,"['John', 'm']","[('John', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US142653A,1873-09-09,Edwin p ,"['Edwin', 'p']","[('Edwin', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US142693A,1873-09-09,James s ,"['James', 's']","[('James', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US142728A,1873-09-09,William j ,"['William', 'j']","[('William', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US142730A,1873-09-09,Frank rhind ,"['Frank', 'rhind']","[('Frank', 'NNP'), ('rhind', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US142733A,1873-09-09,bosin ,['bosin'],"[('bosin', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US142767A,1873-09-16,Joseph btjlee ,"['Joseph', 'btjlee']","[('Joseph', 'NNP'), ('btjlee', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US142784A,1873-09-16,John e ,"['John', 'e']","[('John', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US142805A,1873-09-16,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US142842A,1873-09-16,Fbancesco demartini and john chertizza ,"['Fbancesco', 'demartini', 'and', 'john', 'chertizza']","[('Fbancesco', 'NNP'), ('demartini', 'NN'), ('and', 'CC'), ('john', 'NN'), ('chertizza', 'NN')]",1,"['ADJ', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US142855A,1873-09-16,Stephen joyce ,"['Stephen', 'joyce']","[('Stephen', 'NNP'), ('joyce', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US142932A,1873-09-16,David h ,"['David', 'h']","[('David', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US142934A,1873-09-16,David h ,"['David', 'h']","[('David', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US143000A,1873-09-23,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US143227A,1873-09-30,Josiah h ,"['Josiah', 'h']","[('Josiah', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US143264A,1873-09-30,Edward h ,"['Edward', 'h']","[('Edward', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US143516A,1873-10-07,James s ,"['James', 's']","[('James', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US143536A,1873-10-07,Joseph w ,"['Joseph', 'w']","[('Joseph', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US143654A,1873-10-14,andersen ,['andersen'],"[('andersen', 'NN')]",0,['VERB'],['PERSON'],0,1,1
+US143710A,1873-10-14,Eobeet patteeson and button patteeson ,"['Eobeet', 'patteeson', 'and', 'button', 'patteeson']","[('Eobeet', 'NNP'), ('patteeson', 'NN'), ('and', 'CC'), ('button', 'NN'), ('patteeson', 'NN')]",1,"['PROPN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US143735A,1873-10-14,Matthew von ctjlin ,"['Matthew', 'von', 'ctjlin']","[('Matthew', 'NNP'), ('von', 'NNP'), ('ctjlin', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US143790A,1873-10-21,George a ,"['George', 'a']","[('George', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US143814A,1873-10-21,ertola  ,['ertola'],"[('ertola', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US143895A,1873-10-21,Michael foleyj of ,"['Michael', 'foleyj', 'of']","[('Michael', 'NNP'), ('foleyj', 'NN'), ('of', 'IN')]",1,"['PROPN', 'NOUN', 'ADP']",['PERSON'],1,1,3
+US143927A,1873-10-21,Gael l ,"['Gael', 'l']","[('Gael', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US144345A,1873-11-04,John e ,"['John', 'e']","[('John', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US144794A,1873-11-18,Thomas l ,"['Thomas', 'l']","[('Thomas', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US144809A,1873-11-18,Thomas waekee ,"['Thomas', 'waekee']","[('Thomas', 'NNP'), ('waekee', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US144812A,1873-11-18,Charles j ,"['Charles', 'j']","[('Charles', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US145062A,1873-12-02,Louis k ,"['Louis', 'k']","[('Louis', 'NNP'), ('k', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US145166A,1873-12-02,John fbitz ,"['John', 'fbitz']","[('John', 'NNP'), ('fbitz', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US145218A,1873-12-02,John d ,"['John', 'd']","[('John', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US145598A,1873-12-16,James d ,"['James', 'd']","[('James', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US145795A,1873-12-23,Assigmffi to tiimselea ,"['Assigmffi', 'to', 'tiimselea']","[('Assigmffi', 'NNP'), ('to', 'TO'), ('tiimselea', 'VB')]",1,"['PROPN', 'PART', 'VERB']",['PERSON'],1,1,3
+US146494A,1874-01-13,w acker ,"['w', 'acker']","[('w', 'NN'), ('acker', 'NN')]",0,"['ADP', 'NOUN']",['PERSON'],0,1,2
+US146502A,1874-01-20,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US146590A,1874-01-20,Adam heinz ,"['Adam', 'heinz']","[('Adam', 'NNP'), ('heinz', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US146735A,1874-01-20,Silas s ,"['Silas', 's']","[('Silas', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US147190A,1874-02-03,John stephefsojst ,"['John', 'stephefsojst']","[('John', 'NNP'), ('stephefsojst', 'NN')]",1,"['PROPN', 'ADJ']",['PERSON'],1,1,2
+US147283A,1874-02-10,Thomas s ,"['Thomas', 's']","[('Thomas', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US147565A,1874-02-17,David s ,"['David', 's']","[('David', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US147725A,1874-02-17,George a ,"['George', 'a']","[('George', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US147733A,1874-02-17,Isaac yearsley ,"['Isaac', 'yearsley']","[('Isaac', 'NNP'), ('yearsley', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US147734A,1874-02-17,Fbedeeick yeiser ,"['Fbedeeick', 'yeiser']","[('Fbedeeick', 'NNP'), ('yeiser', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US147829A,1874-02-24,william s ,"['william', 's']","[('william', 'NN'), ('s', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US147943A,1874-02-24,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US148150A,1874-03-03,Abel spauldina ,"['Abel', 'spauldina']","[('Abel', 'NNP'), ('spauldina', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US148158A,1874-03-03,william g ,"['william', 'g']","[('william', 'NN'), ('g', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US148175A,1874-03-03,bucklin ,['bucklin'],"[('bucklin', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US148212A,1874-03-03,William l ,"['William', 'l']","[('William', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US148302A,1874-03-10,Daniel kellehee ,"['Daniel', 'kellehee']","[('Daniel', 'NNP'), ('kellehee', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US148416A,1874-03-10,Joseph cohn ,"['Joseph', 'cohn']","[('Joseph', 'NNP'), ('cohn', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US148566A,1874-03-17,De laxcy kennedy ,"['De', 'laxcy', 'kennedy']","[('De', 'NNP'), ('laxcy', 'FW'), ('kennedy', 'NN')]",1,"['PROPN', 'INTJ', 'NOUN']",['PERSON'],1,1,3
+US148676A,1874-03-17,James k deitz ,"['James', 'k', 'deitz']","[('James', 'NNP'), ('k', 'VBD'), ('deitz', 'NNS')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US148689A,1874-03-17,Hamilton c ,"['Hamilton', 'c']","[('Hamilton', 'NNP'), ('c', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US148696A,1874-03-17,William d ,"['William', 'd']","[('William', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US148740A,1874-03-17,nittenger ,['nittenger'],"[('nittenger', 'NN')]",0,['ADJ'],['PERSON'],0,1,1
+US148804A,1874-03-24,wyllts betts ,"['wyllts', 'betts']","[('wyllts', 'NNS'), ('betts', 'NNS')]",0,"['NOUN', 'AUX']",['PERSON'],0,1,2
+US148856A,1874-03-24,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US148868A,1874-03-24,barton ,['barton'],"[('barton', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US148923A,1874-03-24,William beowk ,"['William', 'beowk']","[('William', 'NNP'), ('beowk', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US148934A,1874-03-24,William d ,"['William', 'd']","[('William', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US149007A,1874-03-24,Half his eight to john mundell ,"['Half', 'his', 'eight', 'to', 'john', 'mundell']","[('Half', 'PDT'), ('his', 'PRP$'), ('eight', 'CD'), ('to', 'TO'), ('john', 'VB'), ('mundell', 'NN')]",0,"['DET', 'PRON', 'NUM', 'ADP', 'PROPN', 'PROPN']","['CARDINAL', 'CARDINAL', 'PERSON']",1,1,6
+US149008A,1874-03-24,Charles tysqn ,"['Charles', 'tysqn']","[('Charles', 'NNP'), ('tysqn', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US149078A,1874-03-31,stewart  ,['stewart'],"[('stewart', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US149760A,1874-04-14,John kay ,"['John', 'kay']","[('John', 'NNP'), ('kay', 'NN')]",1,"['PROPN', 'INTJ']",['PERSON'],1,1,2
+US149771A,1874-04-14,Jambs j ,"['Jambs', 'j']","[('Jambs', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US149789A,1874-04-14,William j ,"['William', 'j']","[('William', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US149905A,1874-04-21,Edward w ,"['Edward', 'w']","[('Edward', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US149997A,1874-04-21,Adam cook ,"['Adam', 'cook']","[('Adam', 'NNP'), ('cook', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US150068A,1874-04-21,davis ,['davis'],"[('davis', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US150085A,1874-04-21,Jacob russell ,"['Jacob', 'russell']","[('Jacob', 'NNP'), ('russell', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US150121A,1874-04-28,anderson  ,['anderson'],"[('anderson', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US150242A,1874-04-28,William k hutohtgrson ,"['William', 'k', 'hutohtgrson']","[('William', 'NNP'), ('k', 'NNP'), ('hutohtgrson', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US150266A,1874-04-28,Elihu a ,"['Elihu', 'a']","[('Elihu', 'VB'), ('a', 'DT')]",0,"['VERB', 'PRON']",['PERSON'],0,1,2
+US150270A,1874-04-28,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US150343A,1874-04-28,Ezra milleb ,"['Ezra', 'milleb']","[('Ezra', 'NNP'), ('milleb', 'NN')]",1,"['ADJ', 'NOUN']",['PERSON'],0,1,2
+US150567A,1874-05-05,John k hall ,"['John', 'k', 'hall']","[('John', 'NNP'), ('k', 'NNP'), ('hall', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US150665A,1874-05-05,brown ,['brown'],"[('brown', 'NN')]",0,['ADJ'],['PERSON'],0,1,1
+US150722A,1874-05-12,Daniel d ,"['Daniel', 'd']","[('Daniel', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US150823A,1874-05-12,William btjeeqws ,"['William', 'btjeeqws']","[('William', 'NNP'), ('btjeeqws', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US150839A,1874-05-12,Improvement in reach-couplings for bob-sleds ,"['Improvement', 'in', 'reach-couplings', 'for', 'bob-sleds']","[('Improvement', 'NN'), ('in', 'IN'), ('reach-couplings', 'NNS'), ('for', 'IN'), ('bob-sleds', 'NNS')]",0,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,9
+US150853A,1874-05-12,Adolph falk and julius finkenstein ,"['Adolph', 'falk', 'and', 'julius', 'finkenstein']","[('Adolph', 'NNP'), ('falk', 'NN'), ('and', 'CC'), ('julius', 'NN'), ('finkenstein', 'NN')]",1,"['ADJ', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,5
+US150924A,1874-05-12,williams ,['williams'],"[('williams', 'NNS')]",0,['PROPN'],['PERSON'],1,1,1
+US151079A,1874-05-19,Matthew h ,"['Matthew', 'h']","[('Matthew', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US151088A,1874-05-19,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US151190A,1874-05-26,angell ,['angell'],"[('angell', 'NN')]",0,['INTJ'],['PERSON'],0,1,1
+US151196A,1874-05-26,James m ,"['James', 'm']","[('James', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US151207A,1874-05-26,Johh w ,"['Johh', 'w']","[('Johh', 'NNP'), ('w', 'NN')]",1,"['VERB', 'ADP']",['PERSON'],0,1,2
+US151273A,1874-05-26,James w ,"['James', 'w']","[('James', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US151294A,1874-05-26,James d ,"['James', 'd']","[('James', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US151402A,1874-05-26,John g ,"['John', 'g']","[('John', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US151421A,1874-05-26,Batjgh ,['Batjgh'],"[('Batjgh', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US151433A,1874-05-26,William f ,"['William', 'f']","[('William', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US151536A,1874-06-02,Jacob h ,"['Jacob', 'h']","[('Jacob', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US151650A,1874-06-02,Nathaniel p ,"['Nathaniel', 'p']","[('Nathaniel', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US152856A,1874-07-07,John matthews ,"['John', 'matthews']","[('John', 'NNP'), ('matthews', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US153241A,1874-07-21,Almox olaeke ,"['Almox', 'olaeke']","[('Almox', 'NNP'), ('olaeke', 'NN')]",1,"['PROPN', 'ADJ']",['PERSON'],1,1,2
+US153538A,1874-07-28,cohen ,['cohen'],"[('cohen', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US154208A,1874-08-18,Alphonso ,['Alphonso'],"[('Alphonso', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US154437A,1874-08-25,Jllcbs e ,"['Jllcbs', 'e']","[('Jllcbs', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US154452A,1874-08-25,brown ,['brown'],"[('brown', 'NN')]",0,['ADJ'],['PERSON'],0,1,1
+US154600A,1874-09-01,xiz xizr ,"['xiz', 'xizr']","[('xiz', 'NN'), ('xizr', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US154711A,1874-09-01,John m ,"['John', 'm']","[('John', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US154719A,1874-09-01,Jacob l ,"['Jacob', 'l']","[('Jacob', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US155227A,1874-09-22,William d ,"['William', 'd']","[('William', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US156466A,1874-11-03,Stephen sanford ,"['Stephen', 'sanford']","[('Stephen', 'NNP'), ('sanford', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US156694A,1874-11-10,Improvement in vessels for holding jelli ,"['Improvement', 'in', 'vessels', 'for', 'holding', 'jelli']","[('Improvement', 'NN'), ('in', 'IN'), ('vessels', 'NNS'), ('for', 'IN'), ('holding', 'VBG'), ('jelli', 'NN')]",0,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'PROPN']",['PERSON'],1,1,6
+US156739A,1874-11-10,"Improvement in treating cobalt ores to obtain smalt, zaffre ","['Improvement', 'in', 'treating', 'cobalt', 'ores', 'to', 'obtain', 'smalt,', 'zaffre']","[('Improvement', 'NN'), ('in', 'IN'), ('treating', 'VBG'), ('cobalt', 'NN'), ('ores', 'NNS'), ('to', 'TO'), ('obtain', 'VB'), ('smalt,', 'JJ'), ('zaffre', 'NN')]",0,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'PART', 'VERB', 'ADV', 'PUNCT', 'PROPN']",['PERSON'],1,1,10
+US156780A,1874-11-10,John eibeeweiseb ,"['John', 'eibeeweiseb']","[('John', 'NNP'), ('eibeeweiseb', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US156816A,1874-11-10,William k ,"['William', 'k']","[('William', 'NNP'), ('k', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US156878A,1874-11-17,George h ,"['George', 'h']","[('George', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US156934A,1874-11-17,Owen maebif ,"['Owen', 'maebif']","[('Owen', 'NNP'), ('maebif', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US156979A,1874-11-17,Iienky h ,"['Iienky', 'h']","[('Iienky', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US156981A,1874-11-17,Esek bussey ,"['Esek', 'bussey']","[('Esek', 'NNP'), ('bussey', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US157261A,1874-11-24,William s ,"['William', 's']","[('William', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US157710A,1874-12-15,James m ,"['James', 'm']","[('James', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US158130A,1874-12-22,Hekry eogees ,"['Hekry', 'eogees']","[('Hekry', 'NNP'), ('eogees', 'NNS')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US158579A,1875-01-12,Joseph s ,"['Joseph', 's']","[('Joseph', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US158692A,1875-01-12,John eldee ,"['John', 'eldee']","[('John', 'NNP'), ('eldee', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US158712A,1875-01-12,"Improvement in
+james h ","['Improvement', 'in', 'james', 'h']","[('Improvement', 'NN'), ('in', 'IN'), ('james', 'NNS'), ('h', 'VBP')]",0,"['NOUN', 'ADP', 'SPACE', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US159048A,1875-01-26,staer ,['staer'],"[('staer', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US159101A,1875-01-26,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US159221A,1875-01-26,John m ,"['John', 'm']","[('John', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US159229A,1875-01-26,Assigitob of one-half his ,"['Assigitob', 'of', 'one-half', 'his']","[('Assigitob', 'NNP'), ('of', 'IN'), ('one-half', 'JJ'), ('his', 'PRP$')]",1,"['PROPN', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'PRON']","['PERSON', 'CARDINAL']",1,1,6
+US159286A,1875-02-02,William stanifoeth ,"['William', 'stanifoeth']","[('William', 'NNP'), ('stanifoeth', 'NN')]",1,"['PROPN', 'ADJ']",['PERSON'],1,1,2
+US159451A,1875-02-02,Joseph w ,"['Joseph', 'w']","[('Joseph', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US159466A,1875-02-02,Abeaham stott and davis eavenson ,"['Abeaham', 'stott', 'and', 'davis', 'eavenson']","[('Abeaham', 'NNP'), ('stott', 'NN'), ('and', 'CC'), ('davis', 'NN'), ('eavenson', 'NN')]",1,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,5
+US159836A,1875-02-16,Feancis m ,"['Feancis', 'm']","[('Feancis', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US159841A,1875-02-16,Bdwaed livingston price ,"['Bdwaed', 'livingston', 'price']","[('Bdwaed', 'NNP'), ('livingston', 'NN'), ('price', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US160017A,1875-02-23,Isaac w ,"['Isaac', 'w']","[('Isaac', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US160028A,1875-02-23,Carmi osgood ,"['Carmi', 'osgood']","[('Carmi', 'NNP'), ('osgood', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US160041A,1875-02-23,Bryan tyson ,"['Bryan', 'tyson']","[('Bryan', 'NNP'), ('tyson', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US160138A,1875-02-23,Stephen v ,"['Stephen', 'v']","[('Stephen', 'NNP'), ('v', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US160303A,1875-03-02,William buechley astd theodore thoejt ,"['William', 'buechley', 'astd', 'theodore', 'thoejt']","[('William', 'NNP'), ('buechley', 'NN'), ('astd', 'NN'), ('theodore', 'NN'), ('thoejt', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,5
+US160487A,1875-03-02,Thied his eight to john f ,"['Thied', 'his', 'eight', 'to', 'john', 'f']","[('Thied', 'VBN'), ('his', 'PRP$'), ('eight', 'CD'), ('to', 'TO'), ('john', 'VB'), ('f', 'NN')]",0,"['VERB', 'PRON', 'NUM', 'ADP', 'PROPN', 'PROPN']","['CARDINAL', 'PERSON']",1,1,6
+US160530A,1875-03-09,Joseph lessler ,"['Joseph', 'lessler']","[('Joseph', 'NNP'), ('lessler', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US160550A,1875-03-09,Reginald soaifb ,"['Reginald', 'soaifb']","[('Reginald', 'NNP'), ('soaifb', 'NN')]",1,"['ADJ', 'NOUN']",['PERSON'],0,1,2
+US160596A,1875-03-09,William hood ,"['William', 'hood']","[('William', 'NNP'), ('hood', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US160669A,1875-03-09,Allen f ,"['Allen', 'f']","[('Allen', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US160703A,1875-03-09,William painter ,"['William', 'painter']","[('William', 'NNP'), ('painter', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US160704A,1875-03-09,William paintee ,"['William', 'paintee']","[('William', 'NNP'), ('paintee', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US160729A,1875-03-09,Daniel strattan ,"['Daniel', 'strattan']","[('Daniel', 'NNP'), ('strattan', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US160748A,1875-03-16,Ed wist buet ,"['Ed', 'wist', 'buet']","[('Ed', 'NNP'), ('wist', 'NN'), ('buet', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US160929A,1875-03-16,William t ,"['William', 't']","[('William', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US160998A,1875-03-23,Millee g ,"['Millee', 'g']","[('Millee', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US161003A,1875-03-23,John beuggee and sebastian cheistophe ,"['John', 'beuggee', 'and', 'sebastian', 'cheistophe']","[('John', 'NNP'), ('beuggee', 'NN'), ('and', 'CC'), ('sebastian', 'JJ'), ('cheistophe', 'NN')]",1,"['PROPN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",['PERSON'],1,1,5
+US161087A,1875-03-23,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US161288A,1875-03-23,William smith ,"['William', 'smith']","[('William', 'NNP'), ('smith', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US161325A,1875-03-30,Raymond caiiuo ,"['Raymond', 'caiiuo']","[('Raymond', 'NNP'), ('caiiuo', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US161425A,1875-03-30,rsccabe ,['rsccabe'],"[('rsccabe', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US161429A,1875-03-30,Daniel moore ,"['Daniel', 'moore']","[('Daniel', 'NNP'), ('moore', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US161598A,1875-04-06,denio ,['denio'],"[('denio', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US161678A,1875-04-06,Francis m ,"['Francis', 'm']","[('Francis', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US161682A,1875-04-06,Lewis l ,"['Lewis', 'l']","[('Lewis', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'INTJ']",['PERSON'],1,1,2
+US161708A,1875-04-06,John schafhatts ,"['John', 'schafhatts']","[('John', 'NNP'), ('schafhatts', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US161915A,1875-04-13,Thomas van ,"['Thomas', 'van']","[('Thomas', 'NNP'), ('van', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US161922A,1875-04-13,austin ,['austin'],"[('austin', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US162002A,1875-04-13,John f ,"['John', 'f']","[('John', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US162103A,1875-04-13,Amos e ,"['Amos', 'e']","[('Amos', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US162119A,1875-04-13,Augustus h ,"['Augustus', 'h']","[('Augustus', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US162186A,1875-04-20,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US162231A,1875-04-20,Elihu j ,"['Elihu', 'j']","[('Elihu', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US162269A,1875-04-20,Johe  beows ,"['Johe', 'beows']","[('Johe', 'NNP'), ('beows', 'NNS')]",1,"['PROPN', 'SPACE', 'VERB']",['PERSON'],1,1,3
+US162431A,1875-04-20,Livlprqvefyiehjt in cartridge-loading uvjple ,"['Livlprqvefyiehjt', 'in', 'cartridge-loading', 'uvjple']","[('Livlprqvefyiehjt', 'NNP'), ('in', 'IN'), ('cartridge-loading', 'JJ'), ('uvjple', 'NN')]",1,"['PROPN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",['PERSON'],1,1,6
+US162560A,1875-04-27,Melvik jimjks ,"['Melvik', 'jimjks']","[('Melvik', 'NNP'), ('jimjks', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US162792A,1875-05-04,John b ,"['John', 'b']","[('John', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US162805A,1875-05-04,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US162863A,1875-05-04,marshall ,['marshall'],"[('marshall', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US162886A,1875-05-04,Dana bickfor d ,"['Dana', 'bickfor', 'd']","[('Dana', 'NNP'), ('bickfor', 'NN'), ('d', 'NN')]",1,"['PROPN', 'ADP', 'X']",['PERSON'],1,1,3
+US162890A,1875-05-04,William j ,"['William', 'j']","[('William', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US162999A,1875-05-11,John b ,"['John', 'b']","[('John', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US163007A,1875-05-11,William garland ,"['William', 'garland']","[('William', 'NNP'), ('garland', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US163102A,1875-05-11,Uberto k pabtbidge ,"['Uberto', 'k', 'pabtbidge']","[('Uberto', 'NNP'), ('k', 'NN'), ('pabtbidge', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US163163A,1875-05-11,Thomas  ,['Thomas'],"[('Thomas', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US163185A,1875-05-11,William l ,"['William', 'l']","[('William', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US163231A,1875-05-11,Stephen moobe ,"['Stephen', 'moobe']","[('Stephen', 'NNP'), ('moobe', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US163279A,1875-05-11,Augustus h ,"['Augustus', 'h']","[('Augustus', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US163468A,1875-05-18,elliot ,['elliot'],"[('elliot', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US164035A,1875-06-01,John eeece ,"['John', 'eeece']","[('John', 'NNP'), ('eeece', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US164306A,1875-06-08,kennard- ,['kennard-'],"[('kennard-', 'NN')]",0,['VERB'],['PERSON'],0,1,1
+US164415A,1875-06-15,Improvement jn hub-borers ,"['Improvement', 'jn', 'hub-borers']","[('Improvement', 'JJ'), ('jn', 'NN'), ('hub-borers', 'NNS')]",0,"['PROPN', 'PROPN', 'PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,5
+US164638A,1875-06-22,Irving  ,['Irving'],"[('Irving', 'VBG')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US164812A,1875-06-22,Martin h ,"['Martin', 'h']","[('Martin', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US164814A,1875-06-22,Charles l ,"['Charles', 'l']","[('Charles', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US165092A,1875-06-29,geegg ,['geegg'],"[('geegg', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US165303A,1875-07-06,Jqhs g ,"['Jqhs', 'g']","[('Jqhs', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US165440A,1875-07-13,Michael fitzpatrick ,"['Michael', 'fitzpatrick']","[('Michael', 'NNP'), ('fitzpatrick', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US165593A,1875-07-13,Adolph landes ,"['Adolph', 'landes']","[('Adolph', 'NNP'), ('landes', 'NNS')]",1,"['ADJ', 'NOUN']",['PERSON'],0,1,2
+US165652A,1875-07-20,allen ,['allen'],"[('allen', 'NN')]",0,['VERB'],['PERSON'],0,1,1
+US165667A,1875-07-20,William foulis ,"['William', 'foulis']","[('William', 'NNP'), ('foulis', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US165678A,1875-07-20,Hiram lockard and thomas agens ,"['Hiram', 'lockard', 'and', 'thomas', 'agens']","[('Hiram', 'NNP'), ('lockard', 'NN'), ('and', 'CC'), ('thomas', 'NN'), ('agens', 'NNS')]",1,"['PROPN', 'VERB', 'CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,5
+US165689A,1875-07-20,Joshua sawyee ,"['Joshua', 'sawyee']","[('Joshua', 'NNP'), ('sawyee', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US165695A,1875-07-20,Hekry m ,"['Hekry', 'm']","[('Hekry', 'NNP'), ('m', 'NN')]",1,"['NOUN', 'VERB']",['PERSON'],0,1,2
+US165700A,1875-07-20,William c ,"['William', 'c']","[('William', 'NNP'), ('c', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US165752A,1875-07-20,Jambs naylob ,"['Jambs', 'naylob']","[('Jambs', 'NNP'), ('naylob', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US165770A,1875-07-20,Michael l ,"['Michael', 'l']","[('Michael', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US165800A,1875-07-20,Samuel h ,"['Samuel', 'h']","[('Samuel', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US165819A,1875-07-20,Ighatitfs jela ,"['Ighatitfs', 'jela']","[('Ighatitfs', 'NNP'), ('jela', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US165911A,1875-07-27,Eemsen ,['Eemsen'],"[('Eemsen', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US165956A,1875-07-27,James d ,"['James', 'd']","[('James', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US166037A,1875-07-27,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US166609A,1875-08-10,John t ,"['John', 't']","[('John', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US166810A,1875-08-17,William bandel ,"['William', 'bandel']","[('William', 'NNP'), ('bandel', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US166955A,1875-08-24,William e ,"['William', 'e']","[('William', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US166973A,1875-08-24,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US167299A,1875-08-31,Benjamin b ,"['Benjamin', 'b']","[('Benjamin', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US167365A,1875-08-31,thompson ,['thompson'],"[('thompson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US167393A,1875-09-07,Chaelbs feakke ,"['Chaelbs', 'feakke']","[('Chaelbs', 'NNP'), ('feakke', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US167608A,1875-09-14,james c ,"['james', 'c']","[('james', 'NNS'), ('c', 'VBP')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US168149A,1875-09-28,John neil poet ,"['John', 'neil', 'poet']","[('John', 'NNP'), ('neil', 'MD'), ('poet', 'VB')]",1,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US168318A,1875-10-05,John g ,"['John', 'g']","[('John', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US168485A,1875-10-05,John habbington ,"['John', 'habbington']","[('John', 'NNP'), ('habbington', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US168654A,1875-10-11,lymait ,['lymait'],"[('lymait', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US168678A,1875-10-11,William mont stoem ,"['William', 'mont', 'stoem']","[('William', 'NNP'), ('mont', 'NN'), ('stoem', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US169352A,1875-11-02,green  ,['green'],"[('green', 'JJ')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US169558A,1875-11-02,John lovenguth ,"['John', 'lovenguth']","[('John', 'NNP'), ('lovenguth', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US169641A,1875-11-09,Benjamin b ,"['Benjamin', 'b']","[('Benjamin', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US169656A,1875-11-09,John net ,"['John', 'net']","[('John', 'NNP'), ('net', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US169665A,1875-11-09,John p  ,"['John', 'p']","[('John', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'PROPN', 'SPACE']",['PERSON'],1,1,3
+US169913A,1875-11-16,Samuel w ,"['Samuel', 'w']","[('Samuel', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US170025A,1875-11-16,Thomas s ,"['Thomas', 's']","[('Thomas', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US170033A,1875-11-16,John vetteelein ,"['John', 'vetteelein']","[('John', 'NNP'), ('vetteelein', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US170145A,1875-11-16,williams ,['williams'],"[('williams', 'NNS')]",0,['PROPN'],['PERSON'],1,1,1
+US170147A,1875-11-23,John b ,"['John', 'b']","[('John', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US170922A,1875-12-07,webster  ,['webster'],"[('webster', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US170975A,1875-12-14,Albbet s ,"['Albbet', 's']","[('Albbet', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US170991A,1875-12-14,Stephen b ,"['Stephen', 'b']","[('Stephen', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US171465A,1875-12-28,John f ,"['John', 'f']","[('John', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US171900A,1876-01-04,James e ,"['James', 'e']","[('James', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US172547A,1876-01-18,Charles felhoen ,"['Charles', 'felhoen']","[('Charles', 'NNP'), ('felhoen', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US172552A,1876-01-25,George h ,"['George', 'h']","[('George', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US172685A,1876-01-25,Albert angell ,"['Albert', 'angell']","[('Albert', 'NNP'), ('angell', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US172741A,1876-01-25,William jaeeell ,"['William', 'jaeeell']","[('William', 'NNP'), ('jaeeell', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US172831A,1876-02-01,Haeboe city ,"['Haeboe', 'city']","[('Haeboe', 'NNP'), ('city', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US173062A,1876-02-01,William  ,['William'],"[('William', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US173235A,1876-02-08,James t ,"['James', 't']","[('James', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US173596A,1876-02-15,Pr ess u r e pum ps ,"['Pr', 'ess', 'u', 'r', 'e', 'pum', 'ps']","[('Pr', 'NNP'), ('ess', 'NN'), ('u', 'JJ'), ('r', 'NN'), ('e', 'NN'), ('pum', 'NN'), ('ps', 'NN')]",1,"['INTJ', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NOUN', 'NOUN']","['PERSON', 'ORG', 'PERSON']",1,1,7
+US173881A,1876-02-22,William  ,['William'],"[('William', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US173945A,1876-02-22,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US173987A,1876-02-22,Stephen s ,"['Stephen', 's']","[('Stephen', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US174186A,1876-02-29,briebach ,['briebach'],"[('briebach', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US174211A,1876-02-29,Hamilton disston ,"['Hamilton', 'disston']","[('Hamilton', 'NNP'), ('disston', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US174249A,1876-02-29,William hfllett ,"['William', 'hfllett']","[('William', 'NNP'), ('hfllett', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US174347A,1876-03-07,John bousfield ,"['John', 'bousfield']","[('John', 'NNP'), ('bousfield', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US174357A,1876-03-07,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US174448A,1876-03-07,toselli ,['toselli'],"[('toselli', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US174461A,1876-03-07,Samuel s ,"['Samuel', 's']","[('Samuel', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US174760A,1876-03-14,barton ,['barton'],"[('barton', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US174882A,1876-03-14,James h ,"['James', 'h']","[('James', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US174950A,1876-03-21,frank  ,['frank'],"[('frank', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US174969A,1876-03-21,William metcalp ,"['William', 'metcalp']","[('William', 'NNP'), ('metcalp', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US175072A,1876-03-21,joseph mteoij gcxd- ,"['joseph', 'mteoij', 'gcxd-']","[('joseph', 'NN'), ('mteoij', 'RBS'), ('gcxd-', 'NN')]",0,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3
+US175124A,1876-03-21,Adolph lutht ,"['Adolph', 'lutht']","[('Adolph', 'NNP'), ('lutht', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US175139A,1876-03-21,murphy ,['murphy'],"[('murphy', 'NN')]",0,['VERB'],['PERSON'],0,1,1
+US175160A,1876-03-21,staeg ea ,"['staeg', 'ea']","[('staeg', 'NN'), ('ea', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US175483A,1876-03-28,Hippolytb mege ,"['Hippolytb', 'mege']","[('Hippolytb', 'NNP'), ('mege', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US175929A,1876-04-11,James goad ,"['James', 'goad']","[('James', 'NNP'), ('goad', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US175945A,1876-04-11,davis ,['davis'],"[('davis', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US176719A,1876-04-25,wegtgott ,['wegtgott'],"[('wegtgott', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US176965A,1876-05-02,Benjamin kuhns and charles scholz ,"['Benjamin', 'kuhns', 'and', 'charles', 'scholz']","[('Benjamin', 'NNP'), ('kuhns', 'NN'), ('and', 'CC'), ('charles', 'NNS'), ('scholz', 'VBP')]",1,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,5
+US176986A,1876-05-02,Thomas o hagan ,"['Thomas', 'o', 'hagan']","[('Thomas', 'NNP'), ('o', 'PRP'), ('hagan', 'VBD')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US177024A,1876-05-02,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US177490A,1876-05-16,Civilioh fqnbs and william j ,"['Civilioh', 'fqnbs', 'and', 'william', 'j']","[('Civilioh', 'NNP'), ('fqnbs', 'NN'), ('and', 'CC'), ('william', 'NN'), ('j', 'NN')]",1,"['PROPN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,5
+US177784A,1876-05-23,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US177832A,1876-05-23,John b ,"['John', 'b']","[('John', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US177982A,1876-05-30,James s ,"['James', 's']","[('James', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US178209A,1876-05-30,van haagen ,"['van', 'haagen']","[('van', 'NN'), ('haagen', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US178232A,1876-06-06,campbell ,['campbell'],"[('campbell', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US178507A,1876-06-13,William t ,"['William', 't']","[('William', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US178564A,1876-06-13,Feedeeick h ,"['Feedeeick', 'h']","[('Feedeeick', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US178600A,1876-06-13,Joseph f ,"['Joseph', 'f']","[('Joseph', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US178698A,1876-06-13,Stephen w ,"['Stephen', 'w']","[('Stephen', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US178706A,1876-06-13,James e ,"['James', 'e']","[('James', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US178798A,1876-06-13,Benjamin h ,"['Benjamin', 'h']","[('Benjamin', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US178908A,1876-06-20,Chaelbs h ,"['Chaelbs', 'h']","[('Chaelbs', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US179016A,1876-06-20,Andeew s ,"['Andeew', 's']","[('Andeew', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US179440A,1876-07-04,Charles j ,"['Charles', 'j']","[('Charles', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US179695A,1876-07-11,John feeaesqn ,"['John', 'feeaesqn']","[('John', 'NNP'), ('feeaesqn', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US180001A,1876-07-18,Esek bussey ,"['Esek', 'bussey']","[('Esek', 'NNP'), ('bussey', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US180475A,1876-08-01,Herbert harbison ,"['Herbert', 'harbison']","[('Herbert', 'NNP'), ('harbison', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US180539A,1876-08-01,William buchanan ,"['William', 'buchanan']","[('William', 'NNP'), ('buchanan', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US180600A,1876-08-01,Philip kbumscheid ,"['Philip', 'kbumscheid']","[('Philip', 'NNP'), ('kbumscheid', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US180755A,1876-08-08,Liyiprpvementjn radiators ,"['Liyiprpvementjn', 'radiators']","[('Liyiprpvementjn', 'NNP'), ('radiators', 'NNS')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US180957A,1876-08-08,Adolph steinheil and edward ,"['Adolph', 'steinheil', 'and', 'edward']","[('Adolph', 'NNP'), ('steinheil', 'NN'), ('and', 'CC'), ('edward', 'NN')]",1,"['PROPN', 'NOUN', 'CCONJ', 'PROPN']",['PERSON'],1,1,4
+US181027A,1876-08-15,bartlett ,['bartlett'],"[('bartlett', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US181193A,1876-08-15,Stephen maetin ,"['Stephen', 'maetin']","[('Stephen', 'NNP'), ('maetin', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US181244A,1876-08-22,John campbell ,"['John', 'campbell']","[('John', 'NNP'), ('campbell', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US181274A,1876-08-22,Jmprovementin butter-workers ,"['Jmprovementin', 'butter-workers']","[('Jmprovementin', 'NNP'), ('butter-workers', 'NNS')]",1,"['PROPN', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,4
+US181930A,1876-09-05,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US181935A,1876-09-05,Michael gollahee ,"['Michael', 'gollahee']","[('Michael', 'NNP'), ('gollahee', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US182095A,1876-09-12,Juan abnao and juan aenao ,"['Juan', 'abnao', 'and', 'juan', 'aenao']","[('Juan', 'NNP'), ('abnao', 'NN'), ('and', 'CC'), ('juan', 'NN'), ('aenao', 'NN')]",1,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US182215A,1876-09-12,john mcmurtry ,"['john', 'mcmurtry']","[('john', 'NN'), ('mcmurtry', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US182260A,1876-09-12,Thomas winans ,"['Thomas', 'winans']","[('Thomas', 'NNP'), ('winans', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US182279A,1876-09-19,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US182285A,1876-09-19,nelson paddack ,"['nelson', 'paddack']","[('nelson', 'JJ'), ('paddack', 'NN')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US182401A,1876-09-19,Thomas baeeett ,"['Thomas', 'baeeett']","[('Thomas', 'NNP'), ('baeeett', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US182421A,1876-09-19,Baymoito oahug ,"['Baymoito', 'oahug']","[('Baymoito', 'NNP'), ('oahug', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US182717A,1876-09-26,John j ,"['John', 'j']","[('John', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US182853A,1876-10-03,John j ,"['John', 'j']","[('John', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US182992A,1876-10-10,William w ,"['William', 'w']","[('William', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US183479A,1876-10-17,William n ,"['William', 'n']","[('William', 'NNP'), ('n', 'NN')]",1,"['PROPN', 'CCONJ']",['PERSON'],1,1,2
+US184358A,1876-11-14,William ennis ,"['William', 'ennis']","[('William', 'NNP'), ('ennis', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US184501A,1876-11-21,William g ,"['William', 'g']","[('William', 'NNP'), ('g', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US184570A,1876-11-21,John bailey ,"['John', 'bailey']","[('John', 'NNP'), ('bailey', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US184628A,1876-11-21,Isaac kendbick ,"['Isaac', 'kendbick']","[('Isaac', 'NNP'), ('kendbick', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US184806A,1876-11-28,thompson ,['thompson'],"[('thompson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US185214A,1876-12-12,Henby bollmann condy ,"['Henby', 'bollmann', 'condy']","[('Henby', 'NNP'), ('bollmann', 'NN'), ('condy', 'NN')]",1,"['PROPN', 'ADJ', 'NOUN']",['PERSON'],1,1,3
+US185350A,1876-12-12,Jothrem m ,"['Jothrem', 'm']","[('Jothrem', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US185620A,1876-12-26,John f ,"['John', 'f']","[('John', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US186013A,1877-01-09,John s ,"['John', 's']","[('John', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US186084A,1877-01-09,Joseph s ,"['Joseph', 's']","[('Joseph', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US186112A,1877-01-09,William d ,"['William', 'd']","[('William', 'NNP'), ('d', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US186134A,1877-01-09,Welmee t ,"['Welmee', 't']","[('Welmee', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US186169A,1877-01-09,John s ,"['John', 's']","[('John', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'PART']",['PERSON'],1,1,2
+US186750A,1877-01-30,Stephen s ,"['Stephen', 's']","[('Stephen', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US186824A,1877-01-30,Anton g-abtenmann ,"['Anton', 'g-abtenmann']","[('Anton', 'NNP'), ('g-abtenmann', 'NN')]",1,"['PROPN', 'PROPN', 'PUNCT', 'PROPN']",['PERSON'],1,1,4
+US187046A,1877-02-06,Geqege peichaed and john kienaedt ,"['Geqege', 'peichaed', 'and', 'john', 'kienaedt']","[('Geqege', 'NNP'), ('peichaed', 'NN'), ('and', 'CC'), ('john', 'NN'), ('kienaedt', 'NN')]",1,"['NOUN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US187162A,1877-02-06,William momueteie ,"['William', 'momueteie']","[('William', 'NNP'), ('momueteie', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US187350A,1877-02-13,Bpheaim k ,"['Bpheaim', 'k']","[('Bpheaim', 'NNP'), ('k', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US187436A,1877-02-13,webster ,['webster'],"[('webster', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US187472A,1877-02-20,john s ,"['john', 's']","[('john', 'NN'), ('s', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US187652A,1877-02-20,Walter maolellan and john p ,"['Walter', 'maolellan', 'and', 'john', 'p']","[('Walter', 'NNP'), ('maolellan', 'NN'), ('and', 'CC'), ('john', 'NN'), ('p', 'NN')]",1,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US187756A,1877-02-27,Wobtht ,['Wobtht'],"[('Wobtht', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US187881A,1877-02-27,Alexander manbbe ,"['Alexander', 'manbbe']","[('Alexander', 'NNP'), ('manbbe', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US187975A,1877-03-06,William a ,"['William', 'a']","[('William', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US188373A,1877-03-13,jones  ,['jones'],"[('jones', 'NNS')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US188401A,1877-03-13,George obtel ,"['George', 'obtel']","[('George', 'NNP'), ('obtel', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US188404A,1877-03-13,Charles b ,"['Charles', 'b']","[('Charles', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US188414A,1877-03-13,conrad h ,"['conrad', 'h']","[('conrad', 'NN'), ('h', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US188416A,1877-03-13,John jambs royle ,"['John', 'jambs', 'royle']","[('John', 'NNP'), ('jambs', 'NNS'), ('royle', 'VBP')]",1,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US188437A,1877-03-13,Hundredths to charles diehl ,"['Hundredths', 'to', 'charles', 'diehl']","[('Hundredths', 'NNS'), ('to', 'TO'), ('charles', 'NNS'), ('diehl', 'VB')]",0,"['NOUN', 'ADP', 'PROPN', 'VERB']",['PERSON'],1,1,4
+US188543A,1877-03-20,James e ,"['James', 'e']","[('James', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US188669A,1877-03-20,Jambs m ,"['Jambs', 'm']","[('Jambs', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US188769A,1877-03-27,Alexander beckers ,"['Alexander', 'beckers']","[('Alexander', 'NN'), ('beckers', 'NNS')]",0,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US188980A,1877-03-27,Henry stbiewlg ,"['Henry', 'stbiewlg']","[('Henry', 'NNP'), ('stbiewlg', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US189167A,1877-04-03,James e ,"['James', 'e']","[('James', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US189235A,1877-04-03,oowlton ,['oowlton'],"[('oowlton', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US189239A,1877-04-03,Thomas libby ,"['Thomas', 'libby']","[('Thomas', 'NNP'), ('libby', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US189505A,1877-04-10,William scully ,"['William', 'scully']","[('William', 'NNP'), ('scully', 'RB')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US189551A,1877-04-17,John j ,"['John', 'j']","[('John', 'NNP'), ('j', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US189600A,1877-04-17,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US189755A,1877-04-17,Feancis leclebe ,"['Feancis', 'leclebe']","[('Feancis', 'NNP'), ('leclebe', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US189922A,1877-04-24,Im provem eisit in shuttle-box mechanisms for looms ,"['Im', 'provem', 'eisit', 'in', 'shuttle-box', 'mechanisms', 'for', 'looms']","[('Im', 'NNP'), ('provem', 'NN'), ('eisit', 'NN'), ('in', 'IN'), ('shuttle-box', 'JJ'), ('mechanisms', 'NNS'), ('for', 'IN'), ('looms', 'NNS')]",1,"['PRON', 'VERB', 'PROPN', 'PROPN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",['PERSON'],1,1,11
+US190052A,1877-04-24,allen ,['allen'],"[('allen', 'NN')]",0,['VERB'],['PERSON'],0,1,1
+US190104A,1877-04-24,Xx ximrrov ,"['Xx', 'ximrrov']","[('Xx', 'NN'), ('ximrrov', 'NN')]",0,"['PROPN', 'INTJ']",['PERSON'],1,1,2
+US190127A,1877-05-01,John bullough ,"['John', 'bullough']","[('John', 'NNP'), ('bullough', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US190138A,1877-05-01,Michael seines ,"['Michael', 'seines']","[('Michael', 'NNP'), ('seines', 'NNS')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US190161A,1877-05-01,Charles h ,"['Charles', 'h']","[('Charles', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US190372A,1877-05-01,William t ,"['William', 't']","[('William', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US190429A,1877-05-08,Jwiprovemewt im windmills ,"['Jwiprovemewt', 'im', 'windmills']","[('Jwiprovemewt', 'NNP'), ('im', 'NN'), ('windmills', 'NNS')]",1,"['PROPN', 'PRON', 'VERB', 'NOUN']",['PERSON'],1,1,4
+US190505A,1877-05-08,Thomas mcnicholas ,"['Thomas', 'mcnicholas']","[('Thomas', 'NNP'), ('mcnicholas', 'NNS')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US190512A,1877-05-08,William h ,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US190533A,1877-05-08,anthony  ,['anthony'],"[('anthony', 'NN')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US190843A,1877-05-15,Levi k ,"['Levi', 'k']","[('Levi', 'NNP'), ('k', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US190905A,1877-05-15,Improvement in bung and bush combined ,"['Improvement', 'in', 'bung', 'and', 'bush', 'combined']","[('Improvement', 'NN'), ('in', 'IN'), ('bung', 'NN'), ('and', 'CC'), ('bush', 'NN'), ('combined', 'VBN')]",0,"['NOUN', 'ADP', 'PROPN', 'CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,6
+US191119A,1877-05-22,davis ,['davis'],"[('davis', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US191199A,1877-05-22,Edwin e ,"['Edwin', 'e']","[('Edwin', 'NNP'), ('e', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US191216A,1877-03-23,"Improvement in latches for doors, &c. 
+     ","['Improvement', 'in', 'latches', 'for', 'doors,', '&c.']","[('Improvement', 'NN'), ('in', 'IN'), ('latches', 'NNS'), ('for', 'IN'), ('doors,', 'NN'), ('&c.', 'NN')]",0,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN', 'SPACE']",['PERSON'],1,1,9
+US191330A,1877-05-29,John fenton ,"['John', 'fenton']","[('John', 'NNP'), ('fenton', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US191449A,1877-05-29,Hobeison ,['Hobeison'],"[('Hobeison', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US191527A,1877-06-05,gotjbert ,['gotjbert'],"[('gotjbert', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US191782A,1877-06-12,burgh smith ,"['burgh', 'smith']","[('burgh', 'NN'), ('smith', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US192008A,1877-06-12,William eandel ,"['William', 'eandel']","[('William', 'NNP'), ('eandel', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US192235A,1877-06-19,ceaig ,['ceaig'],"[('ceaig', 'NN')]",0,['NOUN'],['PERSON'],0,1,1
+US192401A,1877-06-26,William b ,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US192460A,1877-06-26,Joseph s ,"['Joseph', 's']","[('Joseph', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US192620A,1877-07-03,James w ,"['James', 'w']","[('James', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US192813A,1877-07-10,William  ,['William'],"[('William', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US192844A,1877-07-10,smith ,['smith'],"[('smith', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US192862A,1877-07-10,William w ,"['William', 'w']","[('William', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US192900A,1877-07-10,John a ,"['John', 'a']","[('John', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US193024A,1877-07-10,Stephen s ,"['Stephen', 's']","[('Stephen', 'NNP'), ('s', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US193192A,1877-07-17,William spethmann ,"['William', 'spethmann']","[('William', 'NNP'), ('spethmann', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US193347A,1877-07-24,George p ,"['George', 'p']","[('George', 'NNP'), ('p', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US193365A,1877-07-24,George drevae ,"['George', 'drevae']","[('George', 'NNP'), ('drevae', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US193620A,1877-07-31,George w ,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US193887A,1877-08-07,davis ,['davis'],"[('davis', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US193934A,1877-08-07,William m ,"['William', 'm']","[('William', 'NNP'), ('m', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US194023A,1877-08-07,William winkel ,"['William', 'winkel']","[('William', 'NNP'), ('winkel', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US194024A,1877-08-14,Henry w ,"['Henry', 'w']","[('Henry', 'NNP'), ('w', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US194061A,1877-08-14,thompson ,['thompson'],"[('thompson', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US194077A,1877-08-14,davis ,['davis'],"[('davis', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US194235A,1877-08-14,Egbert glover ,"['Egbert', 'glover']","[('Egbert', 'NNP'), ('glover', 'NN')]",1,"['PROPN', 'ADV']",['PERSON'],1,1,2
+US194428A,1877-08-21,Julius haktmann ,"['Julius', 'haktmann']","[('Julius', 'NNP'), ('haktmann', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US194499A,1877-08-21,George r ,"['George', 'r']","[('George', 'NNP'), ('r', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US194694A,1877-08-28,Jambs livebey ,"['Jambs', 'livebey']","[('Jambs', 'NNP'), ('livebey', 'NN')]",1,"['PROPN', 'VERB']",['PERSON'],1,1,2
+US194743A,1877-08-28,tapley ,['tapley'],"[('tapley', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US194767A,1877-09-04,-ferguson ,['-ferguson'],"[('-ferguson', 'NN')]",0,['PUNCT'],['PERSON'],0,1,1
+US195042A,1877-09-11,James h ,"['James', 'h']","[('James', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US195064A,1877-09-11,Gottlieb weber ,"['Gottlieb', 'weber']","[('Gottlieb', 'NNP'), ('weber', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US195073A,1877-09-11,Stephen v ,"['Stephen', 'v']","[('Stephen', 'NNP'), ('v', 'NN')]",1,"['PROPN', 'ADP']",['PERSON'],1,1,2
+US195173A,1877-09-11,Albert a ,"['Albert', 'a']","[('Albert', 'NNP'), ('a', 'DT')]",1,"['PROPN', 'PRON']",['PERSON'],1,1,2
+US195406A,1877-09-18,Joseph  seaman ,"['Joseph', 'seaman']","[('Joseph', 'NNP'), ('seaman', 'NN')]",1,"['PROPN', 'SPACE', 'NOUN']",['PERSON'],1,1,3
+US195452A,1877-09-25,marcotte ,['marcotte'],"[('marcotte', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US195510A,1877-09-25,john b ,"['john', 'b']","[('john', 'NN'), ('b', 'NN')]",0,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US195541A,1877-09-25,Heney sheae ,"['Heney', 'sheae']","[('Heney', 'NNP'), ('sheae', 'NN')]",1,"['NOUN', 'ADV']",['PERSON'],0,1,2
+US195797A,1877-10-02,Ceubbvce ,['Ceubbvce'],"[('Ceubbvce', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US196057A,1877-10-09,Improvement jn quadruplex telegraphs ,"['Improvement', 'jn', 'quadruplex', 'telegraphs']","[('Improvement', 'NNP'), ('jn', 'NN'), ('quadruplex', 'NN'), ('telegraphs', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN', 'PROPN']",['PERSON'],1,1,4
+US196068A,1877-10-16,Leonard bailey ,"['Leonard', 'bailey']","[('Leonard', 'NNP'), ('bailey', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US196421A,1877-10-23,Boalsy of difsmobe ,"['Boalsy', 'of', 'difsmobe']","[('Boalsy', 'NNP'), ('of', 'IN'), ('difsmobe', 'NN')]",1,"['PROPN', 'ADP', 'NOUN']",['PERSON'],1,1,3
+US196545A,1877-10-30,hamilton ,['hamilton'],"[('hamilton', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US196558A,1877-10-30,Thomas  ,['Thomas'],"[('Thomas', 'NNP')]",1,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US196781A,1877-11-06,Yictob bqyy ,"['Yictob', 'bqyy']","[('Yictob', 'NNP'), ('bqyy', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US196840A,1877-11-06,Joshua c ,"['Joshua', 'c']","[('Joshua', 'NNP'), ('c', 'NN')]",1,"['PROPN', 'AUX']",['PERSON'],1,1,2
+US196855A,1877-11-06,Half his eight to john l ,"['Half', 'his', 'eight', 'to', 'john', 'l']","[('Half', 'PDT'), ('his', 'PRP$'), ('eight', 'CD'), ('to', 'TO'), ('john', 'VB'), ('l', 'NN')]",0,"['DET', 'PRON', 'NUM', 'ADP', 'PROPN', 'PROPN']","['CARDINAL', 'CARDINAL', 'PERSON']",1,1,6
+US196913A,1877-11-06,Improvement in watchmen s tim e-detecters ,"['Improvement', 'in', 'watchmen', 's', 'tim', 'e-detecters']","[('Improvement', 'NN'), ('in', 'IN'), ('watchmen', 'NNS'), ('s', 'JJ'), ('tim', 'JJ'), ('e-detecters', 'NNS')]",0,"['NOUN', 'ADP', 'NOUN', 'PART', 'PROPN', 'NOUN', 'NOUN', 'NOUN']",['PERSON'],1,1,8
+US196996A,1877-11-13,Johafn slavik ,"['Johafn', 'slavik']","[('Johafn', 'NNP'), ('slavik', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US197078A,1877-11-13,Xjacob w w ,"['Xjacob', 'w', 'w']","[('Xjacob', 'NN'), ('w', 'NN'), ('w', 'NN')]",0,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3
+US197315A,1877-11-20,George beadiee ,"['George', 'beadiee']","[('George', 'NNP'), ('beadiee', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US197358A,1877-11-20,William gilbert akd jacob garrabeant ,"['William', 'gilbert', 'akd', 'jacob', 'garrabeant']","[('William', 'NNP'), ('gilbert', 'NN'), ('akd', 'NN'), ('jacob', 'NN'), ('garrabeant', 'NN')]",1,"['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,5
+US197359A,1877-11-20,hallas  ,['hallas'],"[('hallas', 'NNS')]",0,"['PROPN', 'SPACE']",['PERSON'],1,1,2
+US197477A,1877-11-27,kneeland ,['kneeland'],"[('kneeland', 'NN')]",0,['PROPN'],['PERSON'],1,1,1
+US197492A,1877-11-27,Assigtnoe of one-half ,"['Assigtnoe', 'of', 'one-half']","[('Assigtnoe', 'NNP'), ('of', 'IN'), ('one-half', 'NN')]",1,"['NOUN', 'ADP', 'NUM', 'PUNCT', 'NOUN']","['PERSON', 'CARDINAL']",0,1,5
+US197538A,1877-11-03,William t ,"['William', 't']","[('William', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US197550A,1877-11-27,Geosge i ,"['Geosge', 'i']","[('Geosge', 'NNP'), ('i', 'NN')]",1,"['NOUN', 'PRON']",['PERSON'],0,1,2
+US197578A,1877-11-27,Pu m ps ,"['Pu', 'm', 'ps']","[('Pu', 'NNP'), ('m', 'NN'), ('ps', 'NN')]",1,"['PROPN', 'VERB', 'VERB']","['PERSON', 'PERSON']",1,1,3
+US197591A,1877-11-27,John h ,"['John', 'h']","[('John', 'NNP'), ('h', 'NN')]",1,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+US197619A,1877-11-27,John drake ,"['John', 'drake']","[('John', 'NNP'), ('drake', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US197650A,1877-11-27,John f ,"['John', 'f']","[('John', 'NNP'), ('f', 'NN')]",1,"['PROPN', 'X']",['PERSON'],1,1,2
+US198126A,1877-12-11,John l ,"['John', 'l']","[('John', 'NNP'), ('l', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US198210A,1877-12-18,Joseph lawson petdtgale ,"['Joseph', 'lawson', 'petdtgale']","[('Joseph', 'NNP'), ('lawson', 'NN'), ('petdtgale', 'NN')]",1,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3
+US198532A,1877-12-25,William blake ,"['William', 'blake']","[('William', 'NNP'), ('blake', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US198620A,1877-12-25,Improvement in hydraulic jack and press ,"['Improvement', 'in', 'hydraulic', 'jack', 'and', 'press']","[('Improvement', 'NN'), ('in', 'IN'), ('hydraulic', 'JJ'), ('jack', 'NN'), ('and', 'CC'), ('press', 'NN')]",0,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN']",['PERSON'],0,1,6
+US198780A,1878-01-01,Ben ding m ,"['Ben', 'ding', 'm']","[('Ben', 'NNP'), ('ding', 'VBG'), ('m', 'NN')]",1,"['PROPN', 'PROPN', 'VERB']",['PERSON'],1,1,3
+US198800A,1878-01-01,John t ,"['John', 't']","[('John', 'NNP'), ('t', 'NN')]",1,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+US198871A,1878-01-01,Meigs case ,"['Meigs', 'case']","[('Meigs', 'NNP'), ('case', 'NN')]",1,"['NOUN', 'NOUN']",['PERSON'],0,1,2
+US199843A,1878-01-29,Mobeis matt son ,"['Mobeis', 'matt', 'son']","[('Mobeis', 'NNP'), ('matt', 'PRP'), ('son', 'NN')]",1,"['PROPN', 'PROPN', 'NOUN']","['PERSON', 'PERSON']",1,1,3
+US199941A,1878-02-05,Improvement jn railway cattle-guards ,"['Improvement', 'jn', 'railway', 'cattle-guards']","[('Improvement', 'NNP'), ('jn', 'NN'), ('railway', 'NN'), ('cattle-guards', 'NNS')]",1,"['NOUN', 'PROPN', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,6
