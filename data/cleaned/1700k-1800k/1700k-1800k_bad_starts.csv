@@ -1,0 +1,310 @@
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
+US1701878A,1929-02-12,A cobpobation of west ,"['DET', 'NOUN', 'ADP', 'PROPN']",[],1,0,4,0,1
+US1706816A,1929-03-26,To xwrireless s ,"['ADP', 'PROPN', 'PART']",[],1,0,3,0,1
+US1714172A,1929-05-21,A cobpoeation of west vikginia ,"['DET', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['GPE'],1,0,5,0,1
+US1714794A,1929-05-28,And hugo hoffmahit ,"['CCONJ', 'PROPN', 'VERB']",['EVENT'],1,0,3,0,1
+US1719031A,1929-07-02,By james p ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1724174A,1929-08-13,To automatic electbic inc ,"['ADP', 'ADJ', 'PROPN', 'PROPN']",[],1,0,4,0,1
+US1725561A,1929-08-20,And cole coolidge ,"['CCONJ', 'PROPN', 'NOUN']",['PRODUCT'],1,0,3,0,1
+US1727591A,1929-09-10,And david f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1728910A,1929-09-17,A cospoeatioh of i-iew ,"['DET', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'ADJ']",[],1,0,6,0,1
+US1734292A,1929-11-05,a xtl x  jl ,"['DET', 'NOUN', 'PUNCT', 'SPACE', 'PROPN']",[],1,0,5,0,1
+US1735396A,1924-07-07,A cobpobation of califobnia ,"['DET', 'NOUN', 'ADP', 'PROPN']",['GPE'],1,0,4,0,1
+US1740102A,1929-12-17,Of los angeles ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1740156A,1929-12-17,And tobias j ,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
+US1740176A,1929-12-17,A cobpobation of del aw abe ,"['DET', 'NOUN', 'ADP', 'PROPN', 'INTJ', 'PROPN']",[],1,0,6,0,1
+US1741226A,1929-12-31,of east orange ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1742508A,1930-01-07,And ebenezer emmet reid ,"['CCONJ', 'PROPN', 'PROPN', 'NOUN']",[],1,0,4,0,1
+US1784509A,1930-12-09,Of los angeles ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1790286A,1931-01-27,And lowell m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1790366A,1931-01-27,And francisco a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US1790622A,1931-01-27,Of los angeles ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1700973A,1929-02-05,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1701035A,1929-02-05,Of pennsyl ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1701519A,1929-02-12,A cgbpobaxioh oei ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
+US1701926A,1929-02-12,To-the plintkote ,"['ADP', 'PUNCT', 'DET', 'NOUN']",[],0,0,4,0,1
+US1701967A,1929-02-12,of whiting ,"['ADP', 'VERB']",[],0,0,2,0,1
+US1702370A,1929-02-19,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1702526A,1929-02-19,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1702586A,1929-02-19,And edward p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1702589A,1929-02-19,And edwabd ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US1702864A,1929-02-19,A cobpobation of massachu ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
+US1702977A,1929-02-19,of lansdale ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1703296A,1929-02-26,of dayton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1703442A,1929-02-26,A cobporation op pennsyl ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1703527A,1929-02-26,A coepobation of hew ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1704386A,1929-03-05,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1704637A,1929-03-05,of basel ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1704865A,1927-08-12,"After-hour depository 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1705356A,1929-03-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1705500A,1929-03-19,A cqbpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1705856A,1929-03-19,A cobpobatiok ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1706194A,1929-03-19,A gokfobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1706462A,1929-03-26,o connor ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1706645A,1929-03-26,of wyomissing ,"['ADP', 'VERB']",[],0,0,2,0,1
+US1706726A,1929-03-26,A cokkjiufflqh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1707108A,1929-03-26,of battle creek ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1707219A,1929-04-02,A cobporation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1707467A,1926-08-19,"Fungicide 
+     ","['ADP', 'SPACE']",[],0,0,2,0,1
+US1707515A,1929-04-02,To paeco ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1707731A,1929-04-02,of akron ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1707787A,1929-04-02,A cospokation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1708448A,1925-03-16,"All-metal-door construction 
+     ","['DET', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1708490A,1929-04-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1708653A,1929-04-09,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
+US1709187A,1929-04-16,And ernst g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1709335A,1929-04-16,And one-half to the western gas ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",['CARDINAL'],0,0,8,0,1
+US1709350A,1929-04-16,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1709546A,1928-07-27,"Tee holder for golf-club shafts 
+     ","['DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1709892A,1929-04-23,A cobpobation of dela ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
+US1711301A,1929-04-30,A cobpobation oe pennsyl ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1711421A,1929-04-30,A cobpobation of massa ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1711611A,1927-07-09,"Inside trouser seat and pad 
+     ","['ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1712898A,1927-11-05,"Inside fishing tool 
+     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1713580A,1929-05-21,of dayton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1713593A,1929-05-21,And ebwin h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1713596A,1929-05-21,of bremen ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1713782A,1929-05-21,of -bhantfosd ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1714038A,1929-05-21,of middletown ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1714047A,1929-05-21,And claude l ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1714427A,1926-03-16,The-rhiite ,"['DET', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US1714718A,1929-05-28,A cobfosation of dela ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
+US1715419A,1929-06-04,A trust estate ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1716389A,1929-06-11,A cobpobation of delax ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1716440A,1929-06-11,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1716884A,1929-06-11,of waterbury ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1717245A,1929-06-11,A cobpobation op new yobk ,"['DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US1717496A,1929-06-18,To mtjstomatik ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1717628A,1929-06-18,A trust estate ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1717899A,1929-06-18,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1718004A,1929-06-18,A cobpobation of penn ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1718801A,1929-06-25,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1718944A,1929-07-02,And alvie c ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1719308A,1929-07-02,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1719409A,1929-07-02,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1719559A,1929-07-02,of syracuse ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1719684A,1929-07-02,of dttisbttbg ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1720444A,1925-03-05,"By-pass check valve for sprinkler systems 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US1721503A,1929-07-23,A copvporation oe ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1721517A,1929-07-23,of flint ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1721556A,1929-07-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1722464A,1929-07-30,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1722992A,1929-08-06,A cgbpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1723055A,1929-08-06,of spbiktgpietd ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1723708A,1929-08-06,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1724257A,1929-08-13,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1725210A,1929-08-20,A cobposatioh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1725442A,1929-08-20,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1725937A,1929-08-27,A cosporatioit ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1726483A,1929-08-27,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1726503A,1929-08-27,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1726510A,1929-08-27,A corpora- x ,"['DET', 'NOUN', 'PUNCT']",[],0,0,3,0,1
+US1726635A,1929-09-03,of corning ,"['ADP', 'VERB']",[],0,0,2,0,1
+US1726693A,1929-09-03,of ikon mountain ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1726929A,1929-09-03,By harold ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1727404A,1929-09-10,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
+US1727455A,1929-09-10,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1727608A,1929-09-10,A cobpobation of cali ,"['DET', 'NOUN', 'ADP', 'ADJ']",[],0,0,4,0,1
+US1727808A,1927-05-06,"By-pass and filter connection 
+     ","['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1727975A,1929-09-10,By henry a ,"['ADP', 'NOUN', 'PRON']",[],0,0,3,0,1
+US1728155A,1929-09-10,With abeasives ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1728519A,1928-06-30,"Off-bearing cart 
+     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1728527A,1929-09-17,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1729683A,1929-10-01,A coepoeatios of new ,"['DET', 'NOUN', 'ADP', 'ADJ']",[],0,0,4,0,1
+US1729761A,1929-10-01,Of dayton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1729942A,1929-10-01,A cobporatioit ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1730111A,1929-10-01,And bobebt g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1730324A,1929-10-01,A coeposation of stew tosk ,"['DET', 'NOUN', 'ADP', 'NOUN', 'ADJ']",[],0,0,5,0,1
+US1730569A,1929-10-08,And irving p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1730669A,1929-10-08,A cobpobation oi ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
+US1730986A,1929-10-08,of leavenworth ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1731678A,1929-10-15,of albuquerque ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1731850A,1929-10-15,of omaha ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1731868A,1929-10-15,And her ,"['CCONJ', 'PRON']",[],0,0,2,0,1
+US1731935A,1929-10-15,A cobpobation oei couuecticut ,"['DET', 'NOUN', 'ADV', 'VERB']",[],0,0,4,0,1
+US1732809A,1929-10-22,A cqbpobation of massa ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1733088A,1929-10-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1733321A,1929-10-29,A coepobation of pennsyl ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1734513A,1929-11-05,A cobpoeation of massachu ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
+US1734646A,1929-11-05,And cromwell b ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1735712A,1929-11-12,And dale a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1735997A,1929-11-19,of mebtden ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1736038A,1929-11-19,A corpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1736259A,1927-07-14,A copabtnership consisting of charles a ,"['DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'PRON']",[],0,0,6,0,1
+US1736404A,1929-11-19,And merwyn c ,"['CCONJ', 'VERB', 'AUX']",[],0,0,3,0,1
+US1736514A,1929-11-19,A cokpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1736863A,1929-11-26,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1737127A,1929-11-26,A cobporatiou of massachu ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
+US1738214A,1929-12-03,A coepoeatioh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1738742A,1929-12-10,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1738756A,1929-12-10,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1738877A,1929-12-10,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1738947A,1929-12-10,And abeli h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1739188A,1929-12-10,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1739932A,1925-05-18,"Inside casing cutter 
+     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1739978A,1926-07-29,"Off-center bracket for ice cans 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1740388A,1929-12-17,A cobpokation oe penn ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1740629A,1929-12-24,of dayton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1741116A,1929-12-24,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1742399A,1926-09-06,"Suspensory bandage 
+     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US1743034A,1930-01-07,of basel ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1743841A,1928-12-22,"Inside vignetter 
+     ","['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US1745636A,1930-02-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1745904A,1930-02-04,And ventilating ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1747461A,1930-02-18,A declaration obi trttst ,"['DET', 'NOUN', 'VERB', 'NOUN']",[],0,0,4,0,1
+US1749330A,1929-04-09,"No-baste clamp 
+     ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1749423A,1930-03-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1750065A,1930-03-11,of gttmmebsbach ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1750358A,1930-03-11,of pabis ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1750727A,1926-10-22,"All-metal racket for tennis and like games 
+     ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADP', 'NOUN', 'SPACE']",[],0,0,10,0,1
+US1751339A,1930-03-18,of seattle ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1752021A,1930-03-25,A m niven ,"['DET', 'ADV', 'ADJ']",['TIME'],0,0,3,0,1
+US1753236A,1930-04-08,of columbus ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1753889A,1930-04-08,A coepoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1754251A,1930-04-15,A cobpobation ob ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1756093A,1930-04-29,of glotjcestee ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1757580A,1926-01-08,"Inside feed stoker 
+     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1757581A,1926-01-08,"Inside feed stoker 
+     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1757887A,1930-05-06,A cobpobation op massa ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1757889A,1930-05-06,A cobpobation obi massa ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1759129A,1928-02-16,"After-hour depository 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1761005A,1930-06-03,A cokpoba ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1761091A,1923-02-26,And arc-extinguishing means ,"['CCONJ', 'NOUN', 'PUNCT', 'VERB', 'VERB']",[],0,0,5,0,1
+US1761547A,1930-06-03,of dayton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1761555A,1930-06-03,A cqbposation of mary ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1761556A,1930-06-03,A cobpoeatiok oe ,"['DET', 'NOUN', 'INTJ']",[],0,0,3,0,1
+US1761571A,1930-06-03,A coepoeation of maey ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1761689A,1930-06-03,A cobporation of mary ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1761915A,1930-06-03,Of elint ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1761944A,1930-06-03,A oobpobamof osi deiiawabb ,"['DET', 'ADJ', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1762116A,1930-06-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1762118A,1930-06-03,A corposation of connect ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1762474A,1930-06-10,of brentford ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1762709A,1926-09-07,"Fungicide 
+     ","['ADP', 'SPACE']",[],0,0,2,0,1
+US1764370A,1930-06-17,of macomb ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1766791A,1928-11-22,"By-pass sheet folder 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1766794A,1930-06-24,of flint ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1768329A,1930-06-24,of bttffalo ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1768344A,1930-06-24,of akron ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1768454A,1930-06-24,A cobpobatjon of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1768459A,1930-06-24,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1768471A,1930-06-24,As trustee ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1768500A,1930-06-24,A corpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1769579A,1930-07-01,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1770001A,1927-01-22,"Fungicide 
+     ","['ADP', 'SPACE']",[],0,0,2,0,1
+US1771887A,1928-02-06,"Thermocouple 
+     ","['DET', 'SPACE']",[],0,0,2,0,1
+US1772042A,1930-08-05,A cobpqbation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1772251A,1927-05-13,"By-products recovery in the digestion of cellulose materials 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,11,0,1
+US1772372A,1927-07-18,"Vernier adjusting device 
+     ","['DET', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1772536A,1930-08-12,of erie ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1772710A,1928-06-01,"Inside pipe cutter 
+     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1773026A,1930-08-12,For calculators ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1773788A,1930-08-26,A corporatiojsr of north caro ,"['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US1774367A,1930-08-26,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1774373A,1930-08-26,And alfred osolin ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1775204A,1930-09-09,of bridgeport ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1776568A,1930-09-23,o neale ,"['DET', 'ADJ']",[],0,0,2,0,1
+US1776847A,1930-09-30,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
+US1777438A,1929-06-24,"Over-the-top display rotator 
+     ","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1777895A,1926-12-14,"A universal joint for motor-driven vehicles 
+     ","['DET', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US1778851A,1930-10-21,of steeling ,"['ADP', 'VERB']",[],0,0,2,0,1
+US1779154A,1927-05-27,"The slow feeding of liquid 
+     ","['DET', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1779717A,1930-10-28,A corp oration ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1779798A,1930-10-28,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1780025A,1930-10-28,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1780076A,1930-10-28,And three-fourths to na ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
+US1780100A,1928-05-04,"Inside casing cutter 
+     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1782762A,1930-11-25,A coepobatio ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1785864A,1930-12-23,A corpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1786209A,1930-12-23,of seattle ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1786454A,1930-12-30,of dayton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1786462A,1930-12-30,of memphis ,"['ADP', 'PRON']",[],0,0,2,0,1
+US1786675A,1930-12-30,A omporation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1786979A,1930-12-30,Of endicott ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1787789A,1931-01-06,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1788123A,1931-01-06,And macdonau ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1788872A,1931-01-13,of flint ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1788915A,1929-05-09,"Suspensory device for artificial legs 
+     ","['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1789020A,1928-03-26,"Inside caliper 
+     ","['ADP', 'ADJ', 'SPACE']",[],0,0,3,0,1
+US1789973A,1931-01-27,of columbus ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1790292A,1931-01-27,Oe pasadena ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790343A,1931-01-27,By direct ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1790374A,1931-01-27,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1790465A,1928-06-15,To the miehle printing ,"['ADP', 'DET', 'NOUN', 'VERB']",[],0,0,4,0,1
+US1790494A,1931-01-27,And benjamin h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1790501A,1931-01-27,of detboit ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1790504A,1931-01-27,A cobpobation op h ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1790509A,1931-01-27,A cokpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1790515A,1931-01-27,A cqsp ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790549A,1931-01-27,A cory ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790556A,1931-01-27,A cqspoba ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790585A,1931-01-27,A cohposatiqst ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790606A,1931-01-27,Wokm geaking ,"['ADP', 'VERB']",[],0,0,2,0,1
+US1790613A,1931-01-27,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790617A,1931-01-27,of hoped ale ,"['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1790624A,1931-01-27,of middlebtjry ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1790649A,1931-02-03,of portland ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1790650A,1931-02-03,And lttdger e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1790652A,1931-02-03,of swissvale ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1790676A,1931-02-03,A cobpobatioit ox ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1790679A,1931-02-03,of salt lake city ,"['ADP', 'NOUN', 'NOUN', 'NOUN']",['GPE'],0,0,4,0,1
+US1790690A,1931-02-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1790706A,1931-02-03,of elgin ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1790741A,1931-02-03,of mansfield ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1790770A,1931-02-03,A cobpobatiom ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790797A,1931-02-03,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1790804A,1931-02-03,And three-tenths to k ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'X']",['CARDINAL'],0,0,6,0,1
+US1790807A,1931-02-03,A coepobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790861A,1931-02-03,of dixon ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1790863A,1931-02-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1790864A,1931-02-03,of springfield ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1790910A,1931-02-03,A cobpora ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790912A,1931-02-03,A cobposatioit of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1790928A,1931-02-03,of dayton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1790931A,1931-02-03,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1790986A,1931-02-03,a harris ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1791004A,1931-02-03,A common-law tbttstxnamely ,"['DET', 'ADJ', 'PUNCT', 'NOUN', 'ADV']",[],0,0,5,0,1
+US1791005A,1931-02-03,A common-law trust ,"['DET', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US1791055A,1931-02-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1791065A,1931-02-03,of ttjbin ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1791875A,1931-02-10,A cobpobation of xabyland ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
+US1791905A,1931-02-10,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1793830A,1931-02-24,And edgab m ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US1794824A,1931-03-03,Due jig ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1795937A,1931-03-10,To north east ,"['ADP', 'NOUN', 'NOUN']",['LOC'],0,0,3,0,1
+US1798955A,1931-03-31,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1799493A,1924-08-07,"Over-arm clamp for machine tools 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1799683A,1931-04-07,A cobpobation of penn ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1799752A,1931-04-07,Of endicott ,"['ADP', 'NOUN']",[],0,0,2,0,1

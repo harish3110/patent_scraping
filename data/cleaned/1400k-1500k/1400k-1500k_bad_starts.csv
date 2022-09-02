@@ -1,0 +1,296 @@
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
+US1402684A,1922-01-03,And one-foubth to clatjb w ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'ADP']",['CARDINAL'],1,0,7,0,1
+US1405589A,1922-02-07,By alida b ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1407225A,1922-02-21,To jtjstrite manufactttb ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1408275A,1922-02-28,Of san diego ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1413667A,1922-04-25,A copartnership consisting oe christ ,"['DET', 'NOUN', 'VERB', 'PROPN', 'PROPN']",[],1,0,5,0,1
+US1416731A,1920-09-25,"By-pass system for piston pumps 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'VERB', 'SPACE']",[],1,0,8,0,1
+US1418180A,1922-05-30,And lewis richard ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1419035A,1922-06-06,And frank c ,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US1419686A,1922-06-13,By kate b ,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US1422451A,1922-07-11,of bo awoke ,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1422978A,1922-07-18,And one-fourth to charles j ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'NOUN']",['CARDINAL'],1,0,7,0,1
+US1424101A,1922-07-25,of sah francisco ,"['ADP', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US1424369A,1922-08-01,A cobposation oe delays abb ,"['DET', 'NOUN', 'NOUN', 'NOUN', 'PROPN']",[],1,0,5,0,1
+US1426786A,1922-08-22,And feahklin htjtchinson ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1427754A,1921-03-31,And herman w ,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
+US1430296A,1922-09-26,Of san francisco ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1434053A,1922-10-31,of niagara falls ,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1440546A,1923-01-02,And john of ,"['CCONJ', 'PROPN', 'ADP']",[],1,0,3,0,1
+US1448628A,1923-03-13,And henby f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1449825A,1923-03-27,of niagara falls ,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1457970A,1923-06-05,A cobpoeatioh op belawabe ,"['DET', 'NOUN', 'ADP', 'PROPN']",[],1,0,4,0,1
+US1459294A,1923-06-19,Of new orleans ,"['ADP', 'ADJ', 'PROPN']",['GPE'],1,0,3,0,1
+US1475868A,1923-11-27,And james p ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1476524A,1919-07-07,"By-product coke oven 
+     ","['ADP', 'PUNCT', 'NOUN', 'PROPN', 'PROPN', 'SPACE']",[],1,0,6,0,1
+US1479792A,1924-01-08,And kay e ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1483741A,1924-02-12,Ab b one-third to harry v ,"['ADP', 'PROPN', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'PROPN']",['CARDINAL'],1,0,8,0,1
+US1484654A,1924-02-26,A cokporatiokt op west visgotia ,"['DET', 'NOUN', 'NOUN', 'NOUN', 'PROPN']",[],1,0,5,0,1
+US1485591A,1924-03-04,A common-law trust consisting of solomon stod ,"['DET', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'ADP', 'PROPN', 'ADV']",[],1,0,9,0,1
+US1400489A,1921-12-13,By mildbed lowby ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1400674A,1921-12-20,A cobpobation of vibginia ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
+US1401321A,1921-12-27,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1401631A,1921-12-27,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1401752A,1921-12-27,And wehnee ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1402700A,1922-01-03,A cobpobatiokt of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1402764A,1922-01-10,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1402922A,1922-01-10,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1404779A,1922-01-31,And one-hale to a ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PRON']",['CARDINAL'],0,0,6,0,1
+US1404920A,1922-01-31,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1405896A,1920-06-23,"Inside pipe wrench 
+     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1406136A,1921-04-21,And florence c ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US1406865A,1922-02-14,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1407147A,1922-02-21,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1407983A,1922-02-28,And geghge csisson ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1408055A,1922-02-28,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1408223A,1922-02-28,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1408349A,1922-02-28,A voluntaby association ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1409550A,1922-03-14,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1410256A,1922-03-21,By henrietta h ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1410428A,1922-03-21,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1411304A,1922-04-04,of solothurn ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1411492A,1919-08-15,"Off-bearing mechanism for tile cutters 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1412127A,1922-04-11,A ejbm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1412799A,1921-09-29,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1412808A,1922-04-11,A cobpobatioh of maiste ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1413716A,1922-04-25,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1413799A,1922-04-25,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1414223A,1922-04-25,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1414326A,1922-04-25,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1414987A,1922-05-02,And morris j ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1415125A,1922-05-09,A corpo sation ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1415148A,1922-05-09,A corpobatiokt of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1415600A,1922-05-09,And egbert g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1416205A,1922-05-16,A corpobatlon of pjbwinsyi ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1416711A,1922-05-23,A cobpoeatio ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1417770A,1921-07-08,"By-pass valve 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1417808A,1921-02-26,"By-pass valve 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1418058A,1922-05-30,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1418140A,1922-05-30,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1418628A,1922-06-06,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1418663A,1922-06-06,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1418665A,1922-06-06,A cosposathot  of massau ,"['DET', 'NOUN', 'SPACE', 'ADP', 'NOUN']",[],0,0,5,0,1
+US1419102A,1921-05-11,"Under-tree plow 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1419113A,1922-06-06,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1419880A,1922-06-13,Out of contact with the air ,"['ADP', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN']",[],0,0,6,0,1
+US1421202A,1922-06-27,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1421488A,1922-07-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1422672A,1921-03-09,"Thermocouple 
+     ","['DET', 'SPACE']",[],0,0,2,0,1
+US1423303A,1922-07-18,A cokporation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1423715A,1922-07-25,A firm composed of elmo e ,"['DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,0,1
+US1423755A,1922-07-25,And one ,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
+US1424056A,1922-07-25,A cokporatiolf ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1424113A,1922-07-25,Mining- machine ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US1425017A,1922-08-08,And one-thikd to j ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,6,0,1
+US1425224A,1922-08-08,A gobpobatioh ,"['DET', 'NOUN']",['DATE'],0,0,2,0,1
+US1425660A,1922-08-15,And gottfried wirrer ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1425983A,1922-08-15,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1425993A,1922-08-15,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1426668A,1922-08-22,And marjobie b ,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
+US1426859A,1922-08-22,A cobpobatioh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1426875A,1919-12-15,The-main ,"['DET', 'PUNCT', 'ADJ']",[],0,0,3,0,1
+US1427119A,1922-08-29,Edmund c ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1427232A,1922-08-29,Of producing same ,"['ADP', 'VERB', 'ADJ']",[],0,0,3,0,1
+US1427271A,1922-08-29,To hojgau ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1427449A,1922-08-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1427656A,1922-08-29,A vacuum ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1428621A,1919-03-22,"By-product coke oven with sole firing 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADJ', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US1428707A,1919-01-23,"In-a-wall furniture 
+     ","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1428947A,1922-09-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1429556A,1921-12-29,"Inside gauge 
+     ","['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US1430054A,1922-09-26,And one ,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
+US1430121A,1922-09-26,A cobposaiiqh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1430213A,1922-09-26,A cobpob ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1430277A,1922-09-26,of manchester ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1430970A,1922-10-03,A corposatiost ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1431599A,1922-10-10,of bbooxlyv ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1431770A,1922-10-10,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
+US1431803A,1922-10-10,And ernest j ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1432076A,1922-10-17,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1432735A,1922-10-17,And clare nelsoh ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1433354A,1922-10-24,And sinteeing- oees ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1433590A,1922-10-31,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1433846A,1922-10-31,A a service co ,"['DET', 'DET', 'NOUN', 'VERB']",[],0,0,4,0,1
+US1433946A,1922-10-31,A corpobation of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1434268A,1922-10-31,A voluntary asso ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1434306A,1922-10-31,of basel ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1434437A,1922-11-07,A corpoba ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1434780A,1922-11-07,To diamond electric ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1434825A,1922-11-07,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1434932A,1922-11-07,And cleaning machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1436217A,1922-11-21,A voluntary asso ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1436752A,1922-11-28,Tapping- tool fob ,"['ADP', 'NOUN', 'VERB']",[],0,0,3,0,1
+US1437431A,1922-12-05,A copvpobation of illi ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1437667A,1922-12-05,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1438400A,1922-12-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1438958A,1922-12-19,A cqbpqxation oe con ,"['DET', 'NOUN', 'X', 'NOUN']",[],0,0,4,0,1
+US1438987A,1919-09-30,And herman a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1439286A,1922-12-19,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1439813A,1922-12-26,of freeport ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1440399A,1923-01-02,A cokpokatxon ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1440867A,1923-01-02,A corpq ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1441032A,1923-01-02,A cobpqration ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1441796A,1923-01-09,No-voltage release switch ,"['DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US1442705A,1923-01-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1443166A,1923-01-23,A cokpokation oe ,"['DET', 'NOUN', 'ADV']",[],0,0,3,0,1
+US1443288A,1923-01-23,A coeporation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1443955A,1923-02-06,To standard equipment ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1445417A,1923-02-13,A cokpobaticot ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1445492A,1923-02-13,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1446485A,1923-02-27,And one-fourth to clifton ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
+US1446515A,1923-02-27,A cobpoeatioh osi jxlchigasr ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1446650A,1923-02-27,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1446687A,1923-02-27,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1447141A,1923-02-27,A corpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1447289A,1923-03-06,And the like ,"['CCONJ', 'DET', 'INTJ']",[],0,0,3,0,1
+US1448752A,1923-03-20,of dayton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1449455A,1923-03-27,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1449642A,1923-03-27,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1450468A,1923-04-03,A cobpoeatiow of cali ,"['DET', 'NOUN', 'ADP', 'ADJ']",[],0,0,4,0,1
+US1451160A,1923-04-10,A coepobation of new ,"['DET', 'NOUN', 'ADP', 'ADJ']",[],0,0,4,0,1
+US1451735A,1923-04-17,A voluntary association of ,"['DET', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,0,1
+US1451813A,1922-03-24,"Inside pocket iron 
+     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1451912A,1923-04-17,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1453060A,1923-04-24,of ludwigshaeen-on-the-rhine ,"['ADP', 'VERB', 'PUNCT', 'ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN']",[],0,0,8,0,1
+US1453109A,1923-04-24,of springfield ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1453712A,1923-05-01,A cobporation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1453778A,1923-05-01,A cobpokatigm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1455735A,1923-05-15,a rojas ,"['DET', 'ADJ']",[],0,0,2,0,1
+US1456201A,1923-05-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1456851A,1923-05-29,A coeporationoe dela ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1456960A,1923-05-29,A cobpobation of new ,"['DET', 'NOUN', 'ADP', 'ADJ']",[],0,0,4,0,1
+US1457608A,1923-06-05,A voluntary ,"['DET', 'ADJ']",[],0,0,2,0,1
+US1458364A,1923-06-12,A vqlusttasy tsust association ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1458375A,1923-06-12,A coepoea ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1458765A,1921-01-15,"By-pass valve for angle cocks 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB', 'SPACE']",[],0,0,8,0,1
+US1460075A,1923-06-26,And quarrying machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1461883A,1923-07-17,A cobpoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1462296A,1923-07-17,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1462448A,1923-07-17,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1462548A,1923-07-24,A cospoeation op ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1463212A,1923-07-31,A cosbgba ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1463292A,1923-07-31,A cobpobatiom ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1463422A,1923-07-31,A cobpohation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1463513A,1923-07-31,of dayton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1464290A,1923-08-07,And one-third to l ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,6,0,1
+US1464533A,1923-08-14,A ttorne ,"['DET', 'ADJ']",[],0,0,2,0,1
+US1465963A,1922-12-13,"Re and de railing device 
+     ","['ADP', 'CCONJ', 'ADV', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1466539A,1923-08-28,And leonard ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1466655A,1923-09-04,For graphophones ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1467142A,1923-09-04,of akron ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1467910A,1923-09-11,A cogporation oe pennsyl ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1467916A,1923-09-11,of defiance ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1468146A,1923-09-18,And sighed severson ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1468330A,1923-09-18,To the sperey gybqscope ,"['ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1468510A,1923-09-18,And frederick a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1468675A,1923-09-25,A coeporation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1468748A,1923-09-25,of newark ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1469839A,1922-12-11,"The manufacture of a coating for cloths for aeroplane wings or planes and the like 
+     ","['DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,16,0,1
+US1470562A,1923-10-09,A cosporatiou ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1471924A,1923-10-23,A partnership composed of m ,"['DET', 'NOUN', 'VERB', 'ADP', 'NOUN']",[],0,0,5,0,1
+US1472464A,1922-06-13,"Inside pipe wrench 
+     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1472500A,1923-10-30,A cobporation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1472509A,1923-10-30,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1472614A,1923-10-30,A ttorne k ,"['DET', 'ADJ', 'X']",[],0,0,3,0,1
+US1473254A,1923-11-06,A cobpoeation oe dela ,"['DET', 'NOUN', 'INTJ', 'NOUN']",[],0,0,4,0,1
+US1473367A,1923-11-06,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1474719A,1923-11-20,And helmer g ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1474875A,1923-11-20,A cospokation oe ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1474902A,1923-11-20,A coepobation of penn ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1475473A,1923-11-27,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1475621A,1923-11-27,A coeporation oe new yokk ,"['DET', 'NOUN', 'X', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US1475864A,1923-11-27,And charles e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1475944A,1923-12-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1476085A,1913-07-12,"No-voltage release for electrical switches 
+     ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1476205A,1923-12-04,A cobpobation op ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1476974A,1923-03-05,"Inside stairway and folding door for double-deck motor coaches 
+     ","['ADP', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,12,0,1
+US1477571A,1923-12-18,A cospojatioh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1477675A,1923-12-18,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1478437A,1923-12-25,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1479462A,1924-01-01,And edgar a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1479825A,1924-01-08,A cobpobatiojst of illhtois ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1480277A,1924-01-08,A corporatton ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1480898A,1924-01-15,of akron ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1480949A,1924-01-15,A cojr ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1481149A,1924-01-15,Of new tobx ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1481183A,1924-01-15,Of west ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1481498A,1922-09-15,"Under-hood lock for automobiles 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1481577A,1924-01-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1481802A,1924-01-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1481959A,1924-01-29,A common law trust ,"['DET', 'ADJ', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1482808A,1924-02-05,A coepobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US1483054A,1922-08-24,"Inside lip-turning machine 
+     ","['ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1483207A,1924-02-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1483351A,1922-04-18,"Suspensory bandage 
+     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US1483552A,1924-02-12,To wireless ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1484064A,1922-10-21,"Tee plate for golf courses 
+     ","['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1484309A,1924-02-19,Of schenectady ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1484317A,1924-02-19,A gobporation op new yobk ,"['DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US1484587A,1924-02-19,of petit-quevilly ,"['ADP', 'NOUN', 'PUNCT', 'ADV']",[],0,0,4,0,1
+US1484608A,1924-02-19,A cortobatioh of belawake ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1486122A,1924-03-11,A cobpobatiojst osi belawage ,"['DET', 'ADJ', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1486128A,1920-11-20,"On-and-off weighing scale 
+     ","['ADP', 'PUNCT', 'CCONJ', 'PUNCT', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1486256A,1924-03-11,A gok-pobatioh ,"['DET', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US1486272A,1924-03-11,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1486501A,1924-03-11,A copartnership composed op ib ,"['DET', 'NOUN', 'VERB', 'NOUN', 'ADP']",[],0,0,5,0,1
+US1486646A,1924-03-11,And mortimer j ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1486656A,1924-03-11,A eibm consiotihg oei ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US1486693A,1924-03-11,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1486787A,1920-06-24,"Inside car door 
+     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1486792A,1924-03-11,A coffee substitute ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1486838A,1924-03-11,A cokpohation of massa ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1488197A,1924-03-25,And dahisl k ,"['CCONJ', 'NOUN', 'X']",[],0,0,3,0,1
+US1488390A,1924-03-25,The duties and othes data relating to ,"['DET', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'VERB', 'ADP']",[],0,0,7,0,1
+US1488653A,1919-05-03,"Over-arm 
+     ","['ADP', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1488733A,1924-04-01,A cospora ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1489188A,1922-07-08,"Inside door for railway cars and the like 
+     ","['ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,9,0,1
+US1489819A,1924-04-08,And mere-itt b ,"['CCONJ', 'ADV', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US1489836A,1924-04-08,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1490081A,1924-04-15,And cleo h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1491897A,1924-04-29,A coorpobationi ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1492504A,1922-09-22,"Suspensory bandage 
+     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US1492907A,1924-05-06,And one-tenth to theodore ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
+US1493028A,1921-07-23,"Suspensory 
+     ","['DET', 'SPACE']",[],0,0,2,0,1
+US1493472A,1924-05-13,A coepoea ,"['DET', 'NOUN']",[],0,0,2,0,1
+US1493568A,1924-05-13,A cobpobasjioet osi ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1493888A,1924-05-13,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US1495733A,1924-05-27,Of brooklyn ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1495977A,1924-05-27,A q toz ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1496822A,1923-03-16,"Inside fastener for storm windows 
+     ","['ADP', 'NOUN', 'ADP', 'NOUN', 'VERB', 'SPACE']",[],0,0,6,0,1
+US1496826A,1923-03-16,"Suspensory 
+     ","['DET', 'SPACE']",[],0,0,2,0,1
+US1497481A,1924-06-10,A common law trust consisting of ,"['DET', 'ADJ', 'NOUN', 'NOUN', 'VERB', 'ADP']",[],0,0,6,0,1
+US1497485A,1924-01-11,"Inside door protector and gangboard 
+     ","['ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1498645A,1919-06-30,"Inside box stapler 
+     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1499620A,1924-07-01,A corpora ,"['DET', 'X']",[],0,0,2,0,1

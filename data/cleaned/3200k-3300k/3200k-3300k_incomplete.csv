@@ -1,0 +1,33 @@
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
+US3235456A,1961-10-18,"N-(trimethylacetyl) anilines 
+       ","['PROPN', 'PUNCT', 'VERB', 'SPACE']",['CARDINAL'],1,0,4,1
+US3247156A,1961-09-05,"Polyethylene compositions with nu, nu1-bisolelyloxamide 
+       ","['NOUN', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],1,0,9,1
+US3283194A,1955-11-16,"Electroluminescent lamp with a barium titanate layer 
+       ","['PROPN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],1,0,8,1
+US3217833A,1964-06-29,"Safety device 
+       ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US3220607A,1964-05-13,"Conditioning material dispenser for washing machines 
+       ","['NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,1
+US3229695A,1963-03-09,"Document storing devices 
+       ","['NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,1
+US3239831A,1958-06-30,"Electronic switching apparatus 
+       ","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US3242860A,1962-12-28,"Automatic inking mechanism for stencil duplicators 
+       ","['ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,1
+US3259790A,1961-08-31,"Beam tube and magnetic circuit therefor 
+       ","['NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'SPACE']",[],0,0,7,1
+US3268707A,1963-10-14,"Mechanism for oscillating the movable heat source of a welding machine 
+       ","['NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,12,1
+US3271210A,1963-07-24,"Formation of p-nu junctions in silicon 
+       ","['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,9,1
+US3271250A,1960-11-17,"Therapy and control of atherosclerotic diseases 
+       ","['NOUN', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,7,1
+US3271651A,1962-09-24,"Signal transfer apparatus incorporating means to suppress spurious interference signals 
+       ","['ADJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'PART', 'VERB', 'ADJ', 'NOUN', 'VERB', 'SPACE']",[],0,0,11,1
+US3276834A,1965-03-03,"Cabinet panel lock 
+       ","['NOUN', 'NOUN', 'VERB', 'SPACE']",['ORG'],0,0,4,1
+US3280326A,1963-05-02,"Mass filter with sheet electrodes on each side of the analyzer rod that intersect on the ion beam axis 
+       ","['ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,20,1
+US3280524A,1963-11-14,"Wind breaker to prevent roof damage 
+       ","['NOUN', 'NOUN', 'PART', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,1

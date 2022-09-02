@@ -1,0 +1,346 @@
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
+US3305558A,1967-02-21,"And y-cyanobenzimidazole
+derivatives ","['CCONJ', 'PROPN', 'PUNCT', 'NOUN', 'SPACE', 'NOUN']",[],1,0,6,0,1
+US3329351A,1963-10-11,"A combination of apparatus for the beneficiation of phosphate rock 
+       ","['DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'PROPN', 'NOUN', 'SPACE']",[],1,0,11,0,1
+US3329352A,1963-10-10,"A combination of apparatus for the beneficiation of phosphate rock 
+       ","['DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'PROPN', 'NOUN', 'SPACE']",[],1,0,11,0,1
+US3332970A,1964-10-28,"Per (beta and gamma substituted alkylene)mono-and di-tin compounds and the preparation thereof 
+       ","['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'PROPN', 'PUNCT', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADV', 'SPACE']",[],1,0,18,0,1
+US3342380A,1967-09-19,At to zn ey ,"['ADP', 'ADP', 'PROPN', 'PRON']",[],1,0,4,0,1
+US3342848A,1965-02-11,"N, n'-dialkyl-n, n'-dicyanoalkyl-o-phthalamides 
+       ","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']","['GPE', 'ORG']",1,0,12,0,1
+US3342865A,1964-03-02,"N, n'-dialkyl-n-phenyl-n'-isopropylpara-phenylenediamines 
+       ","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'PUNCT', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']","['GPE', 'ORG']",1,0,12,0,1
+US3376344A,1964-04-03,"N, n'-bis-(2-aminoethyl)-1, 3-bis (2-aminoalkyl) benzenes 
+       ","['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'PROPN', 'PUNCT', 'X', 'PUNCT', 'ADJ', 'PUNCT', 'NUM', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'SPACE']","['ORG', 'CARDINAL', 'CARDINAL']",1,0,16,0,1
+US3378529A,1964-04-20,"N, n'-sulphonyl nitrogenous monomers and copolymers thereof 
+       ","['CCONJ', 'PUNCT', 'PROPN', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADV', 'SPACE']","['ORG', 'GPE']",1,0,9,0,1
+US3379248A,1965-12-10,"In situ combustion process utilizing waste heat 
+       ","['ADP', 'ADJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'PROPN', 'SPACE']",[],1,0,8,0,1
+US3380058A,1965-11-10,"Near sidelobe suppression in a singlering directional array with horizontal beam direction 
+       ","['ADP', 'PROPN', 'NOUN', 'ADP', 'DET', 'VERB', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],1,0,13,0,1
+US3388287A,1965-01-04,"Tm01 mode rf pulse generator 
+       ","['ADP', 'NOUN', 'PROPN', 'PROPN', 'PROPN', 'SPACE']",[],1,0,6,0,1
+US3390579A,1966-09-06,"Over-pressure diaphragm protection 
+       ","['ADP', 'PUNCT', 'NOUN', 'PROPN', 'NOUN', 'SPACE']",[],1,0,6,0,1
+US3398188A,1964-03-04,"And [4-(2-haloalkanoyl) phenylmercapto]-alkanoic acids 
+       ","['CCONJ', 'X', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'ADJ', 'NOUN', 'SPACE']",['CARDINAL'],1,0,9,0,1
+US3300388A,1965-09-08,"In-core sampling and spray device for nuclear reactors 
+       ","['ADP', 'PUNCT', 'NOUN', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,11,0,1
+US3301051A,1965-02-03,"By-pass fluid meter fitting 
+       ","['ADP', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'VERB', 'SPACE']",[],0,0,7,0,1
+US3301146A,1963-11-05,"By-pass structure 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3301858A,1967-01-31,"Or<
+vii ","['CCONJ', 'X', 'SPACE', 'NOUN']",[],0,0,4,0,1
+US3301909A,1967-01-31,By iajl ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US3302103A,1963-12-13,"No cap detecting mechanism 
+       ","['DET', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3302344A,1963-10-21,"Tee ball marker 
+       ","['DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3303355A,1963-06-27,"Or-inverter 
+       ","['CCONJ', 'PUNCT', 'ADJ', 'SPACE']",[],0,0,4,0,1
+US3306296A,1963-09-23,"A body worn urinal with detachable receptacle 
+       ","['DET', 'NOUN', 'VERB', 'ADJ', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3307785A,1965-07-22,"On-off and modulating condition control valve 
+       ","['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,9,0,1
+US3308439A,1964-01-02,"On-line system 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3308880A,1963-01-28,"Through-the-flowline tool installation system 
+       ","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3309456A,1964-07-14,"Above ground terminal tap enclosure for subterranean cables 
+       ","['ADP', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3309883A,1965-10-11,"Underground cryogenic storage of liquefied gas 
+       ","['ADP', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3310707A,1963-05-16,"Over voltage protection means for high voltage mercury arc rectifiers 
+       ","['ADP', 'NOUN', 'NOUN', 'VERB', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,11,0,1
+US3311058A,1965-03-22,"Rf shielded switch for safety-arming devices 
+       ","['DET', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3311269A,1965-11-30,"All-purpose commodity pneumatic trailer 
+       ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3311376A,1965-01-29,"Off-set tow target 
+       ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3311864A,1962-10-29,"Thermocouple pickup 
+       ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US3312762A,1963-11-12,"Inside coating during blow molding 
+       ","['ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3312884A,1964-11-27,"In phase detector 
+       ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3313241A,1965-09-23,"Over-the-top delivery for pumps having anti-freeze properties 
+       ","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADJ', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",[],0,0,14,0,1
+US3313782A,1967-04-11,With a dihydroxy compound ,"['ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US3314029A,1963-01-03,"And type reed switch control 
+       ","['CCONJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3314384A,1965-08-30,"Over-bed table 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3315366A,1965-04-09,"Out of round gauge attachment for a wheel balancing stand 
+       ","['ADP', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,11,0,1
+US3316020A,1964-11-23,"In situ retorting method employed in oil shale 
+       ","['ADP', 'ADJ', 'VERB', 'NOUN', 'VERB', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3316418A,1963-05-09,"All passive frequency detection channel 
+       ","['DET', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3316788A,1965-10-14,"Up-and-down shear 
+       ","['ADP', 'PUNCT', 'CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3316962A,1965-04-13,"In situ combustion method for residualoil recovery from petroleum deposits 
+       ","['ADP', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,11,0,1
+US3317043A,1965-03-31,"In-line filter construction 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3317142A,1966-04-25,"On the spot car wash 
+       ","['ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3317862A,1964-09-11,"Off-axis elastic wave delay device with spherical reflections 
+       ","['ADP', 'PUNCT', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,11,0,1
+US3320449A,1964-01-23,"On-load self-starting synchronous motor 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3320608A,1964-06-08,"After beat metronome 
+       ","['ADP', 'VERB', 'ADV', 'SPACE']",[],0,0,4,0,1
+US3320980A,1965-06-07,"Weft laying mechanism for needle looms 
+       ","['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'SPACE']",[],0,0,7,0,1
+US3322194A,1965-03-25,"In-place retorting of oil shale 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3323555A,1965-03-29,"Weft inserting mechanism 
+       ","['ADP', 'VERB', 'NOUN', 'SPACE']",['ORG'],0,0,4,0,1
+US3323805A,1964-07-30,"All metal dynamic and static seal 
+       ","['DET', 'NOUN', 'ADJ', 'CCONJ', 'ADJ', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3324616A,1965-05-19,"All-steel nailable car flooring 
+       ","['DET', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'VERB', 'SPACE']",[],0,0,7,0,1
+US3324943A,1964-07-13,"Off-shore drilling 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3326380A,1964-12-28,"Dialyzer with various connection means 
+       ","['CCONJ', 'ADP', 'ADJ', 'NOUN', 'VERB', 'SPACE']",[],0,0,6,0,1
+US3327858A,1964-06-10,"In-line filter device 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3327946A,1964-07-31,"Over-centre snap acting temperature responsive switch 
+       ","['ADP', 'PUNCT', 'NOUN', 'VERB', 'VERB', 'NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3328701A,1963-09-16,"All channel television tuner 
+       ","['DET', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3329029A,1966-03-21,"Off-center load moving assembly 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3329705A,1963-03-29,"The use of group viii noble metals in the purification of phthalic acid esters 
+       ","['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,15,0,1
+US3330117A,1964-11-27,"By-pass gas turbine jet engine 
+       ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3330304A,1965-09-24,"Weft take-up mechanism 
+       ","['ADP', 'VERB', 'PUNCT', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3330518A,1965-08-03,"Suspensory system for objects 
+       ","['DET', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3330860A,1962-03-29,"The use of isonitrile chromium pentacarbonyl compounds in the preparation of esters 
+       ","['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,13,0,1
+US3330971A,1964-09-23,"Nor-nand logic circuit using tunnel diodes 
+       ","['CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3331833A,1964-03-23,"The graft polymerization of ethylenimine onto tertiary amino starch 
+       ","['DET', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",['ORDINAL'],0,0,10,0,1
+US3332286A,1965-09-02,"Thermocouple pressure gauge 
+       ","['DET', 'NOUN', 'VERB', 'SPACE']",[],0,0,4,0,1
+US3332488A,1964-12-30,"In situ combustion process 
+       ","['ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3332808A,1964-10-09,"Thermocouple construction 
+       ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US3332958A,1964-04-27,"Bis-(amino alkoxy phenyl)sulfides, sulfoxides and sulfones 
+       ","['ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'VERB', 'SPACE']",[],0,0,8,0,1
+US3333089A,1963-09-30,"Through-zero comparator 
+       ","['ADP', 'PUNCT', 'NUM', 'NOUN', 'SPACE']",['CARDINAL'],0,0,5,0,1
+US3333153A,1964-08-31,"Over-voltage protection techniques 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3333230A,1964-12-03,"Thermocouple adapter 
+       ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US3333706A,1964-11-16,"Dialyzer assembling means 
+       ","['DET', 'NOUN', 'VERB', 'SPACE']",[],0,0,4,0,1
+US3333789A,1963-07-18,"Off-on type missile control system 
+       ","['ADP', 'PUNCT', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3333838A,1962-09-17,"Thermocouple comprising planar sheet metal strip lead having a forward end which envelopes the other lead to form a hot junction and gas oven comprising said thermocouple 
+       ","['DET', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN', 'PRON', 'VERB', 'DET', 'ADJ', 'NOUN', 'PART', 'VERB', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADJ', 'NOUN', 'VERB', 'PRON', 'SPACE']",[],0,0,28,0,1
+US3334563A,1963-08-24,"Between-the-lens shutters 
+       ","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3334747A,1965-02-24,"In-line filter structure 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3335059A,1967-08-08,And method of producing ,"['CCONJ', 'NOUN', 'ADP', 'VERB']",[],0,0,4,0,1
+US3335236A,1966-08-18,"By-pass switch 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3335237A,1966-08-18,"By-pass switch 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3335279A,1964-06-24,"Thermocouple radiation detector with an integrator in the feedback path of the amplifier to compensate for the integrating effect of the detector 
+       ","['DET', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PART', 'VERB', 'ADP', 'DET', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'SPACE']",[],0,0,23,0,1
+US3336504A,1964-11-18,"Over-current protective device 
+       ","['ADP', 'PUNCT', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3337194A,1965-08-09,"In-line blender 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3337621A,1962-09-10,"N, n'-disubstituted allophanyl chlorides and their preparation 
+       ","['CCONJ', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'PRON', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3338283A,1965-07-19,"In-feed mechanism for slicing machines 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3338535A,1964-10-02,"Under carriage with tandem wheels 
+       ","['ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",['ORG'],0,0,6,0,1
+US3338752A,1962-11-23,"Thermocouple 
+       ","['DET', 'SPACE']",[],0,0,2,0,1
+US3340431A,1966-06-27,"Over-voltage protection instrument 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3341022A,1964-11-16,"Dialyzer assembling means 
+       ","['DET', 'NOUN', 'VERB', 'SPACE']",[],0,0,4,0,1
+US3341820A,1964-10-13,"On-line branch for data processing systems 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3342191A,1965-06-01,"Under truck washer 
+       ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3342220A,1964-09-02,"Weft changing apparatus 
+       ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3342257A,1963-12-30,"In situ retorting of oil shale using nuclear energy 
+       ","['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'SPACE']",[],0,0,10,0,1
+US3342264A,1965-08-12,"A method of removing solid paraffincontaining deposits from oil well surfaces and compositions therefor 
+       ","['DET', 'NOUN', 'ADP', 'VERB', 'ADJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'SPACE']",[],0,0,15,0,1
+US3342276A,1965-12-01,"Under reaming device 
+       ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3342328A,1966-04-14,"Dialyzer membrane storage assembly 
+       ","['DET', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3345135A,1963-12-06,"The catalytic oxidation of hydrocarbons in the presence of hydrogen sulfide to produce carbon disulfide and oxides of carbon 
+       ","['DET', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PART', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,20,0,1
+US3345409A,1965-12-16,"A method of preparing 1, 3, 10, 11, 12-pentahydroxynaphthacene-2-carboxamides 
+       ","['DET', 'NOUN', 'ADP', 'VERB', 'NUM', 'PUNCT', 'NUM', 'PUNCT', 'NUM', 'PUNCT', 'NUM', 'PUNCT', 'NUM', 'PUNCT', 'SPACE', 'PUNCT', 'NOUN', 'SPACE']","['CARDINAL', 'DATE', 'CARDINAL']",0,0,18,0,1
+US3345465A,1964-03-24,"A composite frame having two threestage crossbar switch link frames 
+       ","['DET', 'ADJ', 'NOUN', 'VERB', 'NUM', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",['CARDINAL'],0,0,11,0,1
+US3345566A,1967-10-03,In a measuring rebalance apparatus ,"['ADP', 'DET', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US3347104A,1963-10-24,"Vernier balancing and damping for gyro systems 
+       ","['DET', 'VERB', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3347143A,1966-09-06,"Behind-the-lens spot-metering in single-lens-reflex cameras 
+       ","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,16,0,1
+US3347271A,1964-07-03,"By-pass valve 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3347323A,1965-05-03,"Under reamer 
+       ","['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US3347969A,1962-08-01,"A method of making crimped polyoxymethylene filaments 
+       ","['DET', 'NOUN', 'ADP', 'VERB', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3352208A,1965-11-10,"Inside flash trimmer 
+       ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3354310A,1963-10-14,"A mobile density and moisture content sensing device for continuous logging of a terrestrial surface 
+       ","['DET', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'SPACE']",[],0,0,16,0,1
+US3354552A,1965-05-10,"Inside micrometer 
+       ","['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US3354845A,1964-06-26,"A pellet mill having adjustably mounted rollers 
+       ","['DET', 'NOUN', 'NOUN', 'AUX', 'ADV', 'VERB', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3355714A,1963-10-21,"On-line computing system for processing mathematical functions 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'SPACE']",[],0,0,10,0,1
+US3355788A,1964-10-20,"A method of sawing slits in finned tubing 
+       ","['DET', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3355972A,1967-04-13,"Inside tube cutter 
+       ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3356617A,1963-01-30,"An alkaline earth metal carboxylate phosphite stabilizing composition 
+       ","['DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3356949A,1964-04-13,"By-pass volume control circuit for clock radios 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,10,0,1
+US3357189A,1965-09-08,"A precast hollow core charge for a rocket motor and method for casting same 
+       ","['DET', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ', 'SPACE']",[],0,0,15,0,1
+US3357373A,1964-09-26,"Kneading machine for kneading plastic material 
+       ","['ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3357792A,1966-10-03,"Kneading pretreatment for the production of aluminum hydroxide 
+       ","['ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADV', 'SPACE']",[],0,0,9,0,1
+US3358839A,1965-03-01,"In-line filter element assembling means 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,8,0,1
+US3359036A,1966-08-29,"All-purpose back-rest 
+       ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3360005A,1963-12-09,"By-pass damper device 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3360275A,1966-01-25,"By-pass seal 
+       ","['ADP', 'PUNCT', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3360531A,1964-10-06,"In situ epoxidation process 
+       ","['ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3362080A,1966-02-14,"Through drying of paper 
+       ","['ADP', 'VERB', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3362471A,1965-09-08,"In situ retorting of oil shale by transient state fluid flows 
+       ","['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,12,0,1
+US3362502A,1966-07-14,"Above the floor vehicle lift 
+       ","['ADP', 'DET', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,6,0,1
+US3362599A,1966-11-10,"Over-the-shoulder garment carrier 
+       ","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3363034A,1963-09-25,"The process of blow molding a hollow article from a tubular parison of a thermoplastic resin foam 
+       ","['DET', 'NOUN', 'ADP', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,18,0,1
+US3363369A,1965-10-23,"All pitch chimney flashing 
+       ","['DET', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,5,0,1
+US3365152A,1965-10-04,"Through floor pipe bushing 
+       ","['ADP', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,5,0,1
+US3367373A,1965-02-19,"Weft inserting nozzle 
+       ","['ADP', 'VERB', 'NOUN', 'SPACE']",['ORG'],0,0,4,0,1
+US3368516A,1961-05-15,"Through-transom marine propulsion unit 
+       ","['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3368712A,1960-07-05,"Semicrystalline glass and method of applying the same to metallic bases 
+       ","['ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,12,0,1
+US3371259A,1965-05-26,"On-off direct current motor control network with dynamic braking 
+       ","['ADP', 'PUNCT', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,12,0,1
+US3372250A,1966-04-20,"All-purpose timer 
+       ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3373174A,1964-12-17,"A method for improving color and the color and odor stability of fatty amides 
+       ","['DET', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'VERB', 'SPACE']",[],0,0,15,0,1
+US3373967A,1965-04-12,"Between-flange ball valve 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,6,0,1
+US3373968A,1965-04-12,"Between-flange ball valve with slidable seats 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3376169A,1963-07-12,"Thermocouple assembly having a deformable ferrule housing 
+       ","['DET', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3376170A,1964-02-27,"Thermocouple junctions 
+       ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US3376616A,1966-06-06,"In-line buckle 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3376702A,1966-12-30,"In a gas turbine engine power turbine nozzle control for providing vehicle braking 
+       ","['ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'VERB', 'SPACE']",[],0,0,14,0,1
+US3377208A,1964-11-10,"Thermocouple assembly 
+       ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US3377498A,1966-01-03,"In a high pressure lamp, protective metal oxide layers on the inner wall of the quartz envelope 
+       ","['ADP', 'DET', 'ADJ', 'NOUN', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'SPACE']",[],0,0,19,0,1
+US3378606A,1962-09-10,"Semicrystalline stereoblock copolymers 
+       ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3378667A,1963-10-02,"Per pulse cutoff electrical discharge machining apparatus 
+       ","['ADP', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US3378766A,1965-03-17,"A time measuring circuit for determining projectile velocity 
+       ","['DET', 'NOUN', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3381029A,1964-09-28,"A-norprogesterone derivatives 
+       ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3382839A,1965-02-16,"Through transom mounted drive unit for watercraft 
+       ","['ADP', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",['ORG'],0,0,8,0,1
+US3384127A,1965-06-28,"Weft cutter for a loom with a stationary weft supply 
+       ","['ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",['ORG'],0,0,11,0,1
+US3384301A,1966-12-23,"Plus and minus accumulator 
+       ","['CCONJ', 'CCONJ', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3385322A,1966-01-25,"And valve for fluid logic circuits 
+       ","['CCONJ', 'VERB', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3385448A,1966-12-19,"Up-flow self-cleaning filter apparatus 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3386473A,1965-05-17,"By-pass gas meter hanger 
+       ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3387276A,1965-08-13,"Off-line memory test 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3387527A,1965-05-14,"All harmonic wave frequency divider 
+       ","['DET', 'ADJ', 'NOUN', 'NOUN', 'ADJ', 'SPACE']",[],0,0,6,0,1
+US3392591A,1966-09-19,"On-off repeat cycle timer 
+       ","['ADP', 'PUNCT', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3392756A,1965-06-22,"Weft inserting apparatus in multiple looms 
+       ","['ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",['ORG'],0,0,7,0,1
+US3392782A,1966-08-15,"In situ preparation of surface active agents in subterranean formations 
+       ","['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,11,0,1
+US3393101A,1965-06-29,"Thermocouple probe with plural junctions 
+       ","['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3393699A,1966-06-06,"Over pressure limiter 
+       ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3395428A,1965-10-18,"All purpose clip 
+       ","['DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3395614A,1965-10-19,"Inside bead trimming apparatus 
+       ","['ADP', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US3395706A,1965-06-14,"No-sew, no-fold diaper 
+       ","['DET', 'PUNCT', 'NOUN', 'PUNCT', 'ADJ', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3395892A,1967-06-02,"Over-center load binder and gripping device 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US3396156A,1964-06-24,"The use of a complex of a cuprous halide and hydroxylamine for the preparation of copper mercaptides 
+       ","['DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'VERB', 'SPACE']",[],0,0,18,0,1
+US3397579A,1966-01-27,"Thermocouple gauge control 
+       ","['DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3397679A,1966-12-20,"Through-flow steam generator circuit 
+       ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US3397878A,1965-11-19,"Under-bath tuyere 
+       ","['ADP', 'PUNCT', 'NOUN', 'VERB', 'SPACE']",[],0,0,5,0,1
+US3397996A,1964-12-29,"All-purpose shortening composition 
+       ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US3398315A,1965-08-19,"A traveling wavetube with improved thermal and magnetic circuitry 
+       ","['DET', 'VERB', 'NOUN', 'ADP', 'VERB', 'ADJ', 'CCONJ', 'ADJ', 'NOUN', 'SPACE']",[],0,0,10,0,1
+US3398580A,1965-10-22,"Thermocouple temperature measurement 
+       ","['DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US3399627A,1966-06-28,"In-the-line fuel pump 
+       ","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,8,0,1
+US3399690A,1966-08-30,"Over pressure cutoff 
+       ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1

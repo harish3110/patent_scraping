@@ -1,0 +1,275 @@
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
+US748694A,1904-01-05,And john c ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US748772A,1904-01-05,The kobfits peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US748968A,1904-01-05,And harry l ,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
+US749150A,1904-01-12,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US749315A,1904-01-12,A gorpoeation of west vieginia ,"['DET', 'NOUN', 'ADP', 'PROPN', 'PROPN']",[],1,0,5,0,1
+US749362A,1904-01-12,A coepoeatton of new jeesey ,"['DET', 'NOUN', 'ADP', 'PROPN', 'NOUN']",[],1,0,5,0,1
+US749457A,1904-01-12,A ng kline smelker ,"['DET', 'PROPN', 'NOUN', 'NOUN']",[],1,0,4,0,1
+US749927A,1904-01-19,The nowij peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",['ORG'],1,0,4,0,1
+US750275A,1904-01-26,No mod-el ,"['DET', 'PROPN', 'PUNCT', 'PROPN']",[],1,0,4,0,1
+US750324A,1904-01-26,No mod-el ,"['DET', 'PROPN', 'PUNCT', 'PROPN']",[],1,0,4,0,1
+US750330A,1904-01-26,The norrfs peters co  ,"['DET', 'PROPN', 'PROPN', 'X', 'SPACE']",[],1,0,5,0,1
+US750698A,1904-01-26,The norris peters ,"['DET', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US751482A,1904-02-09,And john p ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US752015A,1904-02-09,And otto lan ,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US752107A,1904-02-16,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US752313A,1904-02-16,A coepoeation of west vteginia ,"['DET', 'NOUN', 'ADP', 'NOUN', 'PROPN']",[],1,0,5,0,1
+US752563A,1904-02-16,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US752792A,1904-02-23,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US752933A,1904-02-23,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US753057A,1904-02-23,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US704678A,1901-11-25,"By-pass stop-cock for multiple-light gaseliers. 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,13,0,1
+US713318A,1902-04-12,"Suspensory bandage. 
+     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
+US722121A,1902-11-26,"Suspensory bandage. 
+     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
+US723506A,1900-11-05,"After-pressing device for presses. 
+     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US725739A,1902-08-02,"Inside pipe-clamp. 
+     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US726003A,1902-01-17,"Inside micrometer. 
+     ","['ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
+US733517A,1902-06-30,"Inside grain-door. 
+     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US743261A,1903-11-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US744512A,1903-06-23,"Suspensory bandage. 
+     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
+US746474A,1903-01-03,"Suspensory bandage. 
+     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
+US748572A,1904-01-05,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748573A,1904-01-05,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748574A,1904-01-05,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748576A,1904-01-05,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748584A,1904-01-05,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748585A,1904-01-05,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748683A,1904-01-05,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748740A,1904-01-05,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US748766A,1904-01-05,Ie noh ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US748791A,1904-01-05,of oestrich ,"['ADP', 'PRON']",[],0,0,2,0,1
+US748844A,1904-01-05,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748906A,1904-01-05,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748941A,1904-01-05,A partnership ,"['DET', 'NOUN']",[],0,0,2,0,1
+US748944A,1904-01-05,And measuring ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US748971A,1904-01-05,of sandusky ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US748984A,1904-01-05,The horhis peters co ,"['DET', 'DET', 'NOUN', 'VERB']",[],0,0,4,0,1
+US749032A,1904-01-05,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749044A,1904-01-05,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749059A,1904-01-05,And wilfeed w ,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
+US749066A,1904-01-05,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749120A,1904-01-05,of winnipeg ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US749162A,1904-01-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US749204A,1904-01-12,of hanau ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US749208A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749226A,1904-01-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US749326A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749359A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749382A,1904-01-12,of pittsburg ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US749401A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749413A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749430A,1904-01-12,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749431A,1904-01-12,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749432A,1904-01-12,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749438A,1904-01-12,of southbridge ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US749459A,1904-01-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US749479A,1904-01-12,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749483A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749495A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749496A,1904-01-12,And herbert stew ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US749524A,1904-01-12,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749528A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749605A,1904-01-12,A copartnership composed ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
+US749615A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749631A,1904-01-12,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749663A,1904-01-12,of ogden ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US749689A,1904-01-12,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US749787A,1904-01-19,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US749870A,1904-01-19,The hobkis ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749940A,1904-01-19,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749966A,1904-01-19,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749982A,1904-01-19,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US749983A,1904-01-19,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750022A,1904-01-19,The noijflll ,"['DET', 'ADJ']",[],0,0,2,0,1
+US750026A,1904-01-19,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750108A,1904-01-19,A coepoea ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750109A,1904-01-19,A coepoea ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750155A,1904-01-19,A coepoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750182A,1904-01-19,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US750212A,1904-01-19,Tj out ott ott ott ,"['ADP', 'ADV', 'INTJ', 'INTJ', 'INTJ']",[],0,0,5,0,1
+US750230A,1904-01-19,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750237A,1904-01-19,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US750239A,1904-01-19,A coepoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750307A,1904-01-26,A fiem ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750338A,1904-01-26,The norbis peters ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US750411A,1904-01-26,A coepoeation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US750421A,1904-01-26,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750434A,1904-01-26,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750497A,1904-01-26,A coepoeation of new jeesey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US750498A,1904-01-26,And buffalo ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US750500A,1904-01-26,And buffalo ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US750549A,1904-01-26,And buffalo ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US750550A,1904-01-26,And buffalo ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US750565A,1904-01-26,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750591A,1904-01-26,To national ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US750668A,1904-01-26,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750689A,1904-01-26,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750691A,1904-01-26,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750732A,1904-01-26,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750748A,1904-01-26,A coepobation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750760A,1904-01-26,And vancouver ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US750762A,1904-01-26,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US750828A,1904-02-02,A copartnership doing business under name of desmond ,"['DET', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,0,1
+US750863A,1904-02-02,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750951A,1904-02-02,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US750956A,1904-02-02,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US751022A,1904-02-02,A coepoeation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US751035A,1904-02-02,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751037A,1904-02-02,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751048A,1904-02-02,And adoniram j ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US751050A,1904-02-02,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751054A,1904-02-02,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751091A,1904-02-02,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751123A,1904-02-02,A coepo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751128A,1904-02-02,A coepoeation of new jeesey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US751160A,1904-02-02,A copaetneeship ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751263A,1904-02-02,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US751286A,1904-02-02,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US751299A,1904-02-02,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751320A,1904-02-02,A coepoeation of new jeesey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US751370A,1904-02-02,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751411A,1904-02-02,By gas ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US751449A,1904-02-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US751462A,1904-02-09,of ashhuest ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US751466A,1904-02-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US751508A,1904-02-09,And pierre ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US751526A,1904-02-09,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751541A,1904-02-09,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751593A,1904-02-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US751602A,1904-02-09,And south bend ,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,0,1
+US751702A,1904-02-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US751764A,1904-02-09,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751789A,1904-02-09,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751804A,1904-02-09,A coepoeation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US751806A,1904-02-09,of newcastle ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US751813A,1904-02-09,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751852A,1904-02-09,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751864A,1904-02-09,A coepoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751865A,1904-02-09,of geasse ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US751869A,1904-02-09,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751880A,1904-02-09,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US751982A,1904-02-09,And courtland p ,"['CCONJ', 'VERB', 'NOUN']",['GPE'],0,0,3,0,1
+US751993A,1904-02-09,And heney g ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US752011A,1904-02-09,A coepoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752065A,1904-02-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752111A,1904-02-16,And-fobty-nine two-hundeedths to gamaliel c ,"['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'NUM', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN']",['CARDINAL'],0,0,11,0,1
+US752113A,1904-02-16,of meriden ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US752133A,1904-02-16,Of  jacksonville ,"['ADP', 'SPACE', 'NOUN']",[],0,0,3,0,1
+US752172A,1904-02-16,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752173A,1904-02-16,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752209A,1904-02-16,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752210A,1904-02-16,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752214A,1904-02-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752215A,1904-02-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752224A,1904-02-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US752229A,1904-02-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US752239A,1904-02-16,A coepoeation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US752247A,1904-02-16,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752260A,1904-02-16,No hodel ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752266A,1904-02-16,The morris meters  ,"['DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US752308A,1904-02-16,A cobpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752309A,1904-02-16,A coepo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752310A,1904-02-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752332A,1904-02-16,A coepoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752340A,1904-04-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US752346A,1904-02-16,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752369A,1904-02-16,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752440A,1904-02-16,Off-bearing mechanism for sawmills ,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
+US752529A,1904-02-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US752613A,1904-02-16,A corpoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752632A,1904-02-16,Edmund deeble tyler ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US752634A,1904-02-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US752656A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752668A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752703A,1904-02-23,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752704A,1904-02-23,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752726A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752732A,1904-02-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US752733A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752797A,1904-02-23,A coepoeation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US752829A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752859A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752868A,1904-02-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US752907A,1904-02-23,of sandycroft ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US752922A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752923A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US752942A,1904-02-23,A coepoeation of new jeesey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US753012A,1904-02-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US753021A,1904-02-23,A corpoea ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753022A,1904-02-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US753023A,1904-02-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US753024A,1904-02-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US753037A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753050A,1904-02-23,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753054A,1904-02-23,A goepoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753148A,1904-02-23,And egbert j ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US753155A,1904-02-23,The morris petebs co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US753186A,1904-02-23,By mesne ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US753187A,1904-02-23,A coepoea ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753198A,1904-02-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US753214A,1904-02-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US753276A,1904-03-01,A cobporation of illi ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US753310A,1904-03-01,And dental ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US753338A,1904-03-01,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US753357A,1904-03-01,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753367A,1904-03-01,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753369A,1904-03-01,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753380A,1904-03-01,And hoped ale ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US753401A,1904-03-01,A coepoeation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US753406A,1904-03-01,And edwaed l ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US753420A,1904-03-01,of halifax ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US753444A,1904-03-01,of medfoed ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US753455A,1904-03-01,No hodjel ,"['DET', 'ADJ']",[],0,0,2,0,1
+US753459A,1904-03-01,A coepo ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753494A,1904-03-01,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753506A,1904-03-01,A coepoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753574A,1904-03-01,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753580A,1904-03-01,A fiem ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753581A,1904-03-01,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
+US753589A,1904-03-01,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US756005A,1903-07-07,"Suspensory bandage. 
+     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
+US757153A,1903-09-09,"Suspensory bandage. 
+     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
+US763070A,1904-01-21,"Inside-threading tool. 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US767144A,1904-08-09,And charles e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US767174A,1903-05-01,"The manufacture of decorated or labeled drawn cans. 
+     ","['DET', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,10,0,1
+US770339A,1904-09-20,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US770379A,1904-09-20,A coepoea ,"['DET', 'NOUN']",[],0,0,2,0,1
+US770443A,1904-09-20,Of steubenville ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US770444A,1904-09-20,Oe steubenville ,"['DET', 'NOUN']",[],0,0,2,0,1
+US770482A,1904-09-20,A coeporation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US770483A,1904-09-20,A coepoeation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US770487A,1904-09-20,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US770526A,1904-09-20,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US770546A,1904-09-20,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US770547A,1904-09-20,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US770607A,1904-09-20,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US770681A,1904-09-20,A coepoeation of new jeesey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US770683A,1904-09-20,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US770701A,1904-09-20,No model ,"['DET', 'NOUN']",[],0,0,2,0,1
+US770713A,1904-09-20,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US771836A,1903-07-20,"Off-bear table for sawmills. 
+     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US772298A,1904-10-11,A corpora ,"['DET', 'X']",[],0,0,2,0,1
+US777028A,1904-05-12,"Suspensory attachment for garters. 
+     ","['DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US783575A,1904-07-06,"Inside form for sewer-work. 
+     ","['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US783953A,1905-02-28,And blanche d ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US785289A,1904-04-28,"Outside hanging scaffold. 
+     ","['ADP', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,5,0,1
+US799510A,1904-11-04,"Ironwork structure. 
+     ","['ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1

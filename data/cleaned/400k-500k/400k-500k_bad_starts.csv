@@ -1,0 +1,810 @@
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
+US400577A,1889-04-02,And mary elizbeth ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US400984A,1889-04-09,And edward j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US401279A,1889-04-09,And harry h ,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
+US401459A,1889-04-16,And george m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US401929A,1889-04-23,And frederick r ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US402686A,1889-05-07,And peter b ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US403186A,1889-05-14,And moses simpson ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US404667A,1889-06-04,And thomas v ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US404994A,1889-06-11,And edwin b ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US405060A,1889-06-11,And otto august ,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US405067A,1889-06-11,To sarah hall ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US406304A,1889-07-02,And frank j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US406587A,1889-07-09,And amos h ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US406597A,1889-07-09,And merritt t ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US406819A,1889-07-09,And hugh mckay ,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US407548A,1889-07-23,And thomas j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US408007A,1889-07-30,And john c ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US409056A,1889-08-13,To rufits w ,"['ADP', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US409534A,1889-08-20,And samuel h ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US410536A,1889-09-03,And leonard ii ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US411466A,1889-09-24,And erastus b ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US411749A,1889-09-24,And charles tennant ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US413124A,1889-10-15,And harry h ,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
+US413137A,1889-10-15,And michael a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US413138A,1889-10-15,And michael a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US413632A,1889-10-22,To james noble ,"['ADP', 'PROPN', 'ADJ']",[],1,0,3,0,1
+US415052A,1889-11-12,And samuel j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US415497A,1889-11-19,of san josij ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US416393A,1889-12-03,And august zincke ,"['CCONJ', 'PROPN', 'PROPN']",['DATE'],1,0,3,0,1
+US417002A,1889-12-10,And edwin j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US417235A,1889-12-17,And louis-g ,"['CCONJ', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,4,0,1
+US417773A,1889-12-24,And thomas f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US417890A,1889-12-24,And george t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US418938A,1890-01-07,And august zincke ,"['CCONJ', 'PROPN', 'PROPN']",['DATE'],1,0,3,0,1
+US419145A,1890-01-07,And samuel salmon ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US419772A,1890-01-21,Of ann arbor ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US420183A,1890-01-28,And frank b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US422804A,1890-03-04,And enoch wood perry ,"['CCONJ', 'PROPN', 'NOUN', 'PROPN']",[],1,0,4,0,1
+US423616A,1890-03-18,And george f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US423617A,1890-03-18,And george p ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US424315A,1890-03-25,And enoch wood peery ,"['CCONJ', 'PROPN', 'NOUN', 'NOUN']",[],1,0,4,0,1
+US424611A,1890-04-01,And joseph u ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US425384A,1890-04-08,The korrij peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US425492A,1890-04-15,The korris pgtebs co ,"['DET', 'PROPN', 'NOUN', 'VERB']",[],1,0,4,0,1
+US425828A,1890-04-15,And lyman d ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US426118A,1890-04-22,And thomas b ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US426243A,1890-04-22,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US426275A,1890-04-22,And oscar walfrid hult ,"['CCONJ', 'PROPN', 'VERB', 'NOUN']",[],1,0,4,0,1
+US426961A,1890-04-29,The nonnis peters co ,"['DET', 'PROPN', 'PROPN', 'X']",[],1,0,4,0,1
+US427002A,1890-04-29,The norms peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US427526A,1890-05-06,And lewis stockett ,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US427664A,1890-05-13,The hufims peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US427933A,1890-05-13,And william t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US428238A,1890-05-20,The nosris peters co ,"['DET', 'PROPN', 'PROPN', 'X']",[],1,0,4,0,1
+US428436A,1890-05-20,And george p ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US428699A,1890-05-27,And john f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US429062A,1890-05-27,And eben s ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US429215A,1890-06-03,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US429329A,1890-06-03,And ephraim m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US429588A,1890-06-03,And william t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US429797A,1890-06-10,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US429843A,1890-06-10,And joseph r ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US429925A,1890-06-10,And johann eburt ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US429966A,1890-06-10,The korris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US430094A,1890-06-10,The kohbis petefls co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US430136A,1890-06-17,The nonnis fetens co ,"['DET', 'PROPN', 'VERB', 'VERB']",[],1,0,4,0,1
+US430832A,1890-06-24,And benjamin b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US431805A,1890-07-08,The nobris petehs co ,"['DET', 'PROPN', 'VERB', 'PROPN']",[],1,0,4,0,1
+US431865A,1890-07-08,And luther l ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US431931A,1890-07-08,And luther l ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US432634A,1890-07-22,And ann m ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US433739A,1890-08-05,And francis ii ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US433894A,1890-08-05,And paul drendul ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US433921A,1890-08-05,And edward g ,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US433922A,1890-08-05,And edward g ,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US434128A,1890-08-12,The honnis petghj co ,"['DET', 'PROPN', 'NOUN', 'VERB']",[],1,0,4,0,1
+US434297A,1890-08-12,The nobriz pettbs co ,"['DET', 'PROPN', 'VERB', 'VERB']",[],1,0,4,0,1
+US434853A,1890-08-19,The nohris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US435150A,1890-08-26,And gustave simon ,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US435394A,1890-09-02,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US435555A,1890-09-02,The nohris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US436120A,1890-09-09,In s u lato r-b rag ket ,"['ADP', 'NOUN', 'NOUN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],1,0,9,0,1
+US436159A,1890-09-09,The noswfi petebs co ,"['DET', 'PROPN', 'NOUN', 'VERB']",[],1,0,4,0,1
+US437321A,1890-09-30,And fay lewis ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US437332A,1890-09-30,And francis e ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US437540A,1890-09-30,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US437637A,1890-09-30,The norrij peters co ,"['DET', 'ADJ', 'PROPN', 'VERB']",[],1,0,4,0,1
+US437937A,1890-10-07,To james h ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US438579A,1890-10-14,And samuel g ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US439012A,1890-10-21,And enoch wood perry ,"['CCONJ', 'PROPN', 'NOUN', 'PROPN']",[],1,0,4,0,1
+US439013A,1890-10-21,And enoch wood perry ,"['CCONJ', 'PROPN', 'NOUN', 'PROPN']",[],1,0,4,0,1
+US439261A,1890-10-28,And carleton w ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US439489A,1890-10-28,And harry l ,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
+US439831A,1890-11-04,The noflrls petirs co ,"['DET', 'NOUN', 'VERB', 'PROPN']",[],1,0,4,0,1
+US442414A,1890-12-09,And benjamin b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US442461A,1890-12-09,And david t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US442674A,1890-12-16,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US443177A,1890-12-23,And dyeing yaen ,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
+US443398A,1890-12-23,And charles b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US443915A,1890-12-30,And edward t ,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US444239A,1891-01-06,And george wexler ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US444549A,1891-01-13,The norrts peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US444558A,1891-01-13,The nqrris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US445314A,1891-01-27,The nobris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US445626A,1891-02-03,And sidney f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US445802A,1891-02-03,To moses g ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US446013A,1891-02-10,And joseph t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US446107A,1891-02-10,The norrij peters co ,"['DET', 'ADJ', 'PROPN', 'VERB']",[],1,0,4,0,1
+US446359A,1891-02-10,And charles b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US447243A,1891-02-24,And thomas m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US447266A,1891-02-24,The horria peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US447888A,1891-03-10,The norms peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US448460A,1891-03-17,By g-as oe combustible vapoe ,"['ADP', 'NOUN', 'PUNCT', 'ADP', 'PROPN', 'ADJ', 'NOUN']",[],1,0,7,0,1
+US448656A,1891-03-24,And john a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US448954A,1891-03-24,The nobris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US449525A,1891-03-31,And charles b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US449595A,1891-03-31,And horace l ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US449612A,1891-03-31,The noftsis petehs co ,"['DET', 'NOUN', 'VERB', 'PROPN']",[],1,0,4,0,1
+US449771A,1891-04-07,And thomas g ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US451519A,1891-05-05,And reginald r ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US451656A,1891-05-05,And merle j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US452151A,1891-05-12,The norfiis petehs co ,"['DET', 'NOUN', 'NOUN', 'PROPN']",[],1,0,4,0,1
+US452202A,1891-05-12,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US452637A,1891-05-19,The horris petehs co ,"['DET', 'PROPN', 'NOUN', 'NOUN']",[],1,0,4,0,1
+US453167A,1891-05-26,The norris peters ,"['DET', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US453426A,1891-06-02,And hugh j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US453427A,1891-06-02,And hugh j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US454151A,1891-06-16,The honnis peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US454711A,1891-06-23,And joseph c ,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
+US454914A,1891-06-30,The kobbifl petefls co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US455664A,1891-07-07,The hoiwis peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US455773A,1891-07-14,And john f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US456501A,1891-07-21,The nobrib peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US456617A,1891-07-28,The kobhij petebs co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US456811A,1891-07-28,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US457038A,1891-08-04,The nohris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US457044A,1891-08-04,And alva l ,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,0,1
+US457300A,1891-08-04,The norris perebs co ,"['DET', 'PROPN', 'NOUN', 'VERB']",[],1,0,4,0,1
+US457324A,1891-08-04,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US457334A,1891-08-11,The kohris petebj co ,"['DET', 'PROPN', 'NOUN', 'VERB']",[],1,0,4,0,1
+US457370A,1891-08-11,The noftrls peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US457806A,1891-08-18,Of el paso ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US457807A,1891-08-18,The nmbis peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US457934A,1891-08-18,The nobnis petebs co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US458474A,1891-08-25,And annie l ,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,0,1
+US458907A,1891-09-01,And enoch wood perry ,"['CCONJ', 'PROPN', 'NOUN', 'PROPN']",[],1,0,4,0,1
+US459486A,1891-09-15,The noflria peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US459535A,1891-09-15,And mary silvey ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US459685A,1891-09-15,And isaac new ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US460350A,1891-09-29,And margelltjs cole ,"['CCONJ', 'NOUN', 'PROPN']",['PRODUCT'],1,0,3,0,1
+US460563A,1891-10-06,And edward b ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US461772A,1891-10-20,And john a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US462386A,1891-11-03,And mercer w ,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
+US462388A,1891-11-03,The norfils peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US462394A,1891-11-03,The horbfe petebs co ,"['DET', 'ADJ', 'PROPN', 'VERB']",[],1,0,4,0,1
+US462674A,1891-11-03,And rufus a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US463139A,1891-11-17,And isaac n ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US463984A,1891-11-24,The nobris peters ,"['DET', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US464427A,1891-12-01,The hohris peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US464440A,1891-12-01,The nohbij peters co ,"['DET', 'PROPN', 'PROPN', 'X']",[],1,0,4,0,1
+US464529A,1891-12-08,And john f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US464946A,1891-12-08,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US466594A,1892-01-05,And john a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US466780A,1892-01-12,The ncmnis petess co ,"['DET', 'PROPN', 'NOUN', 'VERB']",[],1,0,4,0,1
+US466991A,1892-01-12,And francis p ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US466992A,1892-01-12,And francis p ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US467311A,1892-01-19,The norris pctcss cd ,"['DET', 'ADJ', 'PROPN', 'PROPN']",[],1,0,4,0,1
+US467590A,1892-01-26,And john gus ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US467658A,1892-01-26,And frank j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US467844A,1892-01-26,And adam c ,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
+US468516A,1892-02-09,And samuel t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US468825A,1892-02-16,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US469357A,1892-02-23,And bertrand ii ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US469391A,1892-02-23,And marcus m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US469835A,1892-03-01,The hobhis peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US469904A,1892-03-01,And frederick c ,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
+US469950A,1892-03-01,The norrls petehs co ,"['DET', 'PROPN', 'VERB', 'PROPN']",[],1,0,4,0,1
+US470125A,1892-03-01,The nonms petehg-co ,"['DET', 'PROPN', 'PROPN', 'PUNCT', 'PROPN']",[],1,0,5,0,1
+US470149A,1892-03-01,And harry semple ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US470150A,1892-03-01,And harry semple ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US470639A,1892-03-08,And george t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US470818A,1892-03-15,The ntmhts peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US470877A,1892-03-15,And william t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US470992A,1892-03-15,And charles d ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US471146A,1892-03-22,The horris peters co ,"['DET', 'ADJ', 'PROPN', 'VERB']",[],1,0,4,0,1
+US471716A,1892-03-29,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US471838A,1892-03-29,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US473105A,1892-04-19,The touris petebs co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US473176A,1892-04-19,The horris peters co ,"['DET', 'ADJ', 'PROPN', 'VERB']",[],1,0,4,0,1
+US473417A,1892-04-19,The norois peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US473721A,1892-04-26,The nobbjs- petehs co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US474414A,1892-05-10,And joseph sciinexble ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US474577A,1892-05-10,And frederick hottes ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US474765A,1892-05-10,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US474769A,1892-05-10,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US475115A,1892-05-17,And thomas j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US475215A,1892-05-17,The nohris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US475267A,1892-05-17,And jacob kohn ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US475340A,1892-05-24,And leonard- ii ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US475406A,1892-05-24,Of san bernardino ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US476646A,1892-06-07,The hohhij peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US477562A,1892-06-21,And elijah j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US478037A,1892-06-28,To the van auken steam ,"['ADP', 'DET', 'PROPN', 'ADJ', 'NOUN']",[],1,0,5,0,1
+US478544A,1892-07-05,And edward cheshire ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US478779A,1892-07-12,And daniel m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US478783A,1892-07-12,The norbis peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US479109A,1892-07-19,as hberry  ,"['ADP', 'PROPN', 'SPACE']",[],1,0,3,0,1
+US479464A,1892-07-26,The norfils peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US479600A,1892-07-26,And samuel b ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US479719A,1892-07-26,And samuel c ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US480017A,1892-08-02,The hdrria peters co ,"['DET', 'PROPN', 'PROPN', 'X']",[],1,0,4,0,1
+US480311A,1892-08-09,And josiah h ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US480312A,1892-08-09,And josiaii h ,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,0,1
+US481014A,1892-08-16,The nqrhls peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US481198A,1892-08-23,To john g ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US481646A,1892-08-30,And erastus hayes and al ,"['CCONJ', 'NOUN', 'PROPN', 'CCONJ', 'PROPN']",[],1,0,5,0,1
+US481697A,1892-08-30,And abraham w ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US482352A,1892-09-13,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US482376A,1892-09-13,The xmuxs p peters ,"['DET', 'PROPN', 'PROPN', 'PROPN']",[],1,0,4,0,1
+US482921A,1892-09-20,The norris petefls co ,"['DET', 'PROPN', 'NOUN', 'VERB']",[],1,0,4,0,1
+US483107A,1892-09-20,And reinhold boeklen ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US483729A,1892-10-04,For dynamo electric machines ,"['ADP', 'PROPN', 'ADJ', 'NOUN']",[],1,0,4,0,1
+US484059A,1892-10-11,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US484200A,1892-10-11,And lemuel patterson ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US484331A,1892-10-11,And benjamin b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US484901A,1892-10-25,And joseph schneible ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US484923A,1892-10-25,And rufus h ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US484999A,1892-10-25,And nathaniel m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US485000A,1892-10-25,And nathaniel m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US485614A,1892-11-08,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US485635A,1892-11-08,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US485742A,1892-11-08,And samuel t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US485808A,1892-11-08,And nathaniel m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US485809A,1892-11-08,And nathaniel m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US486086A,1892-11-15,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US486116A,1892-11-15,The norrij peters co ,"['DET', 'ADJ', 'PROPN', 'VERB']",[],1,0,4,0,1
+US486243A,1892-11-15,And george p ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US486898A,1892-11-29,The xohris  peters co ,"['DET', 'PROPN', 'SPACE', 'PROPN', 'VERB']",[],1,0,5,0,1
+US487061A,1892-11-29,Per theodor sundberg ,"['ADP', 'NOUN', 'PROPN']",['PRODUCT'],1,0,3,0,1
+US487688A,1892-12-06,And john f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US487767A,1892-12-13,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US488264A,1892-12-20,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US489106A,1893-01-03,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US489134A,1893-01-03,And frank b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US489981A,1893-01-17,And arthur j ,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
+US489982A,1893-01-17,And arthur j ,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
+US490188A,1893-01-17,The womils peters ,"['DET', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US490344A,1893-01-24,The norsis peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US490471A,1893-01-24,The worris peter ,"['DET', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US490739A,1893-01-31,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US492004A,1893-02-21,The nohbis peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US492144A,1893-02-21,The nohris peters co  ,"['DET', 'ADJ', 'PROPN', 'VERB', 'SPACE']",[],1,0,5,0,1
+US492645A,1893-02-28,The ngrris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US492844A,1893-03-07,The norrls petefis co ,"['DET', 'NOUN', 'PROPN', 'PROPN']",[],1,0,4,0,1
+US493104A,1893-03-07,The hobris peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US493152A,1893-03-07,And newton h ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US493194A,1893-03-07,And francis j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US493371A,1893-03-14,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US493848A,1893-03-21,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US493931A,1893-03-21,And harry c ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US494001A,1893-03-21,And harry c ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US494121A,1893-03-28,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US494319A,1893-03-28,The nonris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US494631A,1893-04-04,The horris peters co ,"['DET', 'ADJ', 'PROPN', 'VERB']",[],1,0,4,0,1
+US494701A,1893-04-04,The noriijs petcrs co ,"['DET', 'PROPN', 'NOUN', 'PROPN']",[],1,0,4,0,1
+US495098A,1893-04-11,And heney d ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US495405A,1893-04-11,The nprbis peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US495481A,1893-04-18,The nobris psttrs ,"['DET', 'PROPN', 'VERB']",[],1,0,3,0,1
+US495752A,1893-04-18,The ncrxis  peters co ,"['DET', 'ADJ', 'SPACE', 'PROPN', 'VERB']",[],1,0,5,0,1
+US496228A,1893-04-25,The norbfs peters co ,"['DET', 'ADJ', 'PROPN', 'VERB']",[],1,0,4,0,1
+US496373A,1893-04-25,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US496478A,1893-05-02,And edwin c ,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
+US496487A,1893-05-02,The nonris pctesj co ,"['DET', 'PROPN', 'ADJ', 'X']",[],1,0,4,0,1
+US496622A,1893-05-02,And david t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US496652A,1893-05-02,And james c ,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
+US496833A,1893-05-02,The noftrls peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US497416A,1893-05-16,And david t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US497426A,1893-05-16,And peter friess ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US497849A,1893-05-23,The nobrib peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US497934A,1893-05-23,The norxis  peters co ,"['DET', 'NOUN', 'SPACE', 'PROPN', 'VERB']",[],1,0,5,0,1
+US497974A,1893-05-23,The norrrs peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US498252A,1893-05-30,The norrls peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US498438A,1893-05-30,The nohris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US498519A,1893-05-30,And silas witherell ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US498690A,1893-05-30,And hermann h ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US498732A,1893-05-30,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US498810A,1893-06-06,And frank m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US499001A,1893-06-06,The norrib pctehs co ,"['DET', 'NOUN', 'PROPN', 'PROPN']",[],1,0,4,0,1
+US499162A,1893-06-06,And charles m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US499253A,1893-06-13,The norris peters ,"['DET', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US499381A,1893-06-13,The morris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
+US499434A,1893-06-13,And john f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US400633A,1889-04-02,And deodorizing coal oil or petroleum ,"['CCONJ', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,0,1
+US401049A,1889-04-09,And charles raettig ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US401635A,1889-04-16,of ludwigshafen-on-the-rhine ,"['ADP', 'NOUN', 'PUNCT', 'ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN']",[],0,0,8,0,1
+US401868A,1889-04-23,And charles t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US402074A,1889-04-23,And frank a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US402135A,1889-04-30,And phasing machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US402708A,1889-05-07,And sash ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US403355A,1889-05-14,And thomas a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US403607A,1889-05-21,And daniel a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US403608A,1889-05-21,And daniel a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US404133A,1889-05-28,And scutching cotton ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US404317A,1889-05-28,The hekjht of human bodies ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US404462A,1889-06-04,And bottling aerated watee ,"['CCONJ', 'VERB', 'ADJ', 'NOUN']",[],0,0,4,0,1
+US404551A,1889-06-04,Under-vest ,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US404803A,1889-06-04,A ndrew l ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US404824A,1889-06-11,For pullets ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US405036A,1889-06-11,And emigdio cillvez ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US405229A,1889-06-11,And heinrich schneider ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US405329A,1889-06-18,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US405342A,1889-06-18,And clinchim machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US405353A,1889-06-18,A it all ,"['DET', 'PRON', 'PRON']",[],0,0,3,0,1
+US405514A,1889-06-18,Of pro ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US405559A,1889-06-18,For shafts ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US405684A,1889-06-18,And edmund l ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US405811A,1889-06-25,And scouring grain ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US406507A,1889-07-09,And charles spofford ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US407069A,1889-07-16,a graham ,"['DET', 'NOUN']",[],0,0,2,0,1
+US407280A,1889-07-16,And ste ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US407281A,1889-07-16,And stephen ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US407382A,1889-07-23,And gilbert e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US407485A,1889-07-23,And henry nunez ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US407718A,1889-07-23,And gray ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US408048A,1889-07-30,The threads on sceews ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US408361A,1889-08-06,In d ex ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US408722A,1889-08-13,And herbert ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US409651A,1889-08-20,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US409776A,1889-08-27,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US411389A,1889-09-17,And theodore g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US411552A,1889-09-24,The worcester fire ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US411601A,1889-09-24,of quebec ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US411691A,1889-09-24,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US411770A,1889-09-24,Than c ,"['ADP', 'VERB']",[],0,0,2,0,1
+US411913A,1889-10-01,And at wood e ,"['CCONJ', 'ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US412228A,1889-10-08,altmann  ,"['ADP', 'SPACE']",[],0,0,2,0,1
+US412369A,1889-10-08,And marcus marx ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US412526A,1889-10-08,And ebenezee ,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US412527A,1889-10-08,And ebenezee ,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US412595A,1889-10-08,The edges of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
+US412694A,1889-10-08,And charles h ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US412700A,1889-10-08,And polly craig ,"['CCONJ', 'ADV', 'NOUN']",[],0,0,3,0,1
+US413152A,1889-10-15,And augustus ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US413371A,1889-10-22,of quebec ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US413699A,1889-10-29,To the willcox ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US414697A,1889-11-12,And setting watch ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US414738A,1889-11-12,And sepabating machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US414767A,1889-11-12,Of harrogate ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US414855A,1889-11-12,And clarence ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US414879A,1889-11-12,And charles a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US415088A,1889-11-12,of ludwigshafen-on-the-rhine ,"['ADP', 'NOUN', 'PUNCT', 'ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN']",[],0,0,8,0,1
+US415119A,1889-11-12,To christian kohlhaas ,"['ADP', 'ADJ', 'NOUN']",['NORP'],0,0,3,0,1
+US415342A,1889-11-19,tj tj it ,"['ADP', 'ADP', 'PRON']",[],0,0,3,0,1
+US415450A,1889-11-19,En graving-machine ,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US415802A,1889-11-26,Of manchester ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US415871A,1889-11-26,For herself and as executrix ,"['ADP', 'PRON', 'CCONJ', 'ADP', 'NOUN']",[],0,0,5,0,1
+US415902A,1889-11-26,And ruling machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US416090A,1889-11-26,And herbert g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US416143A,1889-11-26,For underground cables ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US416147A,1889-11-26,Of wayne ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US416495A,1889-12-03,And charles t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US416533A,1889-12-03,And grinding mill ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US416628A,1889-12-03,To the office ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US416659A,1889-12-03,And dewey a ,"['CCONJ', 'NOUN', 'PRON']",[],0,0,3,0,1
+US416867A,1889-12-10,And new haven automatic sprinkler com ,"['CCONJ', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",[],0,0,6,0,1
+US416869A,1889-12-10,The edges of cards and papee ,"['DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,0,1
+US417154A,1889-12-10,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US417702A,1889-12-24,And charles c ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US417952A,1889-12-24,And charles h ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US418137A,1889-12-24,of glas- ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US418237A,1889-12-31,And mebritt t ,"['CCONJ', 'NUM', 'NOUN']",[],0,0,3,0,1
+US418325A,1889-12-31,And fodder chopping machine ,"['CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US418426A,1889-12-31,In can descent-electric-lamp socket ,"['ADP', 'AUX', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,0,1
+US418476A,1889-12-31,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US418925A,1890-01-07,For held artillery ,"['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
+US419041A,1890-01-07,Of one-half to ,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
+US419208A,1890-01-14,And jed foster ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US419216A,1890-01-14,Per adolf peterson ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US420157A,1890-01-28,And frank a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US420188A,1890-01-28,And charles h ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US420189A,1890-01-28,And charles h ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US420469A,1890-02-04,And harvey l ,"['CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
+US421385A,1890-02-18,Off-bearing belt for brick-iviaghines ,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
+US421454A,1890-02-18,And daniel a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US421505A,1890-02-18,For axle journals ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US421611A,1890-02-18,And frederic a ,"['CCONJ', 'ADJ', 'PRON']",[],0,0,3,0,1
+US421790A,1890-02-18,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US421865A,1890-02-18,Or cropping machines ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US421871A,1890-02-18,And frederick a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US422279A,1890-02-25,And charles ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US422353A,1890-02-25,And lewis a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US422577A,1890-03-04,And ezra t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US422877A,1890-03-04,And tapping eadiators ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US423177A,1890-03-11,of mckeesport ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US423188A,1890-03-11,In ventor ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US423357A,1890-03-11,And frederick a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US423406A,1890-03-11,a atock ,"['DET', 'NOUN']",[],0,0,2,0,1
+US424455A,1890-04-01,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US424758A,1890-04-01,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US424780A,1890-04-01,For railway cars ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US425022A,1890-04-08,The nobbis petebz co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US425034A,1890-04-08,And erastus woodward ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US425039A,1890-04-08,On mering ,"['ADP', 'VERB']",[],0,0,2,0,1
+US425277A,1890-04-08,And sophia c ,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
+US425501A,1890-04-15,Under frame for cars ,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US425772A,1890-04-15,And benjamin fair ,"['CCONJ', 'VERB', 'ADJ']",[],0,0,3,0,1
+US425956A,1890-04-15,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US426577A,1890-04-29,And atwood b ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US426760A,1890-04-29,And barclay m ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US426761A,1890-04-29,And barclay m ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US426875A,1890-04-29,And esek r ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US426944A,1890-04-29,The art of boxing ,"['DET', 'NOUN', 'ADP', 'VERB']",[],0,0,4,0,1
+US426994A,1890-04-29,And polishing wheel ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US427264A,1890-05-06,And magdalena ,"['CCONJ', 'X']",[],0,0,2,0,1
+US427508A,1890-05-06,And frank p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US427637A,1890-05-13,Of pro ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US427951A,1890-05-13,In can descent-electric-light bulb ,"['ADP', 'AUX', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,0,1
+US428093A,1890-05-20,The kobftis petep ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US428180A,1890-05-20,And charles a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US428181A,1890-05-20,And charles a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US428247A,1890-05-20,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US428292A,1890-05-20,And fredrick ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US428375A,1890-05-20,Under-garment ,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US428548A,1890-05-20,On buttons ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US428557A,1890-05-20,For spindles ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US428638A,1890-05-27,And franz ,"['CCONJ', 'VERB']",['ORG'],0,0,2,0,1
+US428927A,1890-05-27,And marion l ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US429159A,1890-06-03,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US429310A,1890-06-03,Under-garment ,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US430074A,1890-06-10,Of wayne ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US430452A,1890-06-17,The hoflhts ktefls co ,"['DET', 'NOUN', 'NOUN', 'X']",[],0,0,4,0,1
+US430960A,1890-06-24,And charles j ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US431522A,1890-07-01,And heaping machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US431523A,1890-07-01,The hop ,"['DET', 'NOUN']",[],0,0,2,0,1
+US431781A,1890-07-08,o halloran ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US432225A,1890-07-15,The nob ,"['DET', 'NOUN']",[],0,0,2,0,1
+US432232A,1890-07-15,Of bos ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US432259A,1890-07-15,And leonor p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US432359A,1890-07-15,Of one-half to ,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
+US433163A,1890-07-29,And amalgamating mill ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US433183A,1890-07-29,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US433362A,1890-07-29,And the bellaire ,"['CCONJ', 'DET', 'NOUN']",[],0,0,3,0,1
+US433538A,1890-08-05,The horhfs petena co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US433574A,1890-08-05,And charles ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US433920A,1890-08-05,And edward ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US434280A,1890-08-12,And frank ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US434338A,1890-08-12,The norhis pctehs co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US434828A,1890-08-19,And emile dupaquier ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US434866A,1890-08-19,And the bell-rock electrical ,"['CCONJ', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'ADJ']",[],0,0,6,0,1
+US434881A,1890-08-19,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US435541A,1890-09-02,The noh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US435601A,1890-09-02,And charles rees ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US435669A,1890-09-02,Inside blind ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US435893A,1890-09-02,Adin a ,"['ADP', 'PRON']",[],0,0,2,0,1
+US435901A,1890-09-02,And wil ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US435944A,1890-09-09,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US436108A,1890-09-09,Of providence ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US436375A,1890-09-16,Per nordenfelt ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US436592A,1890-09-16,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US436740A,1890-09-16,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US436961A,1890-09-23,And fernando j ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US437154A,1890-09-23,The norhis fetefls co ,"['DET', 'NOUN', 'NOUN', 'X']",[],0,0,4,0,1
+US437518A,1890-09-30,Of albany ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US437880A,1890-10-07,Wight p ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US438154A,1890-10-14,On -the -rhine ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US438306A,1890-10-14,And ezra t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US438311A,1890-10-14,Oscae a ,"['ADP', 'PRON']",[],0,0,2,0,1
+US438387A,1890-10-14,The nob ,"['DET', 'NOUN']",[],0,0,2,0,1
+US438556A,1890-10-14,Per adolf nilsson ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US438655A,1890-10-21,And horace e ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US438836A,1890-10-21,And clarence ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US439292A,1890-10-28,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US439873A,1890-11-04,The koshib peterb co ,"['DET', 'NOUN', 'VERB', 'NOUN']",[],0,0,4,0,1
+US440023A,1890-11-04,And william a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US440024A,1890-11-04,And william a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US440413A,1890-11-11,And charles a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US440820A,1890-11-18,And clarence g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US440940A,1890-11-18,This page do not  ,"['DET', 'NOUN', 'VERB', 'PART', 'SPACE']",[],0,0,5,0,1
+US440963A,1890-11-18,The morris petehs ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
+US441081A,1890-11-18,Oe chopping machine ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US441359A,1890-11-25,And dayton ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US441579A,1890-11-25,And indicating- the ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US441701A,1890-12-02,Of grand rapids ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US441712A,1890-12-02,And oiling boots ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US441759A,1890-12-02,And sanding mechanism foe papee box machines ,"['CCONJ', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
+US442288A,1890-12-09,And sizing fkuits ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US442684A,1890-12-16,And wm ,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US442734A,1890-12-16,And wallace guilds ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US442738A,1890-12-16,And scoeing pasteboaed ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US442773A,1890-12-16,In frost ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US442808A,1890-12-16,And frank a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US442847A,1890-12-16,And sigmund ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US443062A,1890-12-16,The bottlers ,"['DET', 'NOUN']",[],0,0,2,0,1
+US443098A,1890-12-23,To the bottlers ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US443184A,1890-12-23,To the bottlers ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US443185A,1890-12-23,To the bottlers ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US443192A,1890-12-23,To the bottlers ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US443193A,1890-12-23,To the bottlers ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US443194A,1890-12-23,To the bottlers ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US443436A,1890-12-23,And supporting device ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US443471A,1890-12-23,The nohris petehb ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US443498A,1890-12-30,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US443642A,1890-12-30,Per eliesok ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US443652A,1890-12-30,And major romeyn ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US443653A,1890-12-30,And major romeyn ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US443728A,1890-12-30,To the bottle ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US443760A,1890-12-30,And thomas a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US443797A,1890-12-30,The nouns pctehs co ,"['DET', 'NOUN', 'VERB', 'VERB']",[],0,0,4,0,1
+US444041A,1891-01-06,And horatio n ,"['CCONJ', 'NOUN', 'ADV']",['ORG'],0,0,3,0,1
+US444126A,1891-01-06,The soles and uppees of boots ob ,"['DET', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,7,0,1
+US444279A,1891-01-06,And feed ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US444345A,1891-01-06,And harold ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US444379A,1891-01-06,And charles ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US444429A,1891-01-13,And henry a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US444543A,1891-01-13,In gton ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US444615A,1891-01-13,Of different degrees of ,"['ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,0,1
+US444616A,1891-01-13,Of different degrees of ,"['ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,0,1
+US444617A,1891-01-13,Of different degrees of ,"['ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,0,1
+US444619A,1891-01-13,Of different degrees of ,"['ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,0,1
+US444755A,1891-01-13,To the bottlers ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US444913A,1891-01-20,The norf ,"['DET', 'NOUN']",[],0,0,2,0,1
+US445037A,1891-01-20,And heating eange ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US445090A,1891-01-20,Of albany ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US446124A,1891-02-10,The norhis petehs co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US446252A,1891-02-10,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US446414A,1891-02-17,The same ,"['DET', 'ADJ']",[],0,0,2,0,1
+US446491A,1891-02-17,In strum ent ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US446597A,1891-02-17,The nohkij peteits co ,"['DET', 'NOUN', 'VERB', 'X']",[],0,0,4,0,1
+US446707A,1891-02-17,Burkard goodman ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US446841A,1891-02-17,The hobhis petebs co ,"['DET', 'PRON', 'NOUN', 'VERB']",[],0,0,4,0,1
+US446971A,1891-02-24,And smelting furnace ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US447072A,1891-02-24,To huntleyj cranson ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US447180A,1891-02-24,In vent ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US447316A,1891-03-03,And placing metal pieces on scale boaed ,"['CCONJ', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,7,0,1
+US447637A,1891-03-03,of aspen ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US447734A,1891-03-03,And ferdinand ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US447756A,1891-03-10,And aurelius bradford ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US447801A,1891-03-10,The korsis pete ,"['DET', 'NOUN', 'ADJ']",[],0,0,3,0,1
+US447810A,1891-03-10,And olof n ,"['CCONJ', 'NOUN', 'ADV']",[],0,0,3,0,1
+US448153A,1891-03-10,And hiram j ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US448667A,1891-03-24,The nobbis peterfl ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US449081A,1891-03-24,And ernst reinhold ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US449091A,1891-03-24,The tlohhis petebj co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US449326A,1891-03-31,And bradner l ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US449431A,1891-03-31,Of grand rapids ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US449629A,1891-03-31,Of basle ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US450501A,1891-04-14,And william a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US450591A,1891-04-14,And the atlantic ,"['CCONJ', 'DET', 'NOUN']",['LOC'],0,0,3,0,1
+US450920A,1891-04-21,And charles ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US451442A,1891-04-28,And loring m ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US451643A,1891-05-05,And charles reynders ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US451784A,1891-05-05,And frederick a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US452108A,1891-05-12,The norris pete ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US452196A,1891-05-12,Of one-half to ,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
+US452233A,1891-05-12,And alexander ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US452478A,1891-05-19,And prank ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US452965A,1891-05-26,To the ,"['ADP', 'PRON']",[],0,0,2,0,1
+US453037A,1891-05-26,Due passage ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US453439A,1891-06-02,The hohris pete ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US454008A,1891-06-09,And connecting the driving motors of electric ,"['CCONJ', 'VERB', 'DET', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,1
+US454016A,1891-06-09,o connell ,"['DET', 'NOUN']",[],0,0,2,0,1
+US454097A,1891-06-16,Of pro ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US454153A,1891-06-16,And elias s ,"['CCONJ', 'NOUN', 'PART']",[],0,0,3,0,1
+US454168A,1891-06-16,Suspensory bandage ,"['DET', 'NOUN']",[],0,0,2,0,1
+US454253A,1891-06-16,Of one-half ,"['ADP', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
+US454718A,1891-06-23,The nwmis petebj co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US454832A,1891-06-23,And horace f ,"['CCONJ', 'NOUN', 'X']",[],0,0,3,0,1
+US454880A,1891-06-30,Per adolph petterson ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US454886A,1891-06-30,And charles ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US455256A,1891-06-30,The horhiz petehs ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
+US455474A,1891-07-07,Xthe n n ,"['DET', 'NOUN', 'X']",['ORG'],0,0,3,0,1
+US455495A,1891-07-07,Per adolf petterson ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US455854A,1891-07-14,And dyeing yarn ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US455986A,1891-07-14,And angus s ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US456249A,1891-07-21,The nob ,"['DET', 'NOUN']",[],0,0,2,0,1
+US456495A,1891-07-21,And a milliard ,"['CCONJ', 'DET', 'NOUN']",[],0,0,3,0,1
+US456960A,1891-08-04,And silas a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US457292A,1891-08-04,And kelly monroe ,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,0,1
+US457423A,1891-08-11,The noh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US457608A,1891-08-11,The horrta pxtomxo ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US457782A,1891-08-18,A kimball ,"['DET', 'NOUN']",[],0,0,2,0,1
+US457918A,1891-08-18,And royal m ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US458048A,1891-08-18,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US458496A,1891-08-25,And charles g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US458702A,1891-09-01,And frederick sargent ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US459697A,1891-09-15,The nobbis petefls co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US459740A,1891-09-22,And commodore p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US459828A,1891-09-22,The hor ,"['DET', 'NOUN']",[],0,0,2,0,1
+US459852A,1891-09-22,And willard ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US460064A,1891-09-22,The momuc peters co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US460291A,1891-09-29,And pitching bakeels ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US460504A,1891-09-29,The union ,"['DET', 'NOUN']",[],0,0,2,0,1
+US460505A,1891-09-29,The union ,"['DET', 'NOUN']",[],0,0,2,0,1
+US460506A,1891-09-29,The union ,"['DET', 'NOUN']",[],0,0,2,0,1
+US460507A,1891-09-29,The union ,"['DET', 'NOUN']",[],0,0,2,0,1
+US460508A,1891-09-29,The union ,"['DET', 'NOUN']",[],0,0,2,0,1
+US460509A,1891-09-29,And geoege w ,"['CCONJ', 'NOUN', 'ADP']",[],0,0,3,0,1
+US460632A,1891-10-06,And polishing glass ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US460986A,1891-10-13,And will it ,"['CCONJ', 'AUX', 'PRON']",[],0,0,3,0,1
+US461075A,1891-10-13,And the ,"['CCONJ', 'PRON']",[],0,0,2,0,1
+US461076A,1891-10-13,And the ,"['CCONJ', 'PRON']",[],0,0,2,0,1
+US461187A,1891-10-13,The norbjj teters co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US461428A,1891-10-20,Under-frame for cars ,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
+US461625A,1891-10-20,And designing apparatus ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US461723A,1891-10-20,To budde ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US461823A,1891-10-27,And william a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US461851A,1891-10-27,To the short elec ,"['ADP', 'DET', 'ADJ', 'NOUN']",[],0,0,4,0,1
+US461898A,1891-10-27,In can descent-elect rig-lamp socket ,"['ADP', 'AUX', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,9,0,1
+US462080A,1891-10-27,And support for railway rails ,"['CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US462085A,1891-10-27,And theodore f ,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
+US462276A,1891-11-03,o connor ,"['DET', 'NOUN']",[],0,0,2,0,1
+US462277A,1891-11-03,Or reducing mill ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US462321A,1891-11-03,And sylvester chichester ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US462807A,1891-11-10,collier  ,"['ADP', 'SPACE']",[],0,0,2,0,1
+US462901A,1891-11-10,The mgbhis peters co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US462957A,1891-11-10,Per persson olsson ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US463292A,1891-11-17,And edward ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US463987A,1891-11-24,Zither piano ,"['DET', 'NOUN']",[],0,0,2,0,1
+US464061A,1891-12-01,And edgar b ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US464460A,1891-12-01,To the springfield ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US464474A,1891-12-01,The morris peters ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US464661A,1891-12-08,The speed of motors ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US464768A,1891-12-08,Suspensory bandage ,"['DET', 'NOUN']",[],0,0,2,0,1
+US464880A,1891-12-08,And cutting up beans ,"['CCONJ', 'VERB', 'ADP', 'NOUN']",[],0,0,4,0,1
+US464915A,1891-12-08,And charles a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US465333A,1891-12-15,On buttons ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US465452A,1891-12-22,Under-garment ,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US465453A,1891-12-22,Under-garment ,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US465622A,1891-12-22,Tee parts of split nuts ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US465656A,1891-12-22,And geoege e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US465821A,1891-12-22,And ernest de celles ,"['CCONJ', 'ADJ', 'X', 'NOUN']",[],0,0,4,0,1
+US466142A,1891-12-29,Edmund a ,"['ADP', 'PRON']",[],0,0,2,0,1
+US466283A,1891-12-29,A m sutherland ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US466469A,1892-01-05,The hobbis petefs co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US466535A,1892-01-05,And oscar s ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US466759A,1892-01-05,And euclid m ,"['CCONJ', 'ADJ', 'VERB']",[],0,0,3,0,1
+US466771A,1892-01-12,The nordib petf us ,"['DET', 'NOUN', 'VERB', 'PRON']",[],0,0,4,0,1
+US466784A,1892-01-12,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US467268A,1892-01-19,The no ,"['DET', 'INTJ']",[],0,0,2,0,1
+US467573A,1892-01-26,And william a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US467814A,1892-01-26,The kobpis peters co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US468056A,1892-02-02,To the union ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US468689A,1892-02-09,Of diffeeent degeees of ,"['ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,0,1
+US469079A,1892-02-16,The noh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US469129A,1892-02-16,Per elieson ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US469197A,1892-02-16,Of one-half to ,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
+US469366A,1892-02-23,A sedgwick ,"['DET', 'NOUN']",[],0,0,2,0,1
+US469906A,1892-03-01,And albion p ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US470010A,1892-03-01,Of hartford ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US470060A,1892-03-01,The norbis feters co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US470356A,1892-03-08,And of ,"['CCONJ', 'ADP']",[],0,0,2,0,1
+US470424A,1892-03-08,And frederic thuman ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US470643A,1892-03-08,And the walter a ,"['CCONJ', 'DET', 'NOUN', 'PRON']",[],0,0,4,0,1
+US470872A,1892-03-15,Off-bearing pole for leather sides ,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,0,1
+US471193A,1892-03-22,Of cameron ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US471282A,1892-03-22,The morris petehfi co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US471703A,1892-03-29,Of petersburg ,"['ADP', 'ADV']",[],0,0,2,0,1
+US471709A,1892-03-29,Under-lyne ,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US471779A,1892-03-29,In sect-exterminator ,"['ADP', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US471802A,1892-03-29,The noh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US471817A,1892-03-29,An bmo meter-cup ,"['DET', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
+US472089A,1892-04-05,w wandel ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US472214A,1892-04-05,And charles ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US472371A,1892-04-05,of adrian ,"['ADP', 'ADJ']",['NORP'],0,0,2,0,1
+US472465A,1892-04-05,And henry p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US472933A,1892-04-12,The noiris fetehx ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US472952A,1892-04-12,And ernst r ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US473003A,1892-04-19,And welding by electricity ,"['CCONJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US473087A,1892-04-19,Edmund a ,"['ADP', 'PRON']",[],0,0,2,0,1
+US473199A,1892-04-19,And irwin yeeder ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US473549A,1892-04-26,Or pro ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US474022A,1892-05-03,And ore dressing ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US474023A,1892-05-03,Of different ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US474144A,1892-05-03,no-ion ,"['DET', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US474564A,1892-05-10,And charles e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US474636A,1892-05-10,And recordings the properties of flour ,"['CCONJ', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
+US474742A,1892-05-10,And lilburn ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US474829A,1892-05-17,And charles t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US474888A,1892-05-17,And frederic ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US475216A,1892-05-17,And ernest sifferlen ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US475304A,1892-05-24,The nobbis peters co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US475411A,1892-05-24,And henry ,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US475620A,1892-05-24,of longsight ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US475709A,1892-05-24,of longsight ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US475826A,1892-05-31,And harlan p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US476033A,1892-05-31,And ezra read goodridge ,"['CCONJ', 'NOUN', 'VERB', 'NOUN']",[],0,0,4,0,1
+US476098A,1892-05-31,And  apparatus foe maintaining a proportional flow ,"['CCONJ', 'SPACE', 'NOUN', 'AUX', 'VERB', 'DET', 'ADJ', 'NOUN']",[],0,0,8,0,1
+US476215A,1892-05-31,Of one-half ,"['ADP', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
+US476317A,1892-06-07,To the western ,"['ADP', 'DET', 'ADJ']",[],0,0,3,0,1
+US476632A,1892-06-07,And horace m ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US476816A,1892-06-14,And alfred pfxnn ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US476861A,1892-06-14,To the otis ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US477301A,1892-06-21,And charles h ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US477617A,1892-06-21,To the bottlers ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US478059A,1892-06-28,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US478149A,1892-07-05,To the werline electrical ,"['ADP', 'DET', 'NOUN', 'ADJ']",[],0,0,4,0,1
+US478562A,1892-07-12,The horhis peters co ,"['DET', 'DET', 'NOUN', 'VERB']",[],0,0,4,0,1
+US478727A,1892-07-12,By direct ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US478823A,1892-07-12,of new haven ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US479226A,1892-07-19,The no ,"['DET', 'INTJ']",[],0,0,2,0,1
+US479342A,1892-07-19,To the bottlers ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US479354A,1892-07-19,The springfield ,"['DET', 'NOUN']",[],0,0,2,0,1
+US479383A,1892-07-19,The morris pete ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US479733A,1892-07-26,The horris peterz co ,"['DET', 'ADJ', 'NOUN', 'X']",[],0,0,4,0,1
+US479758A,1892-07-26,And daniel c ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US480110A,1892-08-02,Of providence ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US480127A,1892-08-02,o rourke ,"['DET', 'NOUN']",[],0,0,2,0,1
+US480198A,1892-08-02,kempsmith  ,"['ADP', 'SPACE']",[],0,0,2,0,1
+US480358A,1892-08-09,Of portsmouth ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US480490A,1892-08-09,And theodore a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US480497A,1892-08-09,And fred d ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US480860A,1892-08-16,And frank ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US480879A,1892-08-16,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US480946A,1892-08-16,And frederick a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US481329A,1892-08-23,The kor ,"['DET', 'NOUN']",[],0,0,2,0,1
+US481465A,1892-08-23,And gustave ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US481765A,1892-08-30,Of mansfield ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US482351A,1892-09-13,The norris petehg co ,"['DET', 'ADJ', 'NOUN', 'X']",[],0,0,4,0,1
+US482520A,1892-09-13,And charles ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US482550A,1892-09-13,The nob ,"['DET', 'NOUN']",[],0,0,2,0,1
+US482581A,1892-09-13,The hobrij petihs co ,"['DET', 'ADJ', 'NOUN', 'X']",[],0,0,4,0,1
+US482807A,1892-09-20,Of johnstown ,"['ADP', 'ADJ']",['GPE'],0,0,2,0,1
+US483590A,1892-10-04,The -hardt ,"['DET', 'ADJ']",[],0,0,2,0,1
+US483709A,1892-10-04,And oscar a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US483744A,1892-10-04,Of providence ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US484513A,1892-10-18,Wh eel-cu ltivator ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US484720A,1892-10-18,And matthias stoveken ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US484860A,1892-10-25,To the consoli ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US484957A,1892-10-25,Inside window-blind ,"['ADP', 'NOUN', 'PUNCT', 'ADJ']",[],0,0,4,0,1
+US485490A,1892-11-01,And charles a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US485685A,1892-11-08,And byron s ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US485854A,1892-11-08,Of philadelphia ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US486051A,1892-11-08,And willtam loveland ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US486113A,1892-11-15,And charles t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US486487A,1892-11-22,And mortimer caiiill ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US486634A,1892-11-22,And ezra t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US486751A,1892-11-22,And oscar c ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US487154A,1892-11-29,And leland l ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US487176A,1892-11-29,Per-coles ,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US487234A,1892-11-29,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US487238A,1892-12-06,The norhis peters co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US487704A,1892-12-13,a i xljm   ,"['DET', 'PRON', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US487769A,1892-12-13,Over the leaves of music ,"['ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
+US487893A,1892-12-13,And charles ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US488016A,1892-12-13,The ho ,"['DET', 'NOUN']",[],0,0,2,0,1
+US488045A,1892-12-13,And twisting frames ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US488263A,1892-12-20,And lewis h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US488293A,1892-12-20,The morris pete ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US488335A,1892-12-20,Of beaver falls ,"['ADP', 'NOUN', 'VERB']",[],0,0,3,0,1
+US488504A,1892-12-20,The morris petebs cq ,"['DET', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,0,1
+US489098A,1893-01-03,To the western ,"['ADP', 'DET', 'ADJ']",[],0,0,3,0,1
+US489794A,1893-01-10,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US489920A,1893-01-17,And emil theiss ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US490253A,1893-01-17,The nxr ,"['DET', 'NOUN']",[],0,0,2,0,1
+US490309A,1893-01-24,And pleasant ward ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US490588A,1893-01-24,The point ends of drills ,"['DET', 'NOUN', 'VERB', 'ADP', 'NOUN']",[],0,0,5,0,1
+US490650A,1893-01-31,The noh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US490726A,1893-01-31,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US490761A,1893-01-31,And wilmer w ,"['CCONJ', 'NOUN', 'ADP']",[],0,0,3,0,1
+US490894A,1893-01-31,And henry a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US491231A,1893-02-07,The-main ,"['DET', 'PUNCT', 'ADJ']",[],0,0,3,0,1
+US491432A,1893-02-07,And elmore p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US491671A,1893-02-14,By direct ,"['ADP', 'ADJ']",[],0,0,2,0,1
+US491947A,1893-02-14,And the walter a ,"['CCONJ', 'DET', 'NOUN', 'PRON']",[],0,0,4,0,1
+US492295A,1893-02-21,And addisonl ,"['CCONJ', 'VERB']",['ORG'],0,0,2,0,1
+US492653A,1893-02-28,The norris pcttirs co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US492786A,1893-03-07,The nofibls peters co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
+US492881A,1893-03-07,And of ,"['CCONJ', 'ADP']",[],0,0,2,0,1
+US492882A,1893-03-07,And charles ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US493026A,1893-03-07,The nohhis peters co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US493752A,1893-03-21,And emil ,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US494094A,1893-03-21,And rodney g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US494370A,1893-03-28,And alfred m ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US494399A,1893-03-28,The noabis peters co ,"['DET', 'NOUN', 'NOUN', 'VERB']",[],0,0,4,0,1
+US494766A,1893-04-04,And leander ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US494778A,1893-04-04,The nojws petes ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
+US494799A,1893-04-04,The mosris ,"['DET', 'NOUN']",[],0,0,2,0,1
+US495111A,1893-04-11,And ephraim c ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US495149A,1893-04-11,And carroll b ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US495166A,1893-04-11,And carroll b ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US495276A,1893-04-11,And oliver m ,"['CCONJ', 'ADJ', 'VERB']",[],0,0,3,0,1
+US495657A,1893-04-18,And james a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US495732A,1893-04-18,And chicopee ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US495851A,1893-04-18,thacker  ,"['ADP', 'SPACE']",[],0,0,2,0,1
+US496032A,1893-04-25,And lamartine c ,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
+US496033A,1893-04-25,And lamartine c ,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
+US496034A,1893-04-25,And lamartine c ,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
+US496119A,1893-04-25,And elias c ,"['CCONJ', 'VERB', 'AUX']",[],0,0,3,0,1
+US496535A,1893-05-02,The noh ,"['DET', 'NOUN']",[],0,0,2,0,1
+US496582A,1893-05-02,Up-spinner and twister for silk ,"['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,1
+US497083A,1893-05-09,And william a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US497084A,1893-05-09,And william a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US497139A,1893-05-09,And charles e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US497333A,1893-05-16,And addison robbins ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US497896A,1893-05-23,The morris petxss  co ,"['DET', 'NOUN', 'VERB', 'SPACE', 'NOUN']",[],0,0,5,0,1
+US498079A,1893-05-23,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US498156A,1893-05-23,And story b ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US499132A,1893-06-06,Ob case fob traveling- purposes ,"['DET', 'NOUN', 'VERB', 'NUM', 'NOUN']",['ORG'],0,0,5,0,1
+US499296A,1893-06-13,And clearing- apparatus ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US499297A,1893-06-13,And charles e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US499391A,1893-06-13,Over cement ,"['ADP', 'NOUN']",[],0,0,2,0,1
+US499400A,1893-06-13,The nqb ,"['DET', 'NOUN']",[],0,0,2,0,1
+US499453A,1893-06-13,And clark balcom ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US499492A,1893-06-13,And william a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US499610A,1893-06-13,To the todd ,"['ADP', 'DET', 'ADJ']",[],0,0,3,0,1
+US499677A,1893-06-13,And condensing jars of metal ,"['CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
+US499694A,1893-06-13,To charles n ,"['ADP', 'NOUN', 'ADV']",[],0,0,3,0,1
+US499829A,1893-06-20,And fred e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US499852A,1893-06-20,And alfred pfann ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1

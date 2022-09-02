@@ -1,0 +1,79 @@
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
+US1837329A,1927-03-03,"Process for manufacturing acid phosphate 
+     ","['NOUN', 'ADP', 'VERB', 'NOUN', 'PROPN', 'SPACE']",[],1,0,6,1
+US1837878A,1930-05-31,"Core putty 
+     ","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1842063A,1929-05-17,"Guide finger for machines for coating webs with adhesives 
+     ","['PROPN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],1,0,10,1
+US1842067A,1928-10-06,"Ground speed and course indicator 
+     ","['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PROPN', 'SPACE']",[],1,0,6,1
+US1842271A,1931-02-18,"Self-oiling spinning or twisting ring and oil trap therefor 
+     ","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'PROPN', 'SPACE']",[],1,0,12,1
+US1842538A,1929-04-13,"Apparatus for grinding gears 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],1,0,5,1
+US1842983A,1927-04-18,"Process of reclaiming used lubricating oil 
+     ","['PROPN', 'ADP', 'VERB', 'VERB', 'VERB', 'NOUN', 'SPACE']",[],1,0,7,1
+US1845092A,1930-04-08,"Stake and holder therefor 
+     ","['NOUN', 'CCONJ', 'NOUN', 'PROPN', 'SPACE']",[],1,0,5,1
+US1859235A,1931-01-29,"Method of and apparatus for forming glassware 
+     ","['PROPN', 'ADP', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],1,0,8,1
+US1873699A,1931-05-20,"Eyelet for clasps 
+     ","['PROPN', 'ADP', 'NOUN', 'SPACE']",[],1,0,4,1
+US1885607A,1926-05-14,"Method of making compound wall structures 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'PROPN', 'NOUN', 'SPACE']",[],1,0,7,1
+US1899107A,1929-02-27,"Vacuum cleaner 
+     ","['PROPN', 'ADV', 'SPACE']",[],1,0,3,1
+US1802581A,1925-11-30,"Conduit fitting 
+     ","['NOUN', 'VERB', 'SPACE']",['ORG'],0,0,3,1
+US1810775A,1929-08-30,"Keyhole illuminating means 
+     ","['NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,4,1
+US1829862A,1926-06-11,"Caster 
+     ","['NOUN', 'SPACE']",[],0,0,2,1
+US1836451A,1931-12-15,Poration ,['NOUN'],[],0,0,1,1
+US1836490A,1930-05-31,"Radio control 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1840111A,1928-03-02,"Grease gun 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1840753A,1930-05-20,"Automobile window screen 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1841014A,1927-09-27,"Device for bookkeeping without re-entries 
+     ","['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
+US1841126A,1930-12-13,"Window screen operator 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1841800A,1929-10-16,"Feeder for threading machines 
+     ","['NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US1843452A,1931-05-19,"Electric conductor 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1846443A,1930-01-23,"Front seat for vehicles 
+     ","['ADJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",['ORG'],0,0,5,1
+US1847617A,1928-02-11,"Hard alloy 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1848906A,1932-03-08,Pigtail fob ,"['NOUN', 'NOUN']",[],0,0,2,1
+US1870132A,1931-04-10,"Metal corner 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1871291A,1929-11-26,"Dispensing device 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1875238A,1928-06-15,"Valve mechanism for internal combustion engines 
+     ","['NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,1
+US1876692A,1930-01-03,"Fishing apparatus 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1876775A,1930-05-21,"Cutter for skiving machines 
+     ","['NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US1876890A,1928-03-15,"Manufacture of artifcial fibers 
+     ","['NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,1
+US1876910A,1929-10-14,"Brake lining composition 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",['ORG'],0,0,4,1
+US1878268A,1931-07-27,"Lease forming apparatus for warp handling machines 
+     ","['NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
+US1878331A,1928-07-30,"Optical projection apparatus 
+     ","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1878631A,1929-05-20,"Electrical condenser 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1882225A,1927-05-07,"Filling machine 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1886227A,1932-03-04,"Adjustable linen band 
+     ","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1888425A,1931-04-15,"Door fastener 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1897013A,1932-07-18,"Manifolding paper 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1

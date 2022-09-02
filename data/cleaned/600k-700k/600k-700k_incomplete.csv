@@ -1,0 +1,170 @@
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
+US606259A,1898-06-28,Railway safety-gate ,"['PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,4,1
+US607737A,1898-07-19,Dynamo-electric machine ,"['PROPN', 'PUNCT', 'ADJ', 'NOUN']",[],1,0,4,1
+US616894A,1899-01-03,Grave-cover ,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,1
+US625806A,1899-05-30,Operating dynamo-electric machines ,"['VERB', 'PROPN', 'PUNCT', 'ADJ', 'NOUN']",[],1,0,5,1
+US627721A,1897-02-11,"Furnace for heating ingots or billets. 
+     ","['PROPN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,8,1
+US628186A,1898-10-31,"Apparatus for mixing and kneading soap. 
+     ","['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,8,1
+US633933A,1899-06-10,"Printer's fudge. 
+     ","['PROPN', 'PART', 'NOUN', 'PUNCT', 'SPACE']",['ORG'],1,0,5,1
+US637625A,1899-06-12,"Apparatus for forming plates for secondary batteries. 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,9,1
+US637936A,1898-07-20,"Means for securing ceilings, floorings, & c., solid floors. 
+     ","['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,14,1
+US638437A,1899-05-04,"Puzzle. 
+     ","['PROPN', 'PUNCT', 'SPACE']",['ORG'],1,0,3,1
+US640176A,1899-02-23,"Process of producing hollow walls and roofs of cast mortar. 
+     ","['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,12,1
+US640213A,1893-11-29,"Process of making smokeless powder. 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,7,1
+US641885A,1899-09-02,"Finishing-tool for facing piston-rings. 
+     ","['NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,10,1
+US643014A,1899-09-21,"Atomizer. 
+     ","['PROPN', 'PUNCT', 'SPACE']",['PRODUCT'],1,0,3,1
+US644612A,1899-09-15,"Clasp. 
+     ","['PROPN', 'PUNCT', 'SPACE']",['ORG'],1,0,3,1
+US645414A,1899-12-14,"Hand street-sweeper. 
+     ","['PROPN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,6,1
+US646249A,1897-03-22,"Crusher and pulverizer. 
+     ","['PROPN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,5,1
+US647018A,1899-08-14,"Churn. 
+     ","['PROPN', 'PUNCT', 'SPACE']",[],1,0,3,1
+US648426A,1898-04-04,"Wheel. 
+     ","['PROPN', 'PUNCT', 'SPACE']",[],1,0,3,1
+US651985A,1899-12-21,"Electric-arc lamp. 
+     ","['PROPN', 'PUNCT', 'NOUN', 'PROPN', 'PUNCT', 'SPACE']",[],1,0,6,1
+US652836A,1899-12-19,"Lifting-jack. 
+     ","['NOUN', 'PUNCT', 'PROPN', 'PUNCT', 'SPACE']",[],1,0,5,1
+US653634A,1899-11-11,"Apparatus for automatically applying car-brakes. 
+     ","['PROPN', 'ADP', 'ADV', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,9,1
+US654915A,1896-11-04,"Loom. 
+     ","['PROPN', 'PUNCT', 'SPACE']",[],1,0,3,1
+US655526A,1900-05-14,"Electric-arc lamp. 
+     ","['PROPN', 'PUNCT', 'NOUN', 'PROPN', 'PUNCT', 'SPACE']",[],1,0,6,1
+US656026A,1900-04-05,"Horseshoe-pad. 
+     ","['PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'SPACE']",[],1,0,5,1
+US656861A,1900-02-12,"Kitchen-cabinet. 
+     ","['NOUN', 'PUNCT', 'PROPN', 'PUNCT', 'SPACE']",[],1,0,5,1
+US656970A,1900-05-16,"Badge. 
+     ","['PROPN', 'PUNCT', 'SPACE']",[],1,0,3,1
+US657191A,1899-12-06,"Grater. 
+     ","['PROPN', 'PUNCT', 'SPACE']",[],1,0,3,1
+US659076A,1899-08-22,"Process of separating free carbon from tar. 
+     ","['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,9,1
+US661343A,1899-08-08,"Apparatus for dyeing. 
+     ","['PROPN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,5,1
+US662358A,1900-07-05,"Controller for motors and brakes for electric cars. 
+     ","['PROPN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,10,1
+US663034A,1899-10-28,"Apparatus for dipping pipes or bars. 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,8,1
+US664058A,1900-04-23,"Apparatus for glazing and finishing articles of glassware. 
+     ","['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,10,1
+US664707A,1900-04-09,"Tile for facing walls, &c. 
+     ","['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN', 'SPACE']",[],1,0,8,1
+US665127A,1900-07-25,"Controller for electric motors. 
+     ","['PROPN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,6,1
+US665508A,1900-08-28,"Puzzle. 
+     ","['PROPN', 'PUNCT', 'SPACE']",['ORG'],1,0,3,1
+US667268A,1900-06-15,"Expansion-pulley. 
+     ","['NOUN', 'PUNCT', 'PROPN', 'PUNCT', 'SPACE']",[],1,0,5,1
+US668773A,1900-05-23,"Vaporizer for explosive-engines. 
+     ","['PROPN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,7,1
+US672232A,1901-02-04,"Construction of armatures and inductors for dynamo-electric machines or motors. 
+     ","['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",['ORG'],1,0,14,1
+US673332A,1900-10-10,"Clutch. 
+     ","['PROPN', 'PUNCT', 'SPACE']",[],1,0,3,1
+US673570A,1896-11-04,"Process of refining characteristic gums of gutta-percha. 
+     ","['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,11,1
+US675279A,1900-07-25,"Basin-plug. 
+     ","['PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'SPACE']",[],1,0,5,1
+US676680A,1899-08-29,"Apparatus for the manufacture of long-stapled wood-pulp. 
+     ","['PROPN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADV', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,13,1
+US677921A,1901-03-14,"Grave-digger's dump-cart. 
+     ","['PROPN', 'PUNCT', 'NOUN', 'PART', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,9,1
+US680597A,1901-05-21,"Dynamo-electric machine and electric motor. 
+     ","['PROPN', 'PUNCT', 'ADJ', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,9,1
+US682626A,1901-01-30,"Machine for punching nipples, &c. 
+     ","['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN', 'SPACE']",[],1,0,8,1
+US686152A,1901-09-09,"Motor. 
+     ","['PROPN', 'PUNCT', 'SPACE']",[],1,0,3,1
+US686729A,1901-03-18,"Brush-holder for dynamo-electric machines. 
+     ","['NOUN', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,10,1
+US688030A,1901-06-07,"Flux for brazing. 
+     ","['PROPN', 'ADP', 'VERB', 'PUNCT', 'SPACE']",[],1,0,5,1
+US688073A,1900-12-01,"Manufacture of asphaltic cement. 
+     ","['PROPN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,6,1
+US689052A,1901-06-14,"Method of treating cocoa or like fibers. 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,9,1
+US690808A,1895-03-20,"Method of controlling electric motors or other electrical translating devices. 
+     ","['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,12,1
+US691075A,1900-10-25,"Apparatus for coloring hides. 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,6,1
+US697909A,1901-06-10,"Apparatus for coating metal plates. 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,7,1
+US698447A,1901-06-01,"Syringe. 
+     ","['PROPN', 'PUNCT', 'SPACE']",[],1,0,3,1
+US699345A,1901-04-04,"Apparatus for the treatment of sewage. 
+     ","['PROPN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,8,1
+US699668A,1901-11-18,"Apparatus for mixing concrete. 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,6,1
+US601290A,1898-03-29,Bicycle-lock ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US601448A,1898-03-29,Fence-post ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US601766A,1898-04-05,Railroad-tie plate ,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
+US602245A,1898-04-12,Window structure ,"['NOUN', 'NOUN']",[],0,0,2,1
+US602399A,1898-04-12,E norris ,"['NOUN', 'NOUN']",[],0,0,2,1
+US602610A,1898-04-19,Ander thorn ,"['VERB', 'NOUN']",[],0,0,2,1
+US602853A,1898-04-26,End-gate ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US603353A,1898-05-03,Shaft-adjusting device ,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",['ORG'],0,0,4,1
+US603500A,1898-05-03,Temporary binder ,"['ADJ', 'NOUN']",[],0,0,2,1
+US603515A,1898-05-03,Electrical apparatus ,"['ADJ', 'NOUN']",[],0,0,2,1
+US604058A,1898-05-17,Flue-scraper ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US604414A,1898-05-24,Device for supporting and stretching bed-comfortables ,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,1
+US604682A,1898-05-24,moore ,['VERB'],[],0,0,1,1
+US605313A,1898-06-07,Automatic-lever switch ,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
+US605717A,1898-06-14,File and binder ,"['NOUN', 'CCONJ', 'NOUN']",[],0,0,3,1
+US605731A,1898-06-14,Half to hugh p ,"['NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,4,1
+US605732A,1898-06-14,Tread fo ,"['INTJ', 'ADV']",[],0,0,2,1
+US607153A,1898-07-12,Wooden pipe ,"['ADJ', 'NOUN']",['GPE'],0,0,2,1
+US607542A,1898-07-19,Coffee-pot ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US608179A,1898-08-02,Stop-cock and waste ,"['VERB', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,5,1
+US608181A,1898-08-02,Valve for steam-pumps ,"['VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,1
+US608429A,1898-08-02,Automatic car-brake ,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
+US608537A,1898-08-02,Battery-electrode ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US608569A,1898-08-09,Railroad-switch ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US609059A,1898-08-16,Island ,['NOUN'],[],0,0,1,1
+US609177A,1898-08-16,Reclining-chair ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US610465A,1898-09-06,Explosive-engine ,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,1
+US610777A,1898-09-13,Nut and bolt lock ,"['NOUN', 'CCONJ', 'NOUN', 'VERB']",[],0,0,4,1
+US611010A,1898-09-20,Panoramic camera ,"['ADJ', 'NOUN']",[],0,0,2,1
+US611049A,1898-09-20,Reclining-chair ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US611140A,1898-09-20,Thirds to merritt n ,"['NOUN', 'ADP', 'NOUN', 'ADV']",[],0,0,4,1
+US611146A,1898-09-20,quentell ,['INTJ'],[],0,0,1,1
+US611540A,1898-09-27,Tire-bolting machine ,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,1
+US612136A,1898-10-11,Vehicle-top ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US612634A,1898-10-18,Folding opera-chair ,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
+US612998A,1898-10-25,Paper-bag fastener ,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
+US613049A,1898-10-25,Island ,['NOUN'],[],0,0,1,1
+US613434A,1898-11-01,Watchcase-spring ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US613861A,1898-11-08,Feeding device for sanders ,"['VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,1
+US613914A,1898-11-08,Hydrant-box ,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,1
+US613995A,1898-11-08,Planter attachment for wheel-cultivators ,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
+US614284A,1898-11-15,Bicycle-wheel ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US614712A,1898-11-22,Ink-well ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US614718A,1898-11-22,Valve for automatic sprinkler systems ,"['VERB', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,1
+US614752A,1898-11-22,Injector ,['NOUN'],[],0,0,1,1
+US615706A,1898-12-13,Pilot-burner ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US615740A,1898-12-13,Attachment for box-cars ,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,1
+US615881A,1898-12-13,Combined boiler check and blow-off cock ,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'ADP', 'NOUN']",[],0,0,8,1
+US616140A,1898-12-20,Concentrator and distributer ,"['NOUN', 'CCONJ', 'NOUN']",[],0,0,3,1
+US616278A,1898-12-20,Water-motor ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US616360A,1898-12-20,Combination vest and bosom ,"['NOUN', 'NOUN', 'CCONJ', 'VERB']",[],0,0,4,1
+US616453A,1898-12-27,Gas-burner ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US616594A,1898-01-24,Self-measuring milk-can ,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'AUX']",[],0,0,6,1
+US616692A,1898-12-27,Magazine-pistol ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
+US616744A,1898-12-27,Bicycle gear ,"['NOUN', 'NOUN']",[],0,0,2,1
+US616840A,1898-12-27,hillard ,['NOUN'],[],0,0,1,1
+US617005A,1899-01-03,Machine for sawing fellies ,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,1
+US644817A,1899-09-11,"Musical instrument. 
+     ","['ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,1

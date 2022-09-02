@@ -1,0 +1,182 @@
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
+US2012357A,1933-08-08,"Method of making bags 
+     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],1,0,5,1
+US2015097A,1933-03-13,"Method and apparatus for shaping edible products 
+     ","['PROPN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'SPACE']",[],1,0,8,1
+US2015101A,1933-08-16,"Terminal fixture aperture indicator 
+     ","['ADJ', 'NOUN', 'NOUN', 'PROPN', 'SPACE']",[],1,0,5,1
+US2015582A,1934-03-14,"Mop holder 
+     ","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US2018308A,1933-10-11,"Sash window 
+     ","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US2035608A,1929-07-26,"Process of purifying and refining hydrocarbon oils 
+     ","['PROPN', 'ADP', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],1,0,8,1
+US2046850A,1934-07-05,"Method of marking traveling lanes by means of electromagnetic waves 
+     ","['PROPN', 'ADP', 'VERB', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],1,0,11,1
+US2076662A,1932-09-24,"Electron tube 
+     ","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US2078430A,1933-10-28,"Egg carton 
+     ","['PROPN', 'PROPN', 'SPACE']",['ORG'],1,0,3,1
+US2000700A,1930-06-23,"Sign flasher 
+     ","['VERB', 'ADV', 'SPACE']",[],0,0,3,1
+US2001931A,1932-11-25,"Automatic clutch 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2002173A,1934-02-06,"Can punch 
+     ","['AUX', 'VERB', 'SPACE']",[],0,0,3,1
+US2004443A,1934-09-14,"Lens 
+     ","['INTJ', 'SPACE']",[],0,0,2,1
+US2005180A,1933-02-20,"Tank cleaning device 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2005392A,1933-04-18,"Combination snowplow 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2005479A,1929-01-17,"Lock lid for journal boxes 
+     ","['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US2007209A,1929-07-10,"Folding machine 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2007773A,1931-08-26,"Candle making apparatus 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2010120A,1934-04-27,"Harvester thresher 
+     ","['VERB', 'ADV', 'SPACE']",[],0,0,3,1
+US2011698A,1933-06-01,"Adhesive for magnetic cores formed of magnetic layers 
+     ","['VERB', 'ADP', 'ADJ', 'NOUN', 'VERB', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,1
+US2013303A,1933-07-12,"Tube-making machine 
+     ","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US2014833A,1934-03-28,"Coil winding machine 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2015516A,1935-09-24,Item register fos ,"['NOUN', 'VERB', 'ADV']",[],0,0,3,1
+US2016350A,1933-09-18,"Transmission mechanism 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2016615A,1931-06-16,"Despatching system for banks of elevators and the like 
+     ","['VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,10,1
+US2017195A,1933-02-02,"Perforating machine 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2018155A,1931-10-26,"Light reflector 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2020163A,1935-06-06,"Safety clip snap for bracelets and the like 
+     ","['NOUN', 'NOUN', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,9,1
+US2021337A,1934-07-31,"Air intake for manifolds 
+     ","['NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,1
+US2022322A,1932-06-29,"Coated absorbent materials and apparatus for producing the same 
+     ","['ADJ', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'SPACE']",[],0,0,10,1
+US2023184A,1932-08-11,"Dump truck 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2025350A,1934-07-02,"Hand flanger for cans 
+     ","['NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,1
+US2027222A,1930-06-04,"Electric cable 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2027760A,1933-08-31,"Dispensing container 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2028183A,1929-06-07,"Abrasive wheel and method of making the same 
+     ","['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'SPACE']",[],0,0,9,1
+US2029280A,1935-04-22,"Extension table 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2032645A,1933-08-18,"Absorbent paper product and process of producing the same 
+     ","['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'SPACE']",[],0,0,10,1
+US2033826A,1934-10-11,"Musical instrument 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2034334A,1930-08-08,"Photoelectric cell 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2035017A,1935-02-05,"Bottle for corrosive liquids 
+     ","['NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,1
+US2035126A,1932-08-08,"Rendering process 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2036102A,1935-06-25,"Detachable cutter and point for plows 
+     ","['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,1
+US2038327A,1930-08-30,"X-ray table 
+     ","['NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US2038466A,1933-11-09,"Flexible coupling 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2041279A,1934-04-13,"Asphaltic composition 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2043389A,1933-08-26,"Solvent extraction of oil 
+     ","['ADJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,1
+US2043711A,1932-07-25,"Sewing machine 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2043984A,1932-07-20,"Portable closed chamber determination of sound absorption 
+     ","['ADJ', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,8,1
+US2046245A,1932-07-30,"Process of mechanically simulating handmade brick 
+     ","['NOUN', 'ADP', 'ADV', 'VERB', 'ADJ', 'NOUN', 'SPACE']",[],0,0,7,1
+US2046872A,1934-01-06,"Marking machine 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2049997A,1933-11-10,"Tank truck 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2053782A,1932-06-04,"Process for moistureproofing materials 
+     ","['NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US2054590A,1934-01-04,"Vibrator device 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2054773A,1934-05-04,"Cylinder structure and method of producing the same 
+     ","['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'SPACE']",[],0,0,9,1
+US2059492A,1934-04-09,"Fuselage 
+     ","['NOUN', 'SPACE']",[],0,0,2,1
+US2060283A,1935-11-13,"Elevator car control 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2060825A,1934-08-03,"Control of electron streams 
+     ","['NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US2061266A,1934-06-14,"Garment hanger 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2064851A,1933-12-06,"Means for and method of separating sheet material 
+     ","['VERB', 'ADP', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,1
+US2065388A,1936-02-28,"Stuffed plaited upholstery and method of manufacture 
+     ","['VERB', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,8,1
+US2066578A,1936-02-05,"Wearing shoe 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2067092A,1934-10-08,"Marking machine 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2068270A,1935-01-26,"Thermostatic switch construction 
+     ","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2069512A,1935-01-19,"Elevator control system 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2073923A,1933-11-27,"Art of stabilizing soap 
+     ","['NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US2074060A,1936-08-19,"Renewable fuse 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2074547A,1935-07-23,"Trimming machine 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2074859A,1935-07-03,"Internal combustion engine 
+     ","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2078302A,1933-08-31,"Modulating system for short waves 
+     ","['VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,1
+US2078957A,1930-03-24,"Gas turbine apparatus 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2081344A,1932-07-11,"Braun tube 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2082176A,1935-11-20,"Gas heating unit 
+     ","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2084195A,1936-09-08,"Surgical instrument 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2084522A,1934-09-21,"Clutching and speed-changing gear 
+     ","['NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,7,1
+US2085949A,1933-02-28,"Multiple control system 
+     ","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2087694A,1933-11-09,"Cleaning pipe 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2088400A,1935-04-20,"Pipe insulation 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2090677A,1935-11-27,"Grading machine 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2091773A,1935-11-20,"Electric socket 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2093043A,1935-12-10,"Rubbing device 
+     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US2093269A,1935-09-19,"Adjustable curtain 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2093391A,1933-02-28,"Preformed unit and method of making the same 
+     ","['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'SPACE']",['ORG'],0,0,9,1
+US2094838A,1936-04-04,"Controlling apparatus for propeller blades 
+     ","['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US2095317A,1934-09-27,"Photographic sound recorder 
+     ","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US2095576A,1934-02-23,"Weft inserting and beating-up mechanism of looms for weaving 
+     ","['ADP', 'VERB', 'CCONJ', 'VERB', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'SPACE']",['ORG'],0,0,12,1
+US2096211A,1934-10-17,"Change speed gearing 
+     ","['VERB', 'NOUN', 'VERB', 'SPACE']",[],0,0,4,1
+US2096450A,1935-05-16,"Control circuit 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2097345A,1935-05-01,"Resinous composition 
+     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US2097464A,1935-04-25,"Haze free cellulose acetate and its preparation 
+     ","['NOUN', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'PRON', 'NOUN', 'SPACE']",[],0,0,8,1
+US2099639A,1935-11-18,"Circuit breaker 
+     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US2099880A,1929-11-22,"Composition of matter adapted for increasing the water-resistance of fibrous substances specifically paper products and process of making same 
+     ","['NOUN', 'ADP', 'NOUN', 'VERB', 'ADP', 'VERB', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADV', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ', 'SPACE']",[],0,0,22,1
