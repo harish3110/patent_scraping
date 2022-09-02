@@ -4,6 +4,8 @@ import spacy
 import glob
 from tqdm import tqdm
 
+nltk.download('averaged_perceptron_tagger')
+
 path = '../data/scraped/'
 files = glob.glob(f'{path}*.csv')
 nlp = spacy.load("en_core_web_sm")
