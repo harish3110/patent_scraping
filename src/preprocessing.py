@@ -47,11 +47,10 @@ def build_spacy_pos_tag(df):
 
 save_path = '../data/preprocessed/'
 
-for file in tqdm(files):
+for file in tqdm(files[1:]):
     name = file.split('/')[-1]
-    print(name)
     df = pd.read_csv(file)
-    df = build_nltk_pos_tags(df)
+    # df = build_nltk_pos_tags(df)
     df = build_spacy_pos_tag(df)
     df.to_csv(f'{save_path}{name}', index=False)
 
