@@ -1,53 +1,53 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US2429097A,1945-02-09,"N,n'-dithiodimorpholine as a fungicide","['CCONJ', 'PUNCT', 'PROPN', 'ADP', 'DET', 'NOUN', 'SPACE']",['GPE'],1,0,7,0,1
-US2433253A,1944-05-09,By-product coke oven wall construction,"['ADP', 'PUNCT', 'NOUN', 'X', 'PROPN', 'PROPN', 'PROPN', 'SPACE']",[],1,0,8,0,1
-US2438200A,1946-03-04,"N, n'-bis (3-diethylaminopropylamide) of dibasic aliphatic acids","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'NUM', 'PUNCT', 'NOUN', 'PUNCT', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",['CARDINAL'],1,0,13,0,1
-US2445024A,1945-01-25,Weft cutter on multishuttle box looms,"['ADP', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'VERB', 'SPACE']",['ORG'],1,0,7,0,1
-US2458480A,1947-07-03,By-product coke oven,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PROPN', 'SPACE']",[],1,0,6,0,1
-US2478367A,1944-11-11,"N, n'-alkylenecyanine dyes","['CCONJ', 'PUNCT', 'PROPN', 'VERB', 'SPACE']",[],1,0,5,0,1
-US2405497A,1944-05-13,Over and under scale,"['ADP', 'CCONJ', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2407453A,1944-05-18,Off-peak hot-water heater,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US2429097A,1945-02-09,"N,n'-dithiodimorpholine as a fungicide","['CCONJ', 'PUNCT', 'PROPN', 'ADP', 'DET', 'NOUN']",['GPE'],1,0,7,0,1
+US2433253A,1944-05-09,By-product coke oven wall construction,"['ADP', 'PUNCT', 'NOUN', 'X', 'PROPN', 'PROPN', 'PROPN']",[],1,0,8,0,1
+US2438200A,1946-03-04,"N, n'-bis (3-diethylaminopropylamide) of dibasic aliphatic acids","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'NUM', 'PUNCT', 'NOUN', 'PUNCT', 'ADP', 'ADJ', 'ADJ', 'NOUN']",['CARDINAL'],1,0,13,0,1
+US2445024A,1945-01-25,Weft cutter on multishuttle box looms,"['ADP', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'VERB']",['ORG'],1,0,7,0,1
+US2458480A,1947-07-03,By-product coke oven,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PROPN']",[],1,0,6,0,1
+US2478367A,1944-11-11,"N, n'-alkylenecyanine dyes","['CCONJ', 'PUNCT', 'PROPN', 'VERB']",[],1,0,5,0,1
+US2405497A,1944-05-13,Over and under scale,"['ADP', 'CCONJ', 'ADP', 'NOUN']",[],0,0,5,0,1
+US2407453A,1944-05-18,Off-peak hot-water heater,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,0,1
 US2415793A,1947-02-11,And process of,"['CCONJ', 'NOUN', 'ADP']",[],0,0,3,0,1
-US2416000A,1944-07-17,Hf alkylation of hydrocarbons in the presence of tempering agents,"['ADP', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,11,0,1
-US2417985A,1944-06-28,"N, n'-dibenzylidene-ethylene-diamine as arachnicides","['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,10,0,1
-US2420083A,1945-03-14,Inside locking latch construction,"['ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2420256A,1944-10-14,Shackle,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2424530A,1946-04-02,Throwout bearing,"['ADP', 'VERB', 'SPACE']",[],0,0,3,0,1
-US2431886A,1941-06-13,Over-current and under-current protective switch,"['ADP', 'PUNCT', 'ADJ', 'CCONJ', 'ADP', 'PUNCT', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",[],0,0,10,0,1
-US2432171A,1945-06-30,Weft detecting system for looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2432281A,1945-12-04,Hf alkylation,"['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2435250A,1944-02-25,Inside scanning facsimile recorder,"['ADP', 'VERB', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2435336A,1944-08-09,Shackle,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2445477A,1945-03-12,Ampoule,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2446293A,1944-12-27,By-pass for rotary mud screens,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
-US2446747A,1947-04-02,Weft detecting system for convertible looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US2454297A,1944-12-08,By-passing valve for oil temperature control units,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,10,0,1
-US2456567A,1944-09-01,Aminotriazine product,"['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2460318A,1946-11-02,Weft replenishing pick and pick loom,"['ADP', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US2460465A,1947-02-17,Inside sidehead chip breaker,"['ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2461586A,1946-03-07,Up-twister,"['ADP', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2416000A,1944-07-17,Hf alkylation of hydrocarbons in the presence of tempering agents,"['ADP', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,11,0,1
+US2417985A,1944-06-28,"N, n'-dibenzylidene-ethylene-diamine as arachnicides","['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,10,0,1
+US2420083A,1945-03-14,Inside locking latch construction,"['ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US2420256A,1944-10-14,Shackle,['ADP'],[],0,0,2,0,1
+US2424530A,1946-04-02,Throwout bearing,"['ADP', 'VERB']",[],0,0,3,0,1
+US2431886A,1941-06-13,Over-current and under-current protective switch,"['ADP', 'PUNCT', 'ADJ', 'CCONJ', 'ADP', 'PUNCT', 'ADJ', 'ADJ', 'NOUN']",[],0,0,10,0,1
+US2432171A,1945-06-30,Weft detecting system for looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
+US2432281A,1945-12-04,Hf alkylation,"['ADP', 'NOUN']",[],0,0,3,0,1
+US2435250A,1944-02-25,Inside scanning facsimile recorder,"['ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US2435336A,1944-08-09,Shackle,['ADP'],[],0,0,2,0,1
+US2445477A,1945-03-12,Ampoule,['ADP'],[],0,0,2,0,1
+US2446293A,1944-12-27,By-pass for rotary mud screens,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,8,0,1
+US2446747A,1947-04-02,Weft detecting system for convertible looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,0,1
+US2454297A,1944-12-08,By-passing valve for oil temperature control units,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,10,0,1
+US2456567A,1944-09-01,Aminotriazine product,"['ADP', 'NOUN']",[],0,0,3,0,1
+US2460318A,1946-11-02,Weft replenishing pick and pick loom,"['ADP', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,7,0,1
+US2460465A,1947-02-17,Inside sidehead chip breaker,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US2461586A,1946-03-07,Up-twister,"['ADP', 'PUNCT', 'NOUN']",[],0,0,4,0,1
 US2461950A,1949-02-15,or x-amino quinazolines,"['CCONJ', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US2462786A,1946-08-16,Pacifier,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2462830A,1946-08-31,Fungicide comprising 1-methoxy-4-chlorobutene-2,"['ADP', 'VERB', 'NUM', 'PUNCT', 'SPACE', 'PUNCT', 'SPACE', 'SPACE']",['CARDINAL'],0,0,8,0,1
-US2468356A,1947-04-14,On-or-off electric switch,"['ADP', 'PUNCT', 'CCONJ', 'PUNCT', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US2462786A,1946-08-16,Pacifier,['ADP'],[],0,0,2,0,1
+US2462830A,1946-08-31,Fungicide comprising 1-methoxy-4-chlorobutene-2,"['ADP', 'VERB', 'NUM', 'PUNCT', 'SPACE', 'PUNCT', 'SPACE']",['CARDINAL'],0,0,8,0,1
+US2468356A,1947-04-14,On-or-off electric switch,"['ADP', 'PUNCT', 'CCONJ', 'PUNCT', 'ADP', 'ADJ', 'NOUN']",[],0,0,8,0,1
 US2470152A,1949-05-17,Inside flue stop,"['ADP', 'NOUN', 'VERB']",[],0,0,3,0,1
-US2470254A,1946-05-21,Inside thread caliper,"['ADP', 'NOUN', 'ADV', 'SPACE']",[],0,0,4,0,1
-US2470794A,1943-12-20,In-line fluid pump,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,6,0,1
+US2470254A,1946-05-21,Inside thread caliper,"['ADP', 'NOUN', 'ADV']",[],0,0,4,0,1
+US2470794A,1943-12-20,In-line fluid pump,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB']",[],0,0,6,0,1
 US2473661A,1949-06-21,Of model railroad switches,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US2476643A,1944-07-01,By-pass system for cooling fans,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,8,0,1
-US2477357A,1946-03-26,Weft laying needle mechanism for axminster looms,"['ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB', 'SPACE']",[],0,0,8,0,1
-US2481425A,1946-04-29,Under pick motion for looms,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2482409A,1947-09-09,Through conduit gate valve,"['ADP', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,5,0,1
-US2483215A,1944-12-29,Inside delivery scatter feed stoker,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2483757A,1949-10-04,denisoff,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2486321A,1948-10-14,Ampoule,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2487200A,1946-07-16,Tampon,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2488062A,1947-02-05,Under-the-counter rack,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US2489516A,1947-09-19,Down grain saver for harvester reels,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US2476643A,1944-07-01,By-pass system for cooling fans,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,8,0,1
+US2477357A,1946-03-26,Weft laying needle mechanism for axminster looms,"['ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,8,0,1
+US2481425A,1946-04-29,Under pick motion for looms,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
+US2482409A,1947-09-09,Through conduit gate valve,"['ADP', 'NOUN', 'NOUN', 'VERB']",[],0,0,5,0,1
+US2483215A,1944-12-29,Inside delivery scatter feed stoker,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
+US2483757A,1949-10-04,denisoff,['ADP'],[],0,0,2,0,1
+US2486321A,1948-10-14,Ampoule,['ADP'],[],0,0,2,0,1
+US2487200A,1946-07-16,Tampon,['ADP'],[],0,0,2,0,1
+US2488062A,1947-02-05,Under-the-counter rack,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,0,1
+US2489516A,1947-09-19,Down grain saver for harvester reels,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,0,1
 US2490126A,1949-12-06,Telefacsimile phasing arrangement,"['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
-US2492655A,1948-05-20,Inside seal and reinforcement for slide fastener closures,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2493114A,1948-03-11,Weft detecting shuttle,"['ADP', 'VERB', 'NOUN', 'SPACE']",['ORG'],0,0,4,0,1
-US2494193A,1947-06-30,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2495194A,1948-10-13,Through bolt commutator,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2496655A,1947-01-20,Inside caliper,"['ADP', 'ADJ', 'SPACE']",[],0,0,3,0,1
-US2499414A,1947-04-15,Tampon,"['ADP', 'SPACE']",[],0,0,2,0,1
+US2492655A,1948-05-20,Inside seal and reinforcement for slide fastener closures,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
+US2493114A,1948-03-11,Weft detecting shuttle,"['ADP', 'VERB', 'NOUN']",['ORG'],0,0,4,0,1
+US2494193A,1947-06-30,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2495194A,1948-10-13,Through bolt commutator,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2496655A,1947-01-20,Inside caliper,"['ADP', 'ADJ']",[],0,0,3,0,1
+US2499414A,1947-04-15,Tampon,['ADP'],[],0,0,2,0,1

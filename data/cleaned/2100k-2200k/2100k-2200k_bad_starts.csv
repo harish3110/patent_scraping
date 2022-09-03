@@ -1,29 +1,29 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US2110602A,1936-03-16,Over-shot fishing tool,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2110943A,1935-06-05,Fungicide,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2115270A,1937-03-22,Outside surfacing for wooden buildings,"['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2117050A,1936-06-06,Inside casing cutter,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2117594A,1936-06-15,Inside casing cutter,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2117599A,1936-08-26,Inside casing cutter,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2124364A,1935-01-07,Over-voltage protective device,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2129153A,1934-11-06,Resinlike condensation-products,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2129690A,1935-12-03,n-propylmethacrylate,"['CCONJ', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2130580A,1935-09-26,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2131695A,1935-05-15,Inside wind coilable measuring rule,"['ADP', 'NOUN', 'ADJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2134842A,1938-01-17,Weft controlled loom stopping mechanism,"['ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2136757A,1934-06-29,After-treatment of dyeings on cellulosic fibers,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2149428A,1936-03-15,Weft inserting mechanism for looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",['ORG'],0,0,6,0,1
-US2160318A,1936-09-08,Over speed engine control,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2175372A,1937-02-04,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2175787A,1938-10-14,Weft cutting device,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2177198A,1938-09-07,Fungicide,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2179985A,1935-10-05,After-treatment of yarn of artificial origin,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2180693A,1935-02-19,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2182396A,1937-05-27,Inside curtain and support,"['ADP', 'NOUN', 'CCONJ', 'VERB', 'SPACE']",[],0,0,5,0,1
-US2183962A,1939-05-15,Off-centering device for lens grinding machines,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2186015A,1936-04-03,By-pass valve mechanism,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2187344A,1937-10-30,Weft inserting device for weaving looms having a continuous weft supply,"['ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN', 'VERB', 'DET', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",['ORG'],0,0,12,0,1
-US2189750A,1938-12-23,By-pass compensator for meters,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US2195440A,1937-06-03,After-chromable acid dyestuffs of the triphenylmethane series,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,10,0,1
-US2196893A,1938-08-27,Weft straightening apparatus,"['ADP', 'VERB', 'NOUN', 'SPACE']",['ORG'],0,0,4,0,1
-US2199236A,1939-05-18,Inside micrometer attachment,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2110602A,1936-03-16,Over-shot fishing tool,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
+US2110943A,1935-06-05,Fungicide,['ADP'],[],0,0,2,0,1
+US2115270A,1937-03-22,Outside surfacing for wooden buildings,"['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,0,1
+US2117050A,1936-06-06,Inside casing cutter,"['ADP', 'VERB', 'NOUN']",[],0,0,4,0,1
+US2117594A,1936-06-15,Inside casing cutter,"['ADP', 'VERB', 'NOUN']",[],0,0,4,0,1
+US2117599A,1936-08-26,Inside casing cutter,"['ADP', 'VERB', 'NOUN']",[],0,0,4,0,1
+US2124364A,1935-01-07,Over-voltage protective device,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,6,0,1
+US2129153A,1934-11-06,Resinlike condensation-products,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
+US2129690A,1935-12-03,n-propylmethacrylate,"['CCONJ', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US2130580A,1935-09-26,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2131695A,1935-05-15,Inside wind coilable measuring rule,"['ADP', 'NOUN', 'ADJ', 'VERB', 'NOUN']",[],0,0,6,0,1
+US2134842A,1938-01-17,Weft controlled loom stopping mechanism,"['ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
+US2136757A,1934-06-29,After-treatment of dyeings on cellulosic fibers,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,9,0,1
+US2149428A,1936-03-15,Weft inserting mechanism for looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",['ORG'],0,0,6,0,1
+US2160318A,1936-09-08,Over speed engine control,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US2175372A,1937-02-04,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2175787A,1938-10-14,Weft cutting device,"['ADP', 'VERB', 'NOUN']",[],0,0,4,0,1
+US2177198A,1938-09-07,Fungicide,['ADP'],[],0,0,2,0,1
+US2179985A,1935-10-05,After-treatment of yarn of artificial origin,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,9,0,1
+US2180693A,1935-02-19,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2182396A,1937-05-27,Inside curtain and support,"['ADP', 'NOUN', 'CCONJ', 'VERB']",[],0,0,5,0,1
+US2183962A,1939-05-15,Off-centering device for lens grinding machines,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,9,0,1
+US2186015A,1936-04-03,By-pass valve mechanism,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
+US2187344A,1937-10-30,Weft inserting device for weaving looms having a continuous weft supply,"['ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN', 'VERB', 'DET', 'ADJ', 'ADJ', 'NOUN']",['ORG'],0,0,12,0,1
+US2189750A,1938-12-23,By-pass compensator for meters,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,1
+US2195440A,1937-06-03,After-chromable acid dyestuffs of the triphenylmethane series,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,10,0,1
+US2196893A,1938-08-27,Weft straightening apparatus,"['ADP', 'VERB', 'NOUN']",['ORG'],0,0,4,0,1
+US2199236A,1939-05-18,Inside micrometer attachment,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1

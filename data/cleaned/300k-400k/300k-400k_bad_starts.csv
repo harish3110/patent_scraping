@@ -81,7 +81,7 @@ US367951A,1887-08-09,And hoeatio thomas,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
 US367984A,1887-08-09,And ahira tyrrell,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
 US368565A,1887-08-23,And campbell p,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,0,1
 US368658A,1887-08-23,And jacob o,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US369779A,1887-09-13,of kingston,"['ADP', 'PROPN', 'SPACE']",[],1,0,3,0,1
+US369779A,1887-09-13,of kingston,"['ADP', 'PROPN']",[],1,0,3,0,1
 US369849A,1887-09-13,And john p,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US370589A,1887-09-27,And frederick m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
 US371150A,1887-10-04,And philip e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
@@ -254,7 +254,7 @@ US327122A,1885-09-29,And geoe,"['CCONJ', 'VERB']",[],0,0,2,0,1
 US328073A,1885-10-13,And polly a,"['CCONJ', 'ADV', 'PRON']",[],0,0,3,0,1
 US328192A,1885-10-13,of bbooklyn,"['ADP', 'X']",[],0,0,2,0,1
 US328582A,1885-10-20,And drawing hemp,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US328994A,1885-10-27,wy man,"['CCONJ', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US328994A,1885-10-27,wy man,"['CCONJ', 'NOUN']",[],0,0,3,0,1
 US329139A,1885-10-27,And charles a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
 US329370A,1885-10-27,And asa,"['CCONJ', 'NOUN']",[],0,0,2,0,1
 US330303A,1885-11-10,And angus campbell,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
@@ -346,7 +346,7 @@ US353963A,1886-12-07,Under-garment,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
 US354396A,1886-12-14,And frederick a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
 US354465A,1886-12-14,Conkad a,"['ADP', 'PRON']",[],0,0,2,0,1
 US354477A,1886-12-14,And frank a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US354588A,1886-12-21,w wheeler,"['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US354588A,1886-12-21,w wheeler,"['ADP', 'NOUN']",[],0,0,3,0,1
 US355045A,1886-12-28,Inside window-blind,"['ADP', 'NOUN', 'PUNCT', 'ADJ']",[],0,0,4,0,1
 US355076A,1886-12-28,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
 US355136A,1886-12-28,Or severing device,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
@@ -439,9 +439,9 @@ US376095A,1888-01-10,Or oscillating filter,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,
 US376457A,1888-01-17,Of pro,"['ADP', 'ADJ']",[],0,0,2,0,1
 US376641A,1888-01-17,And cutting fabrics,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
 US377051A,1888-01-31,And noeman m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US377379A,1888-02-07,girard,"['ADP', 'SPACE']",[],0,0,2,0,1
+US377379A,1888-02-07,girard,['ADP'],[],0,0,2,0,1
 US377591A,1888-02-07,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US377788A,1888-02-14,trayee,"['ADP', 'SPACE']",[],0,0,2,0,1
+US377788A,1888-02-14,trayee,['ADP'],[],0,0,2,0,1
 US377871A,1888-02-14,And traveler for spinning machines,"['CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
 US378522A,1888-02-28,For sand-paper,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
 US378552A,1888-02-28,Re lay-mag net,"['ADP', 'ADV', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,5,0,1

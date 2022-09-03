@@ -1,10 +1,10 @@
 patent_number,date,title,tokens,nltk_pos,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US1602313A,1925-11-05,In and out indicator,"['In', 'and', 'out', 'indicator']","[('In', 'IN'), ('and', 'CC'), ('out', 'IN'), ('indicator', 'NN')]","['ADP', 'CCONJ', 'ADV', 'PROPN', 'SPACE']",[],1,0,5,0,1
+US1602313A,1925-11-05,In and out indicator,"['In', 'and', 'out', 'indicator']","[('In', 'IN'), ('and', 'CC'), ('out', 'IN'), ('indicator', 'NN')]","['ADP', 'CCONJ', 'ADV', 'PROPN']",[],1,0,5,0,1
 US1605776A,1926-11-02,And one-fourth to joseph l,"['And', 'one-fourth', 'to', 'joseph', 'l']","[('And', 'CC'), ('one-fourth', 'JJ'), ('to', 'TO'), ('joseph', 'VB'), ('l', 'NN')]","['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,7,0,1
 US1606091A,1926-11-09,At-e n- t off,"['At-e', 'n-', 't', 'off']","[('At-e', 'JJ'), ('n-', 'JJ'), ('t', 'NN'), ('off', 'IN')]","['ADP', 'PUNCT', 'PROPN', 'X', 'PROPN', 'ADP']",[],1,0,6,0,1
 US1608059A,1926-11-23,of los angeles,"['of', 'los', 'angeles']","[('of', 'IN'), ('los', 'NN'), ('angeles', 'NNS')]","['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
 US1610019A,1926-12-07,of san francisco,"['of', 'san', 'francisco']","[('of', 'IN'), ('san', 'JJ'), ('francisco', 'NN')]","['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US1616989A,1926-08-04,By-pass clearance unloader,"['By-pass', 'clearance', 'unloader']","[('By-pass', 'JJ'), ('clearance', 'NN'), ('unloader', 'NN')]","['ADP', 'PUNCT', 'ADJ', 'NOUN', 'PROPN', 'SPACE']",[],1,0,6,0,1
+US1616989A,1926-08-04,By-pass clearance unloader,"['By-pass', 'clearance', 'unloader']","[('By-pass', 'JJ'), ('clearance', 'NN'), ('unloader', 'NN')]","['ADP', 'PUNCT', 'ADJ', 'NOUN', 'PROPN']",[],1,0,6,0,1
 US1619031A,1927-03-01,And paul ostrosky,"['And', 'paul', 'ostrosky']","[('And', 'CC'), ('paul', 'NN'), ('ostrosky', 'NN')]","['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US1622249A,1927-03-22,And one-third to herman t,"['And', 'one-third', 'to', 'herman', 't']","[('And', 'CC'), ('one-third', 'JJ'), ('to', 'TO'), ('herman', 'VB'), ('t', 'NN')]","['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'NOUN', 'PROPN']",['CARDINAL'],1,0,7,0,1
 US1624172A,1927-04-12,of los angeles,"['of', 'los', 'angeles']","[('of', 'IN'), ('los', 'NN'), ('angeles', 'NNS')]","['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
@@ -21,7 +21,7 @@ US1665800A,1928-04-10,And david j,"['And', 'david', 'j']","[('And', 'CC'), ('dav
 US1667558A,1928-04-24,And olos-thibd to alviif m,"['And', 'olos-thibd', 'to', 'alviif', 'm']","[('And', 'CC'), ('olos-thibd', 'JJ'), ('to', 'TO'), ('alviif', 'VB'), ('m', 'NN')]","['CCONJ', 'PROPN', 'PUNCT', 'PROPN', 'PART', 'PROPN', 'VERB']",[],1,0,7,0,1
 US1676828A,1928-07-10,And thomas r,"['And', 'thomas', 'r']","[('And', 'CC'), ('thomas', 'VB'), ('r', 'NN')]","['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
 US1676984A,1928-07-10,And fbank w,"['And', 'fbank', 'w']","[('And', 'CC'), ('fbank', 'NN'), ('w', 'NN')]","['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
-US1677818A,1927-01-25,Up-draft process of and muffle kiln for firing,"['Up-draft', 'process', 'of', 'and', 'muffle', 'kiln', 'for', 'firing']","[('Up-draft', 'JJ'), ('process', 'NN'), ('of', 'IN'), ('and', 'CC'), ('muffle', 'VB'), ('kiln', 'NN'), ('for', 'IN'), ('firing', 'VBG')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'CCONJ', 'PROPN', 'NOUN', 'ADP', 'VERB', 'SPACE']",[],1,0,11,0,1
+US1677818A,1927-01-25,Up-draft process of and muffle kiln for firing,"['Up-draft', 'process', 'of', 'and', 'muffle', 'kiln', 'for', 'firing']","[('Up-draft', 'JJ'), ('process', 'NN'), ('of', 'IN'), ('and', 'CC'), ('muffle', 'VB'), ('kiln', 'NN'), ('for', 'IN'), ('firing', 'VBG')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'CCONJ', 'PROPN', 'NOUN', 'ADP', 'VERB']",[],1,0,11,0,1
 US1680917A,1928-08-14,And stephen m,"['And', 'stephen', 'm']","[('And', 'CC'), ('stephen', 'VB'), ('m', 'NN')]","['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
 US1684933A,1928-09-18,And frank b,"['And', 'frank', 'b']","[('And', 'CC'), ('frank', 'NN'), ('b', 'NN')]","['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
 US1688998A,1928-10-23,By eose lima,"['By', 'eose', 'lima']","[('By', 'IN'), ('eose', 'JJ'), ('lima', 'NNS')]","['ADP', 'NOUN', 'PROPN']",[],1,0,3,0,1
@@ -32,7 +32,7 @@ US1695004A,1928-12-11,And harold t,"['And', 'harold', 't']","[('And', 'CC'), ('h
 US1699732A,1929-01-22,Of san francisco,"['Of', 'san', 'francisco']","[('Of', 'IN'), ('san', 'JJ'), ('francisco', 'NN')]","['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
 US1600772A,1926-09-21,of baltimore,"['of', 'baltimore']","[('of', 'IN'), ('baltimore', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1602435A,1926-10-12,of denvee,"['of', 'denvee']","[('of', 'IN'), ('denvee', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1602719A,1923-04-17,Off-bearing mechanism for tile-cutting machines,"['Off-bearing', 'mechanism', 'for', 'tile-cutting', 'machines']","[('Off-bearing', 'JJ'), ('mechanism', 'NN'), ('for', 'IN'), ('tile-cutting', 'JJ'), ('machines', 'NNS')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,10,0,1
+US1602719A,1923-04-17,Off-bearing mechanism for tile-cutting machines,"['Off-bearing', 'mechanism', 'for', 'tile-cutting', 'machines']","[('Off-bearing', 'JJ'), ('mechanism', 'NN'), ('for', 'IN'), ('tile-cutting', 'JJ'), ('machines', 'NNS')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,10,0,1
 US1605574A,1926-11-02,of glasgow,"['of', 'glasgow']","[('of', 'IN'), ('glasgow', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1605768A,1925-06-02,of leicester,"['of', 'leicester']","[('of', 'IN'), ('leicester', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1605841A,1926-11-02,of rochester,"['of', 'rochester']","[('of', 'IN'), ('rochester', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
@@ -46,7 +46,7 @@ US1606002A,1926-11-09,And helmee e,"['And', 'helmee', 'e']","[('And', 'CC'), ('h
 US1606037A,1926-11-09,And one-third to,"['And', 'one-third', 'to']","[('And', 'CC'), ('one-third', 'NN'), ('to', 'TO')]","['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP']",['CARDINAL'],0,0,5,0,1
 US1606068A,1926-11-09,In preserving eggs,"['In', 'preserving', 'eggs']","[('In', 'IN'), ('preserving', 'VBG'), ('eggs', 'NNS')]","['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
 US1606481A,1926-11-09,of pittsburgh,"['of', 'pittsburgh']","[('of', 'IN'), ('pittsburgh', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1608945A,1926-02-15,Under drill bit,"['Under', 'drill', 'bit']","[('Under', 'IN'), ('drill', 'JJ'), ('bit', 'NN')]","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1608945A,1926-02-15,Under drill bit,"['Under', 'drill', 'bit']","[('Under', 'IN'), ('drill', 'JJ'), ('bit', 'NN')]","['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
 US1609205A,1926-11-30,And julius c,"['And', 'julius', 'c']","[('And', 'CC'), ('julius', 'NN'), ('c', 'NN')]","['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
 US1610284A,1926-12-14,And owe-half to,"['And', 'owe-half', 'to']","[('And', 'CC'), ('owe-half', 'NN'), ('to', 'TO')]","['CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'PART']",[],0,0,5,0,1
 US1610287A,1926-12-14,To diamond power,"['To', 'diamond', 'power']","[('To', 'TO'), ('diamond', 'VB'), ('power', 'NN')]","['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
@@ -56,16 +56,16 @@ US1615105A,1927-01-18,And fbancis a,"['And', 'fbancis', 'a']","[('And', 'CC'), (
 US1615854A,1927-02-01,of springfield,"['of', 'springfield']","[('of', 'IN'), ('springfield', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1616997A,1927-02-08,of monroe,"['of', 'monroe']","[('of', 'IN'), ('monroe', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1616999A,1927-02-08,ob athol,"['ob', 'athol']","[('ob', 'NN'), ('athol', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1617255A,1925-07-31,Fungicide,['Fungicide'],"[('Fungicide', 'NN')]","['ADP', 'SPACE']",[],0,0,2,0,1
+US1617255A,1925-07-31,Fungicide,['Fungicide'],"[('Fungicide', 'NN')]",['ADP'],[],0,0,2,0,1
 US1617947A,1927-02-15,of leeds,"['of', 'leeds']","[('of', 'IN'), ('leeds', 'NNS')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1618592A,1927-02-22,of new yobk,"['of', 'new', 'yobk']","[('of', 'IN'), ('new', 'JJ'), ('yobk', 'NN')]","['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
 US1619368A,1927-03-01,And wil,"['And', 'wil']","[('And', 'CC'), ('wil', 'NN')]","['CCONJ', 'NOUN']",[],0,0,2,0,1
 US1620524A,1927-03-08,of flint,"['of', 'flint']","[('of', 'IN'), ('flint', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1620712A,1926-01-28,Inside protecting stay for leather-top rubbers,"['Inside', 'protecting', 'stay', 'for', 'leather-top', 'rubbers']","[('Inside', 'IN'), ('protecting', 'VBG'), ('stay', 'NN'), ('for', 'IN'), ('leather-top', 'JJ'), ('rubbers', 'NNS')]","['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US1620712A,1926-01-28,Inside protecting stay for leather-top rubbers,"['Inside', 'protecting', 'stay', 'for', 'leather-top', 'rubbers']","[('Inside', 'IN'), ('protecting', 'VBG'), ('stay', 'NN'), ('for', 'IN'), ('leather-top', 'JJ'), ('rubbers', 'NNS')]","['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,9,0,1
 US1621515A,1927-03-22,Chineby cobpobation,"['Chineby', 'cobpobation']","[('Chineby', 'NNP'), ('cobpobation', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1622186A,1926-04-08,Under-sea-illuminating means for submarines,"['Under-sea-illuminating', 'means', 'for', 'submarines']","[('Under-sea-illuminating', 'JJ'), ('means', 'NNS'), ('for', 'IN'), ('submarines', 'NNS')]","['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US1622186A,1926-04-08,Under-sea-illuminating means for submarines,"['Under-sea-illuminating', 'means', 'for', 'submarines']","[('Under-sea-illuminating', 'JJ'), ('means', 'NNS'), ('for', 'IN'), ('submarines', 'NNS')]","['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,0,1
 US1622413A,1927-03-29,And ernest r,"['And', 'ernest', 'r']","[('And', 'CC'), ('ernest', 'JJS'), ('r', 'NN')]","['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1622778A,1925-09-15,By-pass valve structure,"['By-pass', 'valve', 'structure']","[('By-pass', 'NNP'), ('valve', 'NN'), ('structure', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1622778A,1925-09-15,By-pass valve structure,"['By-pass', 'valve', 'structure']","[('By-pass', 'NNP'), ('valve', 'NN'), ('structure', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
 US1623255A,1927-04-05,of baltimore,"['of', 'baltimore']","[('of', 'IN'), ('baltimore', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1624512A,1927-04-12,To oil,"['To', 'oil']","[('To', 'TO'), ('oil', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1625011A,1927-04-19,And dubwabd a,"['And', 'dubwabd', 'a']","[('And', 'CC'), ('dubwabd', 'VB'), ('a', 'DT')]","['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
@@ -77,7 +77,7 @@ US1625947A,1927-04-26,For castihg clay blocks and the like and method of molding
 US1626748A,1927-05-03,By hazel,"['By', 'hazel']","[('By', 'IN'), ('hazel', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1627007A,1927-05-03,Or margarine,"['Or', 'margarine']","[('Or', 'CC'), ('margarine', 'NN')]","['CCONJ', 'VERB']",[],0,0,2,0,1
 US1627868A,1921-12-24,of salt lake city,"['of', 'salt', 'lake', 'city']","[('of', 'IN'), ('salt', 'JJ'), ('lake', 'JJ'), ('city', 'NN')]","['ADP', 'NOUN', 'NOUN', 'NOUN']",['GPE'],0,0,4,0,1
-US1627876A,1922-08-24,Over-water craft,"['Over-water', 'craft']","[('Over-water', 'NN'), ('craft', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1627876A,1922-08-24,Over-water craft,"['Over-water', 'craft']","[('Over-water', 'NN'), ('craft', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
 US1628348A,1927-05-10,of whiting,"['of', 'whiting']","[('of', 'IN'), ('whiting', 'VBG')]","['ADP', 'VERB']",[],0,0,2,0,1
 US1629857A,1927-05-24,And fred b,"['And', 'fred', 'b']","[('And', 'CC'), ('fred', 'VBD'), ('b', 'NN')]","['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
 US1630063A,1927-05-24,of independence,"['of', 'independence']","[('of', 'IN'), ('independence', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
@@ -91,38 +91,38 @@ US1636536A,1927-07-19,Or sowing machine for  boot planting,"['Or', 'sowing', 'ma
 US1636901A,1927-07-26,of hopedale,"['of', 'hopedale']","[('of', 'IN'), ('hopedale', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1637452A,1927-08-02,of hartford,"['of', 'hartford']","[('of', 'IN'), ('hartford', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1637514A,1927-08-02,And edward p,"['And', 'edward', 'p']","[('And', 'CC'), ('edward', 'NN'), ('p', 'NN')]","['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1638089A,1925-03-14,Fungicide,['Fungicide'],"[('Fungicide', 'NN')]","['ADP', 'SPACE']",[],0,0,2,0,1
+US1638089A,1925-03-14,Fungicide,['Fungicide'],"[('Fungicide', 'NN')]",['ADP'],[],0,0,2,0,1
 US1638164A,1927-08-09,of bockfobp,"['of', 'bockfobp']","[('of', 'IN'), ('bockfobp', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1638791A,1927-08-09,of springfield,"['of', 'springfield']","[('of', 'IN'), ('springfield', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1640137A,1927-08-23,To diamond power,"['To', 'diamond', 'power']","[('To', 'TO'), ('diamond', 'VB'), ('power', 'NN')]","['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
 US1640306A,1927-08-23,of habtfobd,"['of', 'habtfobd']","[('of', 'IN'), ('habtfobd', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1642061A,1927-09-13,And lloyd f,"['And', 'lloyd', 'f']","[('And', 'CC'), ('lloyd', 'NN'), ('f', 'NN')]","['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US1644727A,1926-05-08,By-pass selector circuit,"['By-pass', 'selector', 'circuit']","[('By-pass', 'NNP'), ('selector', 'NN'), ('circuit', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1644727A,1926-05-08,By-pass selector circuit,"['By-pass', 'selector', 'circuit']","[('By-pass', 'NNP'), ('selector', 'NN'), ('circuit', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
 US1645084A,1917-01-06,of akbon,"['of', 'akbon']","[('of', 'IN'), ('akbon', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1645692A,1927-10-18,of portland,"['of', 'portland']","[('of', 'IN'), ('portland', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1650544A,1926-02-06,of cotjkbevoie,"['of', 'cotjkbevoie']","[('of', 'IN'), ('cotjkbevoie', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
 US1651665A,1927-12-06,And edward  p,"['And', 'edward', 'p']","[('And', 'CC'), ('edward', 'NN'), ('p', 'NN')]","['CCONJ', 'NOUN', 'SPACE', 'NOUN']",[],0,0,4,0,1
 US1652016A,1926-03-11,On-the-main,['On-the-main'],"[('On-the-main', 'NN')]","['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,0,1
-US1652282A,1927-04-18,In-corner retainer strip,"['In-corner', 'retainer', 'strip']","[('In-corner', 'NNP'), ('retainer', 'NN'), ('strip', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1652282A,1927-04-18,In-corner retainer strip,"['In-corner', 'retainer', 'strip']","[('In-corner', 'NNP'), ('retainer', 'NN'), ('strip', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
 US1652426A,1927-12-13,To niles--bem,"['To', 'niles--bem']","[('To', 'TO'), ('niles--bem', 'JJ')]","['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
 US1653220A,1927-12-20,of marion,"['of', 'marion']","[('of', 'IN'), ('marion', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1655133A,1926-11-09,Inside micrometer gauge,"['Inside', 'micrometer', 'gauge']","[('Inside', 'IN'), ('micrometer', 'JJR'), ('gauge', 'NN')]","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1655133A,1926-11-09,Inside micrometer gauge,"['Inside', 'micrometer', 'gauge']","[('Inside', 'IN'), ('micrometer', 'JJR'), ('gauge', 'NN')]","['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
 US1655181A,1928-01-03,of ketboit,"['of', 'ketboit']","[('of', 'IN'), ('ketboit', 'NNS')]","['ADP', 'ADJ']",[],0,0,2,0,1
 US1655731A,1928-01-10,And robeet j,"['And', 'robeet', 'j']","[('And', 'CC'), ('robeet', 'VB'), ('j', 'NN')]","['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
 US1655745A,1928-01-10,To the  champion coated,"['To', 'the', 'champion', 'coated']","[('To', 'TO'), ('the', 'DT'), ('champion', 'NN'), ('coated', 'VBD')]","['ADP', 'DET', 'SPACE', 'NOUN', 'VERB']",[],0,0,5,0,1
 US1656604A,1928-01-17,And elwood w,"['And', 'elwood', 'w']","[('And', 'CC'), ('elwood', 'NN'), ('w', 'NN')]","['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US1656865A,1926-08-04,Washboard tension device,"['Washboard', 'tension', 'device']","[('Washboard', 'NNP'), ('tension', 'NN'), ('device', 'NN')]","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1656865A,1926-08-04,Washboard tension device,"['Washboard', 'tension', 'device']","[('Washboard', 'NNP'), ('tension', 'NN'), ('device', 'NN')]","['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
 US1657272A,1928-01-24,of rochester,"['of', 'rochester']","[('of', 'IN'), ('rochester', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
-US1657289A,1926-02-15,Inside tire boot,"['Inside', 'tire', 'boot']","[('Inside', 'IN'), ('tire', 'NN'), ('boot', 'NN')]","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1657289A,1926-02-15,Inside tire boot,"['Inside', 'tire', 'boot']","[('Inside', 'IN'), ('tire', 'NN'), ('boot', 'NN')]","['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
 US1657298A,1928-01-24,And five-sixteenths to,"['And', 'five-sixteenths', 'to']","[('And', 'CC'), ('five-sixteenths', 'NNS'), ('to', 'TO')]","['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
 US1657826A,1928-01-31,To albebt l,"['To', 'albebt', 'l']","[('To', 'TO'), ('albebt', 'VB'), ('l', 'NN')]","['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
 US1658467A,1928-02-07,of mannheim,"['of', 'mannheim']","[('of', 'IN'), ('mannheim', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1658796A,1923-09-13,By-product coke oven and method of operating same,"['By-product', 'coke', 'oven', 'and', 'method', 'of', 'operating', 'same']","[('By-product', 'NNP'), ('coke', 'VBD'), ('oven', 'RB'), ('and', 'CC'), ('method', 'NN'), ('of', 'IN'), ('operating', 'NN'), ('same', 'JJ')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADJ', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ', 'SPACE']",[],0,0,11,0,1
+US1658796A,1923-09-13,By-product coke oven and method of operating same,"['By-product', 'coke', 'oven', 'and', 'method', 'of', 'operating', 'same']","[('By-product', 'NNP'), ('coke', 'VBD'), ('oven', 'RB'), ('and', 'CC'), ('method', 'NN'), ('of', 'IN'), ('operating', 'NN'), ('same', 'JJ')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADJ', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ']",[],0,0,11,0,1
 US1659088A,1928-02-14,And one,"['And', 'one']","[('And', 'CC'), ('one', 'CD')]","['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
 US1660800A,1928-02-28,of chaelotte,"['of', 'chaelotte']","[('of', 'IN'), ('chaelotte', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1661341A,1928-03-06,of wobcester,"['of', 'wobcester']","[('of', 'IN'), ('wobcester', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1661488A,1928-03-06,of elgin,"['of', 'elgin']","[('of', 'IN'), ('elgin', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1662462A,1924-11-01,Fungicide,['Fungicide'],"[('Fungicide', 'NN')]","['ADP', 'SPACE']",[],0,0,2,0,1
+US1662462A,1924-11-01,Fungicide,['Fungicide'],"[('Fungicide', 'NN')]",['ADP'],[],0,0,2,0,1
 US1663725A,1928-03-27,of blacklist,"['of', 'blacklist']","[('of', 'IN'), ('blacklist', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1664523A,1928-04-03,Of endicott,"['Of', 'endicott']","[('Of', 'IN'), ('endicott', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1666639A,1928-04-17,of meriden,"['of', 'meriden']","[('of', 'IN'), ('meriden', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
@@ -130,24 +130,24 @@ US1666819A,1928-04-17,of newark,"['of', 'newark']","[('of', 'IN'), ('newark', 'N
 US1667235A,1928-04-24,of poet worth,"['of', 'poet', 'worth']","[('of', 'IN'), ('poet', 'NN'), ('worth', 'NN')]","['ADP', 'NOUN', 'ADJ']",[],0,0,3,0,1
 US1667283A,1928-04-24,of syracuse,"['of', 'syracuse']","[('of', 'IN'), ('syracuse', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1667533A,1928-04-24,Of  woecesteb,"['Of', 'woecesteb']","[('Of', 'IN'), ('woecesteb', 'NN')]","['ADP', 'SPACE', 'NOUN']",[],0,0,3,0,1
-US1667823A,1925-02-17,Inside tube cutter,"['Inside', 'tube', 'cutter']","[('Inside', 'IN'), ('tube', 'NN'), ('cutter', 'NN')]","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1667823A,1925-02-17,Inside tube cutter,"['Inside', 'tube', 'cutter']","[('Inside', 'IN'), ('tube', 'NN'), ('cutter', 'NN')]","['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
 US1668979A,1928-05-08,of rochester,"['of', 'rochester']","[('of', 'IN'), ('rochester', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
 US1670059A,1928-05-15,of basel,"['of', 'basel']","[('of', 'IN'), ('basel', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1670365A,1928-05-22,And herman g,"['And', 'herman', 'g']","[('And', 'CC'), ('herman', 'NN'), ('g', 'NN')]","['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1671454A,1926-10-04,Inside safety door fastener,"['Inside', 'safety', 'door', 'fastener']","[('Inside', 'NNP'), ('safety', 'NN'), ('door', 'NN'), ('fastener', 'NN')]","['ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1671454A,1926-10-04,Inside safety door fastener,"['Inside', 'safety', 'door', 'fastener']","[('Inside', 'NNP'), ('safety', 'NN'), ('door', 'NN'), ('fastener', 'NN')]","['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
 US1671968A,1928-06-05,Of endicott,"['Of', 'endicott']","[('Of', 'IN'), ('endicott', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1672009A,1928-06-05,Of endicott,"['Of', 'endicott']","[('Of', 'IN'), ('endicott', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1674007A,1928-06-19,of bochitm,"['of', 'bochitm']","[('of', 'IN'), ('bochitm', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1674564A,1928-06-19,To e ijpbbioe hotob coach body co,"['To', 'e', 'ijpbbioe', 'hotob', 'coach', 'body', 'co']","[('To', 'TO'), ('e', 'VB'), ('ijpbbioe', 'JJ'), ('hotob', 'JJ'), ('coach', 'NN'), ('body', 'NN'), ('co', 'NN')]","['ADP', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'VERB']",[],0,0,7,0,1
 US1676744A,1928-07-10,To wireless,"['To', 'wireless']","[('To', 'TO'), ('wireless', 'VB')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1676853A,1924-03-21,Of one-halei to clemens,"['Of', 'one-halei', 'to', 'clemens']","[('Of', 'IN'), ('one-halei', 'JJ'), ('to', 'TO'), ('clemens', 'VB')]","['ADP', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,6,0,1
-US1677148A,1926-10-29,By-pass valve for gas-washing apparatus,"['By-pass', 'valve', 'for', 'gas-washing', 'apparatus']","[('By-pass', 'NNP'), ('valve', 'NN'), ('for', 'IN'), ('gas-washing', 'JJ'), ('apparatus', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,10,0,1
+US1677148A,1926-10-29,By-pass valve for gas-washing apparatus,"['By-pass', 'valve', 'for', 'gas-washing', 'apparatus']","[('By-pass', 'NNP'), ('valve', 'NN'), ('for', 'IN'), ('gas-washing', 'JJ'), ('apparatus', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,10,0,1
 US1678547A,1926-05-24,of hartford,"['of', 'hartford']","[('of', 'IN'), ('hartford', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1678907A,1928-07-31,of noebistown,"['of', 'noebistown']","[('of', 'IN'), ('noebistown', 'JJ')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1679918A,1928-08-07,of whiting,"['of', 'whiting']","[('of', 'IN'), ('whiting', 'VBG')]","['ADP', 'VERB']",[],0,0,2,0,1
 US1679919A,1928-08-07,of whiting,"['of', 'whiting']","[('of', 'IN'), ('whiting', 'VBG')]","['ADP', 'VERB']",[],0,0,2,0,1
 US1679966A,1928-08-07,of rochester,"['of', 'rochester']","[('of', 'IN'), ('rochester', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
-US1680328A,1927-02-12,By-pass lubricator,"['By-pass', 'lubricator']","[('By-pass', 'NNP'), ('lubricator', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1680328A,1927-02-12,By-pass lubricator,"['By-pass', 'lubricator']","[('By-pass', 'NNP'), ('lubricator', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
 US1680778A,1926-05-29,of basel,"['of', 'basel']","[('of', 'IN'), ('basel', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1681888A,1928-08-21,of  millville,"['of', 'millville']","[('of', 'IN'), ('millville', 'NN')]","['ADP', 'SPACE', 'NOUN']",[],0,0,3,0,1
 US1682109A,1928-08-28,of mansfield,"['of', 'mansfield']","[('of', 'IN'), ('mansfield', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
@@ -163,22 +163,22 @@ US1686136A,1928-10-02,And one-half to associated oil,"['And', 'one-half', 'to', 
 US1686559A,1928-10-09,And-repeat contact-printing apparatus,"['And-repeat', 'contact-printing', 'apparatus']","[('And-repeat', 'JJ'), ('contact-printing', 'NN'), ('apparatus', 'NN')]","['CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,7,0,1
 US1686924A,1928-10-09,of dayton,"['of', 'dayton']","[('of', 'IN'), ('dayton', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1686930A,1928-10-09,of basel,"['of', 'basel']","[('of', 'IN'), ('basel', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1687032A,1927-10-21,By-pass valve,"['By-pass', 'valve']","[('By-pass', 'NNP'), ('valve', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1687519A,1921-09-22,By-pass-valve construction,"['By-pass-valve', 'construction']","[('By-pass-valve', 'NNP'), ('construction', 'NN')]","['ADP', 'PUNCT', 'VERB', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1687032A,1927-10-21,By-pass valve,"['By-pass', 'valve']","[('By-pass', 'NNP'), ('valve', 'NN')]","['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US1687519A,1921-09-22,By-pass-valve construction,"['By-pass-valve', 'construction']","[('By-pass-valve', 'NNP'), ('construction', 'NN')]","['ADP', 'PUNCT', 'VERB', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,0,1
 US1688380A,1928-10-23,of rochester,"['of', 'rochester']","[('of', 'IN'), ('rochester', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
 US1688469A,1928-10-23,of basel,"['of', 'basel']","[('of', 'IN'), ('basel', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1689253A,1928-10-30,Oscae a,"['Oscae', 'a']","[('Oscae', 'IN'), ('a', 'DT')]","['ADP', 'PRON']",[],0,0,2,0,1
 US1689586A,1928-10-30,Mining- apparatus,"['Mining-', 'apparatus']","[('Mining-', 'JJ'), ('apparatus', 'NN')]","['CCONJ', 'NOUN']",[],0,0,2,0,1
-US1689626A,1926-09-21,Over-the-bed table,"['Over-the-bed', 'table']","[('Over-the-bed', 'NNP'), ('table', 'NN')]","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1689626A,1926-09-21,Over-the-bed table,"['Over-the-bed', 'table']","[('Over-the-bed', 'NNP'), ('table', 'NN')]","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,0,1
 US1690016A,1928-10-30,of columbus,"['of', 'columbus']","[('of', 'IN'), ('columbus', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1690272A,1928-11-06,of salem,"['of', 'salem']","[('of', 'IN'), ('salem', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1690838A,1926-04-07,Inside and outside link for conveyer chains,"['Inside', 'and', 'outside', 'link', 'for', 'conveyer', 'chains']","[('Inside', 'IN'), ('and', 'CC'), ('outside', 'JJ'), ('link', 'NN'), ('for', 'IN'), ('conveyer', 'NN'), ('chains', 'NNS')]","['ADP', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1690838A,1926-04-07,Inside and outside link for conveyer chains,"['Inside', 'and', 'outside', 'link', 'for', 'conveyer', 'chains']","[('Inside', 'IN'), ('and', 'CC'), ('outside', 'JJ'), ('link', 'NN'), ('for', 'IN'), ('conveyer', 'NN'), ('chains', 'NNS')]","['ADP', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,0,1
 US1691661A,1928-11-13,of seattle,"['of', 'seattle']","[('of', 'IN'), ('seattle', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1691881A,1927-03-18,Off-bearing conveyer,"['Off-bearing', 'conveyer']","[('Off-bearing', 'JJ'), ('conveyer', 'NN')]","['ADP', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1691881A,1927-03-18,Off-bearing conveyer,"['Off-bearing', 'conveyer']","[('Off-bearing', 'JJ'), ('conveyer', 'NN')]","['ADP', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
 US1693244A,1928-11-27,And hebbebt h,"['And', 'hebbebt', 'h']","[('And', 'CC'), ('hebbebt', 'NN'), ('h', 'NN')]","['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
 US1695363A,1928-12-18,And monroe e,"['And', 'monroe', 'e']","[('And', 'CC'), ('monroe', 'NN'), ('e', 'NN')]","['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
 US1695962A,1928-12-18,of nashville,"['of', 'nashville']","[('of', 'IN'), ('nashville', 'NNS')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1696895A,1928-12-25,To wireless,"['To', 'wireless']","[('To', 'TO'), ('wireless', 'VB')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1697518A,1924-03-27,Antispin mechanism and rebound check,"['Antispin', 'mechanism', 'and', 'rebound', 'check']","[('Antispin', 'NNP'), ('mechanism', 'NN'), ('and', 'CC'), ('rebound', 'VB'), ('check', 'NN')]","['ADP', 'NOUN', 'CCONJ', 'VERB', 'VERB', 'SPACE']",[],0,0,6,0,1
+US1697518A,1924-03-27,Antispin mechanism and rebound check,"['Antispin', 'mechanism', 'and', 'rebound', 'check']","[('Antispin', 'NNP'), ('mechanism', 'NN'), ('and', 'CC'), ('rebound', 'VB'), ('check', 'NN')]","['ADP', 'NOUN', 'CCONJ', 'VERB', 'VERB']",[],0,0,6,0,1
 US1698342A,1929-01-08,of elgin,"['of', 'elgin']","[('of', 'IN'), ('elgin', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1698603A,1929-01-08,Of pennsyl,"['Of', 'pennsyl']","[('Of', 'IN'), ('pennsyl', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1

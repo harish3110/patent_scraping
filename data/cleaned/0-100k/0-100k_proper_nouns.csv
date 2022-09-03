@@ -22,7 +22,7 @@ US167A,1837-04-17 00:00:00,Tjbi emmons,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US174A,1837-04-05 00:00:00,Simeon bboadmeadow,"['PROPN', 'NOUN']",[],1,0,2
 US175A,1837-04-05 00:00:00,Simeon broadmeadow,"['PROPN', 'NOUN']",[],1,0,2
 US176A,1837-04-20 00:00:00,Samuel rust,"['PROPN', 'NOUN']",[],1,0,2
-US202A,1837-05-23 00:00:00,Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,"['PROPN', 'SPACE']",[],1,0,2
+US202A,1837-05-23 00:00:00,Hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh,['PROPN'],[],1,0,2
 US226A,1837-06-03 00:00:00,Samuel goss,"['PROPN', 'NOUN']",[],1,0,2
 US240A,1837-06-17 00:00:00,Charles goodyear,"['PROPN', 'VERB']",[],1,0,2
 US246A,1837-06-30 00:00:00,Samuel rust,"['PROPN', 'NOUN']",[],1,0,2
@@ -30,7 +30,7 @@ US269A,1837-07-17 00:00:00,Asa whitney,"['PROPN', 'NOUN']",[],1,0,2
 US286A,1837-07-19 00:00:00,Mode of,"['PROPN', 'ADP']",[],1,0,2
 US293A,1837-07-22 00:00:00,Mode of,"['PROPN', 'ADP']",[],1,0,2
 US299A,1837-10-06 00:00:00,Gideon brown,"['PROPN', 'NOUN']",[],1,0,2
-US323A,1837-07-31 00:00:00,Thomas,"['PROPN', 'SPACE']",[],1,0,2
+US323A,1837-07-31 00:00:00,Thomas,['PROPN'],[],1,0,2
 US324A,1837-07-31 00:00:00,Jonathan cutlek,"['PROPN', 'NOUN']",[],1,0,2
 US343A,1837-08-08 00:00:00,Mode of,"['PROPN', 'ADP']",[],1,0,2
 US347A,1837-08-08 00:00:00,dixon,['PROPN'],[],1,0,1
@@ -305,7 +305,7 @@ US3745A,1844-09-17 00:00:00,dakin,['PROPN'],[],1,0,1
 US3749A,1844-09-17 00:00:00,Daniel rowland,"['PROPN', 'VERB']",[],1,0,2
 US3770A,1844-10-03 00:00:00,Beick,['PROPN'],[],1,0,1
 US3793A,1844-10-12 00:00:00,Isaiah jennings,"['PROPN', 'NOUN']",[],1,0,2
-US3796A,1844-10-16 00:00:00,Zenas,"['PROPN', 'SPACE']",[],1,0,2
+US3796A,1844-10-16 00:00:00,Zenas,['PROPN'],[],1,0,2
 US3799A,1844-10-16 00:00:00,Muzio muzzi,"['PROPN', 'NOUN']",['GPE'],1,0,2
 US3818A,1844-11-09 00:00:00,Dennis vermillion,"['PROPN', 'NOUN']",['NORP'],1,0,2
 US3837A,1844-11-26 00:00:00,Tillott cole,"['PROPN', 'PROPN']",[],1,0,2
@@ -366,7 +366,7 @@ US4395A,1846-03-07 00:00:00,Sawmill,['PROPN'],[],1,0,1
 US4424A,1846-03-14 00:00:00,Isaac p,"['PROPN', 'NOUN']",[],1,0,2
 US4428A,1846-03-21 00:00:00,Samuel eust,"['PROPN', 'VERB']",[],1,0,2
 US4441A,1846-04-04 00:00:00,Bennet woodoeoft,"['PROPN', 'NOUN']",[],1,0,2
-US4448A,1846-04-04 00:00:00,Xjoel,"['PROPN', 'SPACE']",[],1,0,2
+US4448A,1846-04-04 00:00:00,Xjoel,['PROPN'],[],1,0,2
 US4456A,1846-04-11 00:00:00,Thomas j,"['PROPN', 'PROPN']",[],1,0,2
 US4584A,1846-06-16 00:00:00,David hough,"['PROPN', 'VERB']",[],1,0,2
 US4621A,1846-07-07 00:00:00,stkong,['PROPN'],[],1,0,1
@@ -388,7 +388,7 @@ US4765A,1846-09-19 00:00:00,Daniel barnum,"['PROPN', 'NOUN']",[],1,0,2
 US4773A,1846-09-26 00:00:00,Hame fob,"['PROPN', 'ADV']",[],1,0,2
 US4780A,1846-10-03 00:00:00,James t,"['PROPN', 'PROPN']",[],1,0,2
 US4788A,1846-10-03 00:00:00,Charles panshaw,"['PROPN', 'NOUN']",[],1,0,2
-US4815A,1846-10-17 00:00:00,Foster,"['PROPN', 'SPACE']",[],1,0,2
+US4815A,1846-10-17 00:00:00,Foster,['PROPN'],[],1,0,2
 US4821A,1846-10-21 00:00:00,Josiah c,"['PROPN', 'X']",[],1,0,2
 US4825A,1846-10-24 00:00:00,Pessary,['PROPN'],[],1,0,1
 US4840A,1846-11-06 00:00:00,bagley,['PROPN'],[],1,0,1
@@ -426,13 +426,13 @@ US5150A,1847-06-12 00:00:00,Sash machisteky,"['PROPN', 'VERB']",[],1,0,2
 US5155A,1847-06-12 00:00:00,Benjamin chambers,"['PROPN', 'NOUN']",[],1,0,2
 US5160A,1847-06-19 00:00:00,Joel l,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US5161A,1847-06-19 00:00:00,fleischmann,['PROPN'],[],1,0,1
-US5165A,1847-06-19 00:00:00,Lewis,"['PROPN', 'SPACE']",[],1,0,2
+US5165A,1847-06-19 00:00:00,Lewis,['PROPN'],[],1,0,2
 US5172A,1847-06-26 00:00:00,Jambs nasmyth,"['PROPN', 'NOUN']",[],1,0,2
 US5177A,1847-06-26 00:00:00,Wade haworth,"['PROPN', 'ADV']",[],1,0,2
 US5178A,1847-06-26 00:00:00,Kotary engine,"['PROPN', 'NOUN']",['DATE'],1,0,2
 US5183A,1847-07-03 00:00:00,Emerson,['PROPN'],['ORG'],1,0,1
 US5185A,1847-07-10 00:00:00,benson,['PROPN'],[],1,0,1
-US5196A,1847-07-17 00:00:00,Gilbert,"['PROPN', 'SPACE']",[],1,0,2
+US5196A,1847-07-17 00:00:00,Gilbert,['PROPN'],[],1,0,2
 US5202A,1847-07-24 00:00:00,Timothy gilbert,"['PROPN', 'VERB']",[],1,0,2
 US5203A,1847-07-24 00:00:00,von schmidt,"['PROPN', 'PROPN']",[],1,0,2
 US5209A,1847-07-31 00:00:00,Twyer,['PROPN'],[],1,0,1
@@ -522,7 +522,7 @@ US6205A,1849-03-20 00:00:00,Oliver tiffany,"['PROPN', 'PROPN']",[],1,0,2
 US6244A,1849-03-27 00:00:00,Alexandeb bennett,"['PROPN', 'PROPN']",[],1,0,2
 US6249A,1849-04-03 00:00:00,Planiu g,"['PROPN', 'NOUN']",[],1,0,2
 US6258A,1849-04-03 00:00:00,Bbbnezer clabk,"['PROPN', 'VERB']",[],1,0,2
-US6279A,1849-04-03 00:00:00,Scofield,"['PROPN', 'SPACE']",[],1,0,2
+US6279A,1849-04-03 00:00:00,Scofield,['PROPN'],[],1,0,2
 US6329A,1849-04-17 00:00:00,mcevoy,['PROPN'],[],1,0,1
 US6330A,1849-04-17 00:00:00,Skate,['PROPN'],[],1,0,1
 US6333A,1849-04-17 00:00:00,Apparatus fob,"['PROPN', 'VERB']",[],1,0,2
@@ -565,7 +565,7 @@ US6715A,1849-09-11 00:00:00,Philip rollhaus,"['PROPN', 'NOUN']",[],1,0,2
 US6720A,1849-09-18 00:00:00,Wtlijam souks,"['PROPN', 'VERB']",[],1,0,2
 US6722A,1849-09-18 00:00:00,doughty,['PROPN'],[],1,0,1
 US6730A,1849-09-18 00:00:00,lewis,['PROPN'],[],1,0,1
-US6760A,1849-10-02 00:00:00,Isham,"['PROPN', 'SPACE']",[],1,0,2
+US6760A,1849-10-02 00:00:00,Isham,['PROPN'],[],1,0,2
 US6771A,1849-10-02 00:00:00,Louis lacharme,"['PROPN', 'NOUN']",[],1,0,2
 US6789A,1849-10-16 00:00:00,Charles p,"['PROPN', 'NOUN']",[],1,0,2
 US6829A,1849-10-30 00:00:00,Hugh jeter,"['PROPN', 'NOUN']",[],1,0,2
@@ -669,7 +669,7 @@ US8099A,1851-05-20 00:00:00,Poe cords,"['PROPN', 'VERB']",[],1,0,2
 US8110A,1851-05-27 00:00:00,newbijky,['PROPN'],[],1,0,1
 US8113A,1851-05-27 00:00:00,putnam,['PROPN'],[],1,0,1
 US8120A,1851-05-27 00:00:00,Cabkiaorb,['PROPN'],[],1,0,1
-US8124A,1851-05-27 00:00:00,mcfarlan,"['PROPN', 'SPACE']",[],1,0,2
+US8124A,1851-05-27 00:00:00,mcfarlan,['PROPN'],[],1,0,2
 US8133A,1851-06-03 00:00:00,Collak,['PROPN'],[],1,0,1
 US8141A,1851-06-03 00:00:00,Chi chester,"['PROPN', 'NOUN']",[],1,0,2
 US8143A,1851-06-10 00:00:00,dtjtcher,['PROPN'],[],1,0,1
@@ -685,7 +685,7 @@ US8223A,1851-07-15 00:00:00,Lewis lillie,"['PROPN', 'NOUN']",[],1,0,2
 US8237A,1851-07-22 00:00:00,Faucet,['PROPN'],[],1,0,1
 US8250A,1851-07-29 00:00:00,Job cutler,"['PROPN', 'NOUN']",[],1,0,2
 US8271A,1851-08-05 00:00:00,James dane,"['PROPN', 'NOUN']",[],1,0,2
-US8307A,1851-08-19 00:00:00,Abijah,"['PROPN', 'SPACE']",[],1,0,2
+US8307A,1851-08-19 00:00:00,Abijah,['PROPN'],[],1,0,2
 US8314A,1851-08-26 00:00:00,Padlock,['PROPN'],[],1,0,1
 US8319A,1851-08-26 00:00:00,Limekiln,['PROPN'],[],1,0,1
 US8328A,1851-08-26 00:00:00,Spike machinery,"['PROPN', 'NOUN']",['ORG'],1,0,2
@@ -805,7 +805,7 @@ US9725A,1853-05-17 00:00:00,samuel f,"['PROPN', 'PROPN']",[],1,0,2
 US9741A,1853-05-24 00:00:00,Hiram berdan,"['PROPN', 'PROPN']",[],1,0,2
 US9748A,1853-05-24 00:00:00,Stanislas millet,"['PROPN', 'PROPN']",[],1,0,2
 US9760A,1853-05-31 00:00:00,jennison,['PROPN'],[],1,0,1
-US9777A,1853-06-07 00:00:00,dodge,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US9777A,1853-06-07 00:00:00,dodge,['PROPN'],['ORG'],1,0,2
 US9786A,1853-06-14 00:00:00,smith,['PROPN'],[],1,0,1
 US9793A,1853-06-21 00:00:00,Piaetofobte,['PROPN'],[],1,0,1
 US9799A,1853-06-21 00:00:00,Simon ikgeksoll,"['PROPN', 'PROPN']",[],1,0,2
@@ -885,7 +885,7 @@ US10576A,1854-02-28,lyman,['PROPN'],[],1,0,1
 US10585A,1854-02-28,Carrier for,"['PROPN', 'ADP']",[],1,0,2
 US10594A,1854-03-07,Apparatus foe,"['PROPN', 'VERB']",[],1,0,2
 US10605A,1854-03-07,Apparatus fob,"['PROPN', 'VERB']",[],1,0,2
-US10612A,1854-03-07,Seaman,"['PROPN', 'SPACE']",[],1,0,2
+US10612A,1854-03-07,Seaman,['PROPN'],[],1,0,2
 US10633A,1854-03-14,Faucet fob,"['PROPN', 'VERB']",[],1,0,2
 US10641A,1854-03-14,Faucet,['PROPN'],[],1,0,1
 US10648A,1854-03-14,Mansbl blake,"['PROPN', 'NOUN']",['ORG'],1,0,2
@@ -946,7 +946,7 @@ US11253A,1854-07-11,smith,['PROPN'],[],1,0,1
 US11255A,1854-07-11,Method of,"['PROPN', 'ADP']",[],1,0,2
 US11271A,1854-07-11,Rufus porter,"['PROPN', 'NOUN']",[],1,0,2
 US11274A,1854-07-11,Smith,['PROPN'],[],1,0,1
-US11275A,1854-07-11,Josiah,"['PROPN', 'SPACE']",[],1,0,2
+US11275A,1854-07-11,Josiah,['PROPN'],[],1,0,2
 US11285A,1854-07-11,Thomas glegg,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US11287A,1854-07-11,Gailahtte,['PROPN'],[],1,0,1
 US11290A,1854-07-11,Charles mettam,"['PROPN', 'NOUN']",[],1,0,2
@@ -968,7 +968,7 @@ US11479A,1854-08-08,Melodeon,['PROPN'],[],1,0,1
 US11487A,1854-08-08,John mcmtirtry,"['PROPN', 'NOUN']",[],1,0,2
 US11488A,1854-08-08,Stanislas millet,"['PROPN', 'PROPN']",[],1,0,2
 US11492A,1854-08-08,Charles t,"['PROPN', 'NOUN']",[],1,0,2
-US11498A,1854-08-08,Thomas,"['PROPN', 'SPACE']",[],1,0,2
+US11498A,1854-08-08,Thomas,['PROPN'],[],1,0,2
 US11503A,1854-08-08,wickersham,['PROPN'],[],1,0,1
 US11512A,1854-08-08,canton,['PROPN'],['GPE'],1,0,1
 US11527A,1854-08-15,Brake,['PROPN'],['ORG'],1,0,1
@@ -1131,7 +1131,7 @@ US13132A,1855-06-26,Peter moodey,"['PROPN', 'PROPN']",[],1,0,2
 US13133A,1855-06-26,Chubosr,['PROPN'],[],1,0,1
 US13140A,1855-06-26,Alfred a,"['PROPN', 'PRON']",[],1,0,2
 US13174A,1855-07-03,htjbbard,['PROPN'],[],1,0,1
-US13175A,1855-07-03,Friedrich,"['PROPN', 'SPACE']",[],1,0,2
+US13175A,1855-07-03,Friedrich,['PROPN'],[],1,0,2
 US13186A,1855-07-03,Samuel t,"['PROPN', 'NOUN']",[],1,0,2
 US13212A,1855-07-10,Sunshade,['PROPN'],[],1,0,1
 US13217A,1855-07-10,Rtjftjs m,"['PROPN', 'VERB']",[],1,0,2
@@ -1479,7 +1479,7 @@ US18054A,1857-08-25,moultrie,['PROPN'],[],1,0,1
 US18060A,1857-08-25,robjohn,['PROPN'],[],1,0,1
 US18085A,1857-09-01,chubb,['PROPN'],[],1,0,1
 US18105A,1857-09-01,Lantern,['PROPN'],[],1,0,1
-US18131A,1857-09-08,Samuel,"['PROPN', 'SPACE']",[],1,0,2
+US18131A,1857-09-08,Samuel,['PROPN'],[],1,0,2
 US18165A,1857-09-08,Chttrjff,['PROPN'],[],1,0,1
 US18169A,1857-09-08,Padlock,['PROPN'],[],1,0,1
 US18232A,1857-09-22,Chusetts,['PROPN'],['NORP'],1,0,1
@@ -1551,7 +1551,7 @@ US19174A,1858-01-19,Dakee,['PROPN'],[],1,0,1
 US19177A,1858-01-19,Moses m,"['PROPN', 'VERB']",[],1,0,2
 US19207A,1858-01-26,Lantern,['PROPN'],[],1,0,1
 US19208A,1858-01-26,Padlock,['PROPN'],[],1,0,1
-US19227A,1858-01-26,Leonard,"['PROPN', 'SPACE']",[],1,0,2
+US19227A,1858-01-26,Leonard,['PROPN'],[],1,0,2
 US19233A,1858-02-02,David m,"['PROPN', 'VERB']",[],1,0,2
 US19247A,1858-02-02,nan,['PROPN'],['GPE'],1,0,1
 US19252A,1858-02-02,lewis,['PROPN'],[],1,0,1
@@ -1658,11 +1658,11 @@ US20903A,1858-07-13,of lima,"['ADP', 'PROPN']",['GPE'],1,0,2
 US20918A,1858-07-13,foster,['PROPN'],[],1,0,1
 US20922A,1858-07-13,Chusetts,['PROPN'],['NORP'],1,0,1
 US20966A,1858-07-20,von schwabz,"['PROPN', 'NOUN']",[],1,0,2
-US20971A,1858-07-20,Kenwood,"['PROPN', 'SPACE']",[],1,0,2
+US20971A,1858-07-20,Kenwood,['PROPN'],[],1,0,2
 US20977A,1858-07-20,safford,['PROPN'],[],1,0,1
 US20983A,1858-07-27,bishop,['PROPN'],[],1,0,1
 US20986A,1858-07-27,Louis beaueb,"['PROPN', 'NOUN']",[],1,0,2
-US20989A,1858-07-27,cornell,"['PROPN', 'SPACE']",[],1,0,2
+US20989A,1858-07-27,cornell,['PROPN'],[],1,0,2
 US21001A,1858-07-27,hendbickx,['PROPN'],[],1,0,1
 US21010A,1858-07-27,Chtjbbt,['PROPN'],[],1,0,1
 US21019A,1858-07-27,patnejof hebron,"['PROPN', 'PROPN']",[],1,0,2
@@ -1745,10 +1745,10 @@ US21977A,1858-11-02,Refkigeratok,['PROPN'],['GPE'],1,0,1
 US21979A,1858-11-02,Charles perley,"['PROPN', 'NOUN']",[],1,0,2
 US21980A,1858-11-02,Jambs n,"['PROPN', 'CCONJ']",[],1,0,2
 US21987A,1858-11-02,Candlestick,['PROPN'],['FAC'],1,0,1
-US21992A,1858-11-02,steele,"['PROPN', 'SPACE']",[],1,0,2
+US21992A,1858-11-02,steele,['PROPN'],[],1,0,2
 US22016A,1858-11-09,Pbopeller,['PROPN'],[],1,0,1
 US22048A,1858-11-09,Linus yale,"['PROPN', 'NOUN']",[],1,0,2
-US22049A,1858-11-09,Thomas,"['PROPN', 'SPACE']",[],1,0,2
+US22049A,1858-11-09,Thomas,['PROPN'],[],1,0,2
 US22051A,1858-11-09,of brooklyn,"['ADP', 'PROPN']",['GPE'],1,0,2
 US22053A,1858-11-16,Washboard,['PROPN'],[],1,0,1
 US22069A,1858-11-16,donaldson,['PROPN'],['ORG'],1,0,1
@@ -1759,7 +1759,7 @@ US22110A,1858-11-23,Jonathan dillon,"['PROPN', 'NOUN']",[],1,0,2
 US22123A,1858-11-23,Inkstand,['PROPN'],[],1,0,1
 US22124A,1858-11-23,Tourntrbe,['PROPN'],[],1,0,1
 US22127A,1858-11-23,lippmann,['PROPN'],[],1,0,1
-US22139A,1858-11-23,Cobnbltos,"['PROPN', 'SPACE']",[],1,0,2
+US22139A,1858-11-23,Cobnbltos,['PROPN'],[],1,0,2
 US22165A,1858-11-30,Asahel -cooley,"['PROPN', 'PROPN']",[],1,0,2
 US22173A,1858-11-30,fekgusson,['PROPN'],[],1,0,1
 US22186A,1858-11-30,Toot l,"['PROPN', 'NOUN']",[],1,0,2
@@ -1831,7 +1831,7 @@ US22856A,1859-02-08,hall c,"['PROPN', 'AUX']",[],1,0,2
 US22869A,1859-02-08,goewey,['PROPN'],[],1,0,1
 US22876A,1859-02-08,Marshal ingersoll,"['PROPN', 'VERB']",[],1,0,2
 US22887A,1859-02-08,Abeam,['PROPN'],[],1,0,1
-US22891A,1859-02-08,Bedington,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US22891A,1859-02-08,Bedington,['PROPN'],['GPE'],1,0,2
 US22895A,1859-02-08,Skate,['PROPN'],[],1,0,1
 US22899A,1859-02-08,Itpetehs,['PROPN'],['GPE'],1,0,1
 US22912A,1859-02-08,Odometer,['PROPN'],[],1,0,1
@@ -1971,7 +1971,7 @@ US24622A,1859-07-05,fletjry,['PROPN'],[],1,0,1
 US24632A,1859-07-05,haktsfield,['PROPN'],['GPE'],1,0,1
 US24715A,1859-07-12,borton,['PROPN'],['GPE'],1,0,1
 US24720A,1859-07-12,Matthew chambers,"['PROPN', 'PROPN']",[],1,0,2
-US24727A,1859-07-12,Lewis,"['PROPN', 'SPACE']",[],1,0,2
+US24727A,1859-07-12,Lewis,['PROPN'],[],1,0,2
 US24728A,1859-07-12,Daniel fitzgerald,"['PROPN', 'NOUN']",[],1,0,2
 US24735A,1859-07-12,greexe,['PROPN'],[],1,0,1
 US24753A,1859-07-12,Dynamometer,['PROPN'],[],1,0,1
@@ -2065,7 +2065,7 @@ US25684A,1859-10-04,stuabt,['PROPN'],[],1,0,1
 US25689A,1859-10-04,Philip ulmer,"['PROPN', 'NOUN']",[],1,0,2
 US25695A,1859-10-04,Chapman warner,"['PROPN', 'PROPN']",[],1,0,2
 US25701A,1859-10-04,James draper,"['PROPN', 'NOUN']",[],1,0,2
-US25702A,1859-10-04,Nathan,"['PROPN', 'SPACE']",[],1,0,2
+US25702A,1859-10-04,Nathan,['PROPN'],[],1,0,2
 US25709A,1859-10-11,bentley,['PROPN'],[],1,0,1
 US25729A,1859-10-11,Furnace,['PROPN'],[],1,0,1
 US25732A,1859-10-11,Bedstead,['PROPN'],[],1,0,1
@@ -2127,7 +2127,7 @@ US26344A,1859-12-06,Melodeow,['PROPN'],[],1,0,1
 US26345A,1859-12-06,Jacob diokerson,"['PROPN', 'NOUN']",[],1,0,2
 US26350A,1859-12-06,Caleb h,"['PROPN', 'NOUN']",[],1,0,2
 US26352A,1859-12-06,Alexander hay,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US26373A,1859-12-06,lilly,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US26373A,1859-12-06,lilly,['PROPN'],['ORG'],1,0,2
 US26374A,1859-12-06,Apparatus,['PROPN'],[],1,0,1
 US26375A,1859-12-06,Samuel m,"['PROPN', 'VERB']",[],1,0,2
 US26379A,1859-12-06,Isaac c,"['PROPN', 'X']",[],1,0,2
@@ -2145,7 +2145,7 @@ US26514A,1859-12-20,Caesar neumann,"['PROPN', 'NOUN']",[],1,0,2
 US26517A,1859-12-20,Charles g,"['PROPN', 'NOUN']",[],1,0,2
 US26519A,1859-12-20,pakmelee,['PROPN'],[],1,0,1
 US26524A,1859-12-20,clestin,['PROPN'],[],1,0,1
-US26543A,1859-12-20,-bobert,"['PROPN', 'SPACE']",[],1,0,2
+US26543A,1859-12-20,-bobert,['PROPN'],[],1,0,2
 US26550A,1859-12-20,Wells,['PROPN'],[],1,0,1
 US26556A,1859-12-27,Eussbll d,"['PROPN', 'PROPN']",[],1,0,2
 US26567A,1859-12-27,miller,['PROPN'],['ORG'],1,0,1
@@ -2260,7 +2260,7 @@ US27701A,1860-04-03,Chubbt,['PROPN'],[],1,0,1
 US27714A,1860-04-03,Buckle,['PROPN'],[],1,0,1
 US27724A,1860-04-03,Furnace,['PROPN'],[],1,0,1
 US27775A,1860-04-10,Apparatus eok,"['PROPN', 'VERB']",[],1,0,2
-US27786A,1860-04-10,Ormrod,"['PROPN', 'SPACE']",[],1,0,2
+US27786A,1860-04-10,Ormrod,['PROPN'],[],1,0,2
 US27793A,1860-04-10,Punch,['PROPN'],[],1,0,1
 US27800A,1860-04-10,Washboard,['PROPN'],[],1,0,1
 US27810A,1860-04-10,Mathatjs kabfbr,"['PROPN', 'VERB']",[],1,0,2
@@ -2389,14 +2389,14 @@ US29158A,1860-07-17,Benjamin gabvey,"['PROPN', 'NOUN']",[],1,0,2
 US29193A,1860-07-17,Ignaz ramjiixger,"['PROPN', 'VERB']",['GPE'],1,0,2
 US29203A,1860-07-17,Isaiah w,"['PROPN', 'PROPN']",[],1,0,2
 US29215A,1860-07-17,Samuel favinger,"['PROPN', 'NOUN']",[],1,0,2
-US29221A,1860-07-17,Lamp,"['PROPN', 'SPACE']",[],1,0,2
+US29221A,1860-07-17,Lamp,['PROPN'],[],1,0,2
 US29222A,1860-07-17,jerrold,['PROPN'],[],1,0,1
 US29238A,1860-07-24,grover,['PROPN'],[],1,0,1
 US29263A,1860-07-24,Faucet,['PROPN'],[],1,0,1
 US29270A,1860-07-24,Buckle,['PROPN'],[],1,0,1
 US29278A,1860-07-24,Enoch hidden,"['PROPN', 'VERB']",['PRODUCT'],1,0,2
 US29309A,1860-07-24,Barton pickering,"['PROPN', 'VERB']",[],1,0,2
-US29314A,1860-07-24,Candlestick,"['PROPN', 'SPACE']",['FAC'],1,0,2
+US29314A,1860-07-24,Candlestick,['PROPN'],['FAC'],1,0,2
 US29322A,1860-07-24,Method of,"['PROPN', 'ADP']",[],1,0,2
 US29332A,1860-07-24,Buckle,['PROPN'],[],1,0,1
 US29334A,1860-07-24,Jonathan vaile,"['PROPN', 'VERB']",[],1,0,2
@@ -2405,7 +2405,7 @@ US29347A,1860-07-31,Jambs adair,"['PROPN', 'NOUN']",[],1,0,2
 US29378A,1860-07-31,Skate,['PROPN'],[],1,0,1
 US29386A,1860-07-31,Ernst kirsch,"['PROPN', 'NOUN']",[],1,0,2
 US29416A,1860-07-31,Apparatus foe,"['PROPN', 'VERB']",[],1,0,2
-US29418A,1860-07-31,Edwin,"['PROPN', 'SPACE']",[],1,0,2
+US29418A,1860-07-31,Edwin,['PROPN'],[],1,0,2
 US29424A,1860-07-31,Chapman warner,"['PROPN', 'PROPN']",[],1,0,2
 US29427A,1860-07-31,Luther e,"['PROPN', 'NOUN']",[],1,0,2
 US29434A,1860-07-31,Ephraim l,"['PROPN', 'NOUN']",[],1,0,2
@@ -2420,7 +2420,7 @@ US29496A,1860-08-07,kubler,['PROPN'],[],1,0,1
 US29498A,1860-08-07,Bedstead,['PROPN'],[],1,0,1
 US29539A,1860-08-07,Charles alexander,"['PROPN', 'NOUN']",[],1,0,2
 US29540A,1860-08-07,Levi w,"['PROPN', 'PROPN']",[],1,0,2
-US29547A,1860-08-07,warrex,"['PROPN', 'SPACE']",[],1,0,2
+US29547A,1860-08-07,warrex,['PROPN'],[],1,0,2
 US29571A,1860-08-14,Furnace eoe,"['PROPN', 'NOUN']",[],1,0,2
 US29589A,1860-08-14,Asa gkeenwood,"['PROPN', 'NOUN']",[],1,0,2
 US29608A,1860-08-14,towne,['PROPN'],[],1,0,1
@@ -2598,7 +2598,7 @@ US32069A,1861-04-16,Bookcase,['PROPN'],[],1,0,1
 US32109A,1861-04-16,de beame,"['X', 'PROPN']",[],1,0,2
 US32152A,1861-04-23,Buckle,['PROPN'],[],1,0,1
 US32170A,1861-04-30,Ladder,['PROPN'],[],1,0,1
-US32201A,1861-04-30,Faucet,"['PROPN', 'SPACE']",[],1,0,2
+US32201A,1861-04-30,Faucet,['PROPN'],[],1,0,2
 US32207A,1861-04-30,Inkstand,['PROPN'],[],1,0,1
 US32230A,1861-04-30,Edwin campbell,"['PROPN', 'NOUN']",[],1,0,2
 US32239A,1861-05-07,comfort,['PROPN'],[],1,0,1
@@ -2683,7 +2683,7 @@ US33041A,1861-08-13,Charles,['PROPN'],[],1,0,1
 US33042A,1861-08-13,Charles kaiser,"['PROPN', 'NOUN']",[],1,0,2
 US33045A,1861-08-13,of fisherville,"['ADP', 'PROPN']",[],1,0,2
 US33046A,1861-08-13,mbaoham,['PROPN'],[],1,0,1
-US33047A,1861-08-13,carlton,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US33047A,1861-08-13,carlton,['PROPN'],['ORG'],1,0,2
 US33055A,1861-08-13,Lyman smith,"['PROPN', 'PROPN']",['NORP'],1,0,2
 US33067A,1861-08-20,blake,['PROPN'],[],1,0,1
 US33075A,1861-08-20,Elliot dickebmak,"['PROPN', 'PROPN']",[],1,0,2
@@ -2876,7 +2876,7 @@ US44572A,1864-10-04,rloyd wiegam,"['VERB', 'PROPN']",[],1,0,2
 US44678A,1864-10-11,Julius thompson,"['PROPN', 'NOUN']",[],1,0,2
 US44719A,1864-10-18,James gray,"['PROPN', 'ADJ']",[],1,0,2
 US44782A,1864-10-25,Abel beeae,"['PROPN', 'VERB']",[],1,0,2
-US44818A,1864-10-25,Pfleghar,"['PROPN', 'SPACE']",[],1,0,2
+US44818A,1864-10-25,Pfleghar,['PROPN'],[],1,0,2
 US44835A,1864-10-25,Samuel e,"['PROPN', 'NOUN']",[],1,0,2
 US44874A,1864-11-01,heewig,['PROPN'],[],1,0,1
 US44913A,1864-11-01,Edmund p,"['PROPN', 'NOUN']",[],1,0,2
@@ -3017,7 +3017,7 @@ US49952A,1865-09-12,Vania,['PROPN'],['GPE'],1,0,1
 US49981A,1865-09-19,Jeeemiah close,"['PROPN', 'VERB']",[],1,0,2
 US49991A,1865-09-19,Jacob eutekeueb,"['PROPN', 'VERB']",[],1,0,2
 US50042A,1865-09-19,George a,"['PROPN', 'PRON']",[],1,0,2
-US50078A,1865-09-19,Leven,"['PROPN', 'SPACE']",[],1,0,2
+US50078A,1865-09-19,Leven,['PROPN'],[],1,0,2
 US50084A,1865-09-19,Chaelbs sanderson,"['PROPN', 'NOUN']",[],1,0,2
 US50200A,1865-09-26,Virgil draper,"['PROPN', 'NOUN']",['GPE'],1,0,2
 US50239A,1865-10-03,Wessell s,"['PROPN', 'VERB']",['ORG'],1,0,2
@@ -3037,11 +3037,11 @@ US50593A,1865-10-24,Silas t,"['PROPN', 'NOUN']",[],1,0,2
 US50607A,1865-10-24,Samuel m,"['PROPN', 'VERB']",[],1,0,2
 US50622A,1865-10-24,payne,['PROPN'],[],1,0,1
 US50664A,1865-10-24,Geobge g,"['PROPN', 'PROPN']",[],1,0,2
-US50680A,1865-10-31,Geokge,"['PROPN', 'SPACE']",[],1,0,2
+US50680A,1865-10-31,Geokge,['PROPN'],[],1,0,2
 US50699A,1865-10-31,briggs,['PROPN'],[],1,0,1
 US50703A,1865-10-31,Alexandeb w,"['PROPN', 'PROPN']",[],1,0,2
 US50709A,1865-10-31,Henby hobsfall,"['PROPN', 'ADV']",[],1,0,2
-US50748A,1865-10-31,Daniel,"['PROPN', 'SPACE']",[],1,0,2
+US50748A,1865-10-31,Daniel,['PROPN'],[],1,0,2
 US50794A,1865-11-07,buenett,['PROPN'],[],1,0,1
 US50820A,1865-11-07,Epheaim hambtjjee,"['PROPN', 'NOUN']",[],1,0,2
 US50848A,1865-11-07,schweizer,['PROPN'],[],1,0,1
@@ -3077,7 +3077,7 @@ US52169A,1866-01-23,Hoeace holt,"['PROPN', 'VERB']",[],1,0,2
 US52185A,1866-01-23,Alexandee mitchell,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US52218A,1866-01-23,Eli smith,"['PROPN', 'PROPN']",[],1,0,2
 US52230A,1866-01-23,Sylvenus walker,"['PROPN', 'VERB']",['GPE'],1,0,2
-US52254A,1866-01-23,alden,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US52254A,1866-01-23,alden,['PROPN'],['GPE'],1,0,2
 US52297A,1866-01-30,Schlaoker,['PROPN'],[],1,0,1
 US52308A,1866-01-30,Propeller,['PROPN'],[],1,0,1
 US52320A,1866-01-30,Akdbew bankif,"['PROPN', 'NOUN']",[],1,0,2
@@ -3150,7 +3150,7 @@ US56117A,1866-07-03,isaac h,"['PROPN', 'PROPN']",[],1,0,2
 US56323A,1866-07-10,James b,"['PROPN', 'PROPN']",[],1,0,2
 US56338A,1866-07-10,Loftus perkins,"['PROPN', 'VERB']",[],1,0,2
 US56367A,1866-07-17,Eobbet caeteb,"['PROPN', 'NOUN']",[],1,0,2
-US56379A,1866-07-17,cowan,"['PROPN', 'SPACE']",[],1,0,2
+US56379A,1866-07-17,cowan,['PROPN'],[],1,0,2
 US56423A,1866-07-17,Theodore c,"['PROPN', 'AUX']",[],1,0,2
 US56488A,1866-07-17,Esek bussey,"['PROPN', 'NOUN']",[],1,0,2
 US56498A,1866-07-17,Feancis hovby,"['PROPN', 'VERB']",['NORP'],1,0,2
@@ -3197,7 +3197,7 @@ US59363A,1866-11-06,Lbvi e,"['PROPN', 'NOUN']",[],1,0,2
 US59402A,1866-11-06,nan,['PROPN'],['GPE'],1,0,1
 US59484A,1866-11-06,upton,['PROPN'],[],1,0,1
 US59549A,1866-11-13,bowman,['PROPN'],[],1,0,1
-US59696A,1866-11-13,Whelpley,"['PROPN', 'SPACE']",[],1,0,2
+US59696A,1866-11-13,Whelpley,['PROPN'],[],1,0,2
 US59759A,1866-11-20,bodine,['PROPN'],[],1,0,1
 US59760A,1866-11-20,Uriah cummings,"['PROPN', 'VERB']",[],1,0,2
 US59765A,1866-11-20,Heney e,"['PROPN', 'NOUN']",[],1,0,2
@@ -3222,7 +3222,7 @@ US59865A,1866-11-20,smith,['PROPN'],[],1,0,1
 US59890A,1866-11-20,bristol,['PROPN'],['ORG'],1,0,1
 US59904A,1866-11-20,Ika flandees,"['PROPN', 'VERB']",[],1,0,2
 US59918A,1866-11-20,Jambs p,"['PROPN', 'NOUN']",[],1,0,2
-US59928A,1866-11-20,Samuel,"['PROPN', 'SPACE']",[],1,0,2
+US59928A,1866-11-20,Samuel,['PROPN'],[],1,0,2
 US59931A,1866-11-20,Ltmak s,"['PROPN', 'VERB']",[],1,0,2
 US59933A,1866-11-20,David walkeb,"['PROPN', 'PROPN']",[],1,0,2
 US59934A,1866-11-20,Lbyi wilkinson,"['PROPN', 'PROPN']",[],1,0,2
@@ -3377,7 +3377,7 @@ US60581A,1866-12-18,azel t,"['NOUN', 'PROPN']",[],1,0,2
 US60584A,1866-12-18,Necticut,['PROPN'],[],1,0,1
 US60587A,1866-12-18,Horace p,"['PROPN', 'NOUN']",[],1,0,2
 US60588A,1866-12-18,Hoeace p,"['PROPN', 'NOUN']",[],1,0,2
-US60589A,1866-12-18,Impeoyiment,"['PROPN', 'SPACE']",[],1,0,2
+US60589A,1866-12-18,Impeoyiment,['PROPN'],[],1,0,2
 US60594A,1866-12-18,Elisha h,"['PROPN', 'NOUN']",[],1,0,2
 US60602A,1866-12-18,Makshall d,"['PROPN', 'PROPN']",[],1,0,2
 US60609A,1866-12-18,Honestus m,"['PROPN', 'VERB']",[],1,0,2
@@ -3469,7 +3469,7 @@ US61020A,1867-01-08,Charles m,"['PROPN', 'VERB']",[],1,0,2
 US61021A,1867-01-08,Daniel t,"['PROPN', 'NOUN']",[],1,0,2
 US61022A,1867-01-08,Daniel t,"['PROPN', 'NOUN']",[],1,0,2
 US61024A,1867-01-08,Theodoee scholze,"['PROPN', 'NOUN']",[],1,0,2
-US61027A,1867-01-08,Sidney,"['PROPN', 'SPACE']",[],1,0,2
+US61027A,1867-01-08,Sidney,['PROPN'],[],1,0,2
 US61031A,1867-01-08,Hhhhhi,['PROPN'],['GPE'],1,0,1
 US61033A,1867-01-08,Cyrus m,"['PROPN', 'VERB']",[],1,0,2
 US61035A,1867-01-08,Louis knell,"['PROPN', 'NOUN']",[],1,0,2
@@ -3589,7 +3589,7 @@ US61556A,1867-01-29,Nathan p,"['PROPN', 'NOUN']",[],1,0,2
 US61572A,1867-01-29,Geobge e,"['PROPN', 'X']",[],1,0,2
 US61575A,1867-01-29,Philip s,"['PROPN', 'VERB']",[],1,0,2
 US61596A,1867-01-29,Stetjben t,"['PROPN', 'PROPN']",[],1,0,2
-US61605A,1867-01-29,buckman,"['PROPN', 'SPACE']",[],1,0,2
+US61605A,1867-01-29,buckman,['PROPN'],[],1,0,2
 US61609A,1867-01-29,Edmund d,"['PROPN', 'PROPN']",[],1,0,2
 US61611A,1867-01-29,deakboktf,['PROPN'],[],1,0,1
 US61616A,1867-01-29,Gilbeet b,"['PROPN', 'NOUN']",[],1,0,2
@@ -3660,8 +3660,8 @@ US61945A,1867-02-12,James maeshall,"['PROPN', 'PROPN']",[],1,0,2
 US61947A,1867-02-12,Frederick j,"['PROPN', 'PROPN']",[],1,0,2
 US61957A,1867-02-12,Charles seidel,"['PROPN', 'NOUN']",[],1,0,2
 US61959A,1867-02-12,Alanson slaughter,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US61960A,1867-02-12,Oooooqoooo,"['PROPN', 'SPACE']",[],1,0,2
-US61963A,1867-02-12,Benjamin,"['PROPN', 'SPACE']",[],1,0,2
+US61960A,1867-02-12,Oooooqoooo,['PROPN'],[],1,0,2
+US61963A,1867-02-12,Benjamin,['PROPN'],[],1,0,2
 US61976A,1867-02-12,Samuel williamson,"['PROPN', 'VERB']",[],1,0,2
 US61978A,1867-02-12,Haeey p,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US61997A,1867-02-12,Oscar p,"['PROPN', 'NOUN']",[],1,0,2
@@ -3890,7 +3890,7 @@ US63113A,1867-03-19,smith,['PROPN'],[],1,0,1
 US63121A,1867-03-19,James walked,"['PROPN', 'VERB']",[],1,0,2
 US63122A,1867-03-19,alfeed b,"['PROPN', 'X']",[],1,0,2
 US63129A,1867-03-19,Paekbr wineman,"['PROPN', 'NOUN']",[],1,0,2
-US63139A,1867-03-26,Fatbtte,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US63139A,1867-03-26,Fatbtte,['PROPN'],['GPE'],1,0,2
 US63147A,1867-03-26,James edge,"['PROPN', 'NOUN']",[],1,0,2
 US63148A,1867-03-26,Philip ely,"['PROPN', 'ADV']",[],1,0,2
 US63155A,1867-03-26,Joseph a,"['PROPN', 'PRON']",[],1,0,2
@@ -3912,7 +3912,7 @@ US63237A,1867-03-26,Job fboggett,"['PROPN', 'PROPN']",[],1,0,2
 US63239A,1867-03-26,Jonathan b,"['PROPN', 'PROPN']",[],1,0,2
 US63240A,1867-03-26,Jacob gkeen,"['PROPN', 'VERB']",[],1,0,2
 US63241A,1867-03-26,Jacob green,"['PROPN', 'VERB']",[],1,0,2
-US63251A,1867-03-26,holland,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US63251A,1867-03-26,holland,['PROPN'],['GPE'],1,0,2
 US63263A,1867-03-26,Charles lang,"['PROPN', 'PROPN']",[],1,0,2
 US63265A,1867-03-26,lehman,['PROPN'],['ORG'],1,0,1
 US63279A,1867-03-26,Whitney,['PROPN'],[],1,0,1
@@ -3921,7 +3921,7 @@ US63288A,1867-03-26,of lynn,"['ADP', 'PROPN']",[],1,0,2
 US63289A,1867-03-26,nickekson,['PROPN'],['ORG'],1,0,1
 US63293A,1867-03-26,Abraham c,"['PROPN', 'VERB']",[],1,0,2
 US63300A,1867-03-26,Daniel r,"['PROPN', 'NOUN']",[],1,0,2
-US63306A,1867-03-26,Oeville,"['PROPN', 'SPACE']",[],1,0,2
+US63306A,1867-03-26,Oeville,['PROPN'],[],1,0,2
 US63309A,1867-03-26,Benjamin,['PROPN'],[],1,0,1
 US63310A,1867-03-26,Louis saarbach,"['PROPN', 'VERB']",[],1,0,2
 US63312A,1867-03-26,scofield,['PROPN'],[],1,0,1
@@ -3940,7 +3940,7 @@ US63424A,1867-04-02,putnam,['PROPN'],[],1,0,1
 US63427A,1867-04-02,Lafayette m,"['PROPN', 'VERB']",[],1,0,2
 US63434A,1867-04-02,Julius sheldon,"['PROPN', 'NOUN']",[],1,0,2
 US63435A,1867-04-02,Louis simonet,"['PROPN', 'NOUN']",[],1,0,2
-US63436A,1867-04-02,smith,"['PROPN', 'SPACE']",[],1,0,2
+US63436A,1867-04-02,smith,['PROPN'],[],1,0,2
 US63437A,1867-04-02,Samuel solomons,"['PROPN', 'NOUN']",[],1,0,2
 US63438A,1867-04-02,Greenleaf,['PROPN'],[],1,0,1
 US63439A,1867-04-02,James stott,"['PROPN', 'VERB']",[],1,0,2
@@ -4098,14 +4098,14 @@ US64309A,1867-04-30,James -geangee,"['PROPN', 'PROPN']",[],1,0,2
 US64312A,1867-04-30,Bobebt e,"['PROPN', 'NOUN']",[],1,0,2
 US64316A,1867-04-30,Robebt jiitghcock,"['PROPN', 'NOUN']",[],1,0,2
 US64321A,1867-04-30,Benjamin irving,"['PROPN', 'NOUN']",[],1,0,2
-US64322A,1867-04-30,Benjamin,"['PROPN', 'SPACE']",[],1,0,2
+US64322A,1867-04-30,Benjamin,['PROPN'],[],1,0,2
 US64323A,1867-04-30,Benjamin irving,"['PROPN', 'NOUN']",[],1,0,2
 US64325A,1867-04-30,Benjamin irving,"['PROPN', 'NOUN']",[],1,0,2
 US64326A,1867-04-30,Kenzie,['PROPN'],[],1,0,1
 US64328A,1867-04-30,Abijah johnson,"['PROPN', 'PROPN']",[],1,0,2
 US64330A,1867-04-30,Moses w,"['PROPN', 'ADP']",[],1,0,2
 US64335A,1867-04-30,Israel l,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US64339A,1867-04-30,Impkovement,"['PROPN', 'SPACE']",[],1,0,2
+US64339A,1867-04-30,Impkovement,['PROPN'],[],1,0,2
 US64356A,1867-04-30,Samuel j,"['PROPN', 'PROPN']",[],1,0,2
 US64358A,1867-04-30,Horace l,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US64368A,1867-04-30,Silas rogers,"['PROPN', 'NOUN']",[],1,0,2
@@ -4113,7 +4113,7 @@ US64374A,1867-04-30,Jonathan f,"['PROPN', 'PROPN']",[],1,0,2
 US64379A,1867-04-30,stokee,['PROPN'],[],1,0,1
 US64380A,1867-04-30,James b,"['PROPN', 'PROPN']",[],1,0,2
 US64381A,1867-04-30,Faybtte f,"['PROPN', 'X']",[],1,0,2
-US64389A,1867-04-30,Samuel,"['PROPN', 'SPACE']",[],1,0,2
+US64389A,1867-04-30,Samuel,['PROPN'],[],1,0,2
 US64421A,1867-05-07,Jacob d,"['PROPN', 'PROPN']",[],1,0,2
 US64422A,1867-05-07,hitlbbet,['PROPN'],[],1,0,1
 US64428A,1867-05-07,kelsey,['PROPN'],[],1,0,1
@@ -4257,14 +4257,14 @@ US65224A,1867-05-28,Adolphus howaed,"['PROPN', 'VERB']",['NORP'],1,0,2
 US65228A,1867-05-28,huston,['PROPN'],[],1,0,1
 US65237A,1867-05-28,of nassau,"['ADP', 'PROPN']",[],1,0,2
 US65239A,1867-05-28,Henby lampson,"['PROPN', 'NOUN']",[],1,0,2
-US65241A,1867-05-28,Cornelius,"['PROPN', 'SPACE']",[],1,0,2
+US65241A,1867-05-28,Cornelius,['PROPN'],[],1,0,2
 US65242A,1867-05-28,Thegraphic co,"['PROPN', 'VERB']",[],1,0,2
 US65246A,1867-05-28,James p,"['PROPN', 'NOUN']",[],1,0,2
 US65260A,1867-05-28,Joseph nock,"['PROPN', 'ADV']",[],1,0,2
 US65261A,1867-05-28,Joseph nock,"['PROPN', 'ADV']",[],1,0,2
 US65273A,1867-05-28,Benjamin f,"['PROPN', 'X']",[],1,0,2
 US65284A,1867-05-28,san dees,"['PROPN', 'PROPN']",[],1,0,2
-US65286A,1867-05-28,Bjleet,"['PROPN', 'SPACE']",[],1,0,2
+US65286A,1867-05-28,Bjleet,['PROPN'],[],1,0,2
 US65297A,1867-05-28,Archibald stewart,"['PROPN', 'NOUN']",[],1,0,2
 US65305A,1867-05-28,titus,['PROPN'],[],1,0,1
 US65326A,1867-06-04,ackerman,['PROPN'],[],1,0,1
@@ -4372,7 +4372,7 @@ US65898A,1867-06-18,Orlando v,"['PROPN', 'ADP']",['GPE'],1,0,2
 US65899A,1867-06-18,Conrad george,"['ADJ', 'PROPN']",['ORG'],1,0,2
 US65908A,1867-06-18,Charles t,"['PROPN', 'NOUN']",[],1,0,2
 US65915A,1867-06-18,Utltogif,['PROPN'],[],1,0,1
-US65917A,1867-06-18,Gamaliel,"['PROPN', 'SPACE']",[],1,0,2
+US65917A,1867-06-18,Gamaliel,['PROPN'],[],1,0,2
 US65919A,1867-06-18,Charles kobiv,"['PROPN', 'VERB']",[],1,0,2
 US65924A,1867-06-18,Charles g,"['PROPN', 'NOUN']",[],1,0,2
 US65929A,1867-06-18,Isaac h,"['PROPN', 'NOUN']",[],1,0,2
@@ -4635,7 +4635,7 @@ US67450A,1867-08-06,Henky e,"['PROPN', 'NOUN']",[],1,0,2
 US67457A,1867-08-06,Joseph sholl,"['PROPN', 'NOUN']",[],1,0,2
 US67463A,1867-08-06,Charles b,"['PROPN', 'NOUN']",[],1,0,2
 US67468A,1867-08-06,warner,['PROPN'],['ORG'],1,0,1
-US67475A,1867-08-06,Benjamin,"['PROPN', 'SPACE']",[],1,0,2
+US67475A,1867-08-06,Benjamin,['PROPN'],[],1,0,2
 US67486A,1867-08-06,James bied,"['PROPN', 'VERB']",[],1,0,2
 US67488A,1867-08-06,bottnbb,['PROPN'],[],1,0,1
 US67500A,1867-08-06,Ezba g,"['PROPN', 'NOUN']",[],1,0,2
@@ -4685,11 +4685,11 @@ US67758A,1867-08-13,Pieere j,"['PROPN', 'NOUN']",[],1,0,2
 US67761A,1867-08-13,Peter a,"['PROPN', 'PRON']",[],1,0,2
 US67768A,1867-08-13,Phineas jones,"['NOUN', 'PROPN']",[],1,0,2
 US67779A,1867-08-13,marvin,['PROPN'],[],1,0,1
-US67790A,1867-08-13,Geokge,"['PROPN', 'SPACE']",[],1,0,2
+US67790A,1867-08-13,Geokge,['PROPN'],[],1,0,2
 US67792A,1867-08-13,Charles c,"['PROPN', 'VERB']",[],1,0,2
 US67798A,1867-08-13,Charles h,"['PROPN', 'NOUN']",[],1,0,2
 US67813A,1867-08-13,smith,['PROPN'],[],1,0,1
-US67817A,1867-08-13,Enoch,"['PROPN', 'SPACE']",[],1,0,2
+US67817A,1867-08-13,Enoch,['PROPN'],[],1,0,2
 US67821A,1867-08-13,underwood,['PROPN'],[],1,0,1
 US67823A,1867-08-13,Arthue wadswoeth,"['ADJ', 'PROPN']",[],1,0,2
 US67826A,1867-08-13,Warner,['PROPN'],['ORG'],1,0,1
@@ -4956,7 +4956,7 @@ US69438A,1867-10-01,Ticut,['PROPN'],[],1,0,1
 US69453A,1867-10-01,George a,"['PROPN', 'PRON']",[],1,0,2
 US69454A,1867-10-01,Petefls,['PROPN'],[],1,0,1
 US69462A,1867-10-01,messlee,['PROPN'],[],1,0,1
-US69463A,1867-10-01,Thomas,"['PROPN', 'SPACE']",[],1,0,2
+US69463A,1867-10-01,Thomas,['PROPN'],[],1,0,2
 US69466A,1867-10-01,miller,['PROPN'],['ORG'],1,0,1
 US69474A,1867-10-01,Buel d,"['PROPN', 'PROPN']",[],1,0,2
 US69477A,1867-10-01,Henry j,"['PROPN', 'PROPN']",[],1,0,2
@@ -5126,7 +5126,7 @@ US70608A,1867-11-05,Hetfry b,"['PROPN', 'NOUN']",['NORP'],1,0,2
 US70609A,1867-11-05,Benjamin f,"['PROPN', 'X']",[],1,0,2
 US70614A,1867-11-05,Amos rank,"['PROPN', 'NOUN']",['GPE'],1,0,2
 US70620A,1867-11-05,Ephraim romans,"['PROPN', 'VERB']",[],1,0,2
-US70625A,1867-11-05,Lewis,"['PROPN', 'SPACE']",[],1,0,2
+US70625A,1867-11-05,Lewis,['PROPN'],[],1,0,2
 US70635A,1867-11-05,slaw son,"['PROPN', 'NOUN']",[],1,0,2
 US70636A,1867-11-05,smith,['PROPN'],[],1,0,1
 US70638A,1867-11-05,smith,['PROPN'],[],1,0,1
@@ -5248,7 +5248,7 @@ US71399A,1867-11-26,marvin,['PROPN'],[],1,0,1
 US71404A,1867-11-26,newton,['PROPN'],[],1,0,1
 US71407A,1867-11-26,Samuel payne,"['PROPN', 'PROPN']",[],1,0,2
 US71408A,1867-11-26,George peacock,"['PROPN', 'NOUN']",[],1,0,2
-US71414A,1867-11-26,Atiaust,"['PROPN', 'SPACE']",[],1,0,2
+US71414A,1867-11-26,Atiaust,['PROPN'],[],1,0,2
 US71415A,1867-11-26,Elias sanfoed,"['PROPN', 'VERB']",['ORG'],1,0,2
 US71420A,1867-11-26,David stewabt,"['PROPN', 'X']",[],1,0,2
 US71431A,1867-11-26,vaughan,['PROPN'],[],1,0,1
@@ -5284,7 +5284,7 @@ US71630A,1867-12-03,Benjamin f,"['PROPN', 'X']",[],1,0,2
 US71634A,1867-12-03,Bartolomeus j,"['PROPN', 'PROPN']",[],1,0,2
 US71636A,1867-12-03,Ezekiel pea,"['PROPN', 'NOUN']",[],1,0,2
 US71642A,1867-12-03,Samuel richards,"['PROPN', 'NOUN']",[],1,0,2
-US71651A,1867-12-03,Eilekt,"['PROPN', 'SPACE']",[],1,0,2
+US71651A,1867-12-03,Eilekt,['PROPN'],[],1,0,2
 US71655A,1867-12-03,Eodnet l,"['PROPN', 'NOUN']",[],1,0,2
 US71661A,1867-12-03,Bian a,"['PROPN', 'PRON']",[],1,0,2
 US71664A,1867-12-03,Charles m,"['PROPN', 'VERB']",[],1,0,2
@@ -5345,7 +5345,7 @@ US71993A,1867-12-10,James g,"['PROPN', 'PROPN']",[],1,0,2
 US72001A,1867-12-10,And timothy,"['CCONJ', 'PROPN']",[],1,0,2
 US72007A,1867-12-10,flesche,['PROPN'],[],1,0,1
 US72009A,1867-12-10,Alden t,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US72012A,1867-12-10,Samuel,"['PROPN', 'SPACE']",[],1,0,2
+US72012A,1867-12-10,Samuel,['PROPN'],[],1,0,2
 US72015A,1867-12-10,Samuel gissinger,"['PROPN', 'NOUN']",[],1,0,2
 US72019A,1867-12-10,Peter r,"['PROPN', 'NOUN']",[],1,0,2
 US72022A,1867-12-10,David m,"['PROPN', 'VERB']",[],1,0,2
@@ -5397,14 +5397,14 @@ US72298A,1867-12-17,James b,"['PROPN', 'PROPN']",[],1,0,2
 US72300A,1867-12-17,Ezra hutson,"['PROPN', 'NOUN']",[],1,0,2
 US72308A,1867-12-17,Joel r,"['PROPN', 'NOUN']",[],1,0,2
 US72312A,1867-12-17,Dayid l,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US72327A,1867-12-17,porter,"['PROPN', 'SPACE']",[],1,0,2
+US72327A,1867-12-17,porter,['PROPN'],[],1,0,2
 US72335A,1867-12-17,David stewart,"['PROPN', 'NOUN']",[],1,0,2
 US72342A,1867-12-17,nan,['PROPN'],['GPE'],1,0,1
 US72343A,1867-12-17,Philip weok,"['PROPN', 'VERB']",[],1,0,2
 US72345A,1867-12-17,Isaac h,"['PROPN', 'NOUN']",[],1,0,2
 US72347A,1867-12-17,Jacob wertsbaugeer,"['PROPN', 'VERB']",[],1,0,2
 US72348A,1867-12-17,Joel m,"['PROPN', 'VERB']",[],1,0,2
-US72370A,1867-12-17,Beverly,"['PROPN', 'SPACE']",[],1,0,2
+US72370A,1867-12-17,Beverly,['PROPN'],[],1,0,2
 US72371A,1867-12-17,Eleazar coffin-,"['PROPN', 'PUNCT']",[],1,0,2
 US72381A,1867-12-17,farnam,['PROPN'],['GPE'],1,0,1
 US72387A,1867-12-17,Samuel gissinger,"['PROPN', 'NOUN']",[],1,0,2
@@ -5514,7 +5514,7 @@ US72898A,1867-12-31,pratt,['PROPN'],[],1,0,1
 US72899A,1867-12-31,Franklin b,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US72901A,1867-12-31,Ssel b,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US72904A,1867-12-31,Philip bees,"['PROPN', 'NOUN']",[],1,0,2
-US72905A,1867-12-31,Thomas,"['PROPN', 'SPACE']",[],1,0,2
+US72905A,1867-12-31,Thomas,['PROPN'],[],1,0,2
 US72909A,1867-12-31,Jambs s,"['PROPN', 'PART']",[],1,0,2
 US72917A,1867-12-31,Jacob senneff,"['PROPN', 'NOUN']",[],1,0,2
 US72921A,1867-12-31,Peter shelletfbock,"['PROPN', 'NOUN']",[],1,0,2
@@ -5558,7 +5558,7 @@ US73175A,1868-01-07,James elliott,"['PROPN', 'PROPN']",[],1,0,2
 US73182A,1868-01-07,Samuel t,"['PROPN', 'NOUN']",[],1,0,2
 US73184A,1868-01-07,hewett,['PROPN'],[],1,0,1
 US73188A,1868-01-07,Gottlieb kobnig,"['PROPN', 'VERB']",['ORG'],1,0,2
-US73193A,1868-01-07,Daniel,"['PROPN', 'SPACE']",[],1,0,2
+US73193A,1868-01-07,Daniel,['PROPN'],[],1,0,2
 US73209A,1868-01-07,James ueie,"['PROPN', 'NOUN']",[],1,0,2
 US73227A,1868-01-14,Eben m,"['PROPN', 'VERB']",[],1,0,2
 US73233A,1868-01-14,clifford,['PROPN'],['ORG'],1,0,1
@@ -5756,7 +5756,7 @@ US74286A,1868-02-11,Ernst w,"['PROPN', 'PROPN']",[],1,0,2
 US74287A,1868-02-11,binklt,['PROPN'],[],1,0,1
 US74288A,1868-02-11,Chusetts,['PROPN'],['NORP'],1,0,1
 US74289A,1868-02-11,blake,['PROPN'],[],1,0,1
-US74303A,1868-02-11,Thomas,"['PROPN', 'SPACE']",[],1,0,2
+US74303A,1868-02-11,Thomas,['PROPN'],[],1,0,2
 US74307A,1868-02-11,Leeoy clarke,"['PROPN', 'NOUN']",['GPE'],1,0,2
 US74311A,1868-02-11,Samuel p,"['PROPN', 'NOUN']",[],1,0,2
 US74313A,1868-02-11,Jacob cokson,"['PROPN', 'PROPN']",[],1,0,2
@@ -5816,7 +5816,7 @@ US74563A,1868-02-18,mcrdougall,['PROPN'],[],1,0,1
 US74564A,1868-02-18,mcdougall,['PROPN'],[],1,0,1
 US74565A,1868-02-18,Edwin mckenzie,"['PROPN', 'NOUN']",[],1,0,2
 US74573A,1868-02-18,Apolis,['PROPN'],['ORG'],1,0,1
-US74579A,1868-02-18,Thomas,"['PROPN', 'SPACE']",[],1,0,2
+US74579A,1868-02-18,Thomas,['PROPN'],[],1,0,2
 US74583A,1868-02-18,of brooklyn,"['ADP', 'PROPN']",['GPE'],1,0,2
 US74586A,1868-02-18,pearson,['PROPN'],[],1,0,1
 US74595A,1868-02-18,rickabd,['PROPN'],[],1,0,1
@@ -5826,7 +5826,7 @@ US74618A,1868-02-18,singleton,['PROPN'],[],1,0,1
 US74621A,1868-02-18,smith,['PROPN'],[],1,0,1
 US74624A,1868-02-18,George a,"['PROPN', 'PRON']",[],1,0,2
 US74628A,1868-02-18,Ibitm sulzbacher,"['PROPN', 'NOUN']",[],1,0,2
-US74629A,1868-02-18,Samuel,"['PROPN', 'SPACE']",[],1,0,2
+US74629A,1868-02-18,Samuel,['PROPN'],[],1,0,2
 US74632A,1868-02-18,Isaac p,"['PROPN', 'NOUN']",[],1,0,2
 US74636A,1868-02-18,of chicago,"['ADP', 'PROPN']",['GPE'],1,0,2
 US74646A,1868-02-18,Benjamin g,"['PROPN', 'NOUN']",[],1,0,2
@@ -5869,7 +5869,7 @@ US74820A,1868-02-25,Silas b,"['PROPN', 'NOUN']",[],1,0,2
 US74828A,1868-02-25,Peters co,"['PROPN', 'VERB']",[],1,0,2
 US74832A,1868-02-25,Peter kerb,"['PROPN', 'VERB']",[],1,0,2
 US74845A,1868-02-25,Abraham quick,"['PROPN', 'ADV']",[],1,0,2
-US74849A,1868-02-25,David,"['PROPN', 'SPACE']",[],1,0,2
+US74849A,1868-02-25,David,['PROPN'],[],1,0,2
 US74852A,1868-02-25,Ephraim p,"['PROPN', 'NOUN']",[],1,0,2
 US74853A,1868-02-25,James sussell,"['PROPN', 'VERB']",[],1,0,2
 US74859A,1868-02-25,smith,['PROPN'],[],1,0,1
@@ -5899,7 +5899,7 @@ US75030A,1868-03-03,libbey,['PROPN'],[],1,0,1
 US75032A,1868-03-03,May concern,"['PROPN', 'NOUN']",[],1,0,2
 US75033A,1868-03-03,Logan,['PROPN'],[],1,0,1
 US75036A,1868-03-03,Charles manheim,"['PROPN', 'NOUN']",[],1,0,2
-US75038A,1868-03-03,David,"['PROPN', 'SPACE']",[],1,0,2
+US75038A,1868-03-03,David,['PROPN'],[],1,0,2
 US75048A,1868-03-03,Charles peelet,"['PROPN', 'NOUN']",[],1,0,2
 US75052A,1868-03-03,Benjamin,['PROPN'],[],1,0,1
 US75064A,1868-03-03,Kussel j,"['PROPN', 'PROPN']",[],1,0,2
@@ -5916,7 +5916,7 @@ US75118A,1868-03-03,Sylvania,['PROPN'],['ORG'],1,0,1
 US75136A,1868-03-03,James emery,"['PROPN', 'NOUN']",[],1,0,2
 US75153A,1868-03-03,Egbert d,"['PROPN', 'NOUN']",[],1,0,2
 US75167A,1868-03-03,Of berlin,"['ADP', 'PROPN']",['GPE'],1,0,2
-US75172A,1868-03-03,Ttththall,"['PROPN', 'SPACE']",[],1,0,2
+US75172A,1868-03-03,Ttththall,['PROPN'],[],1,0,2
 US75176A,1868-03-03,mart if,"['PROPN', 'SCONJ']",[],1,0,2
 US75181A,1868-03-03,Henry j,"['PROPN', 'PROPN']",[],1,0,2
 US75188A,1868-03-03,Walter b,"['PROPN', 'PROPN']",[],1,0,2
@@ -5943,7 +5943,7 @@ US75287A,1868-03-10,mckenzie,['PROPN'],[],1,0,1
 US75299A,1868-03-10,Elias sanfokb,"['PROPN', 'VERB']",['ORG'],1,0,2
 US75307A,1868-03-10,Scott a,"['PROPN', 'PRON']",['ORG'],1,0,2
 US75317A,1868-03-10,Edwin j,"['PROPN', 'PROPN']",[],1,0,2
-US75318A,1868-03-10,Edwin,"['PROPN', 'SPACE']",[],1,0,2
+US75318A,1868-03-10,Edwin,['PROPN'],[],1,0,2
 US75323A,1868-03-10,David m,"['PROPN', 'VERB']",[],1,0,2
 US75382A,1868-03-10,Benjamin j,"['PROPN', 'PROPN']",[],1,0,2
 US75396A,1868-03-10,Sylvania,['PROPN'],['ORG'],1,0,1
@@ -6008,7 +6008,7 @@ US75717A,1868-03-17,Improved speinklee,"['ADJ', 'PROPN']",[],1,0,2
 US75725A,1868-03-24,Ferdinand blauss,"['PROPN', 'NOUN']",[],1,0,2
 US75731A,1868-03-24,Hezekiah m,"['PROPN', 'VERB']",[],1,0,2
 US75736A,1868-03-24,Matthew f,"['PROPN', 'PROPN']",[],1,0,2
-US75749A,1868-03-24,Hinbt,"['PROPN', 'SPACE']",[],1,0,2
+US75749A,1868-03-24,Hinbt,['PROPN'],[],1,0,2
 US75752A,1868-03-24,Earl j,"['PROPN', 'PROPN']",['GPE'],1,0,2
 US75757A,1868-03-24,Levi here,"['PROPN', 'ADV']",[],1,0,2
 US75758A,1868-03-24,Jambs hester,"['PROPN', 'NOUN']",[],1,0,2
@@ -6178,7 +6178,7 @@ US76821A,1868-04-14,Burdett l,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US76824A,1868-04-14,Bruno schmidt,"['PROPN', 'VERB']",[],1,0,2
 US76835A,1868-04-14,Hiram smith,"['PROPN', 'PROPN']",[],1,0,2
 US76836A,1868-04-14,homee smith,"['PROPN', 'PROPN']",[],1,0,2
-US76838A,1868-04-14,Gideon,"['PROPN', 'SPACE']",[],1,0,2
+US76838A,1868-04-14,Gideon,['PROPN'],[],1,0,2
 US76854A,1868-04-14,Benjamin ward,"['PROPN', 'NOUN']",[],1,0,2
 US76855A,1868-04-14,Charles h,"['PROPN', 'NOUN']",[],1,0,2
 US76865A,1868-04-14,Benjamin p,"['PROPN', 'NOUN']",[],1,0,2
@@ -6187,7 +6187,7 @@ US76886A,1868-04-21,Obadiak b,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US76892A,1868-04-21,Ominico checkeni,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US76904A,1868-04-21,James e,"['PROPN', 'PROPN']",[],1,0,2
 US76909A,1868-04-21,Matthew gordon,"['PROPN', 'PROPN']",[],1,0,2
-US76910A,1868-04-21,Chauncey,"['PROPN', 'SPACE']",[],1,0,2
+US76910A,1868-04-21,Chauncey,['PROPN'],[],1,0,2
 US76915A,1868-04-21,Alexander j,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US76925A,1868-04-21,Charles kirchhof,"['PROPN', 'VERB']",[],1,0,2
 US76936A,1868-04-21,Jambs h,"['PROPN', 'NOUN']",[],1,0,2
@@ -6214,7 +6214,7 @@ US77071A,1868-04-21,Simeon mills,"['PROPN', 'VERB']",[],1,0,2
 US77087A,1868-04-21,Lewis p,"['PROPN', 'NOUN']",[],1,0,2
 US77099A,1868-04-21,robertson,['PROPN'],[],1,0,1
 US77100A,1868-04-21,Jambs robinson,"['PROPN', 'NOUN']",[],1,0,2
-US77110A,1868-04-21,Samuel,"['PROPN', 'SPACE']",[],1,0,2
+US77110A,1868-04-21,Samuel,['PROPN'],[],1,0,2
 US77113A,1868-04-21,Philander p,"['PROPN', 'NOUN']",[],1,0,2
 US77116A,1868-04-21,Jthographer,['PROPN'],[],1,0,1
 US77117A,1868-04-21,Calvin d,"['PROPN', 'PROPN']",[],1,0,2
@@ -6360,7 +6360,7 @@ US77901A,1868-05-12,Achjlle f,"['PROPN', 'X']",[],1,0,2
 US77905A,1868-05-12,Galen ore,"['PROPN', 'NOUN']",[],1,0,2
 US77912A,1868-05-12,bradley,['PROPN'],[],1,0,1
 US77919A,1868-05-12,roekb,['PROPN'],[],1,0,1
-US77921A,1868-05-12,Geobge,"['PROPN', 'SPACE']",[],1,0,2
+US77921A,1868-05-12,Geobge,['PROPN'],[],1,0,2
 US77922A,1868-05-12,Elias sanford,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US77924A,1868-05-12,Jacob h,"['PROPN', 'VERB']",[],1,0,2
 US77927A,1868-05-12,Alfred g,"['PROPN', 'NOUN']",[],1,0,2
@@ -6385,7 +6385,7 @@ US78048A,1868-05-19,of detroit,"['ADP', 'PROPN']",['GPE'],1,0,2
 US78049A,1868-05-19,brooks,['PROPN'],['ORG'],1,0,1
 US78055A,1868-05-19,Alexander carbnow,"['PROPN', 'VERB']",['ORG'],1,0,2
 US78062A,1868-05-19,Peter comptok,"['PROPN', 'NOUN']",[],1,0,2
-US78063A,1868-05-19,Daniel,"['PROPN', 'SPACE']",[],1,0,2
+US78063A,1868-05-19,Daniel,['PROPN'],[],1,0,2
 US78072A,1868-05-19,James e,"['PROPN', 'PROPN']",[],1,0,2
 US78088A,1868-05-19,henderson,['PROPN'],['GPE'],1,0,1
 US78091A,1868-05-19,Penter,['PROPN'],[],1,0,1
@@ -6512,7 +6512,7 @@ US78817A,1868-06-09,Chaeles paeham,"['PROPN', 'VERB']",[],1,0,2
 US78819A,1868-06-09,paris,['PROPN'],['GPE'],1,0,1
 US78832A,1868-06-09,James t,"['PROPN', 'PROPN']",[],1,0,2
 US78847A,1868-06-09,wesson,['PROPN'],[],1,0,1
-US78856A,1868-06-16,Leonard,"['PROPN', 'SPACE']",[],1,0,2
+US78856A,1868-06-16,Leonard,['PROPN'],[],1,0,2
 US78858A,1868-06-16,James bounds,"['PROPN', 'VERB']",[],1,0,2
 US78862A,1868-06-16,Josiah copley,"['PROPN', 'NOUN']",[],1,0,2
 US78873A,1868-06-16,Newark-,['PROPN'],[],1,0,1
@@ -6740,7 +6740,7 @@ US80230A,1868-07-21,smith,['PROPN'],[],1,0,1
 US80234A,1868-07-21,Hiram stone,"['PROPN', 'NOUN']",[],1,0,2
 US80237A,1868-07-21,George c,"['PROPN', 'AUX']",[],1,0,2
 US80242A,1868-07-21,Samuel j,"['PROPN', 'PROPN']",[],1,0,2
-US80244A,1868-07-21,Ucker,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US80244A,1868-07-21,Ucker,['PROPN'],['ORG'],1,0,2
 US80253A,1868-07-21,Eli waugaman,"['PROPN', 'NOUN']",[],1,0,2
 US80256A,1868-07-21,Benjamin f,"['PROPN', 'X']",[],1,0,2
 US80262A,1868-07-21,willcox,['PROPN'],[],1,0,1
@@ -6894,7 +6894,7 @@ US81387A,1868-08-25,Chaeles lyne,"['PROPN', 'PROPN']",[],1,0,2
 US81414A,1868-08-25,Tereitoey,['PROPN'],[],1,0,1
 US81424A,1868-08-25,Charles a,"['PROPN', 'PRON']",[],1,0,2
 US81433A,1868-08-25,Edwin taylor,"['PROPN', 'PROPN']",[],1,0,2
-US81439A,1868-08-25,jftbijts,"['PROPN', 'SPACE']",[],1,0,2
+US81439A,1868-08-25,jftbijts,['PROPN'],[],1,0,2
 US81440A,1868-08-25,Daniel f,"['PROPN', 'X']",[],1,0,2
 US81456A,1868-08-25,Thomas alsop,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US81463A,1868-08-25,Jacob bechtel,"['PROPN', 'NOUN']",[],1,0,2
@@ -6951,7 +6951,7 @@ US81844A,1868-09-01,Charles tollner,"['PROPN', 'NOUN']",[],1,0,2
 US81846A,1868-09-01,Oliver vanorman,"['PROPN', 'NOUN']",[],1,0,2
 US81863A,1868-09-08,ashcroft,['PROPN'],[],1,0,1
 US81866A,1868-09-08,Vincent m,"['PROPN', 'VERB']",[],1,0,2
-US81867A,1868-09-08,Grant,"['PROPN', 'SPACE']",[],1,0,2
+US81867A,1868-09-08,Grant,['PROPN'],[],1,0,2
 US81889A,1868-09-08,gould,['PROPN'],[],1,0,1
 US81890A,1868-09-08,gould,['PROPN'],[],1,0,1
 US81900A,1868-09-08,Charles harrison,"['PROPN', 'NOUN']",[],1,0,2
@@ -7041,7 +7041,7 @@ US82443A,1868-09-22,Seth shadduck,"['PROPN', 'VERB']",[],1,0,2
 US82452A,1868-09-22,Leopold thomas,"['PROPN', 'PROPN']",['PRODUCT'],1,0,2
 US82453A,1868-09-22,Nathaniel s,"['PROPN', 'PART']",[],1,0,2
 US82456A,1868-09-22,waite,['PROPN'],[],1,0,1
-US82458A,1868-09-22,Weber,"['PROPN', 'SPACE']",[],1,0,2
+US82458A,1868-09-22,Weber,['PROPN'],[],1,0,2
 US82467A,1868-09-22,Charles a,"['PROPN', 'PRON']",[],1,0,2
 US82472A,1868-09-22,fatent office,"['PROPN', 'NOUN']",[],1,0,2
 US82482A,1868-09-29,Hannibal s,"['PROPN', 'VERB']",[],1,0,2
@@ -7193,9 +7193,9 @@ US85056A,1868-12-22,Leopold brandeis,"['PROPN', 'PRON']",[],1,0,2
 US85057A,1868-12-22,Leopold brandeis,"['PROPN', 'PRON']",[],1,0,2
 US85096A,1868-12-22,Amos a,"['PROPN', 'PRON']",[],1,0,2
 US85122A,1868-12-22,Peter paradis,"['PROPN', 'NOUN']",[],1,0,2
-US85124A,1868-12-22,Perry,"['PROPN', 'SPACE']",[],1,0,2
+US85124A,1868-12-22,Perry,['PROPN'],[],1,0,2
 US85173A,1868-12-22,Benjamin irving,"['PROPN', 'NOUN']",[],1,0,2
-US85185A,1868-12-22,Jacob,"['PROPN', 'SPACE']",[],1,0,2
+US85185A,1868-12-22,Jacob,['PROPN'],[],1,0,2
 US85212A,1868-12-22,casslday,['PROPN'],[],1,0,1
 US85260A,1868-12-22,Son allen,"['PROPN', 'VERB']",[],1,0,2
 US85299A,1868-12-29,Samuel m,"['PROPN', 'VERB']",[],1,0,2
@@ -7265,7 +7265,7 @@ US86350A,1869-02-02,barton,['PROPN'],[],1,0,1
 US86380A,1869-02-02,Horace f,"['NOUN', 'PROPN']",[],1,0,2
 US86387A,1869-02-02,Dennis c,"['PROPN', 'VERB']",[],1,0,2
 US86393A,1869-02-02,Charles h,"['PROPN', 'NOUN']",[],1,0,2
-US86416A,1869-02-02,iiekley,"['PROPN', 'SPACE']",[],1,0,2
+US86416A,1869-02-02,iiekley,['PROPN'],[],1,0,2
 US86425A,1869-02-02,Reuben lighthall,"['PROPN', 'VERB']",[],1,0,2
 US86428A,1869-02-02,loomis,['PROPN'],[],1,0,1
 US86445A,1869-02-02,Looper,['PROPN'],[],1,0,1
@@ -7395,7 +7395,7 @@ US88984A,1869-04-13,Joseph a,"['PROPN', 'PRON']",[],1,0,2
 US89027A,1869-04-20,Levi r,"['PROPN', 'NOUN']",[],1,0,2
 US89038A,1869-04-20,Oliver e,"['PROPN', 'NOUN']",[],1,0,2
 US89044A,1869-04-20,Nehemiah l,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US89068A,1869-04-20,Thomas,"['PROPN', 'SPACE']",[],1,0,2
+US89068A,1869-04-20,Thomas,['PROPN'],[],1,0,2
 US89174A,1869-04-20,Alexander selkirk,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US89179A,1869-04-20,James spear,"['PROPN', 'NOUN']",[],1,0,2
 US89181A,1869-04-20,Necticut,['PROPN'],[],1,0,1
@@ -7405,7 +7405,7 @@ US89237A,1869-04-20,James a,"['PROPN', 'PRON']",[],1,0,2
 US89260A,1869-04-20,willis,['PROPN'],[],1,0,1
 US89297A,1869-04-27,Charles m,"['PROPN', 'VERB']",[],1,0,2
 US89303A,1869-04-27,Israel forman,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US89323A,1869-04-27,Thomas,"['PROPN', 'SPACE']",[],1,0,2
+US89323A,1869-04-27,Thomas,['PROPN'],[],1,0,2
 US89353A,1869-04-27,Thomas e,"['PROPN', 'NOUN']",[],1,0,2
 US89360A,1869-04-27,Necticut,['PROPN'],[],1,0,1
 US89368A,1869-04-27,Daniel woodbury,"['PROPN', 'NOUN']",[],1,0,2
@@ -7477,7 +7477,7 @@ US90889A,1869-06-01,Geoege w,"['PROPN', 'ADP']",[],1,0,2
 US90891A,1869-06-01,Hiram tuckeb,"['PROPN', 'PROPN']",['ORG'],1,0,2
 US90908A,1869-06-01,Solomon j,"['PROPN', 'PROPN']",[],1,0,2
 US90911A,1869-06-08,Moses adams,"['PROPN', 'NOUN']",[],1,0,2
-US90957A,1869-06-08,David,"['PROPN', 'SPACE']",[],1,0,2
+US90957A,1869-06-08,David,['PROPN'],[],1,0,2
 US91007A,1869-06-08,Walter b,"['PROPN', 'PROPN']",[],1,0,2
 US91098A,1869-06-08,Dexter dill,"['PROPN', 'NOUN']",[],1,0,2
 US91130A,1869-06-08,hendryx,['PROPN'],[],1,0,1
@@ -7676,7 +7676,7 @@ US96091A,1869-10-26,Chaklton eden,"['PROPN', 'PROPN']",['GPE'],1,0,2
 US96181A,1869-10-26,Liam hyland,"['PROPN', 'NOUN']",[],1,0,2
 US96198A,1869-10-26,Charles a,"['PROPN', 'PRON']",[],1,0,2
 US96228A,1869-10-26,Chusetts,['PROPN'],['NORP'],1,0,1
-US96272A,1869-10-26,Silas,"['PROPN', 'SPACE']",[],1,0,2
+US96272A,1869-10-26,Silas,['PROPN'],[],1,0,2
 US96337A,1869-11-02,David metz,"['PROPN', 'VERB']",[],1,0,2
 US96342A,1869-11-02,James old,"['PROPN', 'ADJ']",[],1,0,2
 US96350A,1869-11-02,Amos b,"['PROPN', 'PROPN']",['ORG'],1,0,2
@@ -7697,7 +7697,7 @@ US96501A,1869-11-02,Overton j,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US96555A,1869-11-09,Edwin,['PROPN'],[],1,0,1
 US96588A,1869-11-09,Dayid hathaway,"['PROPN', 'NOUN']",['NORP'],1,0,2
 US96597A,1869-11-09,kemmis,['PROPN'],['ORG'],1,0,1
-US96623A,1869-11-09,Eilert,"['PROPN', 'SPACE']",[],1,0,2
+US96623A,1869-11-09,Eilert,['PROPN'],[],1,0,2
 US96657A,1869-11-09,Albeiit m,"['PROPN', 'VERB']",[],1,0,2
 US96664A,1869-11-09,Newton benedict,"['PROPN', 'VERB']",['GPE'],1,0,2
 US96711A,1869-11-09,Charles h,"['PROPN', 'NOUN']",[],1,0,2
@@ -7710,7 +7710,7 @@ US96871A,1869-11-16,blanchard,['PROPN'],[],1,0,1
 US96986A,1869-11-16,smith,['PROPN'],[],1,0,1
 US97022A,1869-11-23,Alexander p,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US97026A,1869-11-23,Bentley c,"['PROPN', 'VERB']",[],1,0,2
-US97028A,1869-11-23,Bentley,"['PROPN', 'SPACE']",[],1,0,2
+US97028A,1869-11-23,Bentley,['PROPN'],[],1,0,2
 US97043A,1869-11-23,Petehj,['PROPN'],['LOC'],1,0,1
 US97050A,1869-11-23,Benjamin f,"['PROPN', 'X']",[],1,0,2
 US97075A,1869-11-23,gibson,['PROPN'],[],1,0,1
@@ -7744,7 +7744,7 @@ US97572A,1869-12-07,Cornelius walsh,"['PROPN', 'NOUN']",[],1,0,2
 US97607A,1869-12-07,Taul -cousin,"['PROPN', 'PROPN']",[],1,0,2
 US97702A,1869-12-07,robinson,['PROPN'],[],1,0,1
 US97711A,1869-12-07,shubekt ind,"['PROPN', 'PROPN']",[],1,0,2
-US97732A,1869-12-07,Samuel,"['PROPN', 'SPACE']",[],1,0,2
+US97732A,1869-12-07,Samuel,['PROPN'],[],1,0,2
 US97761A,1869-12-14,Thomas j,"['PROPN', 'PROPN']",[],1,0,2
 US97766A,1869-12-14,Eoyal e,"['PROPN', 'NOUN']",[],1,0,2
 US97825A,1869-12-14,Coenelius st,"['PROPN', 'PROPN']",[],1,0,2
@@ -7752,7 +7752,7 @@ US97861A,1869-12-14,Horatio n,"['PROPN', 'ADV']",['ORG'],1,0,2
 US97868A,1869-12-14,Mes stout,"['PROPN', 'NOUN']",[],1,0,2
 US97889A,1869-12-14,Biah mablahb,"['PROPN', 'NOUN']",[],1,0,2
 US97915A,1869-12-14,Beamsville,['PROPN'],['GPE'],1,0,1
-US97951A,1869-12-14,Daniel,"['PROPN', 'SPACE']",[],1,0,2
+US97951A,1869-12-14,Daniel,['PROPN'],[],1,0,2
 US97969A,1869-12-14,Jacob schmedlapp,"['PROPN', 'VERB']",[],1,0,2
 US97970A,1869-12-14,sexton,['PROPN'],[],1,0,1
 US98010A,1869-12-21,Samuel,['PROPN'],[],1,0,1
@@ -7788,7 +7788,7 @@ US98655A,1870-01-04,Eoyal s,"['PROPN', 'X']",[],1,0,2
 US98661A,1870-01-11,Ikank l,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US98675A,1870-01-11,Isaac dripps,"['PROPN', 'VERB']",[],1,0,2
 US98678A,1870-01-11,Samuel f,"['PROPN', 'PROPN']",[],1,0,2
-US98702A,1870-01-11,Christian,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US98702A,1870-01-11,Christian,['PROPN'],['NORP'],1,0,2
 US98854A,1870-01-18,caul dittmab,"['PROPN', 'PROPN']",[],1,0,2
 US98870A,1870-01-18,Rxjbert hunter,"['PROPN', 'NOUN']",[],1,0,2
 US98879A,1870-01-18,Benjamin nott,"['PROPN', 'ADV']",[],1,0,2
@@ -7844,7 +7844,7 @@ US99801A,1870-02-15,Henderson willard,"['PROPN', 'NOUN']",['GPE'],1,0,2
 US99809A,1870-02-15,Simeon atha,"['PROPN', 'ADV']",[],1,0,2
 US99817A,1870-02-15,of chicago,"['ADP', 'PROPN']",['GPE'],1,0,2
 US99824A,1870-02-15,stbatton,['PROPN'],[],1,0,1
-US99850A,1870-02-15,coolman,"['PROPN', 'SPACE']",[],1,0,2
+US99850A,1870-02-15,coolman,['PROPN'],[],1,0,2
 US99854A,1870-02-15,crocker,['PROPN'],[],1,0,1
 US99855A,1870-02-15,culvek,['PROPN'],[],1,0,1
 US99875A,1870-02-15,Samuel gaedineb,"['PROPN', 'NOUN']",[],1,0,2

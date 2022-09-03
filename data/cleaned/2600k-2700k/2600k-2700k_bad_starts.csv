@@ -1,62 +1,62 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US2613204A,1952-10-07,of urea,"['ADP', 'PROPN', 'SPACE']",[],1,0,3,0,1
-US2614906A,1947-03-27,"In the method of making finely divided silica, the production of a combustible mixture comprising chloro silicon hydrides","['ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'ADV', 'VERB', 'PROPN', 'PUNCT', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'VERB', 'PROPN', 'PROPN', 'VERB', 'SPACE']",[],1,0,20,0,1
-US2646025A,1951-02-07,By-pass valve for hydraulic motors,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'NOUN', 'SPACE']",[],1,0,8,0,1
-US2674316A,1948-09-18,By-pass packer,"['ADP', 'PUNCT', 'PROPN', 'NOUN', 'SPACE']",[],1,0,5,0,1
-US2600577A,1945-12-15,Up-ender,"['ADP', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2602234A,1945-10-27,Inside micrometer,"['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US2613204A,1952-10-07,of urea,"['ADP', 'PROPN']",[],1,0,3,0,1
+US2614906A,1947-03-27,"In the method of making finely divided silica, the production of a combustible mixture comprising chloro silicon hydrides","['ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'ADV', 'VERB', 'PROPN', 'PUNCT', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'VERB', 'PROPN', 'PROPN', 'VERB']",[],1,0,20,0,1
+US2646025A,1951-02-07,By-pass valve for hydraulic motors,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'NOUN']",[],1,0,8,0,1
+US2674316A,1948-09-18,By-pass packer,"['ADP', 'PUNCT', 'PROPN', 'NOUN']",[],1,0,5,0,1
+US2600577A,1945-12-15,Up-ender,"['ADP', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US2602234A,1945-10-27,Inside micrometer,"['ADP', 'NOUN']",[],0,0,3,0,1
 US2603225A,1952-07-15,And kinking of hair during perma-,"['CCONJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
 US2604456A,1952-07-22,For sulfonating,"['ADP', 'VERB']",[],0,0,2,0,1
-US2606003A,1948-08-28,Off-shore drilling,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2606370A,1947-08-11,Inside micrometer,"['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2607621A,1949-12-08,Off-spot locator and spare pickup for bowling machines,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,11,0,1
-US2610658A,1950-09-13,Under door frame saw,"['ADP', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,5,0,1
-US2612843A,1946-03-16,In-line centrifugal pump with fabricated volutes,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US2606003A,1948-08-28,Off-shore drilling,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US2606370A,1947-08-11,Inside micrometer,"['ADP', 'NOUN']",[],0,0,3,0,1
+US2607621A,1949-12-08,Off-spot locator and spare pickup for bowling machines,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,11,0,1
+US2610658A,1950-09-13,Under door frame saw,"['ADP', 'NOUN', 'NOUN', 'VERB']",[],0,0,5,0,1
+US2612843A,1946-03-16,In-line centrifugal pump with fabricated volutes,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,9,0,1
 US2614086A,1952-10-14,Bye bath- composition,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US2616502A,1948-03-15,By-pass connection for hydraulic well pumps,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADV', 'VERB', 'SPACE']",[],0,0,9,0,1
-US2619388A,1949-07-19,Off-center flat spray nozzle,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US2619976A,1946-10-12,Ampoule washing machine,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2622679A,1948-10-08,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2623236A,1947-02-28,Over-center hinge,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2625629A,1950-08-28,Over and under actuator for electric switches,"['ADP', 'CCONJ', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,8,0,1
-US2629381A,1951-08-02,Tampon,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2632458A,1946-04-12,By-pass valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2633592A,1945-05-04,Inside bottle brush,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2634474A,1951-06-21,Off-center lock,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2637193A,1951-08-07,Through-feed machine for treating sheet materials,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2638913A,1948-02-20,In-line steam trap,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2640537A,1950-11-27,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2644668A,1951-01-20,Under reaming device,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2646885A,1949-06-30,By-pass filter element,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2647728A,1947-11-03,Inside blowout preventer,"['ADP', 'NOUN', 'VERB', 'SPACE']",[],0,0,4,0,1
-US2650827A,1952-01-21,Pylon,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2650925A,1948-05-03,"N, n'-piperazine dicarbamate of 2, 4-di-hydroxyphenylthiol","['CCONJ', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NUM', 'PUNCT', 'NUM', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']","['ORG', 'ORG', 'CARDINAL', 'CARDINAL']",0,0,13,0,1
-US2651543A,1950-07-26,Inside reflection visor for automobiles,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2653139A,1950-05-20,In-place expanded cellular resinous bodies and processes for producing them from phenol-aldehyde resins with the aid of a peroxide,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'ADJ', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'PRON', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'SPACE']",[],0,0,24,0,1
-US2653289A,1951-07-11,Thyratron reversing motor control system,"['ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2656982A,1951-05-26,By-pass thermostatic valve,"['ADP', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2659434A,1947-10-30,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2660657A,1952-05-23,Off-peak electric water heating system,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
-US2660933A,1950-11-01,Inside ring engraving attachment,"['ADP', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2661171A,1951-10-11,Up and down lock mechanism for retractable landing gear for aircraft,"['ADP', 'CCONJ', 'ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,12,0,1
-US2661750A,1951-05-26,Under-counter dishwasher,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2665564A,1951-08-31,Under counter refrigerator,"['ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2665873A,1952-01-07,In-line valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US2616502A,1948-03-15,By-pass connection for hydraulic well pumps,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADV', 'VERB']",[],0,0,9,0,1
+US2619388A,1949-07-19,Off-center flat spray nozzle,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",[],0,0,7,0,1
+US2619976A,1946-10-12,Ampoule washing machine,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2622679A,1948-10-08,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2623236A,1947-02-28,Over-center hinge,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US2625629A,1950-08-28,Over and under actuator for electric switches,"['ADP', 'CCONJ', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,8,0,1
+US2629381A,1951-08-02,Tampon,['ADP'],[],0,0,2,0,1
+US2632458A,1946-04-12,By-pass valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US2633592A,1945-05-04,Inside bottle brush,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2634474A,1951-06-21,Off-center lock,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US2637193A,1951-08-07,Through-feed machine for treating sheet materials,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,9,0,1
+US2638913A,1948-02-20,In-line steam trap,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
+US2640537A,1950-11-27,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2644668A,1951-01-20,Under reaming device,"['ADP', 'VERB', 'NOUN']",[],0,0,4,0,1
+US2646885A,1949-06-30,By-pass filter element,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
+US2647728A,1947-11-03,Inside blowout preventer,"['ADP', 'NOUN', 'VERB']",[],0,0,4,0,1
+US2650827A,1952-01-21,Pylon,['ADP'],[],0,0,2,0,1
+US2650925A,1948-05-03,"N, n'-piperazine dicarbamate of 2, 4-di-hydroxyphenylthiol","['CCONJ', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NUM', 'PUNCT', 'NUM', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN']","['ORG', 'ORG', 'CARDINAL', 'CARDINAL']",0,0,13,0,1
+US2651543A,1950-07-26,Inside reflection visor for automobiles,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
+US2653139A,1950-05-20,In-place expanded cellular resinous bodies and processes for producing them from phenol-aldehyde resins with the aid of a peroxide,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'ADJ', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'PRON', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN']",[],0,0,24,0,1
+US2653289A,1951-07-11,Thyratron reversing motor control system,"['ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
+US2656982A,1951-05-26,By-pass thermostatic valve,"['ADP', 'PUNCT', 'VERB', 'ADJ', 'NOUN']",[],0,0,6,0,1
+US2659434A,1947-10-30,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US2660657A,1952-05-23,Off-peak electric water heating system,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
+US2660933A,1950-11-01,Inside ring engraving attachment,"['ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,5,0,1
+US2661171A,1951-10-11,Up and down lock mechanism for retractable landing gear for aircraft,"['ADP', 'CCONJ', 'ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,12,0,1
+US2661750A,1951-05-26,Under-counter dishwasher,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US2665564A,1951-08-31,Under counter refrigerator,"['ADP', 'ADJ', 'NOUN']",[],0,0,4,0,1
+US2665873A,1952-01-07,In-line valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
 US2667517A,1954-01-26,Method- of preparing unsaturated,"['ADP', 'ADP', 'VERB', 'ADJ']",[],0,0,4,0,1
-US2667776A,1950-10-31,Under liquid seal for rotatable shafts,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US2667873A,1950-08-24,Ampoule,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2672586A,1950-12-02,On-load tap changer for transformers,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,8,0,1
-US2672613A,1953-04-08,Off-shoulder brassiere,"['ADP', 'PUNCT', 'NOUN', 'ADV', 'SPACE']",[],0,0,5,0,1
-US2676612A,1952-05-13,In-line hydraulic pressure relief valve with reversible flow,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,11,0,1
-US2682094A,1952-01-23,Weft straightening apparatus,"['ADP', 'VERB', 'NOUN', 'SPACE']",['ORG'],0,0,4,0,1
-US2686479A,1951-07-12,Down pressure latch tripping car,"['ADP', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2686975A,1950-09-22,Inside and outside calipering apparatus,"['ADP', 'CCONJ', 'ADJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2687730A,1951-12-04,Ampoule,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2690954A,1952-03-01,After-treatment of acid-dyed cellulose acetate with salicylic acid,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,13,0,1
-US2691520A,1949-09-17,Shackle,"['ADP', 'SPACE']",[],0,0,2,0,1
-US2695293A,1952-12-19,"N, n'-substituted diamine compounds and method of making the same","['CCONJ', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'SPACE']",[],0,0,12,0,1
-US2695294A,1952-12-19,"N, n'-substituted diamine compounds and method of making the same","['CCONJ', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'SPACE']",[],0,0,12,0,1
-US2695349A,1951-07-31,Over-pressure valve for liquid circuit interrupter,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2697004A,1951-05-01,Inside visor,"['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2699188A,1953-09-23,Off bearing frame for power saw units,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,8,0,1
-US2699785A,1953-02-26,Pacifier,"['ADP', 'SPACE']",[],0,0,2,0,1
+US2667776A,1950-10-31,Under liquid seal for rotatable shafts,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,0,1
+US2667873A,1950-08-24,Ampoule,['ADP'],[],0,0,2,0,1
+US2672586A,1950-12-02,On-load tap changer for transformers,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,0,1
+US2672613A,1953-04-08,Off-shoulder brassiere,"['ADP', 'PUNCT', 'NOUN', 'ADV']",[],0,0,5,0,1
+US2676612A,1952-05-13,In-line hydraulic pressure relief valve with reversible flow,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,11,0,1
+US2682094A,1952-01-23,Weft straightening apparatus,"['ADP', 'VERB', 'NOUN']",['ORG'],0,0,4,0,1
+US2686479A,1951-07-12,Down pressure latch tripping car,"['ADP', 'NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,0,1
+US2686975A,1950-09-22,Inside and outside calipering apparatus,"['ADP', 'CCONJ', 'ADJ', 'VERB', 'NOUN']",[],0,0,6,0,1
+US2687730A,1951-12-04,Ampoule,['ADP'],[],0,0,2,0,1
+US2690954A,1952-03-01,After-treatment of acid-dyed cellulose acetate with salicylic acid,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,13,0,1
+US2691520A,1949-09-17,Shackle,['ADP'],[],0,0,2,0,1
+US2695293A,1952-12-19,"N, n'-substituted diamine compounds and method of making the same","['CCONJ', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ']",[],0,0,12,0,1
+US2695294A,1952-12-19,"N, n'-substituted diamine compounds and method of making the same","['CCONJ', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ']",[],0,0,12,0,1
+US2695349A,1951-07-31,Over-pressure valve for liquid circuit interrupter,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
+US2697004A,1951-05-01,Inside visor,"['ADP', 'NOUN']",[],0,0,3,0,1
+US2699188A,1953-09-23,Off bearing frame for power saw units,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,8,0,1
+US2699785A,1953-02-26,Pacifier,['ADP'],[],0,0,2,0,1

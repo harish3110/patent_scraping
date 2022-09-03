@@ -1,8 +1,8 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts,misspelt_words,misspelt
-US704930A,1901-07-24,Means for impressing periodically varying electric currents upon telegraph or other circuits,"['PROPN', 'ADP', 'VERB', 'ADV', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'SCONJ', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'SPACE']",[],1,0,14,0,0,set(),0
-US713326A,1899-10-25,Maintaining synchronous rotation of dynamo electric machines,"['VERB', 'ADJ', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'ADJ', 'NOUN', 'SPACE']",[],1,0,9,0,0,set(),0
-US719786A,1902-04-10,Cooking utensil,"['VERB', 'PROPN', 'SPACE']",[],1,0,3,0,0,set(),0
-US732420A,1901-04-13,Breakdown gun,"['PROPN', 'NOUN', 'SPACE']",[],1,0,3,0,0,set(),0
+US704930A,1901-07-24,Means for impressing periodically varying electric currents upon telegraph or other circuits,"['PROPN', 'ADP', 'VERB', 'ADV', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'SCONJ', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,14,0,0,set(),0
+US713326A,1899-10-25,Maintaining synchronous rotation of dynamo electric machines,"['VERB', 'ADJ', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'ADJ', 'NOUN']",[],1,0,9,0,0,set(),0
+US719786A,1902-04-10,Cooking utensil,"['VERB', 'PROPN']",[],1,0,3,0,0,set(),0
+US732420A,1901-04-13,Breakdown gun,"['PROPN', 'NOUN']",[],1,0,3,0,0,set(),0
 US748595A,1904-01-05,Method of waterproofing and finishing the surface of stone,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN']",[],1,0,9,0,0,set(),0
 US748609A,1904-01-05,Thirds to ma as,"['NOUN', 'ADP', 'PROPN', 'ADP']",[],1,0,4,0,0,set(),0
 US748653A,1904-01-05,Friedrich adolf richter,"['PROPN', 'NOUN', 'NOUN']",[],1,0,3,0,0,set(),0
@@ -208,8 +208,8 @@ US753496A,1904-03-01,Gar door,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,0,0,set(),0
 US753499A,1904-03-01,Means for lowering loads,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,0,0,set(),0
 US753502A,1904-03-01,Railway gross tie,"['PROPN', 'ADJ', 'PUNCT', 'NOUN']",[],1,0,4,0,0,set(),0
 US753610A,1904-03-01,Method of cleaning and coating pipes,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'NOUN', 'NOUN']",[],1,0,6,0,0,set(),0
-US762064A,1903-08-31,Process of making hollow rubber bulbs or other articles having necks or projections .,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,15,0,0,set(),0
-US769673A,1904-01-16,Hay stacker and loader,"['NOUN', 'NOUN', 'CCONJ', 'PROPN', 'SPACE']",[],1,0,5,0,0,set(),0
+US762064A,1903-08-31,Process of making hollow rubber bulbs or other articles having necks or projections .,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],1,0,15,0,0,set(),0
+US769673A,1904-01-16,Hay stacker and loader,"['NOUN', 'NOUN', 'CCONJ', 'PROPN']",[],1,0,5,0,0,set(),0
 US770361A,1904-09-20,Railway cattle guard,"['PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,4,0,0,set(),0
 US770393A,1904-09-20,Furnace for boilers,"['PROPN', 'ADP', 'NOUN']",['ORG'],1,0,3,0,0,set(),0
 US770397A,1904-09-20,Charles small wood,"['PROPN', 'ADJ', 'NOUN']",[],1,0,3,0,0,set(),0
@@ -224,36 +224,36 @@ US770586A,1904-09-20,Apparatus for making tiles,"['PROPN', 'ADP', 'VERB', 'NOUN'
 US770652A,1904-09-20,Apparatus for loading or unloading cars,"['PROPN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],1,0,6,0,0,set(),0
 US770700A,1904-09-20,Process of making sugar from beets,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],1,0,6,0,0,set(),0
 US775691A,1904-11-22,Apparatus for removing the honey or section boxes from hive section cases or supers,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,15,0,0,set(),0
-US791322A,1904-10-11,Surgeon's needle holder,"['PROPN', 'PART', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",['ORG'],1,0,6,0,0,set(),0
-US794855A,1904-09-30,Saw sharpener,"['NOUN', 'PUNCT', 'PROPN', 'SPACE']",[],1,0,4,0,0,set(),0
-US702005A,1901-01-29,Draft regulator for locomotives,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,0,set(),0
-US702326A,1900-10-11,Valve,"['VERB', 'SPACE']",[],0,0,2,0,0,set(),0
-US704209A,1902-03-08,Vehicle body,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
+US791322A,1904-10-11,Surgeon's needle holder,"['PROPN', 'PART', 'NOUN', 'PUNCT', 'NOUN']",['ORG'],1,0,6,0,0,set(),0
+US794855A,1904-09-30,Saw sharpener,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,4,0,0,set(),0
+US702005A,1901-01-29,Draft regulator for locomotives,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,0,set(),0
+US702326A,1900-10-11,Valve,['VERB'],[],0,0,2,0,0,set(),0
+US704209A,1902-03-08,Vehicle body,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
 US704285A,1902-07-08,Compound for use in reducing metal sheets in packs,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,0,0,set(),0
-US704949A,1902-02-21,Grain door,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
-US707000A,1902-02-10,Spring gun,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
-US707443A,1901-12-14,Dish washing apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US704949A,1902-02-21,Grain door,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
+US707000A,1902-02-10,Spring gun,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
+US707443A,1901-12-14,Dish washing apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,0,set(),0
 US707473A,1902-08-19,Fluid pressure brake,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
-US708213A,1900-08-29,Type writing machine,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US710931A,1902-01-04,Cotton press,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
-US713050A,1902-04-25,Automatic fire alarm,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US708213A,1900-08-29,Type writing machine,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
+US710931A,1902-01-04,Cotton press,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
+US713050A,1902-04-25,Automatic fire alarm,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,0,set(),0
 US713894A,1902-11-18,Metal bending machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
 US714065A,1902-11-18,Flexible joint pipe coupling,"['ADJ', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,0,set(),0
 US715987A,1902-12-16,Tire fastening,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US719213A,1903-01-27,Shaft hanger,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,0,0,set(),0
 US719214A,1903-01-27,Shaft hanger,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,0,0,set(),0
 US719287A,1903-01-27,Sled attachment,"['VERB', 'NOUN']",[],0,0,2,0,0,set(),0
-US721132A,1903-02-17,Commercial directory,"['ADJ', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
+US721132A,1903-02-17,Commercial directory,"['ADJ', 'NOUN']",[],0,0,3,0,0,set(),0
 US723327A,1903-03-24,Storage battery,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
-US723503A,1899-02-06,Internally fired engine,"['ADV', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US726235A,1900-03-29,Inking mechanism for type writing machines,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,0,set(),0
-US726499A,1900-04-03,Steel car construction,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US735392A,1903-05-15,Gun carriage having a swinging barrel carrier,"['NOUN', 'PUNCT', 'NOUN', 'VERB', 'DET', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,10,0,0,set(),0
-US741750A,1902-12-31,Machine for shaking out and opening textile fabrics,"['NOUN', 'ADP', 'VERB', 'ADP', 'CCONJ', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,0,set(),0
-US744010A,1900-05-22,Machine for making glassware .,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,0,set(),0
+US723503A,1899-02-06,Internally fired engine,"['ADV', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,0,set(),0
+US726235A,1900-03-29,Inking mechanism for type writing machines,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,0,0,set(),0
+US726499A,1900-04-03,Steel car construction,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
+US735392A,1903-05-15,Gun carriage having a swinging barrel carrier,"['NOUN', 'PUNCT', 'NOUN', 'VERB', 'DET', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,0,0,set(),0
+US741750A,1902-12-31,Machine for shaking out and opening textile fabrics,"['NOUN', 'ADP', 'VERB', 'ADP', 'CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,9,0,0,set(),0
+US744010A,1900-05-22,Machine for making glassware .,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT']",[],0,0,6,0,0,set(),0
 US745232A,1903-11-24,Hoof protector,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US746140A,1903-04-18,Automatic current controlling device,"['ADJ', 'ADJ', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,0,0,set(),0
-US748309A,1902-07-02,Electric heating pad,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US746140A,1903-04-18,Automatic current controlling device,"['ADJ', 'ADJ', 'PUNCT', 'VERB', 'NOUN']",[],0,0,6,0,0,set(),0
+US748309A,1902-07-02,Electric heating pad,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,0,set(),0
 US748568A,1904-01-05,Pneumatic tool,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
 US748569A,1904-01-05,Friction clutch,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US748571A,1904-01-05,Electric soldering iron,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
@@ -507,8 +507,8 @@ US749029A,1904-01-05,Pipe bending machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[]
 US749032A,1904-01-05,No model,"['DET', 'NOUN']",[],0,0,2,0,0,set(),0
 US749034A,1904-01-05,Ruling device,"['VERB', 'NOUN']",[],0,0,2,0,0,set(),0
 US749035A,1904-01-05,Stock marker,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US749036A,1904-01-05,dexter,"['NOUN', 'SPACE']",[],0,0,2,0,0,set(),0
-US749037A,1904-01-05,dexter,"['NOUN', 'SPACE']",[],0,0,2,0,0,set(),0
+US749036A,1904-01-05,dexter,['NOUN'],[],0,0,2,0,0,set(),0
+US749037A,1904-01-05,dexter,['NOUN'],[],0,0,2,0,0,set(),0
 US749038A,1904-01-05,Pan conveyer,"['ADJ', 'NOUN']",['ORG'],0,0,2,0,0,set(),0
 US749040A,1904-01-05,Mechanism for separating liquid air into its constituents oxygen and nitrogen,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP', 'PRON', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,11,0,0,set(),0
 US749041A,1904-01-05,Window lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
@@ -538,7 +538,7 @@ US749085A,1904-01-05,Electrical cut out,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,
 US749086A,1904-01-05,Heating apparatus,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
 US749088A,1904-01-05,Shade bracket,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US749093A,1904-01-05,Device for delivering train orders,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,0,set(),0
-US749094A,1904-01-05,quick,"['ADJ', 'SPACE']",[],0,0,2,0,0,set(),0
+US749094A,1904-01-05,quick,['ADJ'],[],0,0,2,0,0,set(),0
 US749097A,1904-01-05,Car seat,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US749098A,1904-01-05,Ink well,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US749099A,1904-01-05,Watch bow fastener,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
@@ -608,7 +608,7 @@ US749221A,1904-01-12,Combination letter clip and blotter,"['NOUN', 'NOUN', 'PUNC
 US749225A,1904-01-12,Telephone system,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
 US749230A,1904-01-12,Pocket knife,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US749234A,1904-01-12,Clothes pin,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US749235A,1903-03-09,Clothes line fastener,"['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
+US749235A,1903-03-09,Clothes line fastener,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
 US749236A,1904-01-12,Pump rod counterbalance,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
 US749238A,1904-01-12,Cooler for liquids,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,0,0,set(),0
 US749240A,1904-01-12,Stone dressing machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
@@ -762,7 +762,7 @@ US749541A,1904-01-12,Combined corn planter and marker,"['ADJ', 'NOUN', 'NOUN', '
 US749546A,1904-01-12,Inking mechanism for printing presses,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,0,set(),0
 US749548A,1904-01-12,Can opener,"['AUX', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US749549A,1904-01-12,Steam condenser,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US749551A,1904-01-12,goehring,"['VERB', 'SPACE']",[],0,0,2,0,0,set(),0
+US749551A,1904-01-12,goehring,['VERB'],[],0,0,2,0,0,set(),0
 US749554A,1904-01-12,Fence post and electrical conductor,"['NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,0,0,set(),0
 US749556A,1904-01-12,Mold for manufacturing wheelbarrow wheels,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,0,set(),0
 US749557A,1904-01-12,Top prop,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
@@ -854,7 +854,7 @@ US749729A,1904-01-19,Hinge pin,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US749730A,1904-01-19,Wire working machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
 US749733A,1904-01-19,Hame tug,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US749734A,1904-01-19,Means for preventing smoke,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
-US749735A,1902-07-28,Temporary supporting form for masonry structures,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,0,set(),0
+US749735A,1902-07-28,Temporary supporting form for masonry structures,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,0,0,set(),0
 US749737A,1904-01-19,Pneumatic stacker,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
 US749740A,1904-01-19,Hot water furnace,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
 US749741A,1904-01-19,Packing case for bottles,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,0,set(),0
@@ -1343,7 +1343,7 @@ US750713A,1904-01-26,Railroad torpedo placer,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']"
 US750714A,1904-01-26,Fur beater,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US750715A,1904-01-26,Working barrel for wells,"['VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,0,set(),0
 US750717A,1904-01-26,Rotary pleasure tower,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US750718A,1904-01-26,spear,"['NOUN', 'SPACE']",[],0,0,2,0,0,set(),0
+US750718A,1904-01-26,spear,['NOUN'],[],0,0,2,0,0,set(),0
 US750719A,1904-01-26,Car fender,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US750720A,1904-01-26,Incandescent lamp,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
 US750721A,1904-01-26,Bo model,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
@@ -1537,7 +1537,7 @@ US751069A,1904-02-02,Guide for sewing machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT',
 US751070A,1904-02-02,Game apparatus,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
 US751072A,1904-02-02,Pneumatic hammer,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
 US751073A,1904-02-02,Traveling thresher,"['VERB', 'NOUN']",[],0,0,2,0,0,set(),0
-US751074A,1904-02-02,higgins,"['NOUN', 'SPACE']",[],0,0,2,0,0,set(),0
+US751074A,1904-02-02,higgins,['NOUN'],[],0,0,2,0,0,set(),0
 US751078A,1904-02-02,Well derrick,"['ADV', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US751081A,1904-02-02,Coin controlled telephone apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
 US751084A,1904-02-02,Electric switch,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
@@ -1583,7 +1583,7 @@ US751166A,1904-02-02,Machine for making metallic wheel rims,"['NOUN', 'ADP', 'VE
 US751167A,1904-02-02,Surgical chair,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
 US751168A,1904-02-02,Ice cream packing cabinet,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,6,0,0,set(),0
 US751169A,1904-02-02,Reel oven,"['NOUN', 'PUNCT', 'ADJ']",[],0,0,3,0,0,set(),0
-US751170A,1904-02-02,hopkins,"['NOUN', 'SPACE']",[],0,0,2,0,0,set(),0
+US751170A,1904-02-02,hopkins,['NOUN'],[],0,0,2,0,0,set(),0
 US751171A,1904-02-02,Wrapper for cooking articles of irregular outline,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,0,0,set(),0
 US751174A,1904-02-02,Electric switch,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
 US751176A,1904-02-02,Marker lifter for corn planters,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,0,set(),0
@@ -1847,7 +1847,7 @@ US751708A,1904-02-09,Flue scraper,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set()
 US751709A,1904-02-09,Coffee pot,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US751710A,1904-02-09,Temporary binder,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
 US751711A,1904-02-09,Building block,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US751713A,1904-02-09,berry,"['VERB', 'SPACE']",[],0,0,2,0,0,set(),0
+US751713A,1904-02-09,berry,['VERB'],[],0,0,2,0,0,set(),0
 US751714A,1904-02-09,Machine for closing the ends of paper boxes,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,0,0,set(),0
 US751716A,1904-02-09,Jar closure,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US751719A,1904-02-09,Shingle sawing machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",['ORG'],0,0,4,0,0,set(),0
@@ -2124,7 +2124,7 @@ US752259A,1904-02-16,Telegraph pole,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set
 US752261A,1904-02-16,Pompadour comb,"['NUM', 'NOUN']",[],0,0,2,0,0,set(),0
 US752263A,1904-02-16,Nut look,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US752265A,1904-02-16,Latch for mine car doors,"['VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,0,0,set(),0
-US752266A,1904-02-16,The morris meters,"['DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
+US752266A,1904-02-16,The morris meters,"['DET', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
 US752267A,1904-02-16,Relief mechanism for gearing of machinery,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,0,set(),0
 US752268A,1904-02-16,Shoe fastening device,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
 US752270A,1904-02-16,Feed water heater,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
@@ -2795,9 +2795,9 @@ US753608A,1904-03-01,Weed destroying attachment for locomotives,"['NOUN', 'PUNCT
 US753609A,1904-03-01,Knife or fork cleaner,"['NOUN', 'CCONJ', 'NOUN', 'ADJ']",[],0,0,4,0,0,set(),0
 US753611A,1904-03-01,Spring clip,"['NOUN', 'PUNCT', 'NOUN']",['DATE'],0,0,3,0,0,set(),0
 US753612A,1904-03-01,Combined button and button fastening,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,0,set(),0
-US756070A,1902-12-17,Note sheet feed mechanism for musical instrument players,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,11,0,0,set(),0
+US756070A,1902-12-17,Note sheet feed mechanism for musical instrument players,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,11,0,0,set(),0
 US756817A,1904-04-12,Railway construction,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
-US757463A,1903-06-03,Thread cutting device for sewing machines,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,9,0,0,set(),0
+US757463A,1903-06-03,Thread cutting device for sewing machines,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,0,0,set(),0
 US758437A,1904-04-26,Automatic supply regulator,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
 US760532A,1904-05-24,Wrench for meat choppers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,0,set(),0
 US762445A,1904-06-14,Stump pulling machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
@@ -2805,7 +2805,7 @@ US764955A,1904-07-12,Vertically pivoted window,"['ADV', 'PUNCT', 'VERB', 'NOUN']
 US765071A,1904-07-12,Acetylene gas generator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
 US766840A,1904-08-09,Sewing machine tucker,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
 US767143A,1904-08-09,Candy pulling machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
-US769000A,1902-09-22,Feed water heater and purifier,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
+US769000A,1902-09-22,Feed water heater and purifier,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,7,0,0,set(),0
 US770330A,1904-09-20,Weather strip,"['NOUN', 'PUNCT', 'NOUN']",['GPE'],0,0,3,0,0,set(),0
 US770333A,1904-09-20,Clothes stick,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US770335A,1904-09-20,Dumping wagon,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
@@ -3017,13 +3017,13 @@ US779097A,1905-01-03,Friction clutch,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,se
 US779098A,1905-01-03,Electric plug,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
 US781620A,1905-01-31,Die press,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US781621A,1905-01-31,Trunk lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US783521A,1903-12-08,Beer cooling apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US784487A,1903-01-28,Tangent scale telescope for guns,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
+US783521A,1903-12-08,Beer cooling apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,0,set(),0
+US784487A,1903-01-28,Tangent scale telescope for guns,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,0,set(),0
 US784649A,1905-03-14,Advertising apparatus,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
 US791288A,1905-05-30,Metal working machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
-US792972A,1904-03-14,Sighting and working of quick firing ordnance,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,0,0,set(),0
+US792972A,1904-03-14,Sighting and working of quick firing ordnance,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'VERB', 'NOUN']",[],0,0,9,0,0,set(),0
 US793566A,1905-06-27,Bottle closure,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US795557A,1905-07-25,Baling press,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,0,0,set(),0
-US796019A,1902-12-01,Process of treating peat for the production of fuel and the recovery of the by products,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'ADP', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,18,0,0,set(),0
+US796019A,1902-12-01,Process of treating peat for the production of fuel and the recovery of the by products,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'ADP', 'PUNCT', 'NOUN']",[],0,0,18,0,0,set(),0
 US796550A,1905-08-08,Lightning protector for buildings,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,0,set(),0
-US798347A,1905-01-03,Oil flowing device,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US798347A,1905-01-03,Oil flowing device,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,0,set(),0

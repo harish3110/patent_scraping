@@ -1,15 +1,15 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US1074645A,1912-12-06,Inside brace for silos and tanks.,"['ADP', 'NOUN', 'ADP', 'PROPN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],1,0,8,0,1
-US1015847A,1910-09-14,"Inside closure for air, steam, or water tight vessels.","['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'NOUN', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,13,0,1
+US1074645A,1912-12-06,Inside brace for silos and tanks.,"['ADP', 'NOUN', 'ADP', 'PROPN', 'CCONJ', 'NOUN', 'PUNCT']",[],1,0,8,0,1
+US1015847A,1910-09-14,"Inside closure for air, steam, or water tight vessels.","['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'NOUN', 'ADJ', 'NOUN', 'PUNCT']",[],0,0,13,0,1
 US1020247A,1912-03-12,For issue date,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
 US1031754A,1912-07-09,w westaway,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1032084A,1909-12-11,Inside vessel for fish-kettles and for other cooking utensils.,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,13,0,1
-US1039523A,1910-10-17,By-pass and relief valve device for steam-engines.,"['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,13,0,1
-US1065707A,1913-06-24,Under-water exhaust for explosive and other engines.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'CCONJ', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,11,0,1
-US1066211A,1913-04-11,By-pass valve for locomotive-engines.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,10,0,1
-US1067416A,1912-11-19,Under-drilling bit.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1069945A,1912-04-03,Under-water exhaust and muffler.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US1073920A,1912-10-28,Under-water exhaust.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1076260A,1913-05-24,Inside coat-pocket.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1089570A,1913-08-21,By-pass valve for locomotive-engines.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,10,0,1
-US1093226A,1914-01-30,Inside pad for trunks.,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US1032084A,1909-12-11,Inside vessel for fish-kettles and for other cooking utensils.,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,13,0,1
+US1039523A,1910-10-17,By-pass and relief valve device for steam-engines.,"['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,13,0,1
+US1065707A,1913-06-24,Under-water exhaust for explosive and other engines.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'CCONJ', 'ADJ', 'NOUN', 'PUNCT']",[],0,0,11,0,1
+US1066211A,1913-04-11,By-pass valve for locomotive-engines.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,10,0,1
+US1067416A,1912-11-19,Under-drilling bit.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,0,1
+US1069945A,1912-04-03,Under-water exhaust and muffler.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],0,0,8,0,1
+US1073920A,1912-10-28,Under-water exhaust.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,0,1
+US1076260A,1913-05-24,Inside coat-pocket.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,6,0,1
+US1089570A,1913-08-21,By-pass valve for locomotive-engines.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,10,0,1
+US1093226A,1914-01-30,Inside pad for trunks.,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,6,0,1

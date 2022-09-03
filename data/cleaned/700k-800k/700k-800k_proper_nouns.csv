@@ -1,9 +1,9 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len
 US712312A,1902-10-28,Corset,['PROPN'],[],1,0,1
-US716297A,1901-09-11,Superheater,"['PROPN', 'SPACE']",[],1,0,2
+US716297A,1901-09-11,Superheater,['PROPN'],[],1,0,2
 US739921A,1903-09-29,Harry pauling,"['PROPN', 'VERB']",[],1,0,2
 US744096A,1903-11-17,Ho model,"['PROPN', 'NOUN']",[],1,0,2
-US746758A,1903-01-15,Cabinet,"['PROPN', 'SPACE']",[],1,0,2
+US746758A,1903-01-15,Cabinet,['PROPN'],[],1,0,2
 US748567A,1904-01-05,adamson,['PROPN'],[],1,0,1
 US748581A,1904-01-05,Charles e,"['PROPN', 'NOUN']",[],1,0,2
 US748604A,1904-01-05,of paris,"['ADP', 'PROPN']",['GPE'],1,0,2
@@ -40,7 +40,7 @@ US748930A,1904-01-05,Sylvania,['PROPN'],['ORG'],1,0,1
 US748943A,1904-01-05,Julius gresly,"['PROPN', 'ADV']",[],1,0,2
 US748961A,1904-01-05,George a,"['PROPN', 'PRON']",[],1,0,2
 US748978A,1904-01-05,Ho model,"['PROPN', 'NOUN']",[],1,0,2
-US748982A,1904-01-05,paton,"['PROPN', 'SPACE']",[],1,0,2
+US748982A,1904-01-05,paton,['PROPN'],[],1,0,2
 US748983A,1904-01-05,Brenz,['PROPN'],[],1,0,1
 US748985A,1904-01-05,Zsheetsxsheet i,"['PROPN', 'PRON']",[],1,0,2
 US748996A,1904-01-05,Pamtted jm,"['PROPN', 'PROPN']",[],1,0,2
@@ -72,7 +72,7 @@ US749217A,1904-01-12,Ho model,"['PROPN', 'NOUN']",[],1,0,2
 US749228A,1904-01-12,Ho model,"['PROPN', 'NOUN']",[],1,0,2
 US749233A,1904-01-12,Ho model,"['PROPN', 'NOUN']",[],1,0,2
 US749252A,1904-01-12,Synchronizer,['PROPN'],[],1,0,1
-US749255A,1904-01-12,bleynie,"['PROPN', 'SPACE']",[],1,0,2
+US749255A,1904-01-12,bleynie,['PROPN'],[],1,0,2
 US749258A,1904-01-12,Adam cochean,"['PROPN', 'VERB']",[],1,0,2
 US749264A,1904-01-12,Bookcase,['PROPN'],[],1,0,1
 US749265A,1904-01-12,Ho model,"['PROPN', 'NOUN']",[],1,0,2
@@ -155,7 +155,7 @@ US749840A,1904-01-19,Samuel butler,"['PROPN', 'NOUN']",[],1,0,2
 US749842A,1904-01-19,Ho model,"['PROPN', 'NOUN']",[],1,0,2
 US749844A,1904-01-19,Henry e,"['PROPN', 'NOUN']",[],1,0,2
 US749863A,1904-01-19,Harry a,"['PROPN', 'PRON']",[],1,0,2
-US749877A,1904-01-19,neubeb,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US749877A,1904-01-19,neubeb,['PROPN'],['GPE'],1,0,2
 US749879A,1904-01-19,Buckle,['PROPN'],[],1,0,1
 US749884A,1904-01-19,Cabinet,['PROPN'],[],1,0,1
 US749890A,1904-01-19,Aenold wolfensbeegee,"['PROPN', 'NOUN']",[],1,0,2
@@ -176,15 +176,15 @@ US749985A,1904-01-19,Ho model,"['PROPN', 'NOUN']",[],1,0,2
 US749987A,1904-01-19,Theodor franks,"['PROPN', 'VERB']",['ORG'],1,0,2
 US749995A,1904-01-19,Chusetts,['PROPN'],['NORP'],1,0,1
 US750009A,1904-01-19,Sylvania,['PROPN'],['ORG'],1,0,1
-US750011A,1904-01-19,willis,"['PROPN', 'SPACE']",[],1,0,2
+US750011A,1904-01-19,willis,['PROPN'],[],1,0,2
 US750018A,1904-01-19,Ho model,"['PROPN', 'NOUN']",[],1,0,2
-US750024A,1904-01-19,etnyre,"['PROPN', 'SPACE']",[],1,0,2
+US750024A,1904-01-19,etnyre,['PROPN'],[],1,0,2
 US750031A,1904-01-19,Philip b,"['PROPN', 'NOUN']",[],1,0,2
 US750045A,1904-01-19,Vania,['PROPN'],['GPE'],1,0,1
 US750052A,1904-01-19,Peters co,"['PROPN', 'VERB']",[],1,0,2
 US750053A,1904-01-19,Seth m,"['PROPN', 'VERB']",[],1,0,2
 US750056A,1904-01-19,Feank w,"['PROPN', 'PROPN']",['ORG'],1,0,2
-US750068A,1904-01-19,spinrad,"['PROPN', 'SPACE']",[],1,0,2
+US750068A,1904-01-19,spinrad,['PROPN'],[],1,0,2
 US750069A,1904-01-19,Ho model,"['PROPN', 'NOUN']",[],1,0,2
 US750071A,1904-01-19,Separator,['PROPN'],[],1,0,1
 US750078A,1904-01-19,Arbor,['PROPN'],[],1,0,1
@@ -229,7 +229,7 @@ US750430A,1904-01-26,Feancis c,"['PROPN', 'VERB']",[],1,0,2
 US750438A,1904-01-26,Ho model,"['PROPN', 'NOUN']",[],1,0,2
 US750443A,1904-01-26,Glove,['PROPN'],[],1,0,1
 US750445A,1904-01-26,Gael foegke,"['PROPN', 'VERB']",[],1,0,2
-US750471A,1904-01-26,lyndon,"['PROPN', 'SPACE']",[],1,0,2
+US750471A,1904-01-26,lyndon,['PROPN'],[],1,0,2
 US750477A,1904-01-26,Apparatus for,"['PROPN', 'ADP']",[],1,0,2
 US750478A,1904-01-26,Ho model,"['PROPN', 'NOUN']",[],1,0,2
 US750479A,1904-01-26,And pat,"['CCONJ', 'PROPN']",[],1,0,2
@@ -249,7 +249,7 @@ US750594A,1904-01-26,Magnet,['PROPN'],[],1,0,1
 US750612A,1904-01-26,Ling co,"['PROPN', 'VERB']",[],1,0,2
 US750619A,1904-01-26,Achille ditesheim,"['PROPN', 'NOUN']",['LOC'],1,0,2
 US750635A,1904-01-26,garrett,['PROPN'],[],1,0,1
-US750636A,1904-01-26,soculdas,"['PROPN', 'SPACE']",[],1,0,2
+US750636A,1904-01-26,soculdas,['PROPN'],[],1,0,2
 US750664A,1904-01-26,leon m,"['PROPN', 'VERB']",[],1,0,2
 US750673A,1904-01-26,mason,['PROPN'],[],1,0,1
 US750675A,1904-01-26,mighelin,['PROPN'],[],1,0,1
@@ -286,7 +286,7 @@ US750868A,1904-02-02,Furnace,['PROPN'],[],1,0,1
 US750872A,1904-02-02,Chusetts,['PROPN'],['NORP'],1,0,1
 US750874A,1904-02-02,Feank v,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US750875A,1904-02-02,Piston,['PROPN'],['ORG'],1,0,1
-US750876A,1904-02-02,meriam,"['PROPN', 'SPACE']",[],1,0,2
+US750876A,1904-02-02,meriam,['PROPN'],[],1,0,2
 US750886A,1904-02-02,Bucket conveyer,"['PROPN', 'NOUN']",[],1,0,2
 US750903A,1904-02-02,Sylvania,['PROPN'],['ORG'],1,0,1
 US750914A,1904-02-02,Ho model,"['PROPN', 'NOUN']",[],1,0,2
@@ -336,7 +336,7 @@ US751238A,1904-02-02,Feenando yost,"['PROPN', 'ADV']",[],1,0,2
 US751243A,1904-02-02,Sylvania,['PROPN'],['ORG'],1,0,1
 US751247A,1904-02-02,Iliz e,"['PROPN', 'NOUN']",['ORG'],1,0,2
 US751252A,1904-02-02,Piston,['PROPN'],['ORG'],1,0,1
-US751264A,1904-02-02,corcoran,"['PROPN', 'SPACE']",[],1,0,2
+US751264A,1904-02-02,corcoran,['PROPN'],[],1,0,2
 US751275A,1904-02-02,Stanley b,"['PROPN', 'NOUN']",[],1,0,2
 US751282A,1904-02-02,Washboard,['PROPN'],[],1,0,1
 US751290A,1904-02-02,Feedinand jaegee,"['PROPN', 'PROPN']",['GPE'],1,0,2
@@ -361,7 +361,7 @@ US751493A,1904-02-09,Jacob f,"['PROPN', 'X']",[],1,0,2
 US751497A,1904-02-09,Elias goldsmith,"['PROPN', 'VERB']",['ORG'],1,0,2
 US751503A,1904-02-09,Liam e,"['PROPN', 'NOUN']",[],1,0,2
 US751510A,1904-02-09,Sylvania,['PROPN'],['ORG'],1,0,1
-US751515A,1904-02-09,schmidt,"['PROPN', 'SPACE']",[],1,0,2
+US751515A,1904-02-09,schmidt,['PROPN'],[],1,0,2
 US751523A,1904-02-09,laurie,['PROPN'],[],1,0,1
 US751528A,1904-02-09,Padlock,['PROPN'],[],1,0,1
 US751531A,1904-02-09,Joseph a,"['PROPN', 'PRON']",[],1,0,2
@@ -497,7 +497,7 @@ US752621A,1904-02-16,Ho model,"['PROPN', 'NOUN']",[],1,0,2
 US752624A,1904-02-16,Lil ho,"['PROPN', 'NOUN']",[],1,0,2
 US752639A,1904-02-23,Samuel adlam,"['PROPN', 'NOUN']",[],1,0,2
 US752651A,1904-02-23,Ho model,"['PROPN', 'NOUN']",[],1,0,2
-US752662A,1904-02-23,ellman,"['PROPN', 'SPACE']",[],1,0,2
+US752662A,1904-02-23,ellman,['PROPN'],[],1,0,2
 US752669A,1902-07-25,Dowel,['PROPN'],[],1,0,1
 US752670A,1904-02-23,Propeller,['PROPN'],[],1,0,1
 US752673A,1904-02-23,Levi hayne,"['PROPN', 'VERB']",[],1,0,2
@@ -649,7 +649,7 @@ US770590A,1904-09-20,Bracket,['PROPN'],[],1,0,1
 US770593A,1904-09-20,Vincent j,"['PROPN', 'PROPN']",[],1,0,2
 US770594A,1904-09-20,Peter a,"['PROPN', 'PRON']",[],1,0,2
 US770596A,1904-09-20,Ho model,"['PROPN', 'NOUN']",[],1,0,2
-US770598A,1904-09-20,mayer,"['PROPN', 'SPACE']",[],1,0,2
+US770598A,1904-09-20,mayer,['PROPN'],[],1,0,2
 US770604A,1904-09-20,Sylvania,['PROPN'],['ORG'],1,0,1
 US770614A,1904-09-20,Moore,['PROPN'],[],1,0,1
 US770616A,1904-09-20,waite,['PROPN'],[],1,0,1
@@ -659,7 +659,7 @@ US770664A,1904-09-20,James p,"['PROPN', 'NOUN']",[],1,0,2
 US770672A,1904-09-20,Cultivator,['PROPN'],[],1,0,1
 US770678A,1904-09-20,cunningham,['PROPN'],[],1,0,1
 US770679A,1904-09-20,Qvist,['PROPN'],[],1,0,1
-US770696A,1904-09-20,peters,"['PROPN', 'SPACE']",[],1,0,2
+US770696A,1904-09-20,peters,['PROPN'],[],1,0,2
 US770715A,1904-09-20,Jacob engel,"['PROPN', 'VERB']",[],1,0,2
 US770720A,1904-09-20,henderson,['PROPN'],['GPE'],1,0,1
 US772308A,1904-10-11,El abbott,"['PROPN', 'PROPN']",['ORG'],1,0,2
