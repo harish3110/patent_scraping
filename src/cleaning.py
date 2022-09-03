@@ -12,11 +12,31 @@ path = '../data/preprocessed/'
 files = glob.glob(f'{path}*.csv')
 spell = SpellChecker()
 
+def bad_ending_patents(pos):
+    if len(pos) > 0:
+        if pos[-1] in non_terminating_pos:
+            return 1
+        return 0
+    else:
+        return 0
+
+def bad_starting_patents(pos):
+    if len(pos) > 0:
+        if pos[0] in non_starting_pos:
+            return 1
+        return 0
+    else:
+        return 0
+
 for file in tqdm(files):
     name = file.split('/')[-1]
     df = pd.read_csv(f'{path}{name}', converters={'tokens': literal_eval, 'nltk_pos': literal_eval, 'spacy_pos': literal_eval,'spacy_label': literal_eval,})
     df['is_person_spacy'] = df['spacy_label'].apply(lambda x: 1 if 'PERSON' in x else 0)
     df['spacy_pos_len'] = df['spacy_pos'].apply(len)
+    df['title'] = df['title'].astype(str)
+    df['title'] = df['title'].apply(lambda x: x.strip()) # stripping next line spacy in title endings
+    df['spacy_pos'] = df['spacy_pos'].apply(lambda x: x[:-1] if x[-1] == 'SPACE' else x)
+
     df_inventor = df[df['is_person_spacy'] == 1]
     df_non_inventor = df[df['is_person_spacy'] == 0]
     
@@ -26,14 +46,16 @@ for file in tqdm(files):
     df_non_prpn = pd.concat([df_non_prpn_1, df_non_prpn_2], ignore_index=True)
     
     non_terminating_pos = ['ADP', 'CONJ', 'CCONJ', 'DET', 'ADP']
-    df_non_prpn['bad_endings'] = df['spacy_pos'].apply(lambda x: 1 if x[-1] in non_terminating_pos else 0)
+    non_starting_pos = ['ADP', 'CONJ', 'CCONJ','ADP']
+    
+    df_non_prpn['bad_endings'] = df['spacy_pos'].apply(bad_ending_patents)
     df_bad_endings = df_non_prpn[df_non_prpn['bad_endings'] == 1]
     df_non_bad_endings = df_non_prpn[df_non_prpn['bad_endings'] == 0]
 
     df_single_pos = df_non_bad_endings[df_non_bad_endings['spacy_pos_len'] == 1]
     df_non_single_pos = df_non_bad_endings[df_non_bad_endings['spacy_pos_len'] != 1]
 
-    df_non_single_pos['bad_starts'] = df_non_single_pos['spacy_pos'].apply(lambda x: 1 if x[0] in non_terminating_pos else 0)
+    df_non_single_pos['bad_starts'] = df_non_single_pos['spacy_pos'].apply(bad_starting_patents)
     df_bad_starts = df_non_single_pos[df_non_single_pos['bad_starts'] == 1]
     df_non_bad_starts = df_non_single_pos[df_non_single_pos['bad_starts'] == 0]
 
