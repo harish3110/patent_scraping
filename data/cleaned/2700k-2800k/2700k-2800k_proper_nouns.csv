@@ -1,2115 +1,1573 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len
-US2700091A,1953-10-12,"Flux 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2700215A,1950-05-23,"Razor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2700330A,1948-03-20,"Cultivator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2700665A,1955-01-25,Soanhj ,['PROPN'],[],1,0,1
-US2700692A,1955-01-25,carleton ,['PROPN'],[],1,0,1
-US2700770A,1951-05-19,"Glove 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2700820A,1952-01-24,"Unseamer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2700979A,1952-03-08,"Crutch 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701080A,1955-02-01,franklin ,['PROPN'],['ORG'],1,0,1
-US2701132A,1951-08-30,"Stirrer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701173A,1954-04-02,"Aeroboard 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701189A,1953-07-08,"Vaporizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701270A,1955-02-01,Moo izoo ,"['PROPN', 'NOUN']",[],1,0,2
-US2701363A,1953-03-12,"Slip 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701381A,1948-04-05,"Toothbrush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701469A,1953-05-29,"Viscometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701546A,1951-03-31,"Galvanizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701643A,1949-05-13,"Hydroextractor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701814A,1955-02-08,Fluorocarbon compounds ,"['PROPN', 'VERB']",[],1,0,2
-US2701961A,1953-09-04,"Osmometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2701982A,1953-03-26,Angenieux ,['PROPN'],['ORG'],1,0,1
-US2702047A,1950-09-01,"Manostat 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2702088A,1951-08-31,"Snowmobile 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2702132A,1949-08-26,"Destacker 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2702212A,1955-02-15,Mcaneny ,['PROPN'],['ORG'],1,0,1
-US2702443A,1953-11-10,"Mousetrap 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2702446A,1952-06-04,"Lap 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2702470A,1953-07-23,"Freezemeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2702584A,1954-02-15,"Stool 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2702668A,1955-02-22,dustin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2702670A,1955-02-22,Campos ,['PROPN'],[],1,0,1
-US2702682A,1951-04-23,"Pallet 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2702727A,1951-02-05,"Trestle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2702844A,1952-05-02,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2702878A,1950-09-20,"Condenser 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2702914A,1950-11-04,"Toothbrush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2703049A,1955-03-01,M bauer ,"['PROPN', 'NOUN']",[],1,0,2
-US2703449A,1952-04-03,"Razor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2703689A,1952-12-01,"Bottleholder 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2703832A,1952-09-19,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2703841A,1945-08-01,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2703975A,1954-08-20,"Padlock 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2703980A,1953-08-05,"Dynamometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2704009A,1950-05-01,"Monocular 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2704040A,1955-03-15,warrington ,['PROPN'],[],1,0,1
-US2704368A,1952-06-18,"Scarves 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2704452A,1955-03-22,Federn ,['PROPN'],[],1,0,1
-US2704454A,1955-03-22,imiw attidg ,"['PROPN', 'PROPN']",[],1,0,2
-US2704476A,1955-03-22,Lisota ,['PROPN'],['GPE'],1,0,1
-US2704479A,1955-03-22,Stang ,['PROPN'],['ORG'],1,0,1
-US2704482A,1955-03-22,Xylophone construction ,"['PROPN', 'NOUN']",[],1,0,2
-US2704495A,1955-03-22,Ditcher ,['PROPN'],[],1,0,1
-US2704501A,1955-03-22,rysdon  ,"['PROPN', 'SPACE']",[],1,0,2
-US2704523A,1955-03-22,F walters ,"['PROPN', 'NOUN']",[],1,0,2
-US2704524A,1955-03-22,mcintyre ,['PROPN'],[],1,0,1
-US2704529A,1955-03-22,Hydroplane ,['PROPN'],[],1,0,1
-US2704532A,1955-03-22,musser ,['PROPN'],[],1,0,1
-US2704551A,1955-03-22,ralston ,['PROPN'],['GPE'],1,0,1
-US2704559A,1955-03-22,bahan ,['PROPN'],['GPE'],1,0,1
-US2704568A,1955-03-22,hickman ,['PROPN'],[],1,0,1
-US2704584A,1955-03-22,Tzschoppe ,['PROPN'],[],1,0,1
-US2704604A,1955-03-22,rqlston ,['PROPN'],['GPE'],1,0,1
-US2704606A,1955-03-22,Christ ,['PROPN'],[],1,0,1
-US2704610A,1955-03-22,schwengel ,['PROPN'],[],1,0,1
-US2704619A,1955-03-22,Fraser ,['PROPN'],[],1,0,1
-US2704624A,1955-03-22,seltzer  ,"['PROPN', 'SPACE']",[],1,0,2
-US2704625A,1955-03-22,Ijnttfd statf ,"['PROPN', 'VERB']",['GPE'],1,0,2
-US2704626A,1955-03-22,C- meier ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2704628A,1955-03-22,stanton ,['PROPN'],[],1,0,1
-US2704631A,1955-03-22,bancel ,['PROPN'],[],1,0,1
-US2704634A,1949-06-04,Rauch ,['PROPN'],[],1,0,1
-US2704636A,1955-03-22,Weston ,['PROPN'],['GPE'],1,0,1
-US2704638A,1953-07-13,Eheim ,['PROPN'],[],1,0,1
-US2704641A,1955-03-22,schnetzer ,['PROPN'],[],1,0,1
-US2704645A,1955-03-22,colvin ,['PROPN'],[],1,0,1
-US2704646A,1955-03-22,vogel ,['PROPN'],[],1,0,1
-US2704650A,1955-03-22,Faucet ,['PROPN'],[],1,0,1
-US2704652A,1955-03-22,fisher ,['PROPN'],[],1,0,1
-US2704664A,1955-03-22,hickman ,['PROPN'],[],1,0,1
-US2704778A,1955-03-22,Adtio ,['PROPN'],['ORG'],1,0,1
-US2705000A,1950-03-21,"Tuyere 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2705109A,1955-03-29,Campos ,['PROPN'],[],1,0,1
-US2705120A,1949-06-07,"Pallet 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2705209A,1947-04-19,"Roofing 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2705288A,1955-03-29,wallin ,['PROPN'],['ORG'],1,0,1
-US2705289A,1955-03-29,youmans ,['PROPN'],[],1,0,1
-US2705350A,1952-03-17,"Windows 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2705403A,1950-05-19,"Caisson 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2705449A,1953-09-04,"Register 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2705458A,1955-04-05,sunden ,['PROPN'],[],1,0,1
-US2705541A,1951-07-16,"Muffler 
-       ","['PROPN', 'SPACE']",['NORP'],1,0,2
-US2705630A,1955-04-05,Tad deo ,"['PROPN', 'NOUN']",[],1,0,2
-US2705968A,1954-04-01,"Umbrella 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2706099A,1950-04-21,"Pallet 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2706479A,1952-08-01,"Ampule 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2706502A,1955-04-19,Walter a ,"['PROPN', 'PRON']",[],1,0,2
-US2706631A,1951-05-29,"Hurdle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2706645A,1949-09-06,"Book 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2706821A,1952-04-07,"Mattress 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2706825A,1954-04-02,"Toothbrush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2706943A,1955-04-26,Thaon ,['PROPN'],['GPE'],1,0,1
-US2707011A,1953-06-15,"Keycase 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2707023A,1955-04-26,Kahan ,['PROPN'],['GPE'],1,0,1
-US2707226A,1952-03-21,"Vaporizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2707283A,1953-01-14,"Glove 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2707476A,1954-05-06,"Umbrella 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2707478A,1952-01-14,"Crutch 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2707564A,1955-05-03,Smith ,['PROPN'],[],1,0,1
-US2707869A,1955-05-10,dennison ,['PROPN'],[],1,0,1
-US2708372A,1954-08-11,"Toggle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2708431A,1952-01-19,"Catapult 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2708495A,1955-05-17,Luggxge frames ,"['PROPN', 'NOUN']",[],1,0,2
-US2708596A,1951-12-27,"Sprayer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2708599A,1950-03-06,"Brush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2708762A,1953-05-06,"Brush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2708891A,1950-05-06,"Planter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2708905A,1954-04-08,"Sharpener 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2709012A,1955-05-24,lessard  ,"['PROPN', 'SPACE']",[],1,0,2
-US2709044A,1955-05-24,Arvai ,['PROPN'],[],1,0,1
-US2709054A,1952-12-30,"Airbrake 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2709261A,1950-06-27,"Turban 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2709481A,1955-05-31,budai ,['PROPN'],[],1,0,1
-US2709571A,1952-09-12,"Aligner 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2709789A,1946-04-16,"Attenuator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2709898A,1955-06-07,flynn ,['PROPN'],[],1,0,1
-US2709909A,1955-06-07,Vigmostad ,['PROPN'],[],1,0,1
-US2709999A,1955-06-07,nag el ,"['INTJ', 'PROPN']",['ORG'],1,0,2
-US2710008A,1952-03-20,"Compress 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2710137A,1949-12-08,"Compressor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2710219A,1955-06-07,Zalkind ,['PROPN'],[],1,0,1
-US2710470A,1951-01-04,"Flatiron 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2710929A,1951-01-18,"Magneto 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2710970A,1954-01-27,"Glove 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2710976A,1955-06-21,martensen ,['PROPN'],[],1,0,1
-US2711183A,1951-04-23,"Crutch 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2711207A,1955-06-21,Comfort ctfair ,"['PROPN', 'NOUN']",[],1,0,2
-US2711415A,1955-06-21,Prepara ,['PROPN'],['GPE'],1,0,1
-US2711608A,1954-10-04,"Decory 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2711650A,1955-06-28,Weisheit ,['PROPN'],[],1,0,1
-US2711740A,1954-02-24,"Catheter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2712077A,1946-07-30,"Calutron 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2712079A,1946-12-13,"Calutron 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2712085A,1955-06-28,M willyoung ,"['PROPN', 'VERB']",[],1,0,2
-US2712088A,1955-06-28,Whitman ,['PROPN'],[],1,0,1
-US2712090A,1955-06-28,elderkln ,['PROPN'],[],1,0,1
-US2712092A,1955-06-28,schwarz ,['PROPN'],['GPE'],1,0,1
-US2712094A,1954-08-11,kochevar  ,"['PROPN', 'SPACE']",[],1,0,2
-US2712099A,1955-06-28,G legge ,"['PROPN', 'ADV']",[],1,0,2
-US2712108A,1955-06-28,Generator regulator ,"['PROPN', 'NOUN']",[],1,0,2
-US2712110A,1955-06-28,peterson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2712120A,1955-06-28,cochran  ,"['PROPN', 'SPACE']",[],1,0,2
-US2712127A,1955-06-28,miller ,['PROPN'],['ORG'],1,0,1
-US2712128A,1955-06-28,woodruff ,['PROPN'],[],1,0,1
-US2712153A,1955-07-05,berglund  ,"['PROPN', 'SPACE']",['GPE'],1,0,2
-US2712265A,1950-11-07,"Refractometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2712287A,1955-07-05,Zurmuhle ,['PROPN'],[],1,0,1
-US2712349A,1955-07-05,Le voir ,"['PROPN', 'X']",[],1,0,2
-US2712442A,1955-07-05,hanson ,['PROPN'],[],1,0,1
-US2712703A,1951-01-04,"Flatiron 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2712830A,1952-08-09,"Faucet 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2712926A,1955-07-12,Von elm ,"['PROPN', 'NOUN']",[],1,0,2
-US2713319A,1955-07-19,Dam ast ,"['PROPN', 'PROPN']",[],1,0,2
-US2713370A,1953-02-12,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2713386A,1955-07-19,Holtz ,['PROPN'],[],1,0,1
-US2713475A,1955-07-19,Matalon ,['PROPN'],[],1,0,1
-US2713526A,1950-10-31,"Piston 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2713825A,1944-09-23,"Fuze 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2713898A,1955-07-26,hartmann ,['PROPN'],[],1,0,1
-US2714218A,1955-08-02,Mop head ,"['PROPN', 'NOUN']",[],1,0,2
-US2714240A,1953-02-09,"Slasher 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2714262A,1955-08-02,Malzahn ,['PROPN'],[],1,0,1
-US2714279A,1950-08-28,"Arbor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2714296A,1955-08-02,scavullo ,['PROPN'],[],1,0,1
-US2714526A,1945-10-26,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2714531A,1955-08-02,Spray nozzle ,"['PROPN', 'VERB']",[],1,0,2
-US2714649A,1952-11-25,"Vaporizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2714658A,1950-11-02,"Decoder 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2714722A,1955-08-09,Griffon ,['PROPN'],[],1,0,1
-US2714723A,1955-08-09,Griffon ,['PROPN'],[],1,0,1
-US2714728A,1955-08-09,Bloch ,['PROPN'],[],1,0,1
-US2714751A,1953-04-01,"Fastener 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2714775A,1955-08-09,Trench ,['PROPN'],[],1,0,1
-US2714924A,1955-08-09,Fischman ,['PROPN'],[],1,0,1
-US2714971A,1955-08-09,Vacuum containers ,"['PROPN', 'NOUN']",[],1,0,2
-US2715056A,1955-08-09,Wilson ,['PROPN'],['ORG'],1,0,1
-US2715242A,1955-08-16,smith ,['PROPN'],[],1,0,1
-US2715310A,1955-08-16,Job timer ,"['PROPN', 'NOUN']",[],1,0,2
-US2715546A,1949-09-10,"Atomizer 
-       ","['PROPN', 'SPACE']",['PRODUCT'],1,0,2
-US2715564A,1953-12-23,"Hydrazine 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2715613A,1950-10-12,"Defoamer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2715873A,1950-01-25,"Fuze 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2715895A,1952-06-02,"Slingshot 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2715899A,1952-11-21,"Curette 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2715953A,1947-03-31,"House 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2716191A,1953-01-16,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2716262A,1955-08-30,oswald  ,"['PROPN', 'SPACE']",[],1,0,2
-US2716390A,1950-12-29,"Bookmark 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2716463A,1954-09-27,"Muffler 
-       ","['PROPN', 'SPACE']",['NORP'],1,0,2
-US2716505A,1955-08-30,Linde ,['PROPN'],[],1,0,1
-US2716571A,1953-02-17,"Gambrel 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2716581A,1951-10-13,"Piston 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2716927A,1953-06-03,"Fourdrinier 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2717015A,1952-04-10,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2717044A,1949-04-18,"Propeller 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2717389A,1952-10-21,"Apron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2717847A,1955-09-13,ripley  ,"['PROPN', 'SPACE']",[],1,0,2
-US2718370A,1952-06-07,"Carrier 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2718571A,1951-03-05,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2718586A,1950-12-26,"Lamp 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2718592A,1951-04-28,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2718623A,1951-08-30,"Tuner 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2718735A,1952-07-07,"Sander 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2718793A,1952-09-08,"Gear 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2719002A,1950-05-29,"Compressor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2719199A,1950-09-29,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2719201A,1952-01-08,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2719341A,1951-10-23,"Windows 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2719368A,1955-10-04,Snook ,['PROPN'],[],1,0,1
-US2719476A,1952-03-12,"Register 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2719505A,1955-10-04,Blumenthal ,['PROPN'],[],1,0,1
-US2719720A,1946-11-29,"Phonographs 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2719928A,1955-10-04,baerwald  ,"['PROPN', 'SPACE']",[],1,0,2
-US2719978A,1953-07-17,"Blouse 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2720038A,1952-09-15,"Toy 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2720704A,1952-12-15,"Toy 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2720782A,1955-10-18,stein ,['PROPN'],[],1,0,1
-US2721273A,1946-01-16,"Magnet 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2721289A,1953-03-19,"Lamp 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2721295A,1952-10-29,"Magnetron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2721339A,1952-05-10,"Mattress 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2721518A,1945-01-26,"Projectile 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2721530A,1953-05-12,"Anchor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2721548A,1955-10-25,Geiger ,['PROPN'],[],1,0,1
-US2721940A,1946-01-03,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2721949A,1949-10-31,"Betatron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2721974A,1944-08-07,"Magnetometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2722190A,1954-06-18,"Anchor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2722278A,1954-05-11,"Apparatus 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2722376A,1955-11-01,Grant c ,"['PROPN', 'NOUN']",[],1,0,2
-US2722381A,1955-11-01,Komusim ,['PROPN'],['GPE'],1,0,1
-US2722383A,1955-11-01,Westinger ctal ,"['PROPN', 'NOUN']",[],1,0,2
-US2722426A,1950-03-28,"Phonographs 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2722473A,1955-11-01,toland ,['PROPN'],[],1,0,1
-US2722958A,1954-07-01,"Quiver 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2723157A,1952-01-26,"Sprinkler 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2723274A,1954-03-08,"Ureidotriazoles 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2723383A,1955-11-08,franz ,['PROPN'],['ORG'],1,0,1
-US2723404A,1954-09-16,"Retriever 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2723434A,1951-11-08,"Buckle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2723561A,1952-11-28,"Tensiometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2723607A,1950-04-21,"Pavement 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2723825A,1955-11-15,miller ,['PROPN'],['ORG'],1,0,1
-US2723881A,1949-12-10,"Atomizer 
-       ","['PROPN', 'SPACE']",['PRODUCT'],1,0,2
-US2724157A,1952-05-24,"Vaporizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2724212A,1953-01-02,"Whistle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2724287A,1955-11-22,knoth ,['PROPN'],[],1,0,1
-US2724310A,1955-11-22,paine  ,"['PROPN', 'SPACE']",[],1,0,2
-US2724375A,1953-03-31,"Degasser 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2724559A,1955-11-22,Dalton ,['PROPN'],['GPE'],1,0,1
-US2724649A,1951-03-23,"Margarine 
-       ","['PROPN', 'SPACE']",['PRODUCT'],1,0,2
-US2724911A,1954-05-07,"Tachistoscope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2724915A,1955-11-29,Snow remover ,"['PROPN', 'VERB']",[],1,0,2
-US2725180A,1951-09-04,"Envelope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2725202A,1953-09-22,"Creel 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2725248A,1955-11-29,rimkus ,['PROPN'],[],1,0,1
-US2725342A,1951-08-25,"Distillation 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2725379A,1955-11-29,Triazeve pharmaceuticals ,"['PROPN', 'NOUN']",[],1,0,2
-US2725443A,1954-07-23,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2725571A,1953-07-20,"Hat 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2725931A,1953-09-16,"Blowtorch 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2726041A,1955-12-06,Winet ,['PROPN'],[],1,0,1
-US2726051A,1953-02-09,"Coiler 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2726070A,1953-03-25,"Homogenizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2726123A,1950-11-06,"Catwalk 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2726146A,1955-12-06,shirk ,['PROPN'],[],1,0,1
-US2726260A,1955-12-06,novello ,['PROPN'],[],1,0,1
-US2726277A,1950-06-10,"Antioxidant 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2726401A,1953-06-05,"Headdress 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2726592A,1954-08-20,"Cultivator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2726668A,1952-07-24,"Parasol 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2726827A,1953-07-07,"Creel 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2727016A,1955-12-13,Hjnan ,['PROPN'],['GPE'],1,0,1
-US2727190A,1946-03-22,"Calutron 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2727681A,1955-12-20,bogert  ,"['PROPN', 'SPACE']",[],1,0,2
-US2728099A,1951-11-27,"Squeegee 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2728144A,1954-08-16,"Apparatus 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2728326A,1954-09-01,"Muzzle 
-       ","['PROPN', 'SPACE']",['PRODUCT'],1,0,2
-US2728418A,1948-03-03,"Brake 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2728743A,1955-12-27,czhsnhcshenhcahenkkihs ,['PROPN'],[],1,0,1
-US2728846A,1953-03-17,"Lantern 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2728860A,1955-12-27,newman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2728969A,1956-01-03,baumann ,['PROPN'],[],1,0,1
-US2729232A,1951-11-03,"Controller 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2729282A,1956-01-03,lennox  ,"['PROPN', 'SPACE']",[],1,0,2
-US2729387A,1953-04-30,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2729397A,1956-01-03,Weston ,['PROPN'],['GPE'],1,0,1
-US2729436A,1954-01-15,"Cooler 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2729854A,1952-02-08,"Airbag 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2729874A,1953-07-10,"Tenter 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2729934A,1951-11-22,"Timepiece 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2730318A,1953-07-27,"Kite 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2730552A,1956-01-10,williamson ,['PROPN'],[],1,0,1
-US2730609A,1951-09-18,"Blowpipes 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2730673A,1947-01-20,"Magnetometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2730719A,1956-01-17,Steiner ,['PROPN'],[],1,0,1
-US2730902A,1952-11-22,"Vibrator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2730913A,1956-01-17,Friedman ,['PROPN'],[],1,0,1
-US2731205A,1956-01-17,Innocenti ,['PROPN'],[],1,0,1
-US2731421A,1956-01-17,Tottuwrpmt  ,"['PROPN', 'SPACE']",['GPE'],1,0,2
-US2731637A,1954-04-14,"Sunshade 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2731782A,1956-01-24,mason  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731787A,1952-07-23,marsh ,['PROPN'],[],1,0,1
-US2731793A,1956-01-24,lewis ,['PROPN'],[],1,0,1
-US2731794A,1956-01-24,torell  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731795A,1956-01-24,bodine ,['PROPN'],[],1,0,1
-US2731802A,1956-01-24,Wacsporran ,['PROPN'],['GPE'],1,0,1
-US2731809A,1956-01-24,hackney ,['PROPN'],[],1,0,1
-US2731810A,1949-01-04,Qjivaiiov snoonilnod ,"['PROPN', 'NOUN']",[],1,0,2
-US2731812A,1956-01-24,sullivan  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731815A,1956-01-24,Piltz ,['PROPN'],['GPE'],1,0,1
-US2731817A,1956-01-24,thurston  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731819A,1956-01-24,crawford  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731821A,1956-01-24,Lloyd ,['PROPN'],[],1,0,1
-US2731824A,1956-01-24,hadley  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731827A,1956-01-24,loomis ,['PROPN'],[],1,0,1
-US2731845A,1956-01-24,Mcqihon ,['PROPN'],[],1,0,1
-US2731847A,1956-01-24,bronckhurst ,['PROPN'],[],1,0,1
-US2731858A,1956-01-24,evans  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731871A,1956-01-24,Loughrie ,['PROPN'],[],1,0,1
-US2731875A,1956-01-24,gould ,['PROPN'],[],1,0,1
-US2731877A,1956-01-24,clamann ,['PROPN'],[],1,0,1
-US2731878A,1956-01-24,sherwin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731884A,1956-01-24,Brendel ,['PROPN'],[],1,0,1
-US2731885A,1956-01-24,nolan  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731887A,1956-01-24,sjostrand ,['PROPN'],[],1,0,1
-US2731890A,1956-01-24,bechle  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731895A,1956-01-24,mckee ,['PROPN'],['ORG'],1,0,1
-US2731897A,1956-01-24,frevik  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731899A,1956-01-24,abrams ,['PROPN'],[],1,0,1
-US2731903A,1956-01-24,Baseboard radiators ,"['PROPN', 'NOUN']",[],1,0,2
-US2731912A,1956-01-24,Welsh ,['PROPN'],[],1,0,1
-US2731917A,1956-01-24,evans ,['PROPN'],[],1,0,1
-US2731920A,1956-01-24,Scognamillq ,['PROPN'],[],1,0,1
-US2731932A,1956-01-24,Petersen ,['PROPN'],[],1,0,1
-US2731939A,1956-01-24,fellabaum ,['PROPN'],[],1,0,1
-US2731940A,1956-01-24,neugass ,['PROPN'],[],1,0,1
-US2731943A,1956-01-24,randall  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731946A,1956-01-24,Birkland ,['PROPN'],['GPE'],1,0,1
-US2731949A,1956-01-24,arnould ,['PROPN'],[],1,0,1
-US2731952A,1956-01-24,szabo ,['PROPN'],[],1,0,1
-US2731959A,1956-01-24,kratzer ,['PROPN'],[],1,0,1
-US2731963A,1956-01-24,Blank ,['PROPN'],[],1,0,1
-US2731969A,1956-01-24,hoeksema  ,"['PROPN', 'SPACE']",[],1,0,2
-US2731988A,1956-01-24,Steiner ,['PROPN'],[],1,0,1
-US2731993A,1956-01-24,mount ,['PROPN'],[],1,0,1
-US2732006A,1956-01-24,crescent  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732014A,1956-01-24,luther  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732016A,1956-01-24,macleod  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732033A,1956-01-24,Separator ,['PROPN'],[],1,0,1
-US2732042A,1956-01-24,lucker  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732044A,1956-01-24,mcclune  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732061A,1956-01-24,Spectaclle cases- ,"['PROPN', 'NOUN']",[],1,0,2
-US2732062A,1956-01-24,Display box ,"['PROPN', 'NOUN']",[],1,0,2
-US2732064A,1956-01-24,quackenbush ,['PROPN'],[],1,0,1
-US2732067A,1956-01-24,cunningham ,['PROPN'],[],1,0,1
-US2732069A,1956-01-24,henderson ,['PROPN'],['GPE'],1,0,1
-US2732073A,1953-11-23,Roegg ,['PROPN'],[],1,0,1
-US2732074A,1956-01-24,kuthe  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732080A,1956-01-24,J- strindlund ,"['PROPN', 'VERB']",[],1,0,2
-US2732083A,1956-01-24,smith ,['PROPN'],[],1,0,1
-US2732087A,1956-01-24,Pratt ,['PROPN'],[],1,0,1
-US2732089A,1952-06-11,Frydlender ,['PROPN'],[],1,0,1
-US2732106A,1956-01-24,harland  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732112A,1956-01-24,Container ,['PROPN'],[],1,0,1
-US2732116A,1956-01-24,merrill  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2732121A,1956-01-24,Display box ,"['PROPN', 'NOUN']",[],1,0,2
-US2732133A,1956-01-24,lintern ,['PROPN'],[],1,0,1
-US2732136A,1956-01-24,Brewster ,['PROPN'],[],1,0,1
-US2732137A,1956-01-24,fisher  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732141A,1956-01-24,lucas  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732147A,1956-01-24,Rotter ,['PROPN'],[],1,0,1
-US2732171A,1956-01-24,paradise ,['PROPN'],[],1,0,1
-US2732174A,1956-01-24,kossman ,['PROPN'],[],1,0,1
-US2732178A,1956-01-24,chaney ,['PROPN'],[],1,0,1
-US2732186A,1956-01-24,ivarsson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732191A,1956-01-24,smitley ,['PROPN'],[],1,0,1
-US2732194A,1956-01-24,jackson ,['PROPN'],[],1,0,1
-US2732202A,1956-01-24,Obedin ,['PROPN'],[],1,0,1
-US2732211A,1956-01-24,foster  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732218A,1956-01-24,Resch ,['PROPN'],[],1,0,1
-US2732223A,1956-01-24,deebel ,['PROPN'],[],1,0,1
-US2732224A,1956-01-24,deebel  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732237A,1956-01-24,Door bolt ,"['PROPN', 'NOUN']",[],1,0,2
-US2732240A,1956-01-24,hutzelman ,['PROPN'],[],1,0,1
-US2732242A,1956-01-24,Belford ,['PROPN'],[],1,0,1
-US2732243A,1956-01-24,mount ,['PROPN'],[],1,0,1
-US2732245A,1956-01-24,lemoigne  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732253A,1956-01-24,birdwell  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732259A,1956-01-24,sebald ,['PROPN'],[],1,0,1
-US2732264A,1956-01-24,Ladder stage ,"['PROPN', 'NOUN']",[],1,0,2
-US2732266A,1956-01-24,robertson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732267A,1956-01-24,acotvtotv ,['PROPN'],[],1,0,1
-US2732279A,1951-12-07,Shozo tachikawa ,"['PROPN', 'PROPN']",[],1,0,2
-US2732282A,1956-01-24,Cjhssihclj ,['PROPN'],[],1,0,1
-US2732284A,1956-01-24,sakowski  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732286A,1953-09-30,Propstl ,['PROPN'],['GPE'],1,0,1
-US2732287A,1953-09-30,Propstl ,['PROPN'],['GPE'],1,0,1
-US2732289A,1956-01-24,Goeke ,['PROPN'],[],1,0,1
-US2732296A,1956-01-24,D simpson ,"['PROPN', 'NOUN']",[],1,0,2
-US2732301A,1952-10-15,Chxcxch ,['PROPN'],[],1,0,1
-US2732315A,1956-01-24,Birkland ,['PROPN'],['GPE'],1,0,1
-US2732324A,1956-01-24,morris  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732329A,1956-01-24,nisoi  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732332A,1956-01-24,Geller ,['PROPN'],[],1,0,1
-US2732379A,1956-01-24,,['PROPN'],['GPE'],1,0,1
-US2732403A,1956-01-24,Chclj ,['PROPN'],[],1,0,1
-US2732432A,1951-07-13,hullegard ,['PROPN'],[],1,0,1
-US2732440A,1956-01-24,newman ,['PROPN'],[],1,0,1
-US2732454A,1953-05-01,buckingham ,['PROPN'],['GPE'],1,0,1
-US2732458A,1952-08-27,buckingham ,['PROPN'],['GPE'],1,0,1
-US2732476A,1956-01-24,Smith ,['PROPN'],[],1,0,1
-US2732479A,1956-01-24,Rowland ,['PROPN'],['ORG'],1,0,1
-US2732485A,1956-01-24,Luminaire ,['PROPN'],[],1,0,1
-US2732493A,1950-11-04,baker ,['PROPN'],[],1,0,1
-US2732497A,1956-01-24,Pulse generator ,"['PROPN', 'NOUN']",[],1,0,2
-US2732504A,1948-09-28,steele ,['PROPN'],[],1,0,1
-US2732510A,1956-01-24,Electron ,['PROPN'],[],1,0,1
-US2732512A,1956-01-24,briggs ,['PROPN'],[],1,0,1
-US2732514A,1956-01-24,henderson ,['PROPN'],['GPE'],1,0,1
-US2732519A,1952-12-19,Freedman ,['PROPN'],[],1,0,1
-US2732532A,1956-01-24,Lamp jrase ,"['PROPN', 'NOUN']",[],1,0,2
-US2732536A,1956-01-24,miller  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2732540A,1956-01-24,macmahon ,['PROPN'],[],1,0,1
-US2732543A,1956-01-24,mogren ,['PROPN'],[],1,0,1
-US2732550A,1954-07-30,reedy  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732552A,1956-01-31,bensemann ,['PROPN'],[],1,0,1
-US2732553A,1956-01-31,bensemann ,['PROPN'],[],1,0,1
-US2732555A,1956-01-31,Paisley ,['PROPN'],['GPE'],1,0,1
-US2732556A,1956-01-31,Erteszek ,['PROPN'],[],1,0,1
-US2732562A,1956-01-31,Conte ,['PROPN'],[],1,0,1
-US2732567A,1956-01-31,Ducrot ,['PROPN'],[],1,0,1
-US2732569A,1956-01-31,Rosen  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732572A,1956-01-31,dunham  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732576A,1956-01-31,rosen ,['PROPN'],[],1,0,1
-US2732577A,1956-01-31,Brush ,['PROPN'],[],1,0,1
-US2732584A,1956-01-31,bishop  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732587A,1956-01-31,greene  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732596A,1956-01-31,Kellner ,['PROPN'],['GPE'],1,0,1
-US2732610A,1956-01-31,Slub catcher ,"['PROPN', 'NOUN']",[],1,0,2
-US2732615A,1956-01-31,sandberg  ,"['PROPN', 'SPACE']",['GPE'],1,0,2
-US2732621A,1956-01-31,Pelzmann ,['PROPN'],['ORG'],1,0,1
-US2732625A,1956-01-31,Buisson ,['PROPN'],[],1,0,1
-US2732628A,1956-01-31,giuffre ,['PROPN'],[],1,0,1
-US2732630A,1956-01-31,Markowich ,['PROPN'],[],1,0,1
-US2732631A,1956-01-31,Convfcyuk ukyu ,"['PROPN', 'ADJ']",[],1,0,2
-US2732634A,1956-01-31,Lipton ,['PROPN'],['ORG'],1,0,1
-US2732638A,1956-01-31,leufvenius ,['PROPN'],[],1,0,1
-US2732640A,1956-01-31,kirchner ,['PROPN'],[],1,0,1
-US2732642A,1956-01-31,Map holder ,"['PROPN', 'NOUN']",[],1,0,2
-US2732651A,1956-01-31,godon ,['PROPN'],[],1,0,1
-US2732656A,1956-01-31,Toy helicopter ,"['PROPN', 'NOUN']",[],1,0,2
-US2732659A,1956-01-31,howard ,['PROPN'],[],1,0,1
-US2732660A,1956-01-31,morris ,['PROPN'],[],1,0,1
-US2732666A,1956-01-31,powell  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732671A,1956-01-31,Mcfadden ,['PROPN'],[],1,0,1
-US2732672A,1956-01-31,fleischman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732677A,1956-01-31,Nielsen ,['PROPN'],[],1,0,1
-US2732682A,1956-01-31,kyame  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732686A,1956-01-31,melin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732687A,1956-01-31,brandon  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732690A,1956-01-31,henderson  ,"['PROPN', 'SPACE']",['GPE'],1,0,2
-US2732696A,1956-01-31,baker ,['PROPN'],[],1,0,1
-US2732706A,1956-01-31,Friedman ,['PROPN'],[],1,0,1
-US2732711A,1956-01-31,darmody ,['PROPN'],[],1,0,1
-US2732722A,1956-01-31,wilshusen ,['PROPN'],[],1,0,1
-US2732726A,1956-01-31,Hakanson ,['PROPN'],[],1,0,1
-US2732730A,1956-01-31,Sernaker ,['PROPN'],['ORG'],1,0,1
-US2732732A,1956-01-31,borman ,['PROPN'],[],1,0,1
-US2732740A,1956-01-31,Jar vise ,"['PROPN', 'NOUN']",[],1,0,2
-US2732749A,1956-01-31,Pasternak ,['PROPN'],[],1,0,1
-US2732750A,1956-01-31,Sonnberger ,['PROPN'],[],1,0,1
-US2732753A,1956-01-31,o konski ,"['X', 'PROPN']",[],1,0,2
-US2732758A,1956-01-31,Waller ,['PROPN'],[],1,0,1
-US2732760A,1956-01-31,Rantsch ,['PROPN'],['GPE'],1,0,1
-US2732765A,1956-01-31,Squib gun ,"['PROPN', 'NOUN']",[],1,0,2
-US2732769A,1956-01-31,Inyentor ,['PROPN'],[],1,0,1
-US2732772A,1956-01-31,Hornbostel ,['PROPN'],[],1,0,1
-US2732773A,1956-01-31,smith ,['PROPN'],[],1,0,1
-US2732781A,1956-01-31,coviello  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732788A,1956-01-31,meyer ,['PROPN'],['ORG'],1,0,1
-US2732807A,1956-01-31,Diaphragm pump ,"['PROPN', 'VERB']",['GPE'],1,0,2
-US2732815A,1956-01-31,Vault door ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2732818A,1956-01-31,quirin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732834A,1956-01-31,morgan  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732838A,1956-01-31,Honer ,['PROPN'],[],1,0,1
-US2732840A,1953-06-27,De sanctis ,"['PROPN', 'NOUN']",[],1,0,2
-US2732844A,1956-01-31,stark  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732846A,1956-01-31,berezny  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732861A,1956-01-31,gilmore ,['PROPN'],[],1,0,1
-US2732868A,1956-01-31,barta  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732873A,1956-01-31,treiber ,['PROPN'],[],1,0,1
-US2732874A,1956-01-31,Carstensen ,['PROPN'],[],1,0,1
-US2732881A,1956-01-31,anderle ,['PROPN'],[],1,0,1
-US2732889A,1956-01-31,healey ,['PROPN'],[],1,0,1
-US2732890A,1956-01-31,Vignere ,['PROPN'],[],1,0,1
-US2732893A,1956-01-31,harris ,['PROPN'],[],1,0,1
-US2732894A,1956-01-31,harris ,['PROPN'],[],1,0,1
-US2732897A,1956-01-31,musser ,['PROPN'],[],1,0,1
-US2732902A,1949-11-28,Barenyi ,['PROPN'],['GPE'],1,0,1
-US2732903A,1956-01-31,chayne  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732910A,1956-01-31,ferraris  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732918A,1956-01-31,Hackworth ,['PROPN'],[],1,0,1
-US2732921A,1956-01-31,Rabjnow ,['PROPN'],[],1,0,1
-US2732925A,1956-01-31,Pechy ,['PROPN'],[],1,0,1
-US2732928A,1956-01-31,schreiber  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732932A,1956-01-31,strock  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732936A,1956-01-31,lankford ,['PROPN'],[],1,0,1
-US2732939A,1956-01-31,Stick remover ,"['PROPN', 'NOUN']",['FAC'],1,0,2
-US2732952A,1956-01-31,skelton ,['PROPN'],['GPE'],1,0,1
-US2732964A,1956-01-31,,['PROPN'],['GPE'],1,0,1
-US2732968A,1956-01-31,Ash trays ,"['PROPN', 'VERB']",[],1,0,2
-US2732969A,1956-01-31,browne  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732975A,1956-01-31,balzer ,['PROPN'],[],1,0,1
-US2732977A,1956-01-31,charpiat  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732978A,1956-01-31,Oakland ,['PROPN'],['GPE'],1,0,1
-US2732983A,1956-01-31,siddall  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732986A,1956-01-31,whittington ,['PROPN'],[],1,0,1
-US2732987A,1956-01-31,moore  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732988A,1956-01-31,Feinstein ,['PROPN'],[],1,0,1
-US2732989A,1956-01-31,harker  ,"['PROPN', 'SPACE']",[],1,0,2
-US2732998A,1956-01-31,Rumsey ,['PROPN'],[],1,0,1
-US2733000A,1956-01-31,sparklin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733008A,1956-01-31,,['PROPN'],['GPE'],1,0,1
-US2733012A,1956-01-31,garner  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733014A,1956-01-31,hallman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733015A,1956-01-31,cochran  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733017A,1956-01-31,chrzanowski ,['PROPN'],[],1,0,1
-US2733018A,1956-01-31,nitchie ,['PROPN'],[],1,0,1
-US2733039A,1956-01-31,balogh  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733042A,1956-01-31,culbertson ,['PROPN'],[],1,0,1
-US2733043A,1956-01-31,M smith ,"['PROPN', 'PROPN']",[],1,0,2
-US2733054A,1952-06-13,Van ackeren ,"['PROPN', 'NOUN']",[],1,0,2
-US2733072A,1956-01-31,Finger chuck ,"['PROPN', 'VERB']",[],1,0,2
-US2733075A,1956-01-31,Rehacek ,['PROPN'],['ORG'],1,0,1
-US2733085A,1956-01-31,Latzen ,['PROPN'],[],1,0,1
-US2733090A,1956-01-31,Coplen ,['PROPN'],[],1,0,1
-US2733091A,1956-01-31,Janonis ,['PROPN'],[],1,0,1
-US2733093A,1956-01-31,Reitzel ,['PROPN'],[],1,0,1
-US2733094A,1956-01-31,carlton ,['PROPN'],['ORG'],1,0,1
-US2733120A,1953-10-12,Ouakum kuuivi ,"['PROPN', 'PROPN']",[],1,0,2
-US2733132A,1956-01-31,patewo  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733135A,1956-01-31,huckabay  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733153A,1956-01-31,hammerberg ,['PROPN'],[],1,0,1
-US2733165A,1956-01-31,Naoas ,['PROPN'],[],1,0,1
-US2733177A,1956-01-31,meyer ,['PROPN'],['ORG'],1,0,1
-US2733193A,1956-01-31,Haensel ,['PROPN'],[],1,0,1
-US2733197A,1956-01-31,cassan  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733200A,1956-01-31,Kunin ,['PROPN'],['GPE'],1,0,1
-US2733213A,1956-01-31,Jtdtclu wiiilc ,"['PROPN', 'INTJ']",[],1,0,2
-US2733227A,1952-06-26,Alcij ,['PROPN'],[],1,0,1
-US2733230A,1950-12-20,Linear ,['PROPN'],['ORG'],1,0,1
-US2733235A,1956-01-31,Table ii ,"['NOUN', 'PROPN']",[],1,0,2
-US2733260A,1956-01-31,Atpha  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733276A,1956-01-31,Tttt a ,"['PROPN', 'PRON']",[],1,0,2
-US2733281A,1956-01-31,Ulhfck ,['PROPN'],[],1,0,1
-US2733290A,1953-12-17,valiulis ,['PROPN'],[],1,0,1
-US2733293A,1956-01-31,Neumann ,['PROPN'],[],1,0,1
-US2733294A,1956-01-31,morris ,['PROPN'],[],1,0,1
-US2733303A,1951-08-02,Koenig ,['PROPN'],[],1,0,1
-US2733304A,1951-08-02,Koenig ,['PROPN'],[],1,0,1
-US2733305A,1948-09-30,Diemer ,['PROPN'],[],1,0,1
-US2733306A,1952-07-29,bedford  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733308A,1953-09-08,Vossen ,['PROPN'],['GPE'],1,0,1
-US2733309A,1956-01-31,elliott ,['PROPN'],[],1,0,1
-US2733312A,1956-01-31,christensen ,['PROPN'],[],1,0,1
-US2733314A,1956-01-31,schmidt ,['PROPN'],[],1,0,1
-US2733328A,1956-01-31,Newbold ,['PROPN'],[],1,0,1
-US2733341A,1956-01-31,Frequency  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733343A,1956-01-31,Ionization source ,"['PROPN', 'NOUN']",[],1,0,2
-US2733347A,1956-01-31,De liban ,"['PROPN', 'X']",[],1,0,2
-US2733349A,1956-01-31,Calutron ,['PROPN'],[],1,0,1
-US2733352A,1956-01-31,billin ,['PROPN'],['GPE'],1,0,1
-US2733354A,1956-01-31,Vloch ,['PROPN'],['GPE'],1,0,1
-US2733358A,1956-01-31,Signal ,['PROPN'],['ORG'],1,0,1
-US2733359A,1956-01-31,brown  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733366A,1956-01-31,Grimm ctal ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2733382A,1956-01-31,campbell  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2733385A,1956-01-31,bychinsky ,['PROPN'],[],1,0,1
-US2733390A,1952-06-25,scanlon  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733395A,1956-01-31,brown  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733396A,1956-01-31,Luthxr ,['PROPN'],[],1,0,1
-US2733428A,1956-01-31,Leblanc ,['PROPN'],[],1,0,1
-US2733430A,1956-01-31,steele ,['PROPN'],[],1,0,1
-US2733431A,1956-01-31,steele ,['PROPN'],[],1,0,1
-US2733439A,1956-02-07,Pikal ,['PROPN'],[],1,0,1
-US2733443A,1956-02-07,holder  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733444A,1956-02-07,Goldstein ,['PROPN'],[],1,0,1
-US2733453A,1956-02-07,Cifarelli ,['PROPN'],[],1,0,1
-US2733454A,1956-02-07,Bottner ,['PROPN'],[],1,0,1
-US2733457A,1956-02-07,Pizzuto ,['PROPN'],[],1,0,1
-US2733471A,1956-02-07,Paintbrush apron ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2733479A,1956-02-07,english ,['PROPN'],['NORP'],1,0,1
-US2733484A,1956-02-07,Jedlicka ,['PROPN'],[],1,0,1
-US2733487A,1956-02-07,Hauck ,['PROPN'],[],1,0,1
-US2733493A,1956-02-07,bryer  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733504A,1956-02-07,smith ,['PROPN'],[],1,0,1
-US2733505A,1956-02-07,Kenington ,['PROPN'],['ORG'],1,0,1
-US2733510A,1956-02-07,darago ,['PROPN'],[],1,0,1
-US2733516A,1956-02-07,tornebohm ,['PROPN'],[],1,0,1
-US2733517A,1956-02-07,gjersoe ,['PROPN'],[],1,0,1
-US2733518A,1956-02-07,Pszegon ,['PROPN'],['NORP'],1,0,1
-US2733525A,1956-02-07,Mcmahon ,['PROPN'],[],1,0,1
-US2733535A,1956-02-07,Rosen ,['PROPN'],[],1,0,1
-US2733536A,1956-02-07,terazono ,['PROPN'],[],1,0,1
-US2733537A,1956-02-07,Filsberg ,['PROPN'],['ORG'],1,0,1
-US2733544A,1956-02-07,Toy buildings ,"['PROPN', 'NOUN']",[],1,0,2
-US2733548A,1956-02-07,Sebel ,['PROPN'],[],1,0,1
-US2733556A,1956-02-07,Whitesell ,['PROPN'],['ORG'],1,0,1
-US2733567A,1956-02-07,Zellweger ,['PROPN'],[],1,0,1
-US2733570A,1956-02-07,macpherson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733580A,1956-02-07,miller ,['PROPN'],['ORG'],1,0,1
-US2733586A,1956-02-07,Candelabrum ,['PROPN'],[],1,0,1
-US2733591A,1956-02-07,Schumer ,['PROPN'],[],1,0,1
-US2733593A,1956-02-07,,['PROPN'],['GPE'],1,0,1
-US2733595A,1956-02-07,Ooooogogg ,['PROPN'],[],1,0,1
-US2733598A,1956-02-07,miner  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733601A,1956-02-07,mitchell ,['PROPN'],[],1,0,1
-US2733603A,1956-02-07,cornet ,['PROPN'],[],1,0,1
-US2733607A,1956-02-07,miller ,['PROPN'],['ORG'],1,0,1
-US2733619A,1956-02-07,smith ,['PROPN'],[],1,0,1
-US2733622A,1956-02-07,evans  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733624A,1956-02-07,Dowidat ,['PROPN'],['ORG'],1,0,1
-US2733626A,1956-02-07,Mesojedec ,['PROPN'],[],1,0,1
-US2733628A,1956-02-07,Bierl ,['PROPN'],[],1,0,1
-US2733631A,1956-02-07,Mclachlan ,['PROPN'],[],1,0,1
-US2733639A,1956-02-07,musser  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733641A,1956-02-07,praeg ,['PROPN'],['GPE'],1,0,1
-US2733652A,1956-02-07,Baler ,['PROPN'],[],1,0,1
-US2733659A,1956-02-07,booth  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733687A,1956-02-07,schmid ,['PROPN'],[],1,0,1
-US2733688A,1956-02-07,badenoch  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733689A,1956-02-07,badenoch  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733693A,1956-02-07,johnsson  ,"['PROPN', 'SPACE']",['GPE'],1,0,2
-US2733694A,1956-02-07,Brebeck ,['PROPN'],[],1,0,1
-US2733707A,1956-02-07,Skibiski ,['PROPN'],['NORP'],1,0,1
-US2733709A,1956-02-07,Sukacev ,['PROPN'],[],1,0,1
-US2733710A,1956-02-07,zibell ,['PROPN'],[],1,0,1
-US2733711A,1956-02-07,gibson ,['PROPN'],[],1,0,1
-US2733714A,1956-02-07,,['PROPN'],['GPE'],1,0,1
-US2733725A,1956-02-07,zachariassen ,['PROPN'],[],1,0,1
-US2733726A,1956-02-07,kaufman ,['PROPN'],[],1,0,1
-US2733728A,1956-02-07,sampselle  ,"['PROPN', 'SPACE']",['GPE'],1,0,2
-US2733732A,1956-02-07,baker ,['PROPN'],[],1,0,1
-US2733733A,1956-02-07,ghormley ,['PROPN'],[],1,0,1
-US2733744A,1950-04-26,stanton  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733762A,1956-02-07,Spray drier ,"['PROPN', 'NOUN']",[],1,0,2
-US2733770A,1956-02-07,le tourneau ,"['X', 'PROPN']",[],1,0,2
-US2733771A,1956-02-07,sullivan  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733773A,1956-02-07,Dauben ,['PROPN'],[],1,0,1
-US2733774A,1956-02-07,Pessel ,['PROPN'],[],1,0,1
-US2733780A,1956-02-07,myers  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733782A,1956-02-07,Brake hanger ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2733783A,1956-02-07,Brake drum ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2733785A,1956-02-07,beatty ,['PROPN'],[],1,0,1
-US2733789A,1956-02-07,tolle  ,"['PROPN', 'SPACE']",['GPE'],1,0,2
-US2733805A,1956-02-07,lyman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733810A,1956-02-07,murry ,['PROPN'],[],1,0,1
-US2733821A,1956-02-07,willrodt ,['PROPN'],[],1,0,1
-US2733823A,1956-02-07,evans ,['PROPN'],[],1,0,1
-US2733825A,1956-02-07,evans ,['PROPN'],[],1,0,1
-US2733832A,1956-02-07,Newton ,['PROPN'],['GPE'],1,0,1
-US2733833A,1956-02-07,skillman ,['PROPN'],[],1,0,1
-US2733852A,1956-02-07,williamson ,['PROPN'],[],1,0,1
-US2733856A,1952-12-04,Sludge centrifuge ,"['PROPN', 'NOUN']",[],1,0,2
-US2733859A,1956-02-07,landsiedel ,['PROPN'],[],1,0,1
-US2733861A,1952-08-01,Universal sw ,"['PROPN', 'PROPN']",[],1,0,2
-US2733862A,1952-12-26,Ooooo cccccctc ,"['PROPN', 'PROPN']",[],1,0,2
-US2733866A,1956-02-07,bernard  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733867A,1956-02-07,Bobbin winder ,"['PROPN', 'NOUN']",[],1,0,2
-US2733870A,1951-01-09,Furst ,['PROPN'],[],1,0,1
-US2733871A,1956-02-07,reinhold ,['PROPN'],[],1,0,1
-US2733872A,1956-02-07,Wurzel ,['PROPN'],[],1,0,1
-US2733879A,1956-02-07,noxon ,['PROPN'],[],1,0,1
-US2733880A,1956-02-07,,['PROPN'],['GPE'],1,0,1
-US2733885A,1956-02-07,Thermometer holder ,"['PROPN', 'NOUN']",[],1,0,2
-US2733887A,1956-02-07,schmidt ,['PROPN'],[],1,0,1
-US2733893A,1956-02-07,Segal ,['PROPN'],[],1,0,1
-US2733895A,1956-02-07,trenkle ,['PROPN'],[],1,0,1
-US2733898A,1956-02-07,christian ,['PROPN'],['NORP'],1,0,1
-US2733911A,1956-02-07,thurston ,['PROPN'],[],1,0,1
-US2733925A,1952-02-14,Denzler ,['PROPN'],[],1,0,1
-US2733926A,1956-02-07,colton ,['PROPN'],[],1,0,1
-US2733932A,1956-02-07,stidham ,['PROPN'],[],1,0,1
-US2733937A,1956-02-07,J- mowrer ,"['PROPN', 'NOUN']",[],1,0,2
-US2733950A,1956-02-07,Attor ey ,"['PROPN', 'PRON']",[],1,0,2
-US2733954A,1956-02-07,blake  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733957A,1956-02-07,Van buren ,"['PROPN', 'NOUN']",[],1,0,2
-US2733960A,1956-02-07,Barfod ,['PROPN'],[],1,0,1
-US2733962A,1956-02-07,Cairo ,['PROPN'],['GPE'],1,0,1
-US2733971A,1956-02-07,house  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2733979A,1956-02-07,Haensel ,['PROPN'],[],1,0,1
-US2733983A,1956-02-07,fecij  ,"['PROPN', 'SPACE']",[],1,0,2
-US2733989A,1956-02-07,Greffe ,['PROPN'],[],1,0,1
-US2734010A,1956-02-07,Asphalt ,['PROPN'],[],1,0,1
-US2734011A,1956-02-07,robinson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734018A,1953-09-28,Ircso ,['PROPN'],[],1,0,1
-US2734022A,1956-02-07,Hydroformemg process ,"['PROPN', 'NOUN']",[],1,0,2
-US2734025A,1954-02-04,Twatktnw att ,"['PROPN', 'PROPN']",['ORG'],1,0,2
-US2734048A,1950-04-22,Chsoh ,['PROPN'],[],1,0,1
-US2734053A,1956-02-07,Coxch ,['PROPN'],[],1,0,1
-US2734056A,1956-02-07,Chsoco ,['PROPN'],[],1,0,1
-US2734094A,1956-02-07,simon ,['PROPN'],[],1,0,1
-US2734098A,1956-02-07,bonnesen ,['PROPN'],[],1,0,1
-US2734107A,1956-02-07,reichel ,['PROPN'],[],1,0,1
-US2734111A,1956-02-07,kozacka  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734112A,1956-02-07,kozacka ,['PROPN'],[],1,0,1
-US2734113A,1956-02-07,Thermostat ,['PROPN'],['GPE'],1,0,1
-US2734116A,1956-02-07,rybolt ,['PROPN'],[],1,0,1
-US2734126A,1956-02-07,kruger  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734132A,1956-02-07,Heterodyne receiver ,"['PROPN', 'NOUN']",[],1,0,2
-US2734134A,1956-02-07,beard ,['PROPN'],[],1,0,1
-US2734138A,1956-02-07,oravec  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734148A,1950-04-03,Magnetron tube ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2734161A,1956-02-07,Frequency ,['PROPN'],[],1,0,1
-US2734164A,1956-02-07,knowlton ,['PROPN'],[],1,0,1
-US2734166A,1956-02-07,hooker ,['PROPN'],[],1,0,1
-US2734173A,1956-02-07,Ogurkowski ,['PROPN'],[],1,0,1
-US2734198A,1956-02-14,kutsche ,['PROPN'],[],1,0,1
-US2734201A,1956-02-14,bebry ,['PROPN'],[],1,0,1
-US2734204A,1956-02-14,Epstein ,['PROPN'],[],1,0,1
-US2734207A,1956-02-14,parrelli ,['PROPN'],[],1,0,1
-US2734216A,1956-02-14,brace  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734219A,1956-02-14,kaufman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734225A,1952-08-16,glynn  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734232A,1956-02-14,bodell  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734235A,1956-02-14,trammell ,['PROPN'],['ORG'],1,0,1
-US2734257A,1950-05-05,jonsson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734265A,1956-02-14,Akerib ,['PROPN'],[],1,0,1
-US2734269A,1956-02-14,Claret ,['PROPN'],[],1,0,1
-US2734271A,1956-02-14,Arc pantograph ,"['PROPN', 'NOUN']",[],1,0,2
-US2734281A,1953-03-09,kauffman ,['PROPN'],[],1,0,1
-US2734282A,1956-02-14,nemeth ,['PROPN'],['DATE'],1,0,1
-US2734284A,1956-02-14,Seurbom ,['PROPN'],[],1,0,1
-US2734296A,1956-02-14,bible ,['PROPN'],[],1,0,1
-US2734304A,1956-02-14,yulich ,['PROPN'],[],1,0,1
-US2734312A,1956-02-14,Vaghi ,['PROPN'],[],1,0,1
-US2734316A,1954-11-22,dawson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734322A,1956-02-14,Vaughan ,['PROPN'],[],1,0,1
-US2734326A,1956-02-14,gebhart  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734332A,1956-02-14,fisher  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734345A,1956-02-14,Lawler ,['PROPN'],['ORG'],1,0,1
-US2734352A,1956-02-14,Dolza ,['PROPN'],[],1,0,1
-US2734356A,1956-02-14,Kleinhans ,['PROPN'],['NORP'],1,0,1
-US2734358A,1956-02-14,Himmelfarb ,['PROPN'],['ORG'],1,0,1
-US2734361A,1956-02-14,Blais ,['PROPN'],['ORG'],1,0,1
-US2734372A,1956-02-14,kauffman ii ,"['PROPN', 'PROPN']",[],1,0,2
-US2734378A,1956-02-14,Tinttfd ,['PROPN'],['GPE'],1,0,1
-US2734389A,1956-02-14,Strecker ,['PROPN'],[],1,0,1
-US2734395A,1956-02-14,fawick ,['PROPN'],[],1,0,1
-US2734398A,1956-02-14,Bottcher ,['PROPN'],[],1,0,1
-US2734402A,1956-02-14,hoern  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734405A,1956-02-14,Cozzo ,['PROPN'],['NORP'],1,0,1
-US2734408A,1956-02-14,smith  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734410A,1956-02-14,Gipperich ,['PROPN'],[],1,0,1
-US2734415A,1950-05-02,Mobius ,['PROPN'],['ORG'],1,0,1
-US2734416A,1956-02-14,corwin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734417A,1956-02-14,hindsley ,['PROPN'],[],1,0,1
-US2734420A,1956-02-14,smith  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734421A,1956-02-14,Film projector ,"['PROPN', 'NOUN']",[],1,0,2
-US2734423A,1951-07-12,bertele  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734424A,1950-02-13,bertele  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734439A,1956-02-14,padrick  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734445A,1956-02-14,whitney ,['PROPN'],[],1,0,1
-US2734449A,1956-02-14,erickson ,['PROPN'],[],1,0,1
-US2734476A,1956-02-14,marsh ,['PROPN'],[],1,0,1
-US2734479A,1956-02-14,norris  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734480A,1956-02-14,morris  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734487A,1956-02-14,brainard  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734497A,1956-02-14,chayne ,['PROPN'],[],1,0,1
-US2734501A,1956-02-14,Fauser ,['PROPN'],[],1,0,1
-US2734512A,1956-02-14,H- long ,"['PROPN', 'ADV']",[],1,0,2
-US2734519A,1956-02-14,widdowson ,['PROPN'],[],1,0,1
-US2734530A,1956-02-14,Diaphragm housing ,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US2734535A,1956-02-14,neubauer ,['PROPN'],['ORG'],1,0,1
-US2734537A,1956-02-14,geisler  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734551A,1956-02-14,berdis  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734557A,1956-02-14,hickok  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734559A,1956-02-14,vaughn ,['PROPN'],[],1,0,1
-US2734565A,1956-02-14,lockman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734571A,1956-02-14,martell  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734573A,1956-02-14,Bailey ,['PROPN'],[],1,0,1
-US2734580A,1956-02-14,layne  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734583A,1956-02-14,milan ,['PROPN'],['GPE'],1,0,1
-US2734588A,1950-06-24,Schlumbohm ,['PROPN'],['NORP'],1,0,1
-US2734598A,1956-02-14,Pss xx ,"['PROPN', 'PROPN']",[],1,0,2
-US2734617A,1956-02-14,temple  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734622A,1956-02-14,everhart ,['PROPN'],[],1,0,1
-US2734632A,1956-02-14,De ment ,"['PROPN', 'NOUN']",[],1,0,2
-US2734636A,1956-02-14,foster  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734637A,1956-02-14,Fisher ,['PROPN'],[],1,0,1
-US2734659A,1956-02-14,smith  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734660A,1956-02-14,Fraser ,['PROPN'],[],1,0,1
-US2734666A,1956-02-14,Schmid ,['PROPN'],[],1,0,1
-US2734667A,1956-02-14,Grout pump ,"['PROPN', 'VERB']",[],1,0,2
-US2734685A,1956-02-14,Tomizo saito ,"['PROPN', 'NOUN']",[],1,0,2
-US2734686A,1956-02-14,oberhellmann ,['PROPN'],[],1,0,1
-US2734691A,1956-02-14,Godat ,['PROPN'],[],1,0,1
-US2734692A,1956-02-14,robinson ,['PROPN'],[],1,0,1
-US2734705A,1956-02-14,robertson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734706A,1956-02-14,jalbert ,['PROPN'],[],1,0,1
-US2734709A,1956-02-14,harrison  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734711A,1956-02-14,Tumbler holder ,"['PROPN', 'NOUN']",[],1,0,2
-US2734712A,1956-02-14,Fraser ,['PROPN'],[],1,0,1
-US2734724A,1956-02-14,larcxn   ,"['PROPN', 'SPACE']",[],1,0,2
-US2734735A,1956-02-14,payne ,['PROPN'],[],1,0,1
-US2734739A,1956-02-14,Messina ,['PROPN'],[],1,0,1
-US2734740A,1956-02-14,morris  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734742A,1954-08-17,Schwenk ,['PROPN'],[],1,0,1
-US2734754A,1956-02-14,barker  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734768A,1956-02-14,warner ,['PROPN'],['ORG'],1,0,1
-US2734770A,1956-02-14,Kurata ,['PROPN'],[],1,0,1
-US2734776A,1956-02-14,elliott ,['PROPN'],[],1,0,1
-US2734779A,1956-02-14,Vehicle wheel ,"['PROPN', 'NOUN']",[],1,0,2
-US2734783A,1956-02-14,safford ,['PROPN'],[],1,0,1
-US2734786A,1956-02-14,Mcnicoll ,['PROPN'],[],1,0,1
-US2734787A,1956-02-14,Rotifr r ,"['PROPN', 'NOUN']",[],1,0,2
-US2734795A,1956-02-14,Uozclz ,['PROPN'],[],1,0,1
-US2734799A,1956-02-14,Brooks ,['PROPN'],[],1,0,1
-US2734800A,1956-02-14,Brooks ,['PROPN'],[],1,0,1
-US2734801A,1956-02-14,Brooks ,['PROPN'],[],1,0,1
-US2734803A,1956-02-14,ruskin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734806A,1954-08-24,Germanium etchings ,"['PROPN', 'VERB']",[],1,0,2
-US2734825A,1953-06-16,morgan ,['PROPN'],[],1,0,1
-US2734830A,1950-01-13,,['PROPN'],['GPE'],1,0,1
-US2734832A,1956-02-14,lewis ,['PROPN'],[],1,0,1
-US2734833A,1956-02-14,Chjocor ,['PROPN'],['ORG'],1,0,1
-US2734841A,1956-02-14,Merriman ,['PROPN'],['ORG'],1,0,1
-US2734847A,1956-02-14,Ptoatw ,['PROPN'],[],1,0,1
-US2734850A,1951-05-19,brown  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734851A,1956-02-14,smith ,['PROPN'],[],1,0,1
-US2734872A,1956-02-14,,['PROPN'],['GPE'],1,0,1
-US2734885A,1954-08-31,,['PROPN'],['GPE'],1,0,1
-US2734895A,1956-02-14,Cochj ,['PROPN'],[],1,0,1
-US2734897A,1956-02-14,Chacoo ,['PROPN'],[],1,0,1
-US2734900A,1953-12-28,Chxgh ,['PROPN'],[],1,0,1
-US2734935A,1956-02-14,hanley  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734938A,1956-02-14,goodale ,['PROPN'],[],1,0,1
-US2734943A,1956-02-14,Liguorietai ,['PROPN'],['GPE'],1,0,1
-US2734946A,1951-04-03,Mercer ,['PROPN'],[],1,0,1
-US2734969A,1956-02-14,Mallory ,['PROPN'],[],1,0,1
-US2734978A,1956-02-14,Bulgin ,['PROPN'],['ORG'],1,0,1
-US2734983A,1956-02-14,krichton ,['PROPN'],[],1,0,1
-US2734986A,1956-02-14,Gameros ,['PROPN'],[],1,0,1
-US2734990A,1956-02-14,leuschner  ,"['PROPN', 'SPACE']",[],1,0,2
-US2734991A,1956-02-14,shapiro  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735000A,1956-02-14,Globe holder ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2735008A,1956-02-14,scott ,['PROPN'],[],1,0,1
-US2735009A,1956-02-14,harry ,['PROPN'],[],1,0,1
-US2735010A,1956-02-14,bedford  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735017A,1956-02-14,beard ettal ,"['PROPN', 'NOUN']",[],1,0,2
-US2735018A,1956-02-14,Mclachlan ,['PROPN'],[],1,0,1
-US2735020A,1956-02-14,crawford  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735021A,1956-02-14,nilssen ,['PROPN'],[],1,0,1
-US2735022A,1956-02-14,white  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735028A,1950-07-04,brouwer ,['PROPN'],[],1,0,1
-US2735032A,1952-10-09,bradley ,['PROPN'],[],1,0,1
-US2735048A,1951-03-15,Chs cjhj ,"['PROPN', 'VERB']",[],1,0,2
-US2735049A,1956-02-14,De forest ,"['PROPN', 'NOUN']",[],1,0,2
-US2735054A,1956-02-14,Schaelchlin ,['PROPN'],[],1,0,1
-US2735064A,1956-02-14,Salzberg ,['PROPN'],['GPE'],1,0,1
-US2735075A,1956-02-14,thomason  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735087A,1956-02-14,lingerfelt ,['PROPN'],[],1,0,1
-US2735090A,1956-02-14,maenpaa  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735094A,1956-02-21,Plotkin ,['PROPN'],[],1,0,1
-US2735096A,1956-02-21,miller  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2735099A,1956-02-21,lewis ,['PROPN'],[],1,0,1
-US2735100A,1956-02-21,Erteszek ,['PROPN'],[],1,0,1
-US2735103A,1956-02-21,Saftlas ,['PROPN'],['GPE'],1,0,1
-US2735112A,1956-02-21,Myers ,['PROPN'],[],1,0,1
-US2735119A,1956-02-21,dodge ,['PROPN'],[],1,0,1
-US2735120A,1956-02-21,Zelinka ,['PROPN'],[],1,0,1
-US2735139A,1956-02-21,morin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735141A,1956-02-21,Condenser supports ,"['PROPN', 'VERB']",[],1,0,2
-US2735147A,1956-02-21,Nielsen ,['PROPN'],[],1,0,1
-US2735149A,1956-02-21,frank ,['PROPN'],[],1,0,1
-US2735161A,1951-05-18,pulman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735179A,1956-02-21,stanton ,['PROPN'],[],1,0,1
-US2735185A,1956-02-21,Naphtal ,['PROPN'],[],1,0,1
-US2735189A,1956-02-21,bjornberg  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735194A,1956-02-21,kaiser ,['PROPN'],[],1,0,1
-US2735195A,1956-02-21,eaton ,['PROPN'],[],1,0,1
-US2735200A,1956-02-21,F arps ,"['PROPN', 'VERB']",[],1,0,2
-US2735201A,1956-02-21,gudgeon ,['PROPN'],[],1,0,1
-US2735207A,1956-02-21,christiansen ,['PROPN'],[],1,0,1
-US2735210A,1956-02-21,Weed guard ,"['PROPN', 'NOUN']",[],1,0,2
-US2735216A,1956-02-21,Mouse trap ,"['PROPN', 'VERB']",['ORG'],1,0,2
-US2735229A,1939-08-25,honiss  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735238A,1956-02-21,heffley ,['PROPN'],[],1,0,1
-US2735239A,1956-02-21,gibson ,['PROPN'],[],1,0,1
-US2735245A,1956-02-21,F grieco ,"['PROPN', 'NOUN']",[],1,0,2
-US2735252A,1956-02-21,mcclendon ,['PROPN'],[],1,0,1
-US2735257A,1956-02-21,legard ,['PROPN'],[],1,0,1
-US2735259A,1956-02-21,Gisiger ,['PROPN'],[],1,0,1
-US2735263A,1956-02-21,charshafian  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735271A,1956-02-21,evans ,['PROPN'],[],1,0,1
-US2735275A,1956-02-21,Inyentor ,['PROPN'],[],1,0,1
-US2735282A,1952-11-09,Piltz ,['PROPN'],['GPE'],1,0,1
-US2735286A,1956-02-21,Sperry ,['PROPN'],['ORG'],1,0,1
-US2735288A,1956-02-21,trammell ,['PROPN'],['ORG'],1,0,1
-US2735289A,1956-02-21,trammell ,['PROPN'],['ORG'],1,0,1
-US2735294A,1956-02-21,fisher  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735298A,1956-02-21,Dispenza ,['PROPN'],[],1,0,1
-US2735299A,1956-02-21,Flowmeter ,['PROPN'],[],1,0,1
-US2735301A,1956-02-21,Schwob ,['PROPN'],[],1,0,1
-US2735304A,1956-02-21,toppfb haw ,"['PROPN', 'NOUN']",[],1,0,2
-US2735310A,1956-02-21,mofarland  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735315A,1956-02-21,zenker ,['PROPN'],[],1,0,1
-US2735318A,1956-02-21,Hrebicek ,['PROPN'],['ORG'],1,0,1
-US2735333A,1956-02-21,mitchell ,['PROPN'],[],1,0,1
-US2735337A,1956-02-21,Frischmann ,['PROPN'],[],1,0,1
-US2735339A,1956-02-21,Yoshikazu doi ,"['PROPN', 'NOUN']",[],1,0,2
-US2735342A,1956-02-21,Glaser ,['PROPN'],[],1,0,1
-US2735351A,1956-02-21,abrahamsen  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735357A,1956-02-21,gagnon  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735367A,1956-02-21,kenney  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2735382A,1956-02-21,hansen ,['PROPN'],[],1,0,1
-US2735383A,1956-02-21,Gerbracht ,['PROPN'],[],1,0,1
-US2735384A,1956-02-21,Stoker ,['PROPN'],[],1,0,1
-US2735385A,1956-02-21,De ascentiis ,"['PROPN', 'VERB']",[],1,0,2
-US2735393A,1956-02-21,White ,['PROPN'],[],1,0,1
-US2735400A,1956-02-21,stubbs  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735402A,1956-02-21,De lorenzo ,"['PROPN', 'NOUN']",[],1,0,2
-US2735406A,1956-02-21,britton ,['PROPN'],['ORG'],1,0,1
-US2735415A,1956-02-21,slonek ,['PROPN'],[],1,0,1
-US2735423A,1956-02-21,powell ,['PROPN'],[],1,0,1
-US2735426A,1956-02-21,claydon ,['PROPN'],['GPE'],1,0,1
-US2735435A,1956-02-21,feinstein ,['PROPN'],[],1,0,1
-US2735436A,1956-02-21,Russo ,['PROPN'],[],1,0,1
-US2735442A,1956-02-21,kenney  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2735464A,1956-02-21,kerven  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735467A,1956-02-21,Hellmich ,['PROPN'],[],1,0,1
-US2735471A,1956-02-21,mclean  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735472A,1956-02-21,beery  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735490A,1956-02-21,Keysort keypunch ,"['PROPN', 'NOUN']",[],1,0,2
-US2735491A,1956-02-21,frost  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735493A,1956-02-21,munhausen  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735505A,1956-02-21,Kleiman ,['PROPN'],['NORP'],1,0,1
-US2735506A,1956-02-21,glasgow  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735507A,1956-02-21,Vogel ,['PROPN'],['ORG'],1,0,1
-US2735511A,1956-02-21,holmberg  ,"['PROPN', 'SPACE']",['GPE'],1,0,2
-US2735515A,1956-02-21,cloudsley  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735519A,1956-02-21,Frischmann ,['PROPN'],[],1,0,1
-US2735525A,1951-02-03,Martindell ,['PROPN'],[],1,0,1
-US2735528A,1956-02-21,dodge ,['PROPN'],[],1,0,1
-US2735532A,1953-06-08,Meyer ,['PROPN'],[],1,0,1
-US2735534A,1956-02-21,hapman ,['PROPN'],[],1,0,1
-US2735538A,1956-02-21,boehm ,['PROPN'],[],1,0,1
-US2735541A,1956-02-21,mosler  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735545A,1956-02-21,Norman ,['PROPN'],['NORP'],1,0,1
-US2735553A,1956-02-21,lehman ,['PROPN'],['ORG'],1,0,1
-US2735560A,1956-02-21,weber ,['PROPN'],[],1,0,1
-US2735570A,1956-02-21,stockton ,['PROPN'],[],1,0,1
-US2735581A,1956-02-21,Erdmann ,['PROPN'],[],1,0,1
-US2735606A,1956-02-21,paige ,['PROPN'],[],1,0,1
-US2735622A,1956-02-21,Pintarell ,['PROPN'],[],1,0,1
-US2735631A,1956-02-21,sexton ,['PROPN'],[],1,0,1
-US2735647A,1950-06-24,duport ,['PROPN'],[],1,0,1
-US2735651A,1956-02-21,mcclernon ,['PROPN'],[],1,0,1
-US2735654A,1956-02-21,hildebrandt ,['PROPN'],['ORG'],1,0,1
-US2735659A,1956-02-21,Condenser for ,"['PROPN', 'ADP']",[],1,0,2
-US2735669A,1956-02-21,seiler  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735678A,1956-02-21,mokay  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735681A,1956-02-21,sherman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735691A,1956-02-21,carlson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735703A,1956-02-21,goodman ,['PROPN'],[],1,0,1
-US2735706A,1956-02-21,pelcin ,['PROPN'],[],1,0,1
-US2735707A,1956-02-21,Sylvan ,['PROPN'],[],1,0,1
-US2735713A,1956-02-21,blakeley ,['PROPN'],[],1,0,1
-US2735716A,1956-02-21,shimabukuro ,['PROPN'],[],1,0,1
-US2735717A,1956-02-21,harman ,['PROPN'],[],1,0,1
-US2735718A,1956-02-21,D robinson ,"['PROPN', 'NOUN']",[],1,0,2
-US2735723A,1956-02-21,shireman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735727A,1951-04-19,Bonmartini ,['PROPN'],[],1,0,1
-US2735728A,1956-02-21,powell  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735731A,1956-02-21,freebairn ,['PROPN'],[],1,0,1
-US2735733A,1956-02-21,cushman ,['PROPN'],[],1,0,1
-US2735734A,1956-02-21,Kalikow ,['PROPN'],[],1,0,1
-US2735738A,1956-02-21,Berne ,['PROPN'],[],1,0,1
-US2735740A,1956-02-21,soans ,['PROPN'],[],1,0,1
-US2735772A,1956-02-21,Mihaly ,['PROPN'],[],1,0,1
-US2735790A,1954-10-20,Ttnitehi ,['PROPN'],[],1,0,1
-US2735792A,1956-02-21,kroyer  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735804A,1956-02-21,Stack ,['PROPN'],[],1,0,1
-US2735812A,1952-03-13,Van hoek ,"['PROPN', 'NOUN']",[],1,0,2
-US2735834A,1956-02-21,,['PROPN'],['GPE'],1,0,1
-US2735839A,1950-12-27,schrenk  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735840A,1956-02-21,Vacuum pump ,"['PROPN', 'VERB']",[],1,0,2
-US2735889A,1956-02-21,canfora  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735891A,1956-02-21,Sengebusch ,['PROPN'],[],1,0,1
-US2735898A,1956-02-21,bartha ,['PROPN'],[],1,0,1
-US2735899A,1948-10-02,Essel ,['PROPN'],[],1,0,1
-US2735904A,1956-02-21,Slonczewski ,['PROPN'],[],1,0,1
-US2735906A,1956-02-21,Avrunin ,['PROPN'],[],1,0,1
-US2735907A,1956-02-21,Moisture ,['PROPN'],[],1,0,1
-US2735912A,1956-02-21,Ulanet ,['PROPN'],[],1,0,1
-US2735920A,1956-02-21,Valliere ,['PROPN'],['GPE'],1,0,1
-US2735926A,1956-02-21,langlois ,['PROPN'],[],1,0,1
-US2735933A,1956-02-21,Pulse repeater ,"['PROPN', 'NOUN']",[],1,0,2
-US2735944A,1956-02-21,greer  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735952A,1956-02-21,merrill  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2735955A,1956-02-21,Electron tube ,"['PROPN', 'NOUN']",[],1,0,2
-US2735959A,1956-02-21,kather ,['PROPN'],[],1,0,1
-US2735960A,1956-02-21,h hamilton ,"['PROPN', 'PROPN']",['ORG'],1,0,2
-US2735963A,1956-02-21,Suppressor circuit ,"['PROPN', 'NOUN']",[],1,0,2
-US2735965A,1956-02-21,balanda  ,"['PROPN', 'SPACE']",[],1,0,2
-US2735973A,1956-02-21,Akerman ,['PROPN'],[],1,0,1
-US2735983A,1951-02-15,mcleod ,['PROPN'],[],1,0,1
-US2735985A,1956-02-21,Waveguide junction ,"['PROPN', 'NOUN']",[],1,0,2
-US2735992A,1956-02-21,bailey  ,"['PROPN', 'SPACE']",[],1,0,2
-US2736004A,1956-02-21,Greene ,['PROPN'],[],1,0,1
-US2736008A,1956-02-21,miller ,['PROPN'],['ORG'],1,0,1
-US2736020A,1956-02-21,Atlas ,['PROPN'],[],1,0,1
-US2736028A,1956-02-28,Sternlicht ,['PROPN'],['ORG'],1,0,1
-US2736038A,1956-02-28,mansfield ,['PROPN'],[],1,0,1
-US2736043A,1956-02-28,temple ,['PROPN'],[],1,0,1
-US2736045A,1956-02-28,kamborian  ,"['PROPN', 'SPACE']",['NORP'],1,0,2
-US2736054A,1956-02-28,Anchor trim ,"['PROPN', 'VERB']",['NORP'],1,0,2
-US2736060A,1956-02-28,glynn ,['PROPN'],[],1,0,1
-US2736064A,1956-02-28,rubin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2736067A,1956-02-28,Boschi ,['PROPN'],['GPE'],1,0,1
-US2736069A,1956-02-28,mitchell ,['PROPN'],[],1,0,1
-US2736074A,1956-02-28,deruette  ,"['PROPN', 'SPACE']",[],1,0,2
-US2736093A,1956-02-28,Fix finder ,"['PROPN', 'NOUN']",[],1,0,2
-US2736097A,1956-02-28,coleman ,['PROPN'],[],1,0,1
-US2736110A,1956-02-28,hardimon ,['PROPN'],[],1,0,1
-US2736112A,1956-02-28,Boissonnault ,['PROPN'],[],1,0,1
-US2736124A,1956-02-28,Fishing luke ,"['NOUN', 'PROPN']",[],1,0,2
-US2736126A,1956-02-28,Eishhook remover ,"['PROPN', 'VERB']",[],1,0,2
-US2736127A,1956-02-28,mccann ,['PROPN'],[],1,0,1
-US2736128A,1956-02-28,Insect exterminator ,"['PROPN', 'NOUN']",[],1,0,2
-US2736146A,1956-02-28,brooks ,['PROPN'],['ORG'],1,0,1
-US2736151A,1956-02-28,mckenzie ,['PROPN'],[],1,0,1
-US2736156A,1956-02-28,hardman  ,"['PROPN', 'SPACE']",[],1,0,2
-US2736167A,1956-02-28,teague ,['PROPN'],[],1,0,1
-US2736172A,1956-02-28,mcchesney ,['PROPN'],[],1,0,1
-US2736189A,1956-02-28,brandt  ,"['PROPN', 'SPACE']",[],1,0,2
-US2736196A,1956-02-28,Dynamometer ,['PROPN'],[],1,0,1
-US2736213A,1956-02-28,Farjon ,['PROPN'],[],1,0,1
-US2736220A,1956-02-28,Kamuk ,['PROPN'],['GPE'],1,0,1
-US2736223A,1956-02-28,Seybold ,['PROPN'],[],1,0,1
-US2736224A,1956-02-28,Trinkle ,['PROPN'],['ORG'],1,0,1
-US2736230A,1956-02-28,domeshek ,['PROPN'],[],1,0,1
-US2736231A,1956-02-28,Bauersfeld ,['PROPN'],[],1,0,1
-US2736234A,1956-02-28,Schlumpf ,['PROPN'],['ORG'],1,0,1
-US2736247A,1956-02-28,Hornbostel ,['PROPN'],[],1,0,1
-US2736248A,1956-02-28,Ggggggggoggg ,['PROPN'],[],1,0,1
-US2736254A,1956-02-28,kropp ,['PROPN'],['ORG'],1,0,1
-US2736258A,1956-02-28,J vedder ,"['PROPN', 'NOUN']",[],1,0,2
-US2736260A,1956-02-28,Schlumberger ,['PROPN'],[],1,0,1
-US2736267A,1956-02-28,mosbacher ,['PROPN'],[],1,0,1
-US2736271A,1956-02-28,Volpe ,['PROPN'],['GPE'],1,0,1
-US2736329A,1953-06-22,"Umbrella 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2736330A,1953-05-18,"Crutch 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2736860A,1952-04-09,"Tester 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2736908A,1953-04-15,"Bolster 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2737011A,1953-07-31,"Metronome 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2737049A,1954-02-03,"Torquemeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2737052A,1956-03-06,noxon ,['PROPN'],[],1,0,1
-US2737116A,1952-01-29,"Grenade 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2737117A,1944-11-07,"Fuze 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2737270A,1949-05-11,"Beam 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2737435A,1956-03-06,borck ,['PROPN'],[],1,0,1
-US2737555A,1953-05-12,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2737812A,1952-06-23,"Pipette 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2738120A,1952-05-19,"Ladder 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2738146A,1953-02-19,"Convertiplane 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2738154A,1952-08-12,"Hanger 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2738465A,1951-05-05,"Equalizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2738508A,1953-02-11,"Headgear 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2738750A,1954-10-18,"Anchor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2739128A,1951-03-23,,['PROPN'],['GPE'],1,0,1
-US2739144A,1956-03-20,Iio hsvm ,"['PROPN', 'VERB']",[],1,0,2
-US2739226A,1949-06-03,"Luminaire 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2739507A,1951-11-01,"Microtome 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2739532A,1956-03-27,fernandez ,['PROPN'],[],1,0,1
-US2739661A,1952-07-25,"Muffler 
-       ","['PROPN', 'SPACE']",['NORP'],1,0,2
-US2739755A,1952-10-02,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2739835A,1950-10-14,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2740234A,1952-03-31,"Transplanter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2740279A,1956-04-03,getaz ,['PROPN'],[],1,0,1
-US2740320A,1954-10-22,"Refractometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2740395A,1954-04-01,"Brazier 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2740467A,1951-09-06,"Headrest 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2740577A,1953-03-26,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2740597A,1951-05-11,"Airfoil 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2740865A,1952-04-30,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2740966A,1950-02-03,"Collar 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741014A,1954-06-21,"Roller 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741066A,1953-04-06,"Trap 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741409A,1953-12-22,"Needle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741467A,1952-11-01,"Aerator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741532A,1956-04-10,Hoasox ,['PROPN'],[],1,0,1
-US2741685A,1952-07-05,"Rheostat 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741811A,1952-06-26,"Marquee 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2741819A,1952-08-26,"Buckle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741820A,1952-06-26,"Fastener 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741928A,1956-04-17,Hagermann ,['PROPN'],['ORG'],1,0,1
-US2741942A,1953-10-16,"Refractometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741969A,1952-07-25,"Cultivator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2741979A,1956-04-17,arcus ,['PROPN'],[],1,0,1
-US2741980A,1956-04-17,arcus ,['PROPN'],[],1,0,1
-US2742106A,1953-12-23,"Trap 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2742116A,1950-08-09,"Grill 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2742453A,1952-07-22,"Polyhydroxypolyalkylenepolyureas 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2742645A,1953-08-12,"Glove 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2742695A,1952-11-06,"Razor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2742754A,1950-05-03,"Spindle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2742812A,1956-04-24,evans ,['PROPN'],[],1,0,1
-US2742897A,1954-09-15,"Spirometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2742931A,1956-04-24,De ganahl ,"['PROPN', 'X']",[],1,0,2
-US2743090A,1953-08-10,"Vibrator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2743188A,1952-04-11,"Putty 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2743376A,1956-04-24,armistead ,['PROPN'],[],1,0,1
-US2743824A,1956-05-01,ervin ,['PROPN'],[],1,0,1
-US2743829A,1956-05-01,ballard ,['PROPN'],[],1,0,1
-US2743839A,1956-05-01,hulterstrum ,['PROPN'],[],1,0,1
-US2743847A,1956-05-01,pollak ,['PROPN'],[],1,0,1
-US2743851A,1956-05-01,Condiment shaker ,"['PROPN', 'NOUN']",[],1,0,2
-US2743858A,1949-08-09,clothier  ,"['PROPN', 'SPACE']",[],1,0,2
-US2743859A,1956-05-01,Negoro ,['PROPN'],['ORG'],1,0,1
-US2743972A,1952-01-26,"Piston 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2744143A,1956-05-01,filar ,['PROPN'],[],1,0,1
-US2744677A,1952-10-24,"Compressor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2744702A,1952-06-13,"Kite 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2744721A,1954-11-03,"Turbine 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2744811A,1953-06-24,"Process 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2745102A,1945-12-14,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2745115A,1953-09-23,"Hammock 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2745215A,1956-05-15,Turkey caller ,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US2745242A,1954-03-10,"Timepiece 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2745307A,1952-08-30,"Harmonicas 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2745397A,1956-05-15,levin ,['PROPN'],[],1,0,1
-US2745593A,1952-10-02,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2745597A,1953-01-13,"Fan 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2745598A,1953-06-15,"Fan 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2745999A,1951-08-10,"Vibrator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2746039A,1952-04-28,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2746658A,1953-01-30,"Quiver 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2746744A,1951-12-11,"Snubber 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2747182A,1953-01-13,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2747195A,1953-08-20,"Hat 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2747197A,1956-05-29,bailey  ,"['PROPN', 'SPACE']",[],1,0,2
-US2747858A,1956-05-29,miller ,['PROPN'],['ORG'],1,0,1
-US2747908A,1953-11-17,"Fastener 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2748164A,1956-05-29,Conhj ,['PROPN'],[],1,0,1
-US2748436A,1953-03-23,"Buckle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2748487A,1951-04-30,"Planimeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2748514A,1952-03-28,"Indicator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2748607A,1952-03-04,"Vibrator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2749020A,1950-07-19,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2749027A,1947-12-26,"Compressor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2749097A,1953-12-07,"Vibrator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2749194A,1956-06-05,Piston ring ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2749207A,1956-06-05,Hoxchi ,['PROPN'],['ORG'],1,0,1
-US2749210A,1956-06-05,Antitarnish  ,"['PROPN', 'SPACE']",['NORP'],1,0,2
-US2749346A,1956-06-05,Tetrahydropyridine compounds ,"['PROPN', 'VERB']",['ORG'],1,0,2
-US2749416A,1953-03-02,"Rheostat 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2749483A,1951-08-29,"Ignitron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2749506A,1950-08-21,"Magnetometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2749512A,1952-08-23,"Ohmmeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2749589A,1952-07-14,"Fastener 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2749623A,1956-06-12,La barre ,"['PROPN', 'NOUN']",[],1,0,2
-US2749750A,1953-03-09,"Anemometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2749910A,1956-06-12,Faulconer ,['PROPN'],[],1,0,1
-US2749912A,1956-06-12,teitler  ,"['PROPN', 'SPACE']",[],1,0,2
-US2749916A,1956-06-12,mcconnel  ,"['PROPN', 'SPACE']",[],1,0,2
-US2749921A,1956-06-12,caponette  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2750006A,1950-07-03,"Brake 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2750102A,1953-12-04,"Envelope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2750136A,1955-04-08,"Kite 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2750224A,1951-06-14,"Gambrel 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2750520A,1956-06-12,langsdorf ,['PROPN'],[],1,0,1
-US2750603A,1952-05-08,"Crib 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2750801A,1956-06-19,fauvelot  ,"['PROPN', 'SPACE']",[],1,0,2
-US2750805A,1956-06-19,Belt aligner ,"['PROPN', 'NOUN']",[],1,0,2
-US2750812A,1956-06-19,Mirone ,['PROPN'],[],1,0,1
-US2750814A,1951-10-30,Wildhaber ,['PROPN'],[],1,0,1
-US2750827A,1956-06-19,Evans ,['PROPN'],[],1,0,1
-US2750830A,1956-06-19,Wonsowicz ,['PROPN'],[],1,0,1
-US2750865A,1951-02-14,"Diffuser 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2751065A,1956-06-19,Thomson ,['PROPN'],['ORG'],1,0,1
-US2751068A,1956-06-19,Haddox ,['PROPN'],[],1,0,1
-US2751069A,1956-06-19,goodman ,['PROPN'],[],1,0,1
-US2751111A,1952-07-05,"Carrier 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2751140A,1953-04-06,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2751429A,1954-06-03,"Vectorscope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2751701A,1953-05-04,grupe  ,"['PROPN', 'SPACE']",[],1,0,2
-US2751865A,1952-09-23,"Transplanter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2751878A,1956-06-26,De bodor ,"['PROPN', 'NOUN']",[],1,0,2
-US2752200A,1955-04-19,"Sprayer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2752348A,1956-06-26,Cxnhs ,['PROPN'],[],1,0,1
-US2752399A,1956-06-26,hydroxy i ,"['PROPN', 'PRON']",[],1,0,2
-US2752660A,1952-08-29,"Slasher 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2753059A,1953-01-12,"Loader 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2753098A,1951-11-05,"Defoamer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2753346A,1956-07-03,Huemer ,['PROPN'],[],1,0,1
-US2753354A,1954-06-22,"Isonicotinoylaminobiguanide 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2753566A,1954-06-02,"Headpiece 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2753761A,1952-09-30,"Microtomes 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2753905A,1953-05-08,"Nutcracker 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2754153A,1956-07-10,Barthod ,['PROPN'],[],1,0,1
-US2754156A,1956-07-10,elderkin  ,"['PROPN', 'SPACE']",[],1,0,2
-US2754157A,1956-07-10,Thiman ,['PROPN'],['ORG'],1,0,1
-US2754165A,1956-07-10,Piston ring ,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US2754168A,1956-07-10,atlee  ,"['PROPN', 'SPACE']",[],1,0,2
-US2754169A,1956-07-10,M richardson ,"['PROPN', 'NOUN']",[],1,0,2
-US2754170A,1956-07-10,Felton ,['PROPN'],[],1,0,1
-US2754354A,1952-08-18,"Insulator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2754457A,1956-07-10,L liij ,"['NOUN', 'PROPN']",[],1,0,2
-US2754513A,1951-12-04,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2754676A,1954-03-17,"Densimeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2754683A,1954-02-03,"Torquemeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2754702A,1954-02-17,"Anvil 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2754919A,1953-04-27,"Propeller 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2755078A,1952-10-30,"Governor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2755084A,1956-07-17,Dodegge ,['PROPN'],[],1,0,1
-US2755278A,1956-07-17,Thiamori ,['PROPN'],[],1,0,1
-US2755282A,1956-07-17,hachmuth  ,"['PROPN', 'SPACE']",['GPE'],1,0,2
-US2755443A,1956-07-17,tavis ,['PROPN'],[],1,0,1
-US2755561A,1956-07-24,hqlnjaah ,['PROPN'],[],1,0,1
-US2755572A,1952-09-06,"Loader 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2755788A,1953-12-17,"Catapult 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2755803A,1955-01-05,"Eyeshield 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2755867A,1951-08-13,"Propeller 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2756006A,1951-10-03,"Bobbin 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2756214A,1956-07-24,Tahiwiivtk ,['PROPN'],['ORG'],1,0,1
-US2756228A,1956-07-24,Hjncho ,['PROPN'],[],1,0,1
-US2756322A,1952-12-05,"Vaporizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2756419A,1952-01-05,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2756587A,1953-01-29,"Tensiometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2756592A,1953-01-12,"Tensiometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2756597A,1953-12-07,"Pipette 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2756872A,1956-07-31,hartley  ,"['PROPN', 'SPACE']",[],1,0,2
-US2757063A,1956-07-31,Pagnard ,['PROPN'],[],1,0,1
-US2757251A,1953-10-19,"Governor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2757314A,1951-01-19,"Resnatron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2757344A,1953-01-12,"Tuner 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2757658A,1952-12-05,"Gun 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2757759A,1953-06-01,"Brake 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2757861A,1956-08-07,Wittenmyer ,['PROPN'],[],1,0,1
-US2757968A,1956-08-07,campbell  ,"['PROPN', 'SPACE']",['ORG'],1,0,2
-US2757995A,1954-03-29,"Piston 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2758000A,1954-02-15,"Showcase 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2758391A,1956-08-14,lanham    ,"['PROPN', 'SPACE']",[],1,0,2
-US2758478A,1956-08-14,Fieux ,['PROPN'],[],1,0,1
-US2758713A,1956-08-14,Hardinge ,['PROPN'],[],1,0,1
-US2758739A,1954-08-02,"Box 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2758756A,1953-11-02,"Feeder 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2758770A,1954-03-30,"Ladder 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2758785A,1956-08-14,Hvventdrs ,['PROPN'],['ORG'],1,0,1
-US2758991A,1956-08-14,Hvvevvtofry ,['PROPN'],[],1,0,1
-US2759292A,1953-09-24,"Fogger 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2759314A,1954-06-28,"Cultivator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2759350A,1954-12-16,"Padlock 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2759574A,1955-10-17,"Vane 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2759915A,1956-08-21,Gorin ,['PROPN'],[],1,0,1
-US2759918A,1956-08-21,Gorin ,['PROPN'],[],1,0,1
-US2759919A,1956-08-21,Gorin ,['PROPN'],[],1,0,1
-US2760164A,1955-04-22,"Equalizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2760288A,1956-08-28,Shoenfeld ,['PROPN'],['GPE'],1,0,1
-US2760302A,1953-10-26,"Toy 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2760333A,1955-05-11,"Clock 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2760369A,1956-08-28,Vibration analyzer ,"['PROPN', 'NOUN']",[],1,0,2
-US2760419A,1951-10-30,"Illuminator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2760496A,1954-05-10,"Pipe 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2760717A,1954-04-15,"Envelope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2760719A,1952-06-30,"Compressor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2760824A,1954-11-26,"Sprinkler 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2760825A,1952-12-01,"Sprayer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2760992A,1956-08-28,Naphthalene ,['PROPN'],[],1,0,1
-US2761070A,1953-08-20,"Dosimeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2761139A,1946-05-31,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2761140A,1952-04-23,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2761240A,1951-01-03,"Trap 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2761314A,1953-12-03,"Dynamometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2761374A,1955-08-15,"Smokehouse 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2761461A,1954-10-15,"Umbrella 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2761525A,1950-07-26,"Muffler 
-       ","['PROPN', 'SPACE']",['NORP'],1,0,2
-US2762008A,1955-03-22,"Rectifier 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2762037A,1954-08-31,"Signal 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2762056A,1955-07-29,"Tassel 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2762203A,1956-09-11,Schlumbohm ,['PROPN'],['NORP'],1,0,1
-US2762293A,1953-05-14,"Rotisserie 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2762353A,1954-11-19,"Comb 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2762561A,1956-09-11,Rcampos ,['PROPN'],[],1,0,1
-US2762590A,1954-06-17,"Kite 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2762593A,1954-02-24,"Pallet 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2762645A,1953-12-23,"Keeper 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2762925A,1952-10-02,"Tuner 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2762973A,1946-01-24,"Matchmeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2763020A,1955-05-20,"Toothbrush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2763146A,1953-02-12,"Sock 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2763278A,1955-04-20,"Controller 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2763402A,1952-06-10,"Adapter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2763790A,1952-04-05,"Comparator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2763808A,1956-09-18,lurcott ,['PROPN'],[],1,0,1
-US2763868A,1954-11-05,"Cape 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2764235A,1951-02-07,"Windows 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2764308A,1953-07-22,"Box 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2764385A,1951-06-26,"Faucet 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2764452A,1954-06-28,"Sprayer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2765189A,1952-11-28,"Keeper 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2765327A,1952-08-07,"Process 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2765344A,1956-10-02,Vjilllwul ,['PROPN'],[],1,0,1
-US2765424A,1951-03-30,"Magnetron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2765425A,1946-03-01,"Magnetron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2765756A,1955-07-29,"Transplanter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2765840A,1955-01-10,"Headrest 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2765859A,1954-09-15,"Fan 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2765885A,1954-01-07,"Jamb 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2766096A,1953-05-08,"Platen 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2766144A,1955-10-31,"Photocell 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2766158A,1954-12-28,"Insole 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2766290A,1956-10-09,Chxch ,['PROPN'],[],1,0,1
-US2766394A,1955-02-18,"Headlight 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2766454A,1954-08-30,"Apron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2766528A,1953-10-22,"Isometrograph 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2766529A,1953-04-09,"Pantograph 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2766617A,1951-06-29,"Torquemeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2766683A,1954-05-17,"Griddle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2767397A,1951-03-31,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2767404A,1954-01-25,"Headdress 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2767632A,1952-09-25,"Cultivator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2767678A,1954-02-12,"Hydrofoil 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2768377A,1952-11-21,quarmby ,['PROPN'],['GPE'],1,0,1
-US2768409A,1953-06-08,"Wardrobe 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2768525A,1951-01-08,"Torquemeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2768785A,1953-10-05,"Planimeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2768887A,1953-03-23,"Abrasives 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2768888A,1953-06-24,"Hydrazine 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2769100A,1956-10-30,Methqd ,['PROPN'],['GPE'],1,0,1
-US2769273A,1952-02-28,"Trap 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2769281A,1954-10-11,"Grinder 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2769660A,1951-09-15,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2769884A,1952-04-10,"Bolometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2769957A,1953-07-31,"Comparator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2771035A,1953-03-05,"Propellant 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2771089A,1954-01-14,"Crutch 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2771351A,1953-06-09,"Propellant 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2771614A,1953-06-01,"Davenport 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2771624A,1955-02-23,"Toothbrush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2771877A,1955-01-10,"Pad 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2772624A,1952-11-06,"Diffuser 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2772682A,1955-07-18,"Comb 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2772867A,1953-02-11,"Aerator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2772984A,1952-07-12,"Pigment 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2773069A,1952-11-12,"Amines 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2773171A,1952-04-26,"Luminaire 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2773378A,1953-07-27,"Freezemeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2773379A,1953-07-27,"Freezemeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2773532A,1954-02-08,"Purse 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2773553A,1953-02-13,"Muffler 
-       ","['PROPN', 'SPACE']",['NORP'],1,0,2
-US2773640A,1956-12-11,Fare box ,"['PROPN', 'NOUN']",[],1,0,2
-US2773646A,1956-12-11,mathi  ,"['PROPN', 'SPACE']",[],1,0,2
-US2773750A,1951-06-14,"Furnace 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2774028A,1955-09-30,"Timer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2774124A,1955-08-12,"Clip 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2774415A,1951-10-25,"Evaporator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2774576A,1952-04-11,"Blender 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2775119A,1953-06-02,"Dynamometry 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2775173A,1956-12-25,Duplex ,['PROPN'],[],1,0,1
-US2775324A,1953-07-02,"Rafter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2775406A,1952-03-03,"Odometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2775581A,1956-12-25,Oxhxc ,['PROPN'],['ORG'],1,0,1
-US2775902A,1954-04-08,"Belt 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2775980A,1957-01-01,renaudie ,['PROPN'],[],1,0,1
-US2776080A,1954-11-15,"Ladder 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2776084A,1953-03-25,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2776404A,1955-02-28,"Magnetometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2776621A,1954-06-28,"Projectile 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2776992A,1956-03-14,"Trifluoromethylsulfonylphenyldichloracetamidopropandiol 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2776998A,1950-06-10,"Antioxidant 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2777145A,1952-10-20,"Brush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2777151A,1953-08-24,"Mop 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2777179A,1954-05-03,"Clip 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2777200A,1953-04-03,"Scriber 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2777246A,1955-10-18,"Bookholder 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2777428A,1953-04-01,"Apparatus 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2777560A,1957-01-15,Campos ,['PROPN'],[],1,0,1
-US2777862A,1957-01-15,Hydrocarbon ,['PROPN'],[],1,0,1
-US2777913A,1957-01-15,Kovach ,['PROPN'],['GPE'],1,0,1
-US2778015A,1953-05-22,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2778096A,1957-01-22,weema  ,"['PROPN', 'SPACE']",[],1,0,2
-US2778152A,1957-01-22,Russell ,['PROPN'],[],1,0,1
-US2778242A,1956-03-08,"Borescope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2778267A,1955-03-16,"Borescope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2778331A,1954-12-03,"Bookmark 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2778367A,1955-01-26,"Barrette 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2778453A,1953-01-16,"Brake 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2778698A,1957-01-22,La butte ,"['PROPN', 'NOUN']",[],1,0,2
-US2778929A,1952-12-31,"Luminaire 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2779035A,1950-03-22,"Drawsheet 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2779085A,1954-12-31,"Scaler 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2779132A,1955-04-19,"Toy 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2779141A,1955-11-15,"Railgrinder 
-       ","['PROPN', 'SPACE']",['NORP'],1,0,2
-US2779237A,1957-01-29,smith  ,"['PROPN', 'SPACE']",[],1,0,2
-US2779327A,1953-07-02,"Endoscope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2779552A,1957-01-29,jarvis  ,"['PROPN', 'SPACE']",[],1,0,2
-US2779720A,1957-01-29,Condenser ,['PROPN'],[],1,0,1
-US2779984A,1955-09-02,"Clip 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2779986A,1955-01-04,"Fastener 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2780127A,1957-02-05,Hennick ,['PROPN'],[],1,0,1
-US2780256A,1954-02-19,"Handsaw 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2780289A,1952-09-03,"Wells 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2780990A,1957-02-12,gerhan  ,"['PROPN', 'SPACE']",[],1,0,2
-US2781133A,1957-02-12,Vacuum ,['PROPN'],[],1,0,1
-US2781190A,1951-03-09,"Tuyere 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2781223A,1956-04-09,"Grapple 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2781476A,1944-11-16,"Magnetron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2781490A,1952-01-07,"Coulometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2781528A,1953-12-23,"Hammock 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2781651A,1955-05-02,"Tray 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2781712A,1954-07-27,"Cultivator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2781841A,1957-02-19,Dignan ,['PROPN'],[],1,0,1
-US2781974A,1957-02-19,Mitsuru okazaki ,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US2781985A,1953-06-12,"Bobbin 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2781989A,1954-01-15,"Kite 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2782342A,1947-07-01,"Magnetron 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2782505A,1955-06-03,"Pantograph 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2782717A,1952-07-03,"Fuze 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2782820A,1954-01-18,"Handsaw 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2783419A,1952-12-08,"Rectifier 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2783490A,1950-04-01,"Brush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2783491A,1953-04-02,"Toothbrush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2783512A,1955-01-04,"Fastener 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2783514A,1955-01-04,"Fastener 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2783516A,1953-02-13,"Buckle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2783623A,1957-03-05,dodge ,['PROPN'],[],1,0,1
-US2783706A,1957-03-05,montgomery ,['PROPN'],[],1,0,1
-US2783707A,1957-03-05,montgomery ,['PROPN'],[],1,0,1
-US2783802A,1954-03-04,"Nutcracker 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2783865A,1957-03-05,Cleave ,['PROPN'],[],1,0,1
-US2783904A,1953-12-14,"Loader 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2783945A,1957-03-05,smith ,['PROPN'],[],1,0,1
-US2783992A,1953-09-16,"Bumpers 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2784051A,1957-03-05,Pagnard ,['PROPN'],[],1,0,1
-US2784265A,1954-08-06,"Controller 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2784472A,1954-03-23,"Buckle 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2784613A,1954-10-07,"Gear 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2784654A,1957-03-12,Meyer ,['PROPN'],[],1,0,1
-US2784724A,1957-03-12,fisher ,['PROPN'],[],1,0,1
-US2784740A,1957-03-12,stages erg ,"['NOUN', 'PROPN']",[],1,0,2
-US2784797A,1954-07-13,"Muffler 
-       ","['PROPN', 'SPACE']",['NORP'],1,0,2
-US2784815A,1954-02-23,"Anchor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2785114A,1957-03-12,Schmalenbach ,['PROPN'],[],1,0,1
-US2785172A,1953-06-17,"Dialkylaminoalkylphenetidinopyridine 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2785465A,1953-11-30,"Gunsight 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2785556A,1957-03-19,smith ,['PROPN'],[],1,0,1
-US2785567A,1954-03-17,"Densimeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2785577A,1952-10-21,"Vibrator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2785765A,1953-08-03,"Degasser 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2785870A,1953-10-27,"Kite 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2785923A,1955-02-18,"Nebulizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2786158A,1957-03-19,Tognola ,['PROPN'],[],1,0,1
-US2786200A,1955-06-27,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2786300A,1955-07-18,"Toy 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2786466A,1953-04-20,"Pad 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2786574A,1954-01-19,"Grader 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2786717A,1952-05-01,"Atomizer 
-       ","['PROPN', 'SPACE']",['PRODUCT'],1,0,2
-US2786838A,1957-03-26,Cshy b ,"['PROPN', 'X']",['ORG'],1,0,2
-US2787017A,1950-12-20,"Brush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2787435A,1955-09-12,"Hanger 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2787499A,1954-10-07,"Sprinkler 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2787504A,1955-01-07,"Piston 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2787701A,1952-09-17,"Illuminator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2787958A,1952-09-15,"Projectile 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2787995A,1950-06-05,"Cooker 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2788040A,1956-09-28,"Purse 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2788126A,1953-09-15,"Clarifier 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2788726A,1953-09-21,"Terracer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2788729A,1953-09-28,"Cultivator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2788793A,1955-04-01,"Crutch 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2788912A,1954-12-08,"Tray 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2788945A,1954-01-11,"Kite 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2788959A,1955-03-23,"Spherodizer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2789167A,1957-04-16,Erbstosser ,['PROPN'],[],1,0,1
-US2789464A,1952-09-26,"Mirror 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2789611A,1955-12-01,"Purse 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2789625A,1954-10-28,"Headrest 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2789669A,1955-01-11,"Pole 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2789783A,1953-06-01,"Hanger 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2790169A,1949-04-18,"Antenna 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2790587A,1954-10-18,"Box 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2790601A,1957-04-30,Hecht ,['PROPN'],['ORG'],1,0,1
-US2790882A,1954-10-07,"Rheostat 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2791023A,1957-05-07,Stuermer ,['PROPN'],[],1,0,1
-US2791042A,1953-06-30,"Ditcher 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2791226A,1955-01-10,"Hairpin 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2791375A,1953-01-02,"Simulator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2791415A,1953-04-29,"Furnace 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2791481A,1954-06-09,"Controller 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2791955A,1955-06-06,"Cultivator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2792170A,1953-06-29,"Compressor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2792334A,1955-05-26,Mercaptan ,['PROPN'],['GPE'],1,0,1
-US2792404A,1957-05-14,Chjochaoh ,['PROPN'],[],1,0,1
-US2792420A,1957-05-14,,['PROPN'],['GPE'],1,0,1
-US2792697A,1957-05-21,Gingold ,['PROPN'],[],1,0,1
-US2792767A,1957-05-21,schmidt ,['PROPN'],[],1,0,1
-US2792995A,1957-05-21,Takema yoshioka ,"['PROPN', 'PROPN']",[],1,0,2
-US2793013A,1953-10-07,"Truckmixer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2793294A,1956-02-06,"Tuner 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2793297A,1953-04-17,"Dosimeter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2793470A,1955-03-10,"Transplanter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2793578A,1954-03-04,"Cultivator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2793750A,1957-05-28,peterson  ,"['PROPN', 'SPACE']",[],1,0,2
-US2794114A,1957-05-28,Chamberlain ,['PROPN'],[],1,0,1
-US2794167A,1956-08-07,"Tester 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2794201A,1953-08-26,"Brush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2794589A,1954-09-20,"Envelope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2794596A,1957-06-04,Lofo folo ,"['PROPN', 'ADV']",[],1,0,2
-US2794627A,1954-10-21,"Blender 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2794925A,1957-06-04,Deuquet ,['PROPN'],[],1,0,1
-US2794990A,1955-02-03,"Bathinette 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2794991A,1954-07-19,"Mattress 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2795046A,1957-06-11,Deker ,['PROPN'],[],1,0,1
-US2795058A,1953-01-23,"Tachistoscope 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2795230A,1955-03-31,"Pipe 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2795243A,1955-05-13,"Jacketboard 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2795258A,1955-06-16,"Bag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2795298A,1957-06-11,Suozzoetal ,['PROPN'],[],1,0,1
-US2795358A,1955-01-12,"Silos 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2795617A,1957-06-11,,['PROPN'],['GPE'],1,0,1
-US2795673A,1955-01-12,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2795751A,1957-06-11,montgomery ,['PROPN'],[],1,0,1
-US2795829A,1955-01-21,"Fastener 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2795998A,1952-05-06,"Microtomes 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2796079A,1953-05-19,"Faucet 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2796180A,1955-02-09,"Unloader 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2796217A,1954-08-17,"Mailbox 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2796620A,1955-01-17,"Brush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2796646A,1955-06-02,"Clip 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2796686A,1954-12-09,"Tag 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2796758A,1955-01-25,"Viscometer 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2796844A,1956-02-08,"Anchor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2797024A,1953-08-14,"Trough 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2797047A,1957-06-25,Lehre ,['PROPN'],['GPE'],1,0,1
-US2797252A,1957-06-25,Inyentor ,['PROPN'],[],1,0,1
-US2797255A,1957-06-25,wreford ,['PROPN'],[],1,0,1
-US2797332A,1954-08-09,"Radiacs 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2797424A,1954-10-20,"Toothbrush 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2797694A,1956-01-06,"Hairpin 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2797698A,1955-02-21,"Crutch 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2797719A,1954-12-02,"Handbag 
-       ","['PROPN', 'SPACE']",['NORP'],1,0,2
-US2797747A,1954-06-22,"Evaporator 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2797810A,1957-07-02,smith ,['PROPN'],[],1,0,1
-US2797869A,1957-07-02,grobl  ,"['PROPN', 'SPACE']",[],1,0,2
-US2797871A,1952-12-11,"Register 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2798108A,1957-07-02,poland ,['PROPN'],['GPE'],1,0,1
-US2798134A,1954-12-09,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
-US2798252A,1955-09-23,"Spinnerette 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2798447A,1954-07-21,"Anchor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2798483A,1957-07-09,Hideo kashima ,"['NOUN', 'PROPN']",[],1,0,2
-US2798485A,1949-09-01,"Ampule 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2798647A,1954-05-11,"Pipette 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2798657A,1954-08-30,"Compressor 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2799234A,1954-10-18,"Transplanter 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2799284A,1954-12-17,"Comb 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2799310A,1955-12-12,"Nutcracker 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2799458A,1953-02-04,"Spool 
-       ","['PROPN', 'SPACE']",['ORG'],1,0,2
-US2799616A,1955-04-05,"Nematocide 
-       ","['PROPN', 'SPACE']",[],1,0,2
-US2799676A,1957-07-16,,['PROPN'],['GPE'],1,0,1
-US2799750A,1955-11-22,"Thermostat 
-       ","['PROPN', 'SPACE']",['GPE'],1,0,2
+US2700091A,1953-10-12,Flux,"['PROPN', 'SPACE']",[],1,0,2
+US2700215A,1950-05-23,Razor,"['PROPN', 'SPACE']",[],1,0,2
+US2700330A,1948-03-20,Cultivator,"['PROPN', 'SPACE']",[],1,0,2
+US2700665A,1955-01-25,Soanhj,['PROPN'],[],1,0,1
+US2700692A,1955-01-25,carleton,['PROPN'],[],1,0,1
+US2700770A,1951-05-19,Glove,"['PROPN', 'SPACE']",[],1,0,2
+US2700820A,1952-01-24,Unseamer,"['PROPN', 'SPACE']",[],1,0,2
+US2700979A,1952-03-08,Crutch,"['PROPN', 'SPACE']",[],1,0,2
+US2701080A,1955-02-01,franklin,['PROPN'],['ORG'],1,0,1
+US2701132A,1951-08-30,Stirrer,"['PROPN', 'SPACE']",[],1,0,2
+US2701173A,1954-04-02,Aeroboard,"['PROPN', 'SPACE']",[],1,0,2
+US2701189A,1953-07-08,Vaporizer,"['PROPN', 'SPACE']",[],1,0,2
+US2701270A,1955-02-01,Moo izoo,"['PROPN', 'NOUN']",[],1,0,2
+US2701363A,1953-03-12,Slip,"['PROPN', 'SPACE']",[],1,0,2
+US2701381A,1948-04-05,Toothbrush,"['PROPN', 'SPACE']",[],1,0,2
+US2701469A,1953-05-29,Viscometer,"['PROPN', 'SPACE']",[],1,0,2
+US2701546A,1951-03-31,Galvanizer,"['PROPN', 'SPACE']",[],1,0,2
+US2701643A,1949-05-13,Hydroextractor,"['PROPN', 'SPACE']",[],1,0,2
+US2701814A,1955-02-08,Fluorocarbon compounds,"['PROPN', 'VERB']",[],1,0,2
+US2701961A,1953-09-04,Osmometer,"['PROPN', 'SPACE']",[],1,0,2
+US2701982A,1953-03-26,Angenieux,['PROPN'],['ORG'],1,0,1
+US2702047A,1950-09-01,Manostat,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2702088A,1951-08-31,Snowmobile,"['PROPN', 'SPACE']",[],1,0,2
+US2702132A,1949-08-26,Destacker,"['PROPN', 'SPACE']",[],1,0,2
+US2702212A,1955-02-15,Mcaneny,['PROPN'],['ORG'],1,0,1
+US2702443A,1953-11-10,Mousetrap,"['PROPN', 'SPACE']",[],1,0,2
+US2702446A,1952-06-04,Lap,"['PROPN', 'SPACE']",[],1,0,2
+US2702470A,1953-07-23,Freezemeter,"['PROPN', 'SPACE']",[],1,0,2
+US2702584A,1954-02-15,Stool,"['PROPN', 'SPACE']",[],1,0,2
+US2702668A,1955-02-22,dustin,"['PROPN', 'SPACE']",[],1,0,2
+US2702670A,1955-02-22,Campos,['PROPN'],[],1,0,1
+US2702682A,1951-04-23,Pallet,"['PROPN', 'SPACE']",[],1,0,2
+US2702727A,1951-02-05,Trestle,"['PROPN', 'SPACE']",[],1,0,2
+US2702844A,1952-05-02,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2702878A,1950-09-20,Condenser,"['PROPN', 'SPACE']",[],1,0,2
+US2702914A,1950-11-04,Toothbrush,"['PROPN', 'SPACE']",[],1,0,2
+US2703049A,1955-03-01,M bauer,"['PROPN', 'NOUN']",[],1,0,2
+US2703449A,1952-04-03,Razor,"['PROPN', 'SPACE']",[],1,0,2
+US2703689A,1952-12-01,Bottleholder,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2703832A,1952-09-19,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2703841A,1945-08-01,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2703975A,1954-08-20,Padlock,"['PROPN', 'SPACE']",[],1,0,2
+US2703980A,1953-08-05,Dynamometer,"['PROPN', 'SPACE']",[],1,0,2
+US2704009A,1950-05-01,Monocular,"['PROPN', 'SPACE']",[],1,0,2
+US2704040A,1955-03-15,warrington,['PROPN'],[],1,0,1
+US2704368A,1952-06-18,Scarves,"['PROPN', 'SPACE']",[],1,0,2
+US2704452A,1955-03-22,Federn,['PROPN'],[],1,0,1
+US2704454A,1955-03-22,imiw attidg,"['PROPN', 'PROPN']",[],1,0,2
+US2704476A,1955-03-22,Lisota,['PROPN'],['GPE'],1,0,1
+US2704479A,1955-03-22,Stang,['PROPN'],['ORG'],1,0,1
+US2704482A,1955-03-22,Xylophone construction,"['PROPN', 'NOUN']",[],1,0,2
+US2704495A,1955-03-22,Ditcher,['PROPN'],[],1,0,1
+US2704501A,1955-03-22,rysdon,"['PROPN', 'SPACE']",[],1,0,2
+US2704523A,1955-03-22,F walters,"['PROPN', 'NOUN']",[],1,0,2
+US2704524A,1955-03-22,mcintyre,['PROPN'],[],1,0,1
+US2704529A,1955-03-22,Hydroplane,['PROPN'],[],1,0,1
+US2704532A,1955-03-22,musser,['PROPN'],[],1,0,1
+US2704551A,1955-03-22,ralston,['PROPN'],['GPE'],1,0,1
+US2704559A,1955-03-22,bahan,['PROPN'],['GPE'],1,0,1
+US2704568A,1955-03-22,hickman,['PROPN'],[],1,0,1
+US2704584A,1955-03-22,Tzschoppe,['PROPN'],[],1,0,1
+US2704604A,1955-03-22,rqlston,['PROPN'],['GPE'],1,0,1
+US2704606A,1955-03-22,Christ,['PROPN'],[],1,0,1
+US2704610A,1955-03-22,schwengel,['PROPN'],[],1,0,1
+US2704619A,1955-03-22,Fraser,['PROPN'],[],1,0,1
+US2704624A,1955-03-22,seltzer,"['PROPN', 'SPACE']",[],1,0,2
+US2704625A,1955-03-22,Ijnttfd statf,"['PROPN', 'VERB']",['GPE'],1,0,2
+US2704626A,1955-03-22,C- meier,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2704628A,1955-03-22,stanton,['PROPN'],[],1,0,1
+US2704631A,1955-03-22,bancel,['PROPN'],[],1,0,1
+US2704634A,1949-06-04,Rauch,['PROPN'],[],1,0,1
+US2704636A,1955-03-22,Weston,['PROPN'],['GPE'],1,0,1
+US2704638A,1953-07-13,Eheim,['PROPN'],[],1,0,1
+US2704641A,1955-03-22,schnetzer,['PROPN'],[],1,0,1
+US2704645A,1955-03-22,colvin,['PROPN'],[],1,0,1
+US2704646A,1955-03-22,vogel,['PROPN'],[],1,0,1
+US2704650A,1955-03-22,Faucet,['PROPN'],[],1,0,1
+US2704652A,1955-03-22,fisher,['PROPN'],[],1,0,1
+US2704664A,1955-03-22,hickman,['PROPN'],[],1,0,1
+US2704778A,1955-03-22,Adtio,['PROPN'],['ORG'],1,0,1
+US2705000A,1950-03-21,Tuyere,"['PROPN', 'SPACE']",[],1,0,2
+US2705109A,1955-03-29,Campos,['PROPN'],[],1,0,1
+US2705120A,1949-06-07,Pallet,"['PROPN', 'SPACE']",[],1,0,2
+US2705209A,1947-04-19,Roofing,"['PROPN', 'SPACE']",[],1,0,2
+US2705288A,1955-03-29,wallin,['PROPN'],['ORG'],1,0,1
+US2705289A,1955-03-29,youmans,['PROPN'],[],1,0,1
+US2705350A,1952-03-17,Windows,"['PROPN', 'SPACE']",[],1,0,2
+US2705403A,1950-05-19,Caisson,"['PROPN', 'SPACE']",[],1,0,2
+US2705449A,1953-09-04,Register,"['PROPN', 'SPACE']",[],1,0,2
+US2705458A,1955-04-05,sunden,['PROPN'],[],1,0,1
+US2705541A,1951-07-16,Muffler,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2705630A,1955-04-05,Tad deo,"['PROPN', 'NOUN']",[],1,0,2
+US2705968A,1954-04-01,Umbrella,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2706099A,1950-04-21,Pallet,"['PROPN', 'SPACE']",[],1,0,2
+US2706479A,1952-08-01,Ampule,"['PROPN', 'SPACE']",[],1,0,2
+US2706502A,1955-04-19,Walter a,"['PROPN', 'PRON']",[],1,0,2
+US2706631A,1951-05-29,Hurdle,"['PROPN', 'SPACE']",[],1,0,2
+US2706645A,1949-09-06,Book,"['PROPN', 'SPACE']",[],1,0,2
+US2706821A,1952-04-07,Mattress,"['PROPN', 'SPACE']",[],1,0,2
+US2706825A,1954-04-02,Toothbrush,"['PROPN', 'SPACE']",[],1,0,2
+US2706943A,1955-04-26,Thaon,['PROPN'],['GPE'],1,0,1
+US2707011A,1953-06-15,Keycase,"['PROPN', 'SPACE']",[],1,0,2
+US2707023A,1955-04-26,Kahan,['PROPN'],['GPE'],1,0,1
+US2707226A,1952-03-21,Vaporizer,"['PROPN', 'SPACE']",[],1,0,2
+US2707283A,1953-01-14,Glove,"['PROPN', 'SPACE']",[],1,0,2
+US2707476A,1954-05-06,Umbrella,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2707478A,1952-01-14,Crutch,"['PROPN', 'SPACE']",[],1,0,2
+US2707564A,1955-05-03,Smith,['PROPN'],[],1,0,1
+US2707869A,1955-05-10,dennison,['PROPN'],[],1,0,1
+US2708372A,1954-08-11,Toggle,"['PROPN', 'SPACE']",[],1,0,2
+US2708431A,1952-01-19,Catapult,"['PROPN', 'SPACE']",[],1,0,2
+US2708495A,1955-05-17,Luggxge frames,"['PROPN', 'NOUN']",[],1,0,2
+US2708596A,1951-12-27,Sprayer,"['PROPN', 'SPACE']",[],1,0,2
+US2708599A,1950-03-06,Brush,"['PROPN', 'SPACE']",[],1,0,2
+US2708762A,1953-05-06,Brush,"['PROPN', 'SPACE']",[],1,0,2
+US2708891A,1950-05-06,Planter,"['PROPN', 'SPACE']",[],1,0,2
+US2708905A,1954-04-08,Sharpener,"['PROPN', 'SPACE']",[],1,0,2
+US2709012A,1955-05-24,lessard,"['PROPN', 'SPACE']",[],1,0,2
+US2709044A,1955-05-24,Arvai,['PROPN'],[],1,0,1
+US2709054A,1952-12-30,Airbrake,"['PROPN', 'SPACE']",[],1,0,2
+US2709261A,1950-06-27,Turban,"['PROPN', 'SPACE']",[],1,0,2
+US2709481A,1955-05-31,budai,['PROPN'],[],1,0,1
+US2709571A,1952-09-12,Aligner,"['PROPN', 'SPACE']",[],1,0,2
+US2709789A,1946-04-16,Attenuator,"['PROPN', 'SPACE']",[],1,0,2
+US2709898A,1955-06-07,flynn,['PROPN'],[],1,0,1
+US2709909A,1955-06-07,Vigmostad,['PROPN'],[],1,0,1
+US2709999A,1955-06-07,nag el,"['INTJ', 'PROPN']",['ORG'],1,0,2
+US2710008A,1952-03-20,Compress,"['PROPN', 'SPACE']",[],1,0,2
+US2710137A,1949-12-08,Compressor,"['PROPN', 'SPACE']",[],1,0,2
+US2710219A,1955-06-07,Zalkind,['PROPN'],[],1,0,1
+US2710470A,1951-01-04,Flatiron,"['PROPN', 'SPACE']",[],1,0,2
+US2710929A,1951-01-18,Magneto,"['PROPN', 'SPACE']",[],1,0,2
+US2710970A,1954-01-27,Glove,"['PROPN', 'SPACE']",[],1,0,2
+US2710976A,1955-06-21,martensen,['PROPN'],[],1,0,1
+US2711183A,1951-04-23,Crutch,"['PROPN', 'SPACE']",[],1,0,2
+US2711207A,1955-06-21,Comfort ctfair,"['PROPN', 'NOUN']",[],1,0,2
+US2711415A,1955-06-21,Prepara,['PROPN'],['GPE'],1,0,1
+US2711608A,1954-10-04,Decory,"['PROPN', 'SPACE']",[],1,0,2
+US2711650A,1955-06-28,Weisheit,['PROPN'],[],1,0,1
+US2711740A,1954-02-24,Catheter,"['PROPN', 'SPACE']",[],1,0,2
+US2712077A,1946-07-30,Calutron,"['PROPN', 'SPACE']",[],1,0,2
+US2712079A,1946-12-13,Calutron,"['PROPN', 'SPACE']",[],1,0,2
+US2712085A,1955-06-28,M willyoung,"['PROPN', 'VERB']",[],1,0,2
+US2712088A,1955-06-28,Whitman,['PROPN'],[],1,0,1
+US2712090A,1955-06-28,elderkln,['PROPN'],[],1,0,1
+US2712092A,1955-06-28,schwarz,['PROPN'],['GPE'],1,0,1
+US2712094A,1954-08-11,kochevar,"['PROPN', 'SPACE']",[],1,0,2
+US2712099A,1955-06-28,G legge,"['PROPN', 'ADV']",[],1,0,2
+US2712108A,1955-06-28,Generator regulator,"['PROPN', 'NOUN']",[],1,0,2
+US2712110A,1955-06-28,peterson,"['PROPN', 'SPACE']",[],1,0,2
+US2712120A,1955-06-28,cochran,"['PROPN', 'SPACE']",[],1,0,2
+US2712127A,1955-06-28,miller,['PROPN'],['ORG'],1,0,1
+US2712128A,1955-06-28,woodruff,['PROPN'],[],1,0,1
+US2712153A,1955-07-05,berglund,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2712265A,1950-11-07,Refractometer,"['PROPN', 'SPACE']",[],1,0,2
+US2712287A,1955-07-05,Zurmuhle,['PROPN'],[],1,0,1
+US2712349A,1955-07-05,Le voir,"['PROPN', 'X']",[],1,0,2
+US2712442A,1955-07-05,hanson,['PROPN'],[],1,0,1
+US2712703A,1951-01-04,Flatiron,"['PROPN', 'SPACE']",[],1,0,2
+US2712830A,1952-08-09,Faucet,"['PROPN', 'SPACE']",[],1,0,2
+US2712926A,1955-07-12,Von elm,"['PROPN', 'NOUN']",[],1,0,2
+US2713319A,1955-07-19,Dam ast,"['PROPN', 'PROPN']",[],1,0,2
+US2713370A,1953-02-12,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2713386A,1955-07-19,Holtz,['PROPN'],[],1,0,1
+US2713475A,1955-07-19,Matalon,['PROPN'],[],1,0,1
+US2713526A,1950-10-31,Piston,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2713825A,1944-09-23,Fuze,"['PROPN', 'SPACE']",[],1,0,2
+US2713898A,1955-07-26,hartmann,['PROPN'],[],1,0,1
+US2714218A,1955-08-02,Mop head,"['PROPN', 'NOUN']",[],1,0,2
+US2714240A,1953-02-09,Slasher,"['PROPN', 'SPACE']",[],1,0,2
+US2714262A,1955-08-02,Malzahn,['PROPN'],[],1,0,1
+US2714279A,1950-08-28,Arbor,"['PROPN', 'SPACE']",[],1,0,2
+US2714296A,1955-08-02,scavullo,['PROPN'],[],1,0,1
+US2714526A,1945-10-26,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2714531A,1955-08-02,Spray nozzle,"['PROPN', 'VERB']",[],1,0,2
+US2714649A,1952-11-25,Vaporizer,"['PROPN', 'SPACE']",[],1,0,2
+US2714658A,1950-11-02,Decoder,"['PROPN', 'SPACE']",[],1,0,2
+US2714722A,1955-08-09,Griffon,['PROPN'],[],1,0,1
+US2714723A,1955-08-09,Griffon,['PROPN'],[],1,0,1
+US2714728A,1955-08-09,Bloch,['PROPN'],[],1,0,1
+US2714751A,1953-04-01,Fastener,"['PROPN', 'SPACE']",[],1,0,2
+US2714775A,1955-08-09,Trench,['PROPN'],[],1,0,1
+US2714924A,1955-08-09,Fischman,['PROPN'],[],1,0,1
+US2714971A,1955-08-09,Vacuum containers,"['PROPN', 'NOUN']",[],1,0,2
+US2715056A,1955-08-09,Wilson,['PROPN'],['ORG'],1,0,1
+US2715242A,1955-08-16,smith,['PROPN'],[],1,0,1
+US2715310A,1955-08-16,Job timer,"['PROPN', 'NOUN']",[],1,0,2
+US2715546A,1949-09-10,Atomizer,"['PROPN', 'SPACE']",['PRODUCT'],1,0,2
+US2715564A,1953-12-23,Hydrazine,"['PROPN', 'SPACE']",[],1,0,2
+US2715613A,1950-10-12,Defoamer,"['PROPN', 'SPACE']",[],1,0,2
+US2715873A,1950-01-25,Fuze,"['PROPN', 'SPACE']",[],1,0,2
+US2715895A,1952-06-02,Slingshot,"['PROPN', 'SPACE']",[],1,0,2
+US2715899A,1952-11-21,Curette,"['PROPN', 'SPACE']",[],1,0,2
+US2715953A,1947-03-31,House,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2716191A,1953-01-16,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2716262A,1955-08-30,oswald,"['PROPN', 'SPACE']",[],1,0,2
+US2716390A,1950-12-29,Bookmark,"['PROPN', 'SPACE']",[],1,0,2
+US2716463A,1954-09-27,Muffler,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2716505A,1955-08-30,Linde,['PROPN'],[],1,0,1
+US2716571A,1953-02-17,Gambrel,"['PROPN', 'SPACE']",[],1,0,2
+US2716581A,1951-10-13,Piston,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2716927A,1953-06-03,Fourdrinier,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2717015A,1952-04-10,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2717044A,1949-04-18,Propeller,"['PROPN', 'SPACE']",[],1,0,2
+US2717389A,1952-10-21,Apron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2717847A,1955-09-13,ripley,"['PROPN', 'SPACE']",[],1,0,2
+US2718370A,1952-06-07,Carrier,"['PROPN', 'SPACE']",[],1,0,2
+US2718571A,1951-03-05,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2718586A,1950-12-26,Lamp,"['PROPN', 'SPACE']",[],1,0,2
+US2718592A,1951-04-28,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2718623A,1951-08-30,Tuner,"['PROPN', 'SPACE']",[],1,0,2
+US2718735A,1952-07-07,Sander,"['PROPN', 'SPACE']",[],1,0,2
+US2718793A,1952-09-08,Gear,"['PROPN', 'SPACE']",[],1,0,2
+US2719002A,1950-05-29,Compressor,"['PROPN', 'SPACE']",[],1,0,2
+US2719199A,1950-09-29,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2719201A,1952-01-08,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2719341A,1951-10-23,Windows,"['PROPN', 'SPACE']",[],1,0,2
+US2719368A,1955-10-04,Snook,['PROPN'],[],1,0,1
+US2719476A,1952-03-12,Register,"['PROPN', 'SPACE']",[],1,0,2
+US2719505A,1955-10-04,Blumenthal,['PROPN'],[],1,0,1
+US2719720A,1946-11-29,Phonographs,"['PROPN', 'SPACE']",[],1,0,2
+US2719928A,1955-10-04,baerwald,"['PROPN', 'SPACE']",[],1,0,2
+US2719978A,1953-07-17,Blouse,"['PROPN', 'SPACE']",[],1,0,2
+US2720038A,1952-09-15,Toy,"['PROPN', 'SPACE']",[],1,0,2
+US2720704A,1952-12-15,Toy,"['PROPN', 'SPACE']",[],1,0,2
+US2720782A,1955-10-18,stein,['PROPN'],[],1,0,1
+US2721273A,1946-01-16,Magnet,"['PROPN', 'SPACE']",[],1,0,2
+US2721289A,1953-03-19,Lamp,"['PROPN', 'SPACE']",[],1,0,2
+US2721295A,1952-10-29,Magnetron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2721339A,1952-05-10,Mattress,"['PROPN', 'SPACE']",[],1,0,2
+US2721518A,1945-01-26,Projectile,"['PROPN', 'SPACE']",[],1,0,2
+US2721530A,1953-05-12,Anchor,"['PROPN', 'SPACE']",[],1,0,2
+US2721548A,1955-10-25,Geiger,['PROPN'],[],1,0,1
+US2721940A,1946-01-03,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2721949A,1949-10-31,Betatron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2721974A,1944-08-07,Magnetometer,"['PROPN', 'SPACE']",[],1,0,2
+US2722190A,1954-06-18,Anchor,"['PROPN', 'SPACE']",[],1,0,2
+US2722278A,1954-05-11,Apparatus,"['PROPN', 'SPACE']",[],1,0,2
+US2722376A,1955-11-01,Grant c,"['PROPN', 'NOUN']",[],1,0,2
+US2722381A,1955-11-01,Komusim,['PROPN'],['GPE'],1,0,1
+US2722383A,1955-11-01,Westinger ctal,"['PROPN', 'NOUN']",[],1,0,2
+US2722426A,1950-03-28,Phonographs,"['PROPN', 'SPACE']",[],1,0,2
+US2722473A,1955-11-01,toland,['PROPN'],[],1,0,1
+US2722958A,1954-07-01,Quiver,"['PROPN', 'SPACE']",[],1,0,2
+US2723157A,1952-01-26,Sprinkler,"['PROPN', 'SPACE']",[],1,0,2
+US2723274A,1954-03-08,Ureidotriazoles,"['PROPN', 'SPACE']",[],1,0,2
+US2723383A,1955-11-08,franz,['PROPN'],['ORG'],1,0,1
+US2723404A,1954-09-16,Retriever,"['PROPN', 'SPACE']",[],1,0,2
+US2723434A,1951-11-08,Buckle,"['PROPN', 'SPACE']",[],1,0,2
+US2723561A,1952-11-28,Tensiometer,"['PROPN', 'SPACE']",[],1,0,2
+US2723607A,1950-04-21,Pavement,"['PROPN', 'SPACE']",[],1,0,2
+US2723825A,1955-11-15,miller,['PROPN'],['ORG'],1,0,1
+US2723881A,1949-12-10,Atomizer,"['PROPN', 'SPACE']",['PRODUCT'],1,0,2
+US2724157A,1952-05-24,Vaporizer,"['PROPN', 'SPACE']",[],1,0,2
+US2724212A,1953-01-02,Whistle,"['PROPN', 'SPACE']",[],1,0,2
+US2724287A,1955-11-22,knoth,['PROPN'],[],1,0,1
+US2724310A,1955-11-22,paine,"['PROPN', 'SPACE']",[],1,0,2
+US2724375A,1953-03-31,Degasser,"['PROPN', 'SPACE']",[],1,0,2
+US2724559A,1955-11-22,Dalton,['PROPN'],['GPE'],1,0,1
+US2724649A,1951-03-23,Margarine,"['PROPN', 'SPACE']",['PRODUCT'],1,0,2
+US2724911A,1954-05-07,Tachistoscope,"['PROPN', 'SPACE']",[],1,0,2
+US2724915A,1955-11-29,Snow remover,"['PROPN', 'VERB']",[],1,0,2
+US2725180A,1951-09-04,Envelope,"['PROPN', 'SPACE']",[],1,0,2
+US2725202A,1953-09-22,Creel,"['PROPN', 'SPACE']",[],1,0,2
+US2725248A,1955-11-29,rimkus,['PROPN'],[],1,0,1
+US2725342A,1951-08-25,Distillation,"['PROPN', 'SPACE']",[],1,0,2
+US2725379A,1955-11-29,Triazeve pharmaceuticals,"['PROPN', 'NOUN']",[],1,0,2
+US2725443A,1954-07-23,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2725571A,1953-07-20,Hat,"['PROPN', 'SPACE']",[],1,0,2
+US2725931A,1953-09-16,Blowtorch,"['PROPN', 'SPACE']",[],1,0,2
+US2726041A,1955-12-06,Winet,['PROPN'],[],1,0,1
+US2726051A,1953-02-09,Coiler,"['PROPN', 'SPACE']",[],1,0,2
+US2726070A,1953-03-25,Homogenizer,"['PROPN', 'SPACE']",[],1,0,2
+US2726123A,1950-11-06,Catwalk,"['PROPN', 'SPACE']",[],1,0,2
+US2726146A,1955-12-06,shirk,['PROPN'],[],1,0,1
+US2726260A,1955-12-06,novello,['PROPN'],[],1,0,1
+US2726277A,1950-06-10,Antioxidant,"['PROPN', 'SPACE']",[],1,0,2
+US2726401A,1953-06-05,Headdress,"['PROPN', 'SPACE']",[],1,0,2
+US2726592A,1954-08-20,Cultivator,"['PROPN', 'SPACE']",[],1,0,2
+US2726668A,1952-07-24,Parasol,"['PROPN', 'SPACE']",[],1,0,2
+US2726827A,1953-07-07,Creel,"['PROPN', 'SPACE']",[],1,0,2
+US2727016A,1955-12-13,Hjnan,['PROPN'],['GPE'],1,0,1
+US2727190A,1946-03-22,Calutron,"['PROPN', 'SPACE']",[],1,0,2
+US2727681A,1955-12-20,bogert,"['PROPN', 'SPACE']",[],1,0,2
+US2728099A,1951-11-27,Squeegee,"['PROPN', 'SPACE']",[],1,0,2
+US2728144A,1954-08-16,Apparatus,"['PROPN', 'SPACE']",[],1,0,2
+US2728326A,1954-09-01,Muzzle,"['PROPN', 'SPACE']",['PRODUCT'],1,0,2
+US2728418A,1948-03-03,Brake,"['PROPN', 'SPACE']",[],1,0,2
+US2728743A,1955-12-27,czhsnhcshenhcahenkkihs,['PROPN'],[],1,0,1
+US2728846A,1953-03-17,Lantern,"['PROPN', 'SPACE']",[],1,0,2
+US2728860A,1955-12-27,newman,"['PROPN', 'SPACE']",[],1,0,2
+US2728969A,1956-01-03,baumann,['PROPN'],[],1,0,1
+US2729232A,1951-11-03,Controller,"['PROPN', 'SPACE']",[],1,0,2
+US2729282A,1956-01-03,lennox,"['PROPN', 'SPACE']",[],1,0,2
+US2729387A,1953-04-30,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2729397A,1956-01-03,Weston,['PROPN'],['GPE'],1,0,1
+US2729436A,1954-01-15,Cooler,"['PROPN', 'SPACE']",[],1,0,2
+US2729854A,1952-02-08,Airbag,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2729874A,1953-07-10,Tenter,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2729934A,1951-11-22,Timepiece,"['PROPN', 'SPACE']",[],1,0,2
+US2730318A,1953-07-27,Kite,"['PROPN', 'SPACE']",[],1,0,2
+US2730552A,1956-01-10,williamson,['PROPN'],[],1,0,1
+US2730609A,1951-09-18,Blowpipes,"['PROPN', 'SPACE']",[],1,0,2
+US2730673A,1947-01-20,Magnetometer,"['PROPN', 'SPACE']",[],1,0,2
+US2730719A,1956-01-17,Steiner,['PROPN'],[],1,0,1
+US2730902A,1952-11-22,Vibrator,"['PROPN', 'SPACE']",[],1,0,2
+US2730913A,1956-01-17,Friedman,['PROPN'],[],1,0,1
+US2731205A,1956-01-17,Innocenti,['PROPN'],[],1,0,1
+US2731421A,1956-01-17,Tottuwrpmt,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2731637A,1954-04-14,Sunshade,"['PROPN', 'SPACE']",[],1,0,2
+US2731782A,1956-01-24,mason,"['PROPN', 'SPACE']",[],1,0,2
+US2731787A,1952-07-23,marsh,['PROPN'],[],1,0,1
+US2731793A,1956-01-24,lewis,['PROPN'],[],1,0,1
+US2731794A,1956-01-24,torell,"['PROPN', 'SPACE']",[],1,0,2
+US2731795A,1956-01-24,bodine,['PROPN'],[],1,0,1
+US2731802A,1956-01-24,Wacsporran,['PROPN'],['GPE'],1,0,1
+US2731809A,1956-01-24,hackney,['PROPN'],[],1,0,1
+US2731810A,1949-01-04,Qjivaiiov snoonilnod,"['PROPN', 'NOUN']",[],1,0,2
+US2731812A,1956-01-24,sullivan,"['PROPN', 'SPACE']",[],1,0,2
+US2731815A,1956-01-24,Piltz,['PROPN'],['GPE'],1,0,1
+US2731817A,1956-01-24,thurston,"['PROPN', 'SPACE']",[],1,0,2
+US2731819A,1956-01-24,crawford,"['PROPN', 'SPACE']",[],1,0,2
+US2731821A,1956-01-24,Lloyd,['PROPN'],[],1,0,1
+US2731824A,1956-01-24,hadley,"['PROPN', 'SPACE']",[],1,0,2
+US2731827A,1956-01-24,loomis,['PROPN'],[],1,0,1
+US2731845A,1956-01-24,Mcqihon,['PROPN'],[],1,0,1
+US2731847A,1956-01-24,bronckhurst,['PROPN'],[],1,0,1
+US2731858A,1956-01-24,evans,"['PROPN', 'SPACE']",[],1,0,2
+US2731871A,1956-01-24,Loughrie,['PROPN'],[],1,0,1
+US2731875A,1956-01-24,gould,['PROPN'],[],1,0,1
+US2731877A,1956-01-24,clamann,['PROPN'],[],1,0,1
+US2731878A,1956-01-24,sherwin,"['PROPN', 'SPACE']",[],1,0,2
+US2731884A,1956-01-24,Brendel,['PROPN'],[],1,0,1
+US2731885A,1956-01-24,nolan,"['PROPN', 'SPACE']",[],1,0,2
+US2731887A,1956-01-24,sjostrand,['PROPN'],[],1,0,1
+US2731890A,1956-01-24,bechle,"['PROPN', 'SPACE']",[],1,0,2
+US2731895A,1956-01-24,mckee,['PROPN'],['ORG'],1,0,1
+US2731897A,1956-01-24,frevik,"['PROPN', 'SPACE']",[],1,0,2
+US2731899A,1956-01-24,abrams,['PROPN'],[],1,0,1
+US2731903A,1956-01-24,Baseboard radiators,"['PROPN', 'NOUN']",[],1,0,2
+US2731912A,1956-01-24,Welsh,['PROPN'],[],1,0,1
+US2731917A,1956-01-24,evans,['PROPN'],[],1,0,1
+US2731920A,1956-01-24,Scognamillq,['PROPN'],[],1,0,1
+US2731932A,1956-01-24,Petersen,['PROPN'],[],1,0,1
+US2731939A,1956-01-24,fellabaum,['PROPN'],[],1,0,1
+US2731940A,1956-01-24,neugass,['PROPN'],[],1,0,1
+US2731943A,1956-01-24,randall,"['PROPN', 'SPACE']",[],1,0,2
+US2731946A,1956-01-24,Birkland,['PROPN'],['GPE'],1,0,1
+US2731949A,1956-01-24,arnould,['PROPN'],[],1,0,1
+US2731952A,1956-01-24,szabo,['PROPN'],[],1,0,1
+US2731959A,1956-01-24,kratzer,['PROPN'],[],1,0,1
+US2731963A,1956-01-24,Blank,['PROPN'],[],1,0,1
+US2731969A,1956-01-24,hoeksema,"['PROPN', 'SPACE']",[],1,0,2
+US2731988A,1956-01-24,Steiner,['PROPN'],[],1,0,1
+US2731993A,1956-01-24,mount,['PROPN'],[],1,0,1
+US2732006A,1956-01-24,crescent,"['PROPN', 'SPACE']",[],1,0,2
+US2732014A,1956-01-24,luther,"['PROPN', 'SPACE']",[],1,0,2
+US2732016A,1956-01-24,macleod,"['PROPN', 'SPACE']",[],1,0,2
+US2732033A,1956-01-24,Separator,['PROPN'],[],1,0,1
+US2732042A,1956-01-24,lucker,"['PROPN', 'SPACE']",[],1,0,2
+US2732044A,1956-01-24,mcclune,"['PROPN', 'SPACE']",[],1,0,2
+US2732061A,1956-01-24,Spectaclle cases-,"['PROPN', 'NOUN']",[],1,0,2
+US2732062A,1956-01-24,Display box,"['PROPN', 'NOUN']",[],1,0,2
+US2732064A,1956-01-24,quackenbush,['PROPN'],[],1,0,1
+US2732067A,1956-01-24,cunningham,['PROPN'],[],1,0,1
+US2732069A,1956-01-24,henderson,['PROPN'],['GPE'],1,0,1
+US2732073A,1953-11-23,Roegg,['PROPN'],[],1,0,1
+US2732074A,1956-01-24,kuthe,"['PROPN', 'SPACE']",[],1,0,2
+US2732080A,1956-01-24,J- strindlund,"['PROPN', 'VERB']",[],1,0,2
+US2732083A,1956-01-24,smith,['PROPN'],[],1,0,1
+US2732087A,1956-01-24,Pratt,['PROPN'],[],1,0,1
+US2732089A,1952-06-11,Frydlender,['PROPN'],[],1,0,1
+US2732106A,1956-01-24,harland,"['PROPN', 'SPACE']",[],1,0,2
+US2732112A,1956-01-24,Container,['PROPN'],[],1,0,1
+US2732116A,1956-01-24,merrill,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2732121A,1956-01-24,Display box,"['PROPN', 'NOUN']",[],1,0,2
+US2732133A,1956-01-24,lintern,['PROPN'],[],1,0,1
+US2732136A,1956-01-24,Brewster,['PROPN'],[],1,0,1
+US2732137A,1956-01-24,fisher,"['PROPN', 'SPACE']",[],1,0,2
+US2732141A,1956-01-24,lucas,"['PROPN', 'SPACE']",[],1,0,2
+US2732147A,1956-01-24,Rotter,['PROPN'],[],1,0,1
+US2732171A,1956-01-24,paradise,['PROPN'],[],1,0,1
+US2732174A,1956-01-24,kossman,['PROPN'],[],1,0,1
+US2732178A,1956-01-24,chaney,['PROPN'],[],1,0,1
+US2732186A,1956-01-24,ivarsson,"['PROPN', 'SPACE']",[],1,0,2
+US2732191A,1956-01-24,smitley,['PROPN'],[],1,0,1
+US2732194A,1956-01-24,jackson,['PROPN'],[],1,0,1
+US2732202A,1956-01-24,Obedin,['PROPN'],[],1,0,1
+US2732211A,1956-01-24,foster,"['PROPN', 'SPACE']",[],1,0,2
+US2732218A,1956-01-24,Resch,['PROPN'],[],1,0,1
+US2732223A,1956-01-24,deebel,['PROPN'],[],1,0,1
+US2732224A,1956-01-24,deebel,"['PROPN', 'SPACE']",[],1,0,2
+US2732237A,1956-01-24,Door bolt,"['PROPN', 'NOUN']",[],1,0,2
+US2732240A,1956-01-24,hutzelman,['PROPN'],[],1,0,1
+US2732242A,1956-01-24,Belford,['PROPN'],[],1,0,1
+US2732243A,1956-01-24,mount,['PROPN'],[],1,0,1
+US2732245A,1956-01-24,lemoigne,"['PROPN', 'SPACE']",[],1,0,2
+US2732253A,1956-01-24,birdwell,"['PROPN', 'SPACE']",[],1,0,2
+US2732259A,1956-01-24,sebald,['PROPN'],[],1,0,1
+US2732264A,1956-01-24,Ladder stage,"['PROPN', 'NOUN']",[],1,0,2
+US2732266A,1956-01-24,robertson,"['PROPN', 'SPACE']",[],1,0,2
+US2732267A,1956-01-24,acotvtotv,['PROPN'],[],1,0,1
+US2732279A,1951-12-07,Shozo tachikawa,"['PROPN', 'PROPN']",[],1,0,2
+US2732282A,1956-01-24,Cjhssihclj,['PROPN'],[],1,0,1
+US2732284A,1956-01-24,sakowski,"['PROPN', 'SPACE']",[],1,0,2
+US2732286A,1953-09-30,Propstl,['PROPN'],['GPE'],1,0,1
+US2732287A,1953-09-30,Propstl,['PROPN'],['GPE'],1,0,1
+US2732289A,1956-01-24,Goeke,['PROPN'],[],1,0,1
+US2732296A,1956-01-24,D simpson,"['PROPN', 'NOUN']",[],1,0,2
+US2732301A,1952-10-15,Chxcxch,['PROPN'],[],1,0,1
+US2732315A,1956-01-24,Birkland,['PROPN'],['GPE'],1,0,1
+US2732324A,1956-01-24,morris,"['PROPN', 'SPACE']",[],1,0,2
+US2732329A,1956-01-24,nisoi,"['PROPN', 'SPACE']",[],1,0,2
+US2732332A,1956-01-24,Geller,['PROPN'],[],1,0,1
+US2732379A,1956-01-24,nan,['PROPN'],['GPE'],1,0,1
+US2732403A,1956-01-24,Chclj,['PROPN'],[],1,0,1
+US2732432A,1951-07-13,hullegard,['PROPN'],[],1,0,1
+US2732440A,1956-01-24,newman,['PROPN'],[],1,0,1
+US2732454A,1953-05-01,buckingham,['PROPN'],['GPE'],1,0,1
+US2732458A,1952-08-27,buckingham,['PROPN'],['GPE'],1,0,1
+US2732476A,1956-01-24,Smith,['PROPN'],[],1,0,1
+US2732479A,1956-01-24,Rowland,['PROPN'],['ORG'],1,0,1
+US2732485A,1956-01-24,Luminaire,['PROPN'],[],1,0,1
+US2732493A,1950-11-04,baker,['PROPN'],[],1,0,1
+US2732497A,1956-01-24,Pulse generator,"['PROPN', 'NOUN']",[],1,0,2
+US2732504A,1948-09-28,steele,['PROPN'],[],1,0,1
+US2732510A,1956-01-24,Electron,['PROPN'],[],1,0,1
+US2732512A,1956-01-24,briggs,['PROPN'],[],1,0,1
+US2732514A,1956-01-24,henderson,['PROPN'],['GPE'],1,0,1
+US2732519A,1952-12-19,Freedman,['PROPN'],[],1,0,1
+US2732532A,1956-01-24,Lamp jrase,"['PROPN', 'NOUN']",[],1,0,2
+US2732536A,1956-01-24,miller,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2732540A,1956-01-24,macmahon,['PROPN'],[],1,0,1
+US2732543A,1956-01-24,mogren,['PROPN'],[],1,0,1
+US2732550A,1954-07-30,reedy,"['PROPN', 'SPACE']",[],1,0,2
+US2732552A,1956-01-31,bensemann,['PROPN'],[],1,0,1
+US2732553A,1956-01-31,bensemann,['PROPN'],[],1,0,1
+US2732555A,1956-01-31,Paisley,['PROPN'],['GPE'],1,0,1
+US2732556A,1956-01-31,Erteszek,['PROPN'],[],1,0,1
+US2732562A,1956-01-31,Conte,['PROPN'],[],1,0,1
+US2732567A,1956-01-31,Ducrot,['PROPN'],[],1,0,1
+US2732569A,1956-01-31,Rosen,"['PROPN', 'SPACE']",[],1,0,2
+US2732572A,1956-01-31,dunham,"['PROPN', 'SPACE']",[],1,0,2
+US2732576A,1956-01-31,rosen,['PROPN'],[],1,0,1
+US2732577A,1956-01-31,Brush,['PROPN'],[],1,0,1
+US2732584A,1956-01-31,bishop,"['PROPN', 'SPACE']",[],1,0,2
+US2732587A,1956-01-31,greene,"['PROPN', 'SPACE']",[],1,0,2
+US2732596A,1956-01-31,Kellner,['PROPN'],['GPE'],1,0,1
+US2732610A,1956-01-31,Slub catcher,"['PROPN', 'NOUN']",[],1,0,2
+US2732615A,1956-01-31,sandberg,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2732621A,1956-01-31,Pelzmann,['PROPN'],['ORG'],1,0,1
+US2732625A,1956-01-31,Buisson,['PROPN'],[],1,0,1
+US2732628A,1956-01-31,giuffre,['PROPN'],[],1,0,1
+US2732630A,1956-01-31,Markowich,['PROPN'],[],1,0,1
+US2732631A,1956-01-31,Convfcyuk ukyu,"['PROPN', 'ADJ']",[],1,0,2
+US2732634A,1956-01-31,Lipton,['PROPN'],['ORG'],1,0,1
+US2732638A,1956-01-31,leufvenius,['PROPN'],[],1,0,1
+US2732640A,1956-01-31,kirchner,['PROPN'],[],1,0,1
+US2732642A,1956-01-31,Map holder,"['PROPN', 'NOUN']",[],1,0,2
+US2732651A,1956-01-31,godon,['PROPN'],[],1,0,1
+US2732656A,1956-01-31,Toy helicopter,"['PROPN', 'NOUN']",[],1,0,2
+US2732659A,1956-01-31,howard,['PROPN'],[],1,0,1
+US2732660A,1956-01-31,morris,['PROPN'],[],1,0,1
+US2732666A,1956-01-31,powell,"['PROPN', 'SPACE']",[],1,0,2
+US2732671A,1956-01-31,Mcfadden,['PROPN'],[],1,0,1
+US2732672A,1956-01-31,fleischman,"['PROPN', 'SPACE']",[],1,0,2
+US2732677A,1956-01-31,Nielsen,['PROPN'],[],1,0,1
+US2732682A,1956-01-31,kyame,"['PROPN', 'SPACE']",[],1,0,2
+US2732686A,1956-01-31,melin,"['PROPN', 'SPACE']",[],1,0,2
+US2732687A,1956-01-31,brandon,"['PROPN', 'SPACE']",[],1,0,2
+US2732690A,1956-01-31,henderson,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2732696A,1956-01-31,baker,['PROPN'],[],1,0,1
+US2732706A,1956-01-31,Friedman,['PROPN'],[],1,0,1
+US2732711A,1956-01-31,darmody,['PROPN'],[],1,0,1
+US2732722A,1956-01-31,wilshusen,['PROPN'],[],1,0,1
+US2732726A,1956-01-31,Hakanson,['PROPN'],[],1,0,1
+US2732730A,1956-01-31,Sernaker,['PROPN'],['ORG'],1,0,1
+US2732732A,1956-01-31,borman,['PROPN'],[],1,0,1
+US2732740A,1956-01-31,Jar vise,"['PROPN', 'NOUN']",[],1,0,2
+US2732749A,1956-01-31,Pasternak,['PROPN'],[],1,0,1
+US2732750A,1956-01-31,Sonnberger,['PROPN'],[],1,0,1
+US2732753A,1956-01-31,o konski,"['X', 'PROPN']",[],1,0,2
+US2732758A,1956-01-31,Waller,['PROPN'],[],1,0,1
+US2732760A,1956-01-31,Rantsch,['PROPN'],['GPE'],1,0,1
+US2732765A,1956-01-31,Squib gun,"['PROPN', 'NOUN']",[],1,0,2
+US2732769A,1956-01-31,Inyentor,['PROPN'],[],1,0,1
+US2732772A,1956-01-31,Hornbostel,['PROPN'],[],1,0,1
+US2732773A,1956-01-31,smith,['PROPN'],[],1,0,1
+US2732781A,1956-01-31,coviello,"['PROPN', 'SPACE']",[],1,0,2
+US2732788A,1956-01-31,meyer,['PROPN'],['ORG'],1,0,1
+US2732807A,1956-01-31,Diaphragm pump,"['PROPN', 'VERB']",['GPE'],1,0,2
+US2732815A,1956-01-31,Vault door,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2732818A,1956-01-31,quirin,"['PROPN', 'SPACE']",[],1,0,2
+US2732834A,1956-01-31,morgan,"['PROPN', 'SPACE']",[],1,0,2
+US2732838A,1956-01-31,Honer,['PROPN'],[],1,0,1
+US2732840A,1953-06-27,De sanctis,"['PROPN', 'NOUN']",[],1,0,2
+US2732844A,1956-01-31,stark,"['PROPN', 'SPACE']",[],1,0,2
+US2732846A,1956-01-31,berezny,"['PROPN', 'SPACE']",[],1,0,2
+US2732861A,1956-01-31,gilmore,['PROPN'],[],1,0,1
+US2732868A,1956-01-31,barta,"['PROPN', 'SPACE']",[],1,0,2
+US2732873A,1956-01-31,treiber,['PROPN'],[],1,0,1
+US2732874A,1956-01-31,Carstensen,['PROPN'],[],1,0,1
+US2732881A,1956-01-31,anderle,['PROPN'],[],1,0,1
+US2732889A,1956-01-31,healey,['PROPN'],[],1,0,1
+US2732890A,1956-01-31,Vignere,['PROPN'],[],1,0,1
+US2732893A,1956-01-31,harris,['PROPN'],[],1,0,1
+US2732894A,1956-01-31,harris,['PROPN'],[],1,0,1
+US2732897A,1956-01-31,musser,['PROPN'],[],1,0,1
+US2732902A,1949-11-28,Barenyi,['PROPN'],['GPE'],1,0,1
+US2732903A,1956-01-31,chayne,"['PROPN', 'SPACE']",[],1,0,2
+US2732910A,1956-01-31,ferraris,"['PROPN', 'SPACE']",[],1,0,2
+US2732918A,1956-01-31,Hackworth,['PROPN'],[],1,0,1
+US2732921A,1956-01-31,Rabjnow,['PROPN'],[],1,0,1
+US2732925A,1956-01-31,Pechy,['PROPN'],[],1,0,1
+US2732928A,1956-01-31,schreiber,"['PROPN', 'SPACE']",[],1,0,2
+US2732932A,1956-01-31,strock,"['PROPN', 'SPACE']",[],1,0,2
+US2732936A,1956-01-31,lankford,['PROPN'],[],1,0,1
+US2732939A,1956-01-31,Stick remover,"['PROPN', 'NOUN']",['FAC'],1,0,2
+US2732952A,1956-01-31,skelton,['PROPN'],['GPE'],1,0,1
+US2732964A,1956-01-31,nan,['PROPN'],['GPE'],1,0,1
+US2732968A,1956-01-31,Ash trays,"['PROPN', 'VERB']",[],1,0,2
+US2732969A,1956-01-31,browne,"['PROPN', 'SPACE']",[],1,0,2
+US2732975A,1956-01-31,balzer,['PROPN'],[],1,0,1
+US2732977A,1956-01-31,charpiat,"['PROPN', 'SPACE']",[],1,0,2
+US2732978A,1956-01-31,Oakland,['PROPN'],['GPE'],1,0,1
+US2732983A,1956-01-31,siddall,"['PROPN', 'SPACE']",[],1,0,2
+US2732986A,1956-01-31,whittington,['PROPN'],[],1,0,1
+US2732987A,1956-01-31,moore,"['PROPN', 'SPACE']",[],1,0,2
+US2732988A,1956-01-31,Feinstein,['PROPN'],[],1,0,1
+US2732989A,1956-01-31,harker,"['PROPN', 'SPACE']",[],1,0,2
+US2732998A,1956-01-31,Rumsey,['PROPN'],[],1,0,1
+US2733000A,1956-01-31,sparklin,"['PROPN', 'SPACE']",[],1,0,2
+US2733008A,1956-01-31,nan,['PROPN'],['GPE'],1,0,1
+US2733012A,1956-01-31,garner,"['PROPN', 'SPACE']",[],1,0,2
+US2733014A,1956-01-31,hallman,"['PROPN', 'SPACE']",[],1,0,2
+US2733015A,1956-01-31,cochran,"['PROPN', 'SPACE']",[],1,0,2
+US2733017A,1956-01-31,chrzanowski,['PROPN'],[],1,0,1
+US2733018A,1956-01-31,nitchie,['PROPN'],[],1,0,1
+US2733039A,1956-01-31,balogh,"['PROPN', 'SPACE']",[],1,0,2
+US2733042A,1956-01-31,culbertson,['PROPN'],[],1,0,1
+US2733043A,1956-01-31,M smith,"['PROPN', 'PROPN']",[],1,0,2
+US2733054A,1952-06-13,Van ackeren,"['PROPN', 'NOUN']",[],1,0,2
+US2733072A,1956-01-31,Finger chuck,"['PROPN', 'VERB']",[],1,0,2
+US2733075A,1956-01-31,Rehacek,['PROPN'],['ORG'],1,0,1
+US2733085A,1956-01-31,Latzen,['PROPN'],[],1,0,1
+US2733090A,1956-01-31,Coplen,['PROPN'],[],1,0,1
+US2733091A,1956-01-31,Janonis,['PROPN'],[],1,0,1
+US2733093A,1956-01-31,Reitzel,['PROPN'],[],1,0,1
+US2733094A,1956-01-31,carlton,['PROPN'],['ORG'],1,0,1
+US2733120A,1953-10-12,Ouakum kuuivi,"['PROPN', 'PROPN']",[],1,0,2
+US2733132A,1956-01-31,patewo,"['PROPN', 'SPACE']",[],1,0,2
+US2733135A,1956-01-31,huckabay,"['PROPN', 'SPACE']",[],1,0,2
+US2733153A,1956-01-31,hammerberg,['PROPN'],[],1,0,1
+US2733165A,1956-01-31,Naoas,['PROPN'],[],1,0,1
+US2733177A,1956-01-31,meyer,['PROPN'],['ORG'],1,0,1
+US2733193A,1956-01-31,Haensel,['PROPN'],[],1,0,1
+US2733197A,1956-01-31,cassan,"['PROPN', 'SPACE']",[],1,0,2
+US2733200A,1956-01-31,Kunin,['PROPN'],['GPE'],1,0,1
+US2733213A,1956-01-31,Jtdtclu wiiilc,"['PROPN', 'INTJ']",[],1,0,2
+US2733227A,1952-06-26,Alcij,['PROPN'],[],1,0,1
+US2733230A,1950-12-20,Linear,['PROPN'],['ORG'],1,0,1
+US2733235A,1956-01-31,Table ii,"['NOUN', 'PROPN']",[],1,0,2
+US2733260A,1956-01-31,Atpha,"['PROPN', 'SPACE']",[],1,0,2
+US2733276A,1956-01-31,Tttt a,"['PROPN', 'PRON']",[],1,0,2
+US2733281A,1956-01-31,Ulhfck,['PROPN'],[],1,0,1
+US2733290A,1953-12-17,valiulis,['PROPN'],[],1,0,1
+US2733293A,1956-01-31,Neumann,['PROPN'],[],1,0,1
+US2733294A,1956-01-31,morris,['PROPN'],[],1,0,1
+US2733303A,1951-08-02,Koenig,['PROPN'],[],1,0,1
+US2733304A,1951-08-02,Koenig,['PROPN'],[],1,0,1
+US2733305A,1948-09-30,Diemer,['PROPN'],[],1,0,1
+US2733306A,1952-07-29,bedford,"['PROPN', 'SPACE']",[],1,0,2
+US2733308A,1953-09-08,Vossen,['PROPN'],['GPE'],1,0,1
+US2733309A,1956-01-31,elliott,['PROPN'],[],1,0,1
+US2733312A,1956-01-31,christensen,['PROPN'],[],1,0,1
+US2733314A,1956-01-31,schmidt,['PROPN'],[],1,0,1
+US2733328A,1956-01-31,Newbold,['PROPN'],[],1,0,1
+US2733341A,1956-01-31,Frequency,"['PROPN', 'SPACE']",[],1,0,2
+US2733343A,1956-01-31,Ionization source,"['PROPN', 'NOUN']",[],1,0,2
+US2733347A,1956-01-31,De liban,"['PROPN', 'X']",[],1,0,2
+US2733349A,1956-01-31,Calutron,['PROPN'],[],1,0,1
+US2733352A,1956-01-31,billin,['PROPN'],['GPE'],1,0,1
+US2733354A,1956-01-31,Vloch,['PROPN'],['GPE'],1,0,1
+US2733358A,1956-01-31,Signal,['PROPN'],['ORG'],1,0,1
+US2733359A,1956-01-31,brown,"['PROPN', 'SPACE']",[],1,0,2
+US2733366A,1956-01-31,Grimm ctal,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2733382A,1956-01-31,campbell,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2733385A,1956-01-31,bychinsky,['PROPN'],[],1,0,1
+US2733390A,1952-06-25,scanlon,"['PROPN', 'SPACE']",[],1,0,2
+US2733395A,1956-01-31,brown,"['PROPN', 'SPACE']",[],1,0,2
+US2733396A,1956-01-31,Luthxr,['PROPN'],[],1,0,1
+US2733428A,1956-01-31,Leblanc,['PROPN'],[],1,0,1
+US2733430A,1956-01-31,steele,['PROPN'],[],1,0,1
+US2733431A,1956-01-31,steele,['PROPN'],[],1,0,1
+US2733439A,1956-02-07,Pikal,['PROPN'],[],1,0,1
+US2733443A,1956-02-07,holder,"['PROPN', 'SPACE']",[],1,0,2
+US2733444A,1956-02-07,Goldstein,['PROPN'],[],1,0,1
+US2733453A,1956-02-07,Cifarelli,['PROPN'],[],1,0,1
+US2733454A,1956-02-07,Bottner,['PROPN'],[],1,0,1
+US2733457A,1956-02-07,Pizzuto,['PROPN'],[],1,0,1
+US2733471A,1956-02-07,Paintbrush apron,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2733479A,1956-02-07,english,['PROPN'],['NORP'],1,0,1
+US2733484A,1956-02-07,Jedlicka,['PROPN'],[],1,0,1
+US2733487A,1956-02-07,Hauck,['PROPN'],[],1,0,1
+US2733493A,1956-02-07,bryer,"['PROPN', 'SPACE']",[],1,0,2
+US2733504A,1956-02-07,smith,['PROPN'],[],1,0,1
+US2733505A,1956-02-07,Kenington,['PROPN'],['ORG'],1,0,1
+US2733510A,1956-02-07,darago,['PROPN'],[],1,0,1
+US2733516A,1956-02-07,tornebohm,['PROPN'],[],1,0,1
+US2733517A,1956-02-07,gjersoe,['PROPN'],[],1,0,1
+US2733518A,1956-02-07,Pszegon,['PROPN'],['NORP'],1,0,1
+US2733525A,1956-02-07,Mcmahon,['PROPN'],[],1,0,1
+US2733535A,1956-02-07,Rosen,['PROPN'],[],1,0,1
+US2733536A,1956-02-07,terazono,['PROPN'],[],1,0,1
+US2733537A,1956-02-07,Filsberg,['PROPN'],['ORG'],1,0,1
+US2733544A,1956-02-07,Toy buildings,"['PROPN', 'NOUN']",[],1,0,2
+US2733548A,1956-02-07,Sebel,['PROPN'],[],1,0,1
+US2733556A,1956-02-07,Whitesell,['PROPN'],['ORG'],1,0,1
+US2733567A,1956-02-07,Zellweger,['PROPN'],[],1,0,1
+US2733570A,1956-02-07,macpherson,"['PROPN', 'SPACE']",[],1,0,2
+US2733580A,1956-02-07,miller,['PROPN'],['ORG'],1,0,1
+US2733586A,1956-02-07,Candelabrum,['PROPN'],[],1,0,1
+US2733591A,1956-02-07,Schumer,['PROPN'],[],1,0,1
+US2733593A,1956-02-07,nan,['PROPN'],['GPE'],1,0,1
+US2733595A,1956-02-07,Ooooogogg,['PROPN'],[],1,0,1
+US2733598A,1956-02-07,miner,"['PROPN', 'SPACE']",[],1,0,2
+US2733601A,1956-02-07,mitchell,['PROPN'],[],1,0,1
+US2733603A,1956-02-07,cornet,['PROPN'],[],1,0,1
+US2733607A,1956-02-07,miller,['PROPN'],['ORG'],1,0,1
+US2733619A,1956-02-07,smith,['PROPN'],[],1,0,1
+US2733622A,1956-02-07,evans,"['PROPN', 'SPACE']",[],1,0,2
+US2733624A,1956-02-07,Dowidat,['PROPN'],['ORG'],1,0,1
+US2733626A,1956-02-07,Mesojedec,['PROPN'],[],1,0,1
+US2733628A,1956-02-07,Bierl,['PROPN'],[],1,0,1
+US2733631A,1956-02-07,Mclachlan,['PROPN'],[],1,0,1
+US2733639A,1956-02-07,musser,"['PROPN', 'SPACE']",[],1,0,2
+US2733641A,1956-02-07,praeg,['PROPN'],['GPE'],1,0,1
+US2733652A,1956-02-07,Baler,['PROPN'],[],1,0,1
+US2733659A,1956-02-07,booth,"['PROPN', 'SPACE']",[],1,0,2
+US2733687A,1956-02-07,schmid,['PROPN'],[],1,0,1
+US2733688A,1956-02-07,badenoch,"['PROPN', 'SPACE']",[],1,0,2
+US2733689A,1956-02-07,badenoch,"['PROPN', 'SPACE']",[],1,0,2
+US2733693A,1956-02-07,johnsson,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2733694A,1956-02-07,Brebeck,['PROPN'],[],1,0,1
+US2733707A,1956-02-07,Skibiski,['PROPN'],['NORP'],1,0,1
+US2733709A,1956-02-07,Sukacev,['PROPN'],[],1,0,1
+US2733710A,1956-02-07,zibell,['PROPN'],[],1,0,1
+US2733711A,1956-02-07,gibson,['PROPN'],[],1,0,1
+US2733714A,1956-02-07,nan,['PROPN'],['GPE'],1,0,1
+US2733725A,1956-02-07,zachariassen,['PROPN'],[],1,0,1
+US2733726A,1956-02-07,kaufman,['PROPN'],[],1,0,1
+US2733728A,1956-02-07,sampselle,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2733732A,1956-02-07,baker,['PROPN'],[],1,0,1
+US2733733A,1956-02-07,ghormley,['PROPN'],[],1,0,1
+US2733744A,1950-04-26,stanton,"['PROPN', 'SPACE']",[],1,0,2
+US2733762A,1956-02-07,Spray drier,"['PROPN', 'NOUN']",[],1,0,2
+US2733770A,1956-02-07,le tourneau,"['X', 'PROPN']",[],1,0,2
+US2733771A,1956-02-07,sullivan,"['PROPN', 'SPACE']",[],1,0,2
+US2733773A,1956-02-07,Dauben,['PROPN'],[],1,0,1
+US2733774A,1956-02-07,Pessel,['PROPN'],[],1,0,1
+US2733780A,1956-02-07,myers,"['PROPN', 'SPACE']",[],1,0,2
+US2733782A,1956-02-07,Brake hanger,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2733783A,1956-02-07,Brake drum,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2733785A,1956-02-07,beatty,['PROPN'],[],1,0,1
+US2733789A,1956-02-07,tolle,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2733805A,1956-02-07,lyman,"['PROPN', 'SPACE']",[],1,0,2
+US2733810A,1956-02-07,murry,['PROPN'],[],1,0,1
+US2733821A,1956-02-07,willrodt,['PROPN'],[],1,0,1
+US2733823A,1956-02-07,evans,['PROPN'],[],1,0,1
+US2733825A,1956-02-07,evans,['PROPN'],[],1,0,1
+US2733832A,1956-02-07,Newton,['PROPN'],['GPE'],1,0,1
+US2733833A,1956-02-07,skillman,['PROPN'],[],1,0,1
+US2733852A,1956-02-07,williamson,['PROPN'],[],1,0,1
+US2733856A,1952-12-04,Sludge centrifuge,"['PROPN', 'NOUN']",[],1,0,2
+US2733859A,1956-02-07,landsiedel,['PROPN'],[],1,0,1
+US2733861A,1952-08-01,Universal sw,"['PROPN', 'PROPN']",[],1,0,2
+US2733862A,1952-12-26,Ooooo cccccctc,"['PROPN', 'PROPN']",[],1,0,2
+US2733866A,1956-02-07,bernard,"['PROPN', 'SPACE']",[],1,0,2
+US2733867A,1956-02-07,Bobbin winder,"['PROPN', 'NOUN']",[],1,0,2
+US2733870A,1951-01-09,Furst,['PROPN'],[],1,0,1
+US2733871A,1956-02-07,reinhold,['PROPN'],[],1,0,1
+US2733872A,1956-02-07,Wurzel,['PROPN'],[],1,0,1
+US2733879A,1956-02-07,noxon,['PROPN'],[],1,0,1
+US2733880A,1956-02-07,nan,['PROPN'],['GPE'],1,0,1
+US2733885A,1956-02-07,Thermometer holder,"['PROPN', 'NOUN']",[],1,0,2
+US2733887A,1956-02-07,schmidt,['PROPN'],[],1,0,1
+US2733893A,1956-02-07,Segal,['PROPN'],[],1,0,1
+US2733895A,1956-02-07,trenkle,['PROPN'],[],1,0,1
+US2733898A,1956-02-07,christian,['PROPN'],['NORP'],1,0,1
+US2733911A,1956-02-07,thurston,['PROPN'],[],1,0,1
+US2733925A,1952-02-14,Denzler,['PROPN'],[],1,0,1
+US2733926A,1956-02-07,colton,['PROPN'],[],1,0,1
+US2733932A,1956-02-07,stidham,['PROPN'],[],1,0,1
+US2733937A,1956-02-07,J- mowrer,"['PROPN', 'NOUN']",[],1,0,2
+US2733950A,1956-02-07,Attor ey,"['PROPN', 'PRON']",[],1,0,2
+US2733954A,1956-02-07,blake,"['PROPN', 'SPACE']",[],1,0,2
+US2733957A,1956-02-07,Van buren,"['PROPN', 'NOUN']",[],1,0,2
+US2733960A,1956-02-07,Barfod,['PROPN'],[],1,0,1
+US2733962A,1956-02-07,Cairo,['PROPN'],['GPE'],1,0,1
+US2733971A,1956-02-07,house,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2733979A,1956-02-07,Haensel,['PROPN'],[],1,0,1
+US2733983A,1956-02-07,fecij,"['PROPN', 'SPACE']",[],1,0,2
+US2733989A,1956-02-07,Greffe,['PROPN'],[],1,0,1
+US2734010A,1956-02-07,Asphalt,['PROPN'],[],1,0,1
+US2734011A,1956-02-07,robinson,"['PROPN', 'SPACE']",[],1,0,2
+US2734018A,1953-09-28,Ircso,['PROPN'],[],1,0,1
+US2734022A,1956-02-07,Hydroformemg process,"['PROPN', 'NOUN']",[],1,0,2
+US2734025A,1954-02-04,Twatktnw att,"['PROPN', 'PROPN']",['ORG'],1,0,2
+US2734048A,1950-04-22,Chsoh,['PROPN'],[],1,0,1
+US2734053A,1956-02-07,Coxch,['PROPN'],[],1,0,1
+US2734056A,1956-02-07,Chsoco,['PROPN'],[],1,0,1
+US2734094A,1956-02-07,simon,['PROPN'],[],1,0,1
+US2734098A,1956-02-07,bonnesen,['PROPN'],[],1,0,1
+US2734107A,1956-02-07,reichel,['PROPN'],[],1,0,1
+US2734111A,1956-02-07,kozacka,"['PROPN', 'SPACE']",[],1,0,2
+US2734112A,1956-02-07,kozacka,['PROPN'],[],1,0,1
+US2734113A,1956-02-07,Thermostat,['PROPN'],['GPE'],1,0,1
+US2734116A,1956-02-07,rybolt,['PROPN'],[],1,0,1
+US2734126A,1956-02-07,kruger,"['PROPN', 'SPACE']",[],1,0,2
+US2734132A,1956-02-07,Heterodyne receiver,"['PROPN', 'NOUN']",[],1,0,2
+US2734134A,1956-02-07,beard,['PROPN'],[],1,0,1
+US2734138A,1956-02-07,oravec,"['PROPN', 'SPACE']",[],1,0,2
+US2734148A,1950-04-03,Magnetron tube,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2734161A,1956-02-07,Frequency,['PROPN'],[],1,0,1
+US2734164A,1956-02-07,knowlton,['PROPN'],[],1,0,1
+US2734166A,1956-02-07,hooker,['PROPN'],[],1,0,1
+US2734173A,1956-02-07,Ogurkowski,['PROPN'],[],1,0,1
+US2734198A,1956-02-14,kutsche,['PROPN'],[],1,0,1
+US2734201A,1956-02-14,bebry,['PROPN'],[],1,0,1
+US2734204A,1956-02-14,Epstein,['PROPN'],[],1,0,1
+US2734207A,1956-02-14,parrelli,['PROPN'],[],1,0,1
+US2734216A,1956-02-14,brace,"['PROPN', 'SPACE']",[],1,0,2
+US2734219A,1956-02-14,kaufman,"['PROPN', 'SPACE']",[],1,0,2
+US2734225A,1952-08-16,glynn,"['PROPN', 'SPACE']",[],1,0,2
+US2734232A,1956-02-14,bodell,"['PROPN', 'SPACE']",[],1,0,2
+US2734235A,1956-02-14,trammell,['PROPN'],['ORG'],1,0,1
+US2734257A,1950-05-05,jonsson,"['PROPN', 'SPACE']",[],1,0,2
+US2734265A,1956-02-14,Akerib,['PROPN'],[],1,0,1
+US2734269A,1956-02-14,Claret,['PROPN'],[],1,0,1
+US2734271A,1956-02-14,Arc pantograph,"['PROPN', 'NOUN']",[],1,0,2
+US2734281A,1953-03-09,kauffman,['PROPN'],[],1,0,1
+US2734282A,1956-02-14,nemeth,['PROPN'],['DATE'],1,0,1
+US2734284A,1956-02-14,Seurbom,['PROPN'],[],1,0,1
+US2734296A,1956-02-14,bible,['PROPN'],[],1,0,1
+US2734304A,1956-02-14,yulich,['PROPN'],[],1,0,1
+US2734312A,1956-02-14,Vaghi,['PROPN'],[],1,0,1
+US2734316A,1954-11-22,dawson,"['PROPN', 'SPACE']",[],1,0,2
+US2734322A,1956-02-14,Vaughan,['PROPN'],[],1,0,1
+US2734326A,1956-02-14,gebhart,"['PROPN', 'SPACE']",[],1,0,2
+US2734332A,1956-02-14,fisher,"['PROPN', 'SPACE']",[],1,0,2
+US2734345A,1956-02-14,Lawler,['PROPN'],['ORG'],1,0,1
+US2734352A,1956-02-14,Dolza,['PROPN'],[],1,0,1
+US2734356A,1956-02-14,Kleinhans,['PROPN'],['NORP'],1,0,1
+US2734358A,1956-02-14,Himmelfarb,['PROPN'],['ORG'],1,0,1
+US2734361A,1956-02-14,Blais,['PROPN'],['ORG'],1,0,1
+US2734372A,1956-02-14,kauffman ii,"['PROPN', 'PROPN']",[],1,0,2
+US2734378A,1956-02-14,Tinttfd,['PROPN'],['GPE'],1,0,1
+US2734389A,1956-02-14,Strecker,['PROPN'],[],1,0,1
+US2734395A,1956-02-14,fawick,['PROPN'],[],1,0,1
+US2734398A,1956-02-14,Bottcher,['PROPN'],[],1,0,1
+US2734402A,1956-02-14,hoern,"['PROPN', 'SPACE']",[],1,0,2
+US2734405A,1956-02-14,Cozzo,['PROPN'],['NORP'],1,0,1
+US2734408A,1956-02-14,smith,"['PROPN', 'SPACE']",[],1,0,2
+US2734410A,1956-02-14,Gipperich,['PROPN'],[],1,0,1
+US2734415A,1950-05-02,Mobius,['PROPN'],['ORG'],1,0,1
+US2734416A,1956-02-14,corwin,"['PROPN', 'SPACE']",[],1,0,2
+US2734417A,1956-02-14,hindsley,['PROPN'],[],1,0,1
+US2734420A,1956-02-14,smith,"['PROPN', 'SPACE']",[],1,0,2
+US2734421A,1956-02-14,Film projector,"['PROPN', 'NOUN']",[],1,0,2
+US2734423A,1951-07-12,bertele,"['PROPN', 'SPACE']",[],1,0,2
+US2734424A,1950-02-13,bertele,"['PROPN', 'SPACE']",[],1,0,2
+US2734439A,1956-02-14,padrick,"['PROPN', 'SPACE']",[],1,0,2
+US2734445A,1956-02-14,whitney,['PROPN'],[],1,0,1
+US2734449A,1956-02-14,erickson,['PROPN'],[],1,0,1
+US2734476A,1956-02-14,marsh,['PROPN'],[],1,0,1
+US2734479A,1956-02-14,norris,"['PROPN', 'SPACE']",[],1,0,2
+US2734480A,1956-02-14,morris,"['PROPN', 'SPACE']",[],1,0,2
+US2734487A,1956-02-14,brainard,"['PROPN', 'SPACE']",[],1,0,2
+US2734497A,1956-02-14,chayne,['PROPN'],[],1,0,1
+US2734501A,1956-02-14,Fauser,['PROPN'],[],1,0,1
+US2734512A,1956-02-14,H- long,"['PROPN', 'ADV']",[],1,0,2
+US2734519A,1956-02-14,widdowson,['PROPN'],[],1,0,1
+US2734530A,1956-02-14,Diaphragm housing,"['PROPN', 'NOUN']",['GPE'],1,0,2
+US2734535A,1956-02-14,neubauer,['PROPN'],['ORG'],1,0,1
+US2734537A,1956-02-14,geisler,"['PROPN', 'SPACE']",[],1,0,2
+US2734551A,1956-02-14,berdis,"['PROPN', 'SPACE']",[],1,0,2
+US2734557A,1956-02-14,hickok,"['PROPN', 'SPACE']",[],1,0,2
+US2734559A,1956-02-14,vaughn,['PROPN'],[],1,0,1
+US2734565A,1956-02-14,lockman,"['PROPN', 'SPACE']",[],1,0,2
+US2734571A,1956-02-14,martell,"['PROPN', 'SPACE']",[],1,0,2
+US2734573A,1956-02-14,Bailey,['PROPN'],[],1,0,1
+US2734580A,1956-02-14,layne,"['PROPN', 'SPACE']",[],1,0,2
+US2734583A,1956-02-14,milan,['PROPN'],['GPE'],1,0,1
+US2734588A,1950-06-24,Schlumbohm,['PROPN'],['NORP'],1,0,1
+US2734598A,1956-02-14,Pss xx,"['PROPN', 'PROPN']",[],1,0,2
+US2734617A,1956-02-14,temple,"['PROPN', 'SPACE']",[],1,0,2
+US2734622A,1956-02-14,everhart,['PROPN'],[],1,0,1
+US2734632A,1956-02-14,De ment,"['PROPN', 'NOUN']",[],1,0,2
+US2734636A,1956-02-14,foster,"['PROPN', 'SPACE']",[],1,0,2
+US2734637A,1956-02-14,Fisher,['PROPN'],[],1,0,1
+US2734659A,1956-02-14,smith,"['PROPN', 'SPACE']",[],1,0,2
+US2734660A,1956-02-14,Fraser,['PROPN'],[],1,0,1
+US2734666A,1956-02-14,Schmid,['PROPN'],[],1,0,1
+US2734667A,1956-02-14,Grout pump,"['PROPN', 'VERB']",[],1,0,2
+US2734685A,1956-02-14,Tomizo saito,"['PROPN', 'NOUN']",[],1,0,2
+US2734686A,1956-02-14,oberhellmann,['PROPN'],[],1,0,1
+US2734691A,1956-02-14,Godat,['PROPN'],[],1,0,1
+US2734692A,1956-02-14,robinson,['PROPN'],[],1,0,1
+US2734705A,1956-02-14,robertson,"['PROPN', 'SPACE']",[],1,0,2
+US2734706A,1956-02-14,jalbert,['PROPN'],[],1,0,1
+US2734709A,1956-02-14,harrison,"['PROPN', 'SPACE']",[],1,0,2
+US2734711A,1956-02-14,Tumbler holder,"['PROPN', 'NOUN']",[],1,0,2
+US2734712A,1956-02-14,Fraser,['PROPN'],[],1,0,1
+US2734724A,1956-02-14,larcxn,"['PROPN', 'SPACE']",[],1,0,2
+US2734735A,1956-02-14,payne,['PROPN'],[],1,0,1
+US2734739A,1956-02-14,Messina,['PROPN'],[],1,0,1
+US2734740A,1956-02-14,morris,"['PROPN', 'SPACE']",[],1,0,2
+US2734742A,1954-08-17,Schwenk,['PROPN'],[],1,0,1
+US2734754A,1956-02-14,barker,"['PROPN', 'SPACE']",[],1,0,2
+US2734768A,1956-02-14,warner,['PROPN'],['ORG'],1,0,1
+US2734770A,1956-02-14,Kurata,['PROPN'],[],1,0,1
+US2734776A,1956-02-14,elliott,['PROPN'],[],1,0,1
+US2734779A,1956-02-14,Vehicle wheel,"['PROPN', 'NOUN']",[],1,0,2
+US2734783A,1956-02-14,safford,['PROPN'],[],1,0,1
+US2734786A,1956-02-14,Mcnicoll,['PROPN'],[],1,0,1
+US2734787A,1956-02-14,Rotifr r,"['PROPN', 'NOUN']",[],1,0,2
+US2734795A,1956-02-14,Uozclz,['PROPN'],[],1,0,1
+US2734799A,1956-02-14,Brooks,['PROPN'],[],1,0,1
+US2734800A,1956-02-14,Brooks,['PROPN'],[],1,0,1
+US2734801A,1956-02-14,Brooks,['PROPN'],[],1,0,1
+US2734803A,1956-02-14,ruskin,"['PROPN', 'SPACE']",[],1,0,2
+US2734806A,1954-08-24,Germanium etchings,"['PROPN', 'VERB']",[],1,0,2
+US2734825A,1953-06-16,morgan,['PROPN'],[],1,0,1
+US2734830A,1950-01-13,nan,['PROPN'],['GPE'],1,0,1
+US2734832A,1956-02-14,lewis,['PROPN'],[],1,0,1
+US2734833A,1956-02-14,Chjocor,['PROPN'],['ORG'],1,0,1
+US2734841A,1956-02-14,Merriman,['PROPN'],['ORG'],1,0,1
+US2734847A,1956-02-14,Ptoatw,['PROPN'],[],1,0,1
+US2734850A,1951-05-19,brown,"['PROPN', 'SPACE']",[],1,0,2
+US2734851A,1956-02-14,smith,['PROPN'],[],1,0,1
+US2734872A,1956-02-14,nan,['PROPN'],['GPE'],1,0,1
+US2734885A,1954-08-31,nan,['PROPN'],['GPE'],1,0,1
+US2734895A,1956-02-14,Cochj,['PROPN'],[],1,0,1
+US2734897A,1956-02-14,Chacoo,['PROPN'],[],1,0,1
+US2734900A,1953-12-28,Chxgh,['PROPN'],[],1,0,1
+US2734935A,1956-02-14,hanley,"['PROPN', 'SPACE']",[],1,0,2
+US2734938A,1956-02-14,goodale,['PROPN'],[],1,0,1
+US2734943A,1956-02-14,Liguorietai,['PROPN'],['GPE'],1,0,1
+US2734946A,1951-04-03,Mercer,['PROPN'],[],1,0,1
+US2734969A,1956-02-14,Mallory,['PROPN'],[],1,0,1
+US2734978A,1956-02-14,Bulgin,['PROPN'],['ORG'],1,0,1
+US2734983A,1956-02-14,krichton,['PROPN'],[],1,0,1
+US2734986A,1956-02-14,Gameros,['PROPN'],[],1,0,1
+US2734990A,1956-02-14,leuschner,"['PROPN', 'SPACE']",[],1,0,2
+US2734991A,1956-02-14,shapiro,"['PROPN', 'SPACE']",[],1,0,2
+US2735000A,1956-02-14,Globe holder,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2735008A,1956-02-14,scott,['PROPN'],[],1,0,1
+US2735009A,1956-02-14,harry,['PROPN'],[],1,0,1
+US2735010A,1956-02-14,bedford,"['PROPN', 'SPACE']",[],1,0,2
+US2735017A,1956-02-14,beard ettal,"['PROPN', 'NOUN']",[],1,0,2
+US2735018A,1956-02-14,Mclachlan,['PROPN'],[],1,0,1
+US2735020A,1956-02-14,crawford,"['PROPN', 'SPACE']",[],1,0,2
+US2735021A,1956-02-14,nilssen,['PROPN'],[],1,0,1
+US2735022A,1956-02-14,white,"['PROPN', 'SPACE']",[],1,0,2
+US2735028A,1950-07-04,brouwer,['PROPN'],[],1,0,1
+US2735032A,1952-10-09,bradley,['PROPN'],[],1,0,1
+US2735048A,1951-03-15,Chs cjhj,"['PROPN', 'VERB']",[],1,0,2
+US2735049A,1956-02-14,De forest,"['PROPN', 'NOUN']",[],1,0,2
+US2735054A,1956-02-14,Schaelchlin,['PROPN'],[],1,0,1
+US2735064A,1956-02-14,Salzberg,['PROPN'],['GPE'],1,0,1
+US2735075A,1956-02-14,thomason,"['PROPN', 'SPACE']",[],1,0,2
+US2735087A,1956-02-14,lingerfelt,['PROPN'],[],1,0,1
+US2735090A,1956-02-14,maenpaa,"['PROPN', 'SPACE']",[],1,0,2
+US2735094A,1956-02-21,Plotkin,['PROPN'],[],1,0,1
+US2735096A,1956-02-21,miller,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2735099A,1956-02-21,lewis,['PROPN'],[],1,0,1
+US2735100A,1956-02-21,Erteszek,['PROPN'],[],1,0,1
+US2735103A,1956-02-21,Saftlas,['PROPN'],['GPE'],1,0,1
+US2735112A,1956-02-21,Myers,['PROPN'],[],1,0,1
+US2735119A,1956-02-21,dodge,['PROPN'],[],1,0,1
+US2735120A,1956-02-21,Zelinka,['PROPN'],[],1,0,1
+US2735139A,1956-02-21,morin,"['PROPN', 'SPACE']",[],1,0,2
+US2735141A,1956-02-21,Condenser supports,"['PROPN', 'VERB']",[],1,0,2
+US2735147A,1956-02-21,Nielsen,['PROPN'],[],1,0,1
+US2735149A,1956-02-21,frank,['PROPN'],[],1,0,1
+US2735161A,1951-05-18,pulman,"['PROPN', 'SPACE']",[],1,0,2
+US2735179A,1956-02-21,stanton,['PROPN'],[],1,0,1
+US2735185A,1956-02-21,Naphtal,['PROPN'],[],1,0,1
+US2735189A,1956-02-21,bjornberg,"['PROPN', 'SPACE']",[],1,0,2
+US2735194A,1956-02-21,kaiser,['PROPN'],[],1,0,1
+US2735195A,1956-02-21,eaton,['PROPN'],[],1,0,1
+US2735200A,1956-02-21,F arps,"['PROPN', 'VERB']",[],1,0,2
+US2735201A,1956-02-21,gudgeon,['PROPN'],[],1,0,1
+US2735207A,1956-02-21,christiansen,['PROPN'],[],1,0,1
+US2735210A,1956-02-21,Weed guard,"['PROPN', 'NOUN']",[],1,0,2
+US2735216A,1956-02-21,Mouse trap,"['PROPN', 'VERB']",['ORG'],1,0,2
+US2735229A,1939-08-25,honiss,"['PROPN', 'SPACE']",[],1,0,2
+US2735238A,1956-02-21,heffley,['PROPN'],[],1,0,1
+US2735239A,1956-02-21,gibson,['PROPN'],[],1,0,1
+US2735245A,1956-02-21,F grieco,"['PROPN', 'NOUN']",[],1,0,2
+US2735252A,1956-02-21,mcclendon,['PROPN'],[],1,0,1
+US2735257A,1956-02-21,legard,['PROPN'],[],1,0,1
+US2735259A,1956-02-21,Gisiger,['PROPN'],[],1,0,1
+US2735263A,1956-02-21,charshafian,"['PROPN', 'SPACE']",[],1,0,2
+US2735271A,1956-02-21,evans,['PROPN'],[],1,0,1
+US2735275A,1956-02-21,Inyentor,['PROPN'],[],1,0,1
+US2735282A,1952-11-09,Piltz,['PROPN'],['GPE'],1,0,1
+US2735286A,1956-02-21,Sperry,['PROPN'],['ORG'],1,0,1
+US2735288A,1956-02-21,trammell,['PROPN'],['ORG'],1,0,1
+US2735289A,1956-02-21,trammell,['PROPN'],['ORG'],1,0,1
+US2735294A,1956-02-21,fisher,"['PROPN', 'SPACE']",[],1,0,2
+US2735298A,1956-02-21,Dispenza,['PROPN'],[],1,0,1
+US2735299A,1956-02-21,Flowmeter,['PROPN'],[],1,0,1
+US2735301A,1956-02-21,Schwob,['PROPN'],[],1,0,1
+US2735304A,1956-02-21,toppfb haw,"['PROPN', 'NOUN']",[],1,0,2
+US2735310A,1956-02-21,mofarland,"['PROPN', 'SPACE']",[],1,0,2
+US2735315A,1956-02-21,zenker,['PROPN'],[],1,0,1
+US2735318A,1956-02-21,Hrebicek,['PROPN'],['ORG'],1,0,1
+US2735333A,1956-02-21,mitchell,['PROPN'],[],1,0,1
+US2735337A,1956-02-21,Frischmann,['PROPN'],[],1,0,1
+US2735339A,1956-02-21,Yoshikazu doi,"['PROPN', 'NOUN']",[],1,0,2
+US2735342A,1956-02-21,Glaser,['PROPN'],[],1,0,1
+US2735351A,1956-02-21,abrahamsen,"['PROPN', 'SPACE']",[],1,0,2
+US2735357A,1956-02-21,gagnon,"['PROPN', 'SPACE']",[],1,0,2
+US2735367A,1956-02-21,kenney,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2735382A,1956-02-21,hansen,['PROPN'],[],1,0,1
+US2735383A,1956-02-21,Gerbracht,['PROPN'],[],1,0,1
+US2735384A,1956-02-21,Stoker,['PROPN'],[],1,0,1
+US2735385A,1956-02-21,De ascentiis,"['PROPN', 'VERB']",[],1,0,2
+US2735393A,1956-02-21,White,['PROPN'],[],1,0,1
+US2735400A,1956-02-21,stubbs,"['PROPN', 'SPACE']",[],1,0,2
+US2735402A,1956-02-21,De lorenzo,"['PROPN', 'NOUN']",[],1,0,2
+US2735406A,1956-02-21,britton,['PROPN'],['ORG'],1,0,1
+US2735415A,1956-02-21,slonek,['PROPN'],[],1,0,1
+US2735423A,1956-02-21,powell,['PROPN'],[],1,0,1
+US2735426A,1956-02-21,claydon,['PROPN'],['GPE'],1,0,1
+US2735435A,1956-02-21,feinstein,['PROPN'],[],1,0,1
+US2735436A,1956-02-21,Russo,['PROPN'],[],1,0,1
+US2735442A,1956-02-21,kenney,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2735464A,1956-02-21,kerven,"['PROPN', 'SPACE']",[],1,0,2
+US2735467A,1956-02-21,Hellmich,['PROPN'],[],1,0,1
+US2735471A,1956-02-21,mclean,"['PROPN', 'SPACE']",[],1,0,2
+US2735472A,1956-02-21,beery,"['PROPN', 'SPACE']",[],1,0,2
+US2735490A,1956-02-21,Keysort keypunch,"['PROPN', 'NOUN']",[],1,0,2
+US2735491A,1956-02-21,frost,"['PROPN', 'SPACE']",[],1,0,2
+US2735493A,1956-02-21,munhausen,"['PROPN', 'SPACE']",[],1,0,2
+US2735505A,1956-02-21,Kleiman,['PROPN'],['NORP'],1,0,1
+US2735506A,1956-02-21,glasgow,"['PROPN', 'SPACE']",[],1,0,2
+US2735507A,1956-02-21,Vogel,['PROPN'],['ORG'],1,0,1
+US2735511A,1956-02-21,holmberg,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2735515A,1956-02-21,cloudsley,"['PROPN', 'SPACE']",[],1,0,2
+US2735519A,1956-02-21,Frischmann,['PROPN'],[],1,0,1
+US2735525A,1951-02-03,Martindell,['PROPN'],[],1,0,1
+US2735528A,1956-02-21,dodge,['PROPN'],[],1,0,1
+US2735532A,1953-06-08,Meyer,['PROPN'],[],1,0,1
+US2735534A,1956-02-21,hapman,['PROPN'],[],1,0,1
+US2735538A,1956-02-21,boehm,['PROPN'],[],1,0,1
+US2735541A,1956-02-21,mosler,"['PROPN', 'SPACE']",[],1,0,2
+US2735545A,1956-02-21,Norman,['PROPN'],['NORP'],1,0,1
+US2735553A,1956-02-21,lehman,['PROPN'],['ORG'],1,0,1
+US2735560A,1956-02-21,weber,['PROPN'],[],1,0,1
+US2735570A,1956-02-21,stockton,['PROPN'],[],1,0,1
+US2735581A,1956-02-21,Erdmann,['PROPN'],[],1,0,1
+US2735606A,1956-02-21,paige,['PROPN'],[],1,0,1
+US2735622A,1956-02-21,Pintarell,['PROPN'],[],1,0,1
+US2735631A,1956-02-21,sexton,['PROPN'],[],1,0,1
+US2735647A,1950-06-24,duport,['PROPN'],[],1,0,1
+US2735651A,1956-02-21,mcclernon,['PROPN'],[],1,0,1
+US2735654A,1956-02-21,hildebrandt,['PROPN'],['ORG'],1,0,1
+US2735659A,1956-02-21,Condenser for,"['PROPN', 'ADP']",[],1,0,2
+US2735669A,1956-02-21,seiler,"['PROPN', 'SPACE']",[],1,0,2
+US2735678A,1956-02-21,mokay,"['PROPN', 'SPACE']",[],1,0,2
+US2735681A,1956-02-21,sherman,"['PROPN', 'SPACE']",[],1,0,2
+US2735691A,1956-02-21,carlson,"['PROPN', 'SPACE']",[],1,0,2
+US2735703A,1956-02-21,goodman,['PROPN'],[],1,0,1
+US2735706A,1956-02-21,pelcin,['PROPN'],[],1,0,1
+US2735707A,1956-02-21,Sylvan,['PROPN'],[],1,0,1
+US2735713A,1956-02-21,blakeley,['PROPN'],[],1,0,1
+US2735716A,1956-02-21,shimabukuro,['PROPN'],[],1,0,1
+US2735717A,1956-02-21,harman,['PROPN'],[],1,0,1
+US2735718A,1956-02-21,D robinson,"['PROPN', 'NOUN']",[],1,0,2
+US2735723A,1956-02-21,shireman,"['PROPN', 'SPACE']",[],1,0,2
+US2735727A,1951-04-19,Bonmartini,['PROPN'],[],1,0,1
+US2735728A,1956-02-21,powell,"['PROPN', 'SPACE']",[],1,0,2
+US2735731A,1956-02-21,freebairn,['PROPN'],[],1,0,1
+US2735733A,1956-02-21,cushman,['PROPN'],[],1,0,1
+US2735734A,1956-02-21,Kalikow,['PROPN'],[],1,0,1
+US2735738A,1956-02-21,Berne,['PROPN'],[],1,0,1
+US2735740A,1956-02-21,soans,['PROPN'],[],1,0,1
+US2735772A,1956-02-21,Mihaly,['PROPN'],[],1,0,1
+US2735790A,1954-10-20,Ttnitehi,['PROPN'],[],1,0,1
+US2735792A,1956-02-21,kroyer,"['PROPN', 'SPACE']",[],1,0,2
+US2735804A,1956-02-21,Stack,['PROPN'],[],1,0,1
+US2735812A,1952-03-13,Van hoek,"['PROPN', 'NOUN']",[],1,0,2
+US2735834A,1956-02-21,nan,['PROPN'],['GPE'],1,0,1
+US2735839A,1950-12-27,schrenk,"['PROPN', 'SPACE']",[],1,0,2
+US2735840A,1956-02-21,Vacuum pump,"['PROPN', 'VERB']",[],1,0,2
+US2735889A,1956-02-21,canfora,"['PROPN', 'SPACE']",[],1,0,2
+US2735891A,1956-02-21,Sengebusch,['PROPN'],[],1,0,1
+US2735898A,1956-02-21,bartha,['PROPN'],[],1,0,1
+US2735899A,1948-10-02,Essel,['PROPN'],[],1,0,1
+US2735904A,1956-02-21,Slonczewski,['PROPN'],[],1,0,1
+US2735906A,1956-02-21,Avrunin,['PROPN'],[],1,0,1
+US2735907A,1956-02-21,Moisture,['PROPN'],[],1,0,1
+US2735912A,1956-02-21,Ulanet,['PROPN'],[],1,0,1
+US2735920A,1956-02-21,Valliere,['PROPN'],['GPE'],1,0,1
+US2735926A,1956-02-21,langlois,['PROPN'],[],1,0,1
+US2735933A,1956-02-21,Pulse repeater,"['PROPN', 'NOUN']",[],1,0,2
+US2735944A,1956-02-21,greer,"['PROPN', 'SPACE']",[],1,0,2
+US2735952A,1956-02-21,merrill,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2735955A,1956-02-21,Electron tube,"['PROPN', 'NOUN']",[],1,0,2
+US2735959A,1956-02-21,kather,['PROPN'],[],1,0,1
+US2735960A,1956-02-21,h hamilton,"['PROPN', 'PROPN']",['ORG'],1,0,2
+US2735963A,1956-02-21,Suppressor circuit,"['PROPN', 'NOUN']",[],1,0,2
+US2735965A,1956-02-21,balanda,"['PROPN', 'SPACE']",[],1,0,2
+US2735973A,1956-02-21,Akerman,['PROPN'],[],1,0,1
+US2735983A,1951-02-15,mcleod,['PROPN'],[],1,0,1
+US2735985A,1956-02-21,Waveguide junction,"['PROPN', 'NOUN']",[],1,0,2
+US2735992A,1956-02-21,bailey,"['PROPN', 'SPACE']",[],1,0,2
+US2736004A,1956-02-21,Greene,['PROPN'],[],1,0,1
+US2736008A,1956-02-21,miller,['PROPN'],['ORG'],1,0,1
+US2736020A,1956-02-21,Atlas,['PROPN'],[],1,0,1
+US2736028A,1956-02-28,Sternlicht,['PROPN'],['ORG'],1,0,1
+US2736038A,1956-02-28,mansfield,['PROPN'],[],1,0,1
+US2736043A,1956-02-28,temple,['PROPN'],[],1,0,1
+US2736045A,1956-02-28,kamborian,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2736054A,1956-02-28,Anchor trim,"['PROPN', 'VERB']",['NORP'],1,0,2
+US2736060A,1956-02-28,glynn,['PROPN'],[],1,0,1
+US2736064A,1956-02-28,rubin,"['PROPN', 'SPACE']",[],1,0,2
+US2736067A,1956-02-28,Boschi,['PROPN'],['GPE'],1,0,1
+US2736069A,1956-02-28,mitchell,['PROPN'],[],1,0,1
+US2736074A,1956-02-28,deruette,"['PROPN', 'SPACE']",[],1,0,2
+US2736093A,1956-02-28,Fix finder,"['PROPN', 'NOUN']",[],1,0,2
+US2736097A,1956-02-28,coleman,['PROPN'],[],1,0,1
+US2736110A,1956-02-28,hardimon,['PROPN'],[],1,0,1
+US2736112A,1956-02-28,Boissonnault,['PROPN'],[],1,0,1
+US2736124A,1956-02-28,Fishing luke,"['NOUN', 'PROPN']",[],1,0,2
+US2736126A,1956-02-28,Eishhook remover,"['PROPN', 'VERB']",[],1,0,2
+US2736127A,1956-02-28,mccann,['PROPN'],[],1,0,1
+US2736128A,1956-02-28,Insect exterminator,"['PROPN', 'NOUN']",[],1,0,2
+US2736146A,1956-02-28,brooks,['PROPN'],['ORG'],1,0,1
+US2736151A,1956-02-28,mckenzie,['PROPN'],[],1,0,1
+US2736156A,1956-02-28,hardman,"['PROPN', 'SPACE']",[],1,0,2
+US2736167A,1956-02-28,teague,['PROPN'],[],1,0,1
+US2736172A,1956-02-28,mcchesney,['PROPN'],[],1,0,1
+US2736189A,1956-02-28,brandt,"['PROPN', 'SPACE']",[],1,0,2
+US2736196A,1956-02-28,Dynamometer,['PROPN'],[],1,0,1
+US2736213A,1956-02-28,Farjon,['PROPN'],[],1,0,1
+US2736220A,1956-02-28,Kamuk,['PROPN'],['GPE'],1,0,1
+US2736223A,1956-02-28,Seybold,['PROPN'],[],1,0,1
+US2736224A,1956-02-28,Trinkle,['PROPN'],['ORG'],1,0,1
+US2736230A,1956-02-28,domeshek,['PROPN'],[],1,0,1
+US2736231A,1956-02-28,Bauersfeld,['PROPN'],[],1,0,1
+US2736234A,1956-02-28,Schlumpf,['PROPN'],['ORG'],1,0,1
+US2736247A,1956-02-28,Hornbostel,['PROPN'],[],1,0,1
+US2736248A,1956-02-28,Ggggggggoggg,['PROPN'],[],1,0,1
+US2736254A,1956-02-28,kropp,['PROPN'],['ORG'],1,0,1
+US2736258A,1956-02-28,J vedder,"['PROPN', 'NOUN']",[],1,0,2
+US2736260A,1956-02-28,Schlumberger,['PROPN'],[],1,0,1
+US2736267A,1956-02-28,mosbacher,['PROPN'],[],1,0,1
+US2736271A,1956-02-28,Volpe,['PROPN'],['GPE'],1,0,1
+US2736329A,1953-06-22,Umbrella,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2736330A,1953-05-18,Crutch,"['PROPN', 'SPACE']",[],1,0,2
+US2736860A,1952-04-09,Tester,"['PROPN', 'SPACE']",[],1,0,2
+US2736908A,1953-04-15,Bolster,"['PROPN', 'SPACE']",[],1,0,2
+US2737011A,1953-07-31,Metronome,"['PROPN', 'SPACE']",[],1,0,2
+US2737049A,1954-02-03,Torquemeter,"['PROPN', 'SPACE']",[],1,0,2
+US2737052A,1956-03-06,noxon,['PROPN'],[],1,0,1
+US2737116A,1952-01-29,Grenade,"['PROPN', 'SPACE']",[],1,0,2
+US2737117A,1944-11-07,Fuze,"['PROPN', 'SPACE']",[],1,0,2
+US2737270A,1949-05-11,Beam,"['PROPN', 'SPACE']",[],1,0,2
+US2737435A,1956-03-06,borck,['PROPN'],[],1,0,1
+US2737555A,1953-05-12,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2737812A,1952-06-23,Pipette,"['PROPN', 'SPACE']",[],1,0,2
+US2738120A,1952-05-19,Ladder,"['PROPN', 'SPACE']",[],1,0,2
+US2738146A,1953-02-19,Convertiplane,"['PROPN', 'SPACE']",[],1,0,2
+US2738154A,1952-08-12,Hanger,"['PROPN', 'SPACE']",[],1,0,2
+US2738465A,1951-05-05,Equalizer,"['PROPN', 'SPACE']",[],1,0,2
+US2738508A,1953-02-11,Headgear,"['PROPN', 'SPACE']",[],1,0,2
+US2738750A,1954-10-18,Anchor,"['PROPN', 'SPACE']",[],1,0,2
+US2739128A,1951-03-23,nan,['PROPN'],['GPE'],1,0,1
+US2739144A,1956-03-20,Iio hsvm,"['PROPN', 'VERB']",[],1,0,2
+US2739226A,1949-06-03,Luminaire,"['PROPN', 'SPACE']",[],1,0,2
+US2739507A,1951-11-01,Microtome,"['PROPN', 'SPACE']",[],1,0,2
+US2739532A,1956-03-27,fernandez,['PROPN'],[],1,0,1
+US2739661A,1952-07-25,Muffler,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2739755A,1952-10-02,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2739835A,1950-10-14,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2740234A,1952-03-31,Transplanter,"['PROPN', 'SPACE']",[],1,0,2
+US2740279A,1956-04-03,getaz,['PROPN'],[],1,0,1
+US2740320A,1954-10-22,Refractometer,"['PROPN', 'SPACE']",[],1,0,2
+US2740395A,1954-04-01,Brazier,"['PROPN', 'SPACE']",[],1,0,2
+US2740467A,1951-09-06,Headrest,"['PROPN', 'SPACE']",[],1,0,2
+US2740577A,1953-03-26,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2740597A,1951-05-11,Airfoil,"['PROPN', 'SPACE']",[],1,0,2
+US2740865A,1952-04-30,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2740966A,1950-02-03,Collar,"['PROPN', 'SPACE']",[],1,0,2
+US2741014A,1954-06-21,Roller,"['PROPN', 'SPACE']",[],1,0,2
+US2741066A,1953-04-06,Trap,"['PROPN', 'SPACE']",[],1,0,2
+US2741409A,1953-12-22,Needle,"['PROPN', 'SPACE']",[],1,0,2
+US2741467A,1952-11-01,Aerator,"['PROPN', 'SPACE']",[],1,0,2
+US2741532A,1956-04-10,Hoasox,['PROPN'],[],1,0,1
+US2741685A,1952-07-05,Rheostat,"['PROPN', 'SPACE']",[],1,0,2
+US2741811A,1952-06-26,Marquee,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2741819A,1952-08-26,Buckle,"['PROPN', 'SPACE']",[],1,0,2
+US2741820A,1952-06-26,Fastener,"['PROPN', 'SPACE']",[],1,0,2
+US2741928A,1956-04-17,Hagermann,['PROPN'],['ORG'],1,0,1
+US2741942A,1953-10-16,Refractometer,"['PROPN', 'SPACE']",[],1,0,2
+US2741969A,1952-07-25,Cultivator,"['PROPN', 'SPACE']",[],1,0,2
+US2741979A,1956-04-17,arcus,['PROPN'],[],1,0,1
+US2741980A,1956-04-17,arcus,['PROPN'],[],1,0,1
+US2742106A,1953-12-23,Trap,"['PROPN', 'SPACE']",[],1,0,2
+US2742116A,1950-08-09,Grill,"['PROPN', 'SPACE']",[],1,0,2
+US2742453A,1952-07-22,Polyhydroxypolyalkylenepolyureas,"['PROPN', 'SPACE']",[],1,0,2
+US2742645A,1953-08-12,Glove,"['PROPN', 'SPACE']",[],1,0,2
+US2742695A,1952-11-06,Razor,"['PROPN', 'SPACE']",[],1,0,2
+US2742754A,1950-05-03,Spindle,"['PROPN', 'SPACE']",[],1,0,2
+US2742812A,1956-04-24,evans,['PROPN'],[],1,0,1
+US2742897A,1954-09-15,Spirometer,"['PROPN', 'SPACE']",[],1,0,2
+US2742931A,1956-04-24,De ganahl,"['PROPN', 'X']",[],1,0,2
+US2743090A,1953-08-10,Vibrator,"['PROPN', 'SPACE']",[],1,0,2
+US2743188A,1952-04-11,Putty,"['PROPN', 'SPACE']",[],1,0,2
+US2743376A,1956-04-24,armistead,['PROPN'],[],1,0,1
+US2743824A,1956-05-01,ervin,['PROPN'],[],1,0,1
+US2743829A,1956-05-01,ballard,['PROPN'],[],1,0,1
+US2743839A,1956-05-01,hulterstrum,['PROPN'],[],1,0,1
+US2743847A,1956-05-01,pollak,['PROPN'],[],1,0,1
+US2743851A,1956-05-01,Condiment shaker,"['PROPN', 'NOUN']",[],1,0,2
+US2743858A,1949-08-09,clothier,"['PROPN', 'SPACE']",[],1,0,2
+US2743859A,1956-05-01,Negoro,['PROPN'],['ORG'],1,0,1
+US2743972A,1952-01-26,Piston,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2744143A,1956-05-01,filar,['PROPN'],[],1,0,1
+US2744677A,1952-10-24,Compressor,"['PROPN', 'SPACE']",[],1,0,2
+US2744702A,1952-06-13,Kite,"['PROPN', 'SPACE']",[],1,0,2
+US2744721A,1954-11-03,Turbine,"['PROPN', 'SPACE']",[],1,0,2
+US2744811A,1953-06-24,Process,"['PROPN', 'SPACE']",[],1,0,2
+US2745102A,1945-12-14,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2745115A,1953-09-23,Hammock,"['PROPN', 'SPACE']",[],1,0,2
+US2745215A,1956-05-15,Turkey caller,"['PROPN', 'NOUN']",['GPE'],1,0,2
+US2745242A,1954-03-10,Timepiece,"['PROPN', 'SPACE']",[],1,0,2
+US2745307A,1952-08-30,Harmonicas,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2745397A,1956-05-15,levin,['PROPN'],[],1,0,1
+US2745593A,1952-10-02,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2745597A,1953-01-13,Fan,"['PROPN', 'SPACE']",[],1,0,2
+US2745598A,1953-06-15,Fan,"['PROPN', 'SPACE']",[],1,0,2
+US2745999A,1951-08-10,Vibrator,"['PROPN', 'SPACE']",[],1,0,2
+US2746039A,1952-04-28,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2746658A,1953-01-30,Quiver,"['PROPN', 'SPACE']",[],1,0,2
+US2746744A,1951-12-11,Snubber,"['PROPN', 'SPACE']",[],1,0,2
+US2747182A,1953-01-13,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2747195A,1953-08-20,Hat,"['PROPN', 'SPACE']",[],1,0,2
+US2747197A,1956-05-29,bailey,"['PROPN', 'SPACE']",[],1,0,2
+US2747858A,1956-05-29,miller,['PROPN'],['ORG'],1,0,1
+US2747908A,1953-11-17,Fastener,"['PROPN', 'SPACE']",[],1,0,2
+US2748164A,1956-05-29,Conhj,['PROPN'],[],1,0,1
+US2748436A,1953-03-23,Buckle,"['PROPN', 'SPACE']",[],1,0,2
+US2748487A,1951-04-30,Planimeter,"['PROPN', 'SPACE']",[],1,0,2
+US2748514A,1952-03-28,Indicator,"['PROPN', 'SPACE']",[],1,0,2
+US2748607A,1952-03-04,Vibrator,"['PROPN', 'SPACE']",[],1,0,2
+US2749020A,1950-07-19,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2749027A,1947-12-26,Compressor,"['PROPN', 'SPACE']",[],1,0,2
+US2749097A,1953-12-07,Vibrator,"['PROPN', 'SPACE']",[],1,0,2
+US2749194A,1956-06-05,Piston ring,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2749207A,1956-06-05,Hoxchi,['PROPN'],['ORG'],1,0,1
+US2749210A,1956-06-05,Antitarnish,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2749346A,1956-06-05,Tetrahydropyridine compounds,"['PROPN', 'VERB']",['ORG'],1,0,2
+US2749416A,1953-03-02,Rheostat,"['PROPN', 'SPACE']",[],1,0,2
+US2749483A,1951-08-29,Ignitron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2749506A,1950-08-21,Magnetometer,"['PROPN', 'SPACE']",[],1,0,2
+US2749512A,1952-08-23,Ohmmeter,"['PROPN', 'SPACE']",[],1,0,2
+US2749589A,1952-07-14,Fastener,"['PROPN', 'SPACE']",[],1,0,2
+US2749623A,1956-06-12,La barre,"['PROPN', 'NOUN']",[],1,0,2
+US2749750A,1953-03-09,Anemometer,"['PROPN', 'SPACE']",[],1,0,2
+US2749910A,1956-06-12,Faulconer,['PROPN'],[],1,0,1
+US2749912A,1956-06-12,teitler,"['PROPN', 'SPACE']",[],1,0,2
+US2749916A,1956-06-12,mcconnel,"['PROPN', 'SPACE']",[],1,0,2
+US2749921A,1956-06-12,caponette,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2750006A,1950-07-03,Brake,"['PROPN', 'SPACE']",[],1,0,2
+US2750102A,1953-12-04,Envelope,"['PROPN', 'SPACE']",[],1,0,2
+US2750136A,1955-04-08,Kite,"['PROPN', 'SPACE']",[],1,0,2
+US2750224A,1951-06-14,Gambrel,"['PROPN', 'SPACE']",[],1,0,2
+US2750520A,1956-06-12,langsdorf,['PROPN'],[],1,0,1
+US2750603A,1952-05-08,Crib,"['PROPN', 'SPACE']",[],1,0,2
+US2750801A,1956-06-19,fauvelot,"['PROPN', 'SPACE']",[],1,0,2
+US2750805A,1956-06-19,Belt aligner,"['PROPN', 'NOUN']",[],1,0,2
+US2750812A,1956-06-19,Mirone,['PROPN'],[],1,0,1
+US2750814A,1951-10-30,Wildhaber,['PROPN'],[],1,0,1
+US2750827A,1956-06-19,Evans,['PROPN'],[],1,0,1
+US2750830A,1956-06-19,Wonsowicz,['PROPN'],[],1,0,1
+US2750865A,1951-02-14,Diffuser,"['PROPN', 'SPACE']",[],1,0,2
+US2751065A,1956-06-19,Thomson,['PROPN'],['ORG'],1,0,1
+US2751068A,1956-06-19,Haddox,['PROPN'],[],1,0,1
+US2751069A,1956-06-19,goodman,['PROPN'],[],1,0,1
+US2751111A,1952-07-05,Carrier,"['PROPN', 'SPACE']",[],1,0,2
+US2751140A,1953-04-06,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2751429A,1954-06-03,Vectorscope,"['PROPN', 'SPACE']",[],1,0,2
+US2751701A,1953-05-04,grupe,"['PROPN', 'SPACE']",[],1,0,2
+US2751865A,1952-09-23,Transplanter,"['PROPN', 'SPACE']",[],1,0,2
+US2751878A,1956-06-26,De bodor,"['PROPN', 'NOUN']",[],1,0,2
+US2752200A,1955-04-19,Sprayer,"['PROPN', 'SPACE']",[],1,0,2
+US2752348A,1956-06-26,Cxnhs,['PROPN'],[],1,0,1
+US2752399A,1956-06-26,hydroxy i,"['PROPN', 'PRON']",[],1,0,2
+US2752660A,1952-08-29,Slasher,"['PROPN', 'SPACE']",[],1,0,2
+US2753059A,1953-01-12,Loader,"['PROPN', 'SPACE']",[],1,0,2
+US2753098A,1951-11-05,Defoamer,"['PROPN', 'SPACE']",[],1,0,2
+US2753346A,1956-07-03,Huemer,['PROPN'],[],1,0,1
+US2753354A,1954-06-22,Isonicotinoylaminobiguanide,"['PROPN', 'SPACE']",[],1,0,2
+US2753566A,1954-06-02,Headpiece,"['PROPN', 'SPACE']",[],1,0,2
+US2753761A,1952-09-30,Microtomes,"['PROPN', 'SPACE']",[],1,0,2
+US2753905A,1953-05-08,Nutcracker,"['PROPN', 'SPACE']",[],1,0,2
+US2754153A,1956-07-10,Barthod,['PROPN'],[],1,0,1
+US2754156A,1956-07-10,elderkin,"['PROPN', 'SPACE']",[],1,0,2
+US2754157A,1956-07-10,Thiman,['PROPN'],['ORG'],1,0,1
+US2754165A,1956-07-10,Piston ring,"['PROPN', 'NOUN']",['ORG'],1,0,2
+US2754168A,1956-07-10,atlee,"['PROPN', 'SPACE']",[],1,0,2
+US2754169A,1956-07-10,M richardson,"['PROPN', 'NOUN']",[],1,0,2
+US2754170A,1956-07-10,Felton,['PROPN'],[],1,0,1
+US2754354A,1952-08-18,Insulator,"['PROPN', 'SPACE']",[],1,0,2
+US2754457A,1956-07-10,L liij,"['NOUN', 'PROPN']",[],1,0,2
+US2754513A,1951-12-04,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2754676A,1954-03-17,Densimeter,"['PROPN', 'SPACE']",[],1,0,2
+US2754683A,1954-02-03,Torquemeter,"['PROPN', 'SPACE']",[],1,0,2
+US2754702A,1954-02-17,Anvil,"['PROPN', 'SPACE']",[],1,0,2
+US2754919A,1953-04-27,Propeller,"['PROPN', 'SPACE']",[],1,0,2
+US2755078A,1952-10-30,Governor,"['PROPN', 'SPACE']",[],1,0,2
+US2755084A,1956-07-17,Dodegge,['PROPN'],[],1,0,1
+US2755278A,1956-07-17,Thiamori,['PROPN'],[],1,0,1
+US2755282A,1956-07-17,hachmuth,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2755443A,1956-07-17,tavis,['PROPN'],[],1,0,1
+US2755561A,1956-07-24,hqlnjaah,['PROPN'],[],1,0,1
+US2755572A,1952-09-06,Loader,"['PROPN', 'SPACE']",[],1,0,2
+US2755788A,1953-12-17,Catapult,"['PROPN', 'SPACE']",[],1,0,2
+US2755803A,1955-01-05,Eyeshield,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2755867A,1951-08-13,Propeller,"['PROPN', 'SPACE']",[],1,0,2
+US2756006A,1951-10-03,Bobbin,"['PROPN', 'SPACE']",[],1,0,2
+US2756214A,1956-07-24,Tahiwiivtk,['PROPN'],['ORG'],1,0,1
+US2756228A,1956-07-24,Hjncho,['PROPN'],[],1,0,1
+US2756322A,1952-12-05,Vaporizer,"['PROPN', 'SPACE']",[],1,0,2
+US2756419A,1952-01-05,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2756587A,1953-01-29,Tensiometer,"['PROPN', 'SPACE']",[],1,0,2
+US2756592A,1953-01-12,Tensiometer,"['PROPN', 'SPACE']",[],1,0,2
+US2756597A,1953-12-07,Pipette,"['PROPN', 'SPACE']",[],1,0,2
+US2756872A,1956-07-31,hartley,"['PROPN', 'SPACE']",[],1,0,2
+US2757063A,1956-07-31,Pagnard,['PROPN'],[],1,0,1
+US2757251A,1953-10-19,Governor,"['PROPN', 'SPACE']",[],1,0,2
+US2757314A,1951-01-19,Resnatron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2757344A,1953-01-12,Tuner,"['PROPN', 'SPACE']",[],1,0,2
+US2757658A,1952-12-05,Gun,"['PROPN', 'SPACE']",[],1,0,2
+US2757759A,1953-06-01,Brake,"['PROPN', 'SPACE']",[],1,0,2
+US2757861A,1956-08-07,Wittenmyer,['PROPN'],[],1,0,1
+US2757968A,1956-08-07,campbell,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2757995A,1954-03-29,Piston,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2758000A,1954-02-15,Showcase,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2758391A,1956-08-14,lanham,"['PROPN', 'SPACE']",[],1,0,2
+US2758478A,1956-08-14,Fieux,['PROPN'],[],1,0,1
+US2758713A,1956-08-14,Hardinge,['PROPN'],[],1,0,1
+US2758739A,1954-08-02,Box,"['PROPN', 'SPACE']",[],1,0,2
+US2758756A,1953-11-02,Feeder,"['PROPN', 'SPACE']",[],1,0,2
+US2758770A,1954-03-30,Ladder,"['PROPN', 'SPACE']",[],1,0,2
+US2758785A,1956-08-14,Hvventdrs,['PROPN'],['ORG'],1,0,1
+US2758991A,1956-08-14,Hvvevvtofry,['PROPN'],[],1,0,1
+US2759292A,1953-09-24,Fogger,"['PROPN', 'SPACE']",[],1,0,2
+US2759314A,1954-06-28,Cultivator,"['PROPN', 'SPACE']",[],1,0,2
+US2759350A,1954-12-16,Padlock,"['PROPN', 'SPACE']",[],1,0,2
+US2759574A,1955-10-17,Vane,"['PROPN', 'SPACE']",[],1,0,2
+US2759915A,1956-08-21,Gorin,['PROPN'],[],1,0,1
+US2759918A,1956-08-21,Gorin,['PROPN'],[],1,0,1
+US2759919A,1956-08-21,Gorin,['PROPN'],[],1,0,1
+US2760164A,1955-04-22,Equalizer,"['PROPN', 'SPACE']",[],1,0,2
+US2760288A,1956-08-28,Shoenfeld,['PROPN'],['GPE'],1,0,1
+US2760302A,1953-10-26,Toy,"['PROPN', 'SPACE']",[],1,0,2
+US2760333A,1955-05-11,Clock,"['PROPN', 'SPACE']",[],1,0,2
+US2760369A,1956-08-28,Vibration analyzer,"['PROPN', 'NOUN']",[],1,0,2
+US2760419A,1951-10-30,Illuminator,"['PROPN', 'SPACE']",[],1,0,2
+US2760496A,1954-05-10,Pipe,"['PROPN', 'SPACE']",[],1,0,2
+US2760717A,1954-04-15,Envelope,"['PROPN', 'SPACE']",[],1,0,2
+US2760719A,1952-06-30,Compressor,"['PROPN', 'SPACE']",[],1,0,2
+US2760824A,1954-11-26,Sprinkler,"['PROPN', 'SPACE']",[],1,0,2
+US2760825A,1952-12-01,Sprayer,"['PROPN', 'SPACE']",[],1,0,2
+US2760992A,1956-08-28,Naphthalene,['PROPN'],[],1,0,1
+US2761070A,1953-08-20,Dosimeter,"['PROPN', 'SPACE']",[],1,0,2
+US2761139A,1946-05-31,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2761140A,1952-04-23,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2761240A,1951-01-03,Trap,"['PROPN', 'SPACE']",[],1,0,2
+US2761314A,1953-12-03,Dynamometer,"['PROPN', 'SPACE']",[],1,0,2
+US2761374A,1955-08-15,Smokehouse,"['PROPN', 'SPACE']",[],1,0,2
+US2761461A,1954-10-15,Umbrella,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2761525A,1950-07-26,Muffler,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2762008A,1955-03-22,Rectifier,"['PROPN', 'SPACE']",[],1,0,2
+US2762037A,1954-08-31,Signal,"['PROPN', 'SPACE']",[],1,0,2
+US2762056A,1955-07-29,Tassel,"['PROPN', 'SPACE']",[],1,0,2
+US2762203A,1956-09-11,Schlumbohm,['PROPN'],['NORP'],1,0,1
+US2762293A,1953-05-14,Rotisserie,"['PROPN', 'SPACE']",[],1,0,2
+US2762353A,1954-11-19,Comb,"['PROPN', 'SPACE']",[],1,0,2
+US2762561A,1956-09-11,Rcampos,['PROPN'],[],1,0,1
+US2762590A,1954-06-17,Kite,"['PROPN', 'SPACE']",[],1,0,2
+US2762593A,1954-02-24,Pallet,"['PROPN', 'SPACE']",[],1,0,2
+US2762645A,1953-12-23,Keeper,"['PROPN', 'SPACE']",[],1,0,2
+US2762925A,1952-10-02,Tuner,"['PROPN', 'SPACE']",[],1,0,2
+US2762973A,1946-01-24,Matchmeter,"['PROPN', 'SPACE']",[],1,0,2
+US2763020A,1955-05-20,Toothbrush,"['PROPN', 'SPACE']",[],1,0,2
+US2763146A,1953-02-12,Sock,"['PROPN', 'SPACE']",[],1,0,2
+US2763278A,1955-04-20,Controller,"['PROPN', 'SPACE']",[],1,0,2
+US2763402A,1952-06-10,Adapter,"['PROPN', 'SPACE']",[],1,0,2
+US2763790A,1952-04-05,Comparator,"['PROPN', 'SPACE']",[],1,0,2
+US2763808A,1956-09-18,lurcott,['PROPN'],[],1,0,1
+US2763868A,1954-11-05,Cape,"['PROPN', 'SPACE']",[],1,0,2
+US2764235A,1951-02-07,Windows,"['PROPN', 'SPACE']",[],1,0,2
+US2764308A,1953-07-22,Box,"['PROPN', 'SPACE']",[],1,0,2
+US2764385A,1951-06-26,Faucet,"['PROPN', 'SPACE']",[],1,0,2
+US2764452A,1954-06-28,Sprayer,"['PROPN', 'SPACE']",[],1,0,2
+US2765189A,1952-11-28,Keeper,"['PROPN', 'SPACE']",[],1,0,2
+US2765327A,1952-08-07,Process,"['PROPN', 'SPACE']",[],1,0,2
+US2765344A,1956-10-02,Vjilllwul,['PROPN'],[],1,0,1
+US2765424A,1951-03-30,Magnetron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2765425A,1946-03-01,Magnetron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2765756A,1955-07-29,Transplanter,"['PROPN', 'SPACE']",[],1,0,2
+US2765840A,1955-01-10,Headrest,"['PROPN', 'SPACE']",[],1,0,2
+US2765859A,1954-09-15,Fan,"['PROPN', 'SPACE']",[],1,0,2
+US2765885A,1954-01-07,Jamb,"['PROPN', 'SPACE']",[],1,0,2
+US2766096A,1953-05-08,Platen,"['PROPN', 'SPACE']",[],1,0,2
+US2766144A,1955-10-31,Photocell,"['PROPN', 'SPACE']",[],1,0,2
+US2766158A,1954-12-28,Insole,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2766290A,1956-10-09,Chxch,['PROPN'],[],1,0,1
+US2766394A,1955-02-18,Headlight,"['PROPN', 'SPACE']",[],1,0,2
+US2766454A,1954-08-30,Apron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2766528A,1953-10-22,Isometrograph,"['PROPN', 'SPACE']",[],1,0,2
+US2766529A,1953-04-09,Pantograph,"['PROPN', 'SPACE']",[],1,0,2
+US2766617A,1951-06-29,Torquemeter,"['PROPN', 'SPACE']",[],1,0,2
+US2766683A,1954-05-17,Griddle,"['PROPN', 'SPACE']",[],1,0,2
+US2767397A,1951-03-31,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2767404A,1954-01-25,Headdress,"['PROPN', 'SPACE']",[],1,0,2
+US2767632A,1952-09-25,Cultivator,"['PROPN', 'SPACE']",[],1,0,2
+US2767678A,1954-02-12,Hydrofoil,"['PROPN', 'SPACE']",[],1,0,2
+US2768377A,1952-11-21,quarmby,['PROPN'],['GPE'],1,0,1
+US2768409A,1953-06-08,Wardrobe,"['PROPN', 'SPACE']",[],1,0,2
+US2768525A,1951-01-08,Torquemeter,"['PROPN', 'SPACE']",[],1,0,2
+US2768785A,1953-10-05,Planimeter,"['PROPN', 'SPACE']",[],1,0,2
+US2768887A,1953-03-23,Abrasives,"['PROPN', 'SPACE']",[],1,0,2
+US2768888A,1953-06-24,Hydrazine,"['PROPN', 'SPACE']",[],1,0,2
+US2769100A,1956-10-30,Methqd,['PROPN'],['GPE'],1,0,1
+US2769273A,1952-02-28,Trap,"['PROPN', 'SPACE']",[],1,0,2
+US2769281A,1954-10-11,Grinder,"['PROPN', 'SPACE']",[],1,0,2
+US2769660A,1951-09-15,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2769884A,1952-04-10,Bolometer,"['PROPN', 'SPACE']",[],1,0,2
+US2769957A,1953-07-31,Comparator,"['PROPN', 'SPACE']",[],1,0,2
+US2771035A,1953-03-05,Propellant,"['PROPN', 'SPACE']",[],1,0,2
+US2771089A,1954-01-14,Crutch,"['PROPN', 'SPACE']",[],1,0,2
+US2771351A,1953-06-09,Propellant,"['PROPN', 'SPACE']",[],1,0,2
+US2771614A,1953-06-01,Davenport,"['PROPN', 'SPACE']",[],1,0,2
+US2771624A,1955-02-23,Toothbrush,"['PROPN', 'SPACE']",[],1,0,2
+US2771877A,1955-01-10,Pad,"['PROPN', 'SPACE']",[],1,0,2
+US2772624A,1952-11-06,Diffuser,"['PROPN', 'SPACE']",[],1,0,2
+US2772682A,1955-07-18,Comb,"['PROPN', 'SPACE']",[],1,0,2
+US2772867A,1953-02-11,Aerator,"['PROPN', 'SPACE']",[],1,0,2
+US2772984A,1952-07-12,Pigment,"['PROPN', 'SPACE']",[],1,0,2
+US2773069A,1952-11-12,Amines,"['PROPN', 'SPACE']",[],1,0,2
+US2773171A,1952-04-26,Luminaire,"['PROPN', 'SPACE']",[],1,0,2
+US2773378A,1953-07-27,Freezemeter,"['PROPN', 'SPACE']",[],1,0,2
+US2773379A,1953-07-27,Freezemeter,"['PROPN', 'SPACE']",[],1,0,2
+US2773532A,1954-02-08,Purse,"['PROPN', 'SPACE']",[],1,0,2
+US2773553A,1953-02-13,Muffler,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2773640A,1956-12-11,Fare box,"['PROPN', 'NOUN']",[],1,0,2
+US2773646A,1956-12-11,mathi,"['PROPN', 'SPACE']",[],1,0,2
+US2773750A,1951-06-14,Furnace,"['PROPN', 'SPACE']",[],1,0,2
+US2774028A,1955-09-30,Timer,"['PROPN', 'SPACE']",[],1,0,2
+US2774124A,1955-08-12,Clip,"['PROPN', 'SPACE']",[],1,0,2
+US2774415A,1951-10-25,Evaporator,"['PROPN', 'SPACE']",[],1,0,2
+US2774576A,1952-04-11,Blender,"['PROPN', 'SPACE']",[],1,0,2
+US2775119A,1953-06-02,Dynamometry,"['PROPN', 'SPACE']",[],1,0,2
+US2775173A,1956-12-25,Duplex,['PROPN'],[],1,0,1
+US2775324A,1953-07-02,Rafter,"['PROPN', 'SPACE']",[],1,0,2
+US2775406A,1952-03-03,Odometer,"['PROPN', 'SPACE']",[],1,0,2
+US2775581A,1956-12-25,Oxhxc,['PROPN'],['ORG'],1,0,1
+US2775902A,1954-04-08,Belt,"['PROPN', 'SPACE']",[],1,0,2
+US2775980A,1957-01-01,renaudie,['PROPN'],[],1,0,1
+US2776080A,1954-11-15,Ladder,"['PROPN', 'SPACE']",[],1,0,2
+US2776084A,1953-03-25,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2776404A,1955-02-28,Magnetometer,"['PROPN', 'SPACE']",[],1,0,2
+US2776621A,1954-06-28,Projectile,"['PROPN', 'SPACE']",[],1,0,2
+US2776992A,1956-03-14,Trifluoromethylsulfonylphenyldichloracetamidopropandiol,"['PROPN', 'SPACE']",[],1,0,2
+US2776998A,1950-06-10,Antioxidant,"['PROPN', 'SPACE']",[],1,0,2
+US2777145A,1952-10-20,Brush,"['PROPN', 'SPACE']",[],1,0,2
+US2777151A,1953-08-24,Mop,"['PROPN', 'SPACE']",[],1,0,2
+US2777179A,1954-05-03,Clip,"['PROPN', 'SPACE']",[],1,0,2
+US2777200A,1953-04-03,Scriber,"['PROPN', 'SPACE']",[],1,0,2
+US2777246A,1955-10-18,Bookholder,"['PROPN', 'SPACE']",[],1,0,2
+US2777428A,1953-04-01,Apparatus,"['PROPN', 'SPACE']",[],1,0,2
+US2777560A,1957-01-15,Campos,['PROPN'],[],1,0,1
+US2777862A,1957-01-15,Hydrocarbon,['PROPN'],[],1,0,1
+US2777913A,1957-01-15,Kovach,['PROPN'],['GPE'],1,0,1
+US2778015A,1953-05-22,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2778096A,1957-01-22,weema,"['PROPN', 'SPACE']",[],1,0,2
+US2778152A,1957-01-22,Russell,['PROPN'],[],1,0,1
+US2778242A,1956-03-08,Borescope,"['PROPN', 'SPACE']",[],1,0,2
+US2778267A,1955-03-16,Borescope,"['PROPN', 'SPACE']",[],1,0,2
+US2778331A,1954-12-03,Bookmark,"['PROPN', 'SPACE']",[],1,0,2
+US2778367A,1955-01-26,Barrette,"['PROPN', 'SPACE']",[],1,0,2
+US2778453A,1953-01-16,Brake,"['PROPN', 'SPACE']",[],1,0,2
+US2778698A,1957-01-22,La butte,"['PROPN', 'NOUN']",[],1,0,2
+US2778929A,1952-12-31,Luminaire,"['PROPN', 'SPACE']",[],1,0,2
+US2779035A,1950-03-22,Drawsheet,"['PROPN', 'SPACE']",[],1,0,2
+US2779085A,1954-12-31,Scaler,"['PROPN', 'SPACE']",[],1,0,2
+US2779132A,1955-04-19,Toy,"['PROPN', 'SPACE']",[],1,0,2
+US2779141A,1955-11-15,Railgrinder,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2779237A,1957-01-29,smith,"['PROPN', 'SPACE']",[],1,0,2
+US2779327A,1953-07-02,Endoscope,"['PROPN', 'SPACE']",[],1,0,2
+US2779552A,1957-01-29,jarvis,"['PROPN', 'SPACE']",[],1,0,2
+US2779720A,1957-01-29,Condenser,['PROPN'],[],1,0,1
+US2779984A,1955-09-02,Clip,"['PROPN', 'SPACE']",[],1,0,2
+US2779986A,1955-01-04,Fastener,"['PROPN', 'SPACE']",[],1,0,2
+US2780127A,1957-02-05,Hennick,['PROPN'],[],1,0,1
+US2780256A,1954-02-19,Handsaw,"['PROPN', 'SPACE']",[],1,0,2
+US2780289A,1952-09-03,Wells,"['PROPN', 'SPACE']",[],1,0,2
+US2780990A,1957-02-12,gerhan,"['PROPN', 'SPACE']",[],1,0,2
+US2781133A,1957-02-12,Vacuum,['PROPN'],[],1,0,1
+US2781190A,1951-03-09,Tuyere,"['PROPN', 'SPACE']",[],1,0,2
+US2781223A,1956-04-09,Grapple,"['PROPN', 'SPACE']",[],1,0,2
+US2781476A,1944-11-16,Magnetron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2781490A,1952-01-07,Coulometer,"['PROPN', 'SPACE']",[],1,0,2
+US2781528A,1953-12-23,Hammock,"['PROPN', 'SPACE']",[],1,0,2
+US2781651A,1955-05-02,Tray,"['PROPN', 'SPACE']",[],1,0,2
+US2781712A,1954-07-27,Cultivator,"['PROPN', 'SPACE']",[],1,0,2
+US2781841A,1957-02-19,Dignan,['PROPN'],[],1,0,1
+US2781974A,1957-02-19,Mitsuru okazaki,"['PROPN', 'NOUN']",['GPE'],1,0,2
+US2781985A,1953-06-12,Bobbin,"['PROPN', 'SPACE']",[],1,0,2
+US2781989A,1954-01-15,Kite,"['PROPN', 'SPACE']",[],1,0,2
+US2782342A,1947-07-01,Magnetron,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2782505A,1955-06-03,Pantograph,"['PROPN', 'SPACE']",[],1,0,2
+US2782717A,1952-07-03,Fuze,"['PROPN', 'SPACE']",[],1,0,2
+US2782820A,1954-01-18,Handsaw,"['PROPN', 'SPACE']",[],1,0,2
+US2783419A,1952-12-08,Rectifier,"['PROPN', 'SPACE']",[],1,0,2
+US2783490A,1950-04-01,Brush,"['PROPN', 'SPACE']",[],1,0,2
+US2783491A,1953-04-02,Toothbrush,"['PROPN', 'SPACE']",[],1,0,2
+US2783512A,1955-01-04,Fastener,"['PROPN', 'SPACE']",[],1,0,2
+US2783514A,1955-01-04,Fastener,"['PROPN', 'SPACE']",[],1,0,2
+US2783516A,1953-02-13,Buckle,"['PROPN', 'SPACE']",[],1,0,2
+US2783623A,1957-03-05,dodge,['PROPN'],[],1,0,1
+US2783706A,1957-03-05,montgomery,['PROPN'],[],1,0,1
+US2783707A,1957-03-05,montgomery,['PROPN'],[],1,0,1
+US2783802A,1954-03-04,Nutcracker,"['PROPN', 'SPACE']",[],1,0,2
+US2783865A,1957-03-05,Cleave,['PROPN'],[],1,0,1
+US2783904A,1953-12-14,Loader,"['PROPN', 'SPACE']",[],1,0,2
+US2783945A,1957-03-05,smith,['PROPN'],[],1,0,1
+US2783992A,1953-09-16,Bumpers,"['PROPN', 'SPACE']",[],1,0,2
+US2784051A,1957-03-05,Pagnard,['PROPN'],[],1,0,1
+US2784265A,1954-08-06,Controller,"['PROPN', 'SPACE']",[],1,0,2
+US2784472A,1954-03-23,Buckle,"['PROPN', 'SPACE']",[],1,0,2
+US2784613A,1954-10-07,Gear,"['PROPN', 'SPACE']",[],1,0,2
+US2784654A,1957-03-12,Meyer,['PROPN'],[],1,0,1
+US2784724A,1957-03-12,fisher,['PROPN'],[],1,0,1
+US2784740A,1957-03-12,stages erg,"['NOUN', 'PROPN']",[],1,0,2
+US2784797A,1954-07-13,Muffler,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2784815A,1954-02-23,Anchor,"['PROPN', 'SPACE']",[],1,0,2
+US2785114A,1957-03-12,Schmalenbach,['PROPN'],[],1,0,1
+US2785172A,1953-06-17,Dialkylaminoalkylphenetidinopyridine,"['PROPN', 'SPACE']",[],1,0,2
+US2785465A,1953-11-30,Gunsight,"['PROPN', 'SPACE']",[],1,0,2
+US2785556A,1957-03-19,smith,['PROPN'],[],1,0,1
+US2785567A,1954-03-17,Densimeter,"['PROPN', 'SPACE']",[],1,0,2
+US2785577A,1952-10-21,Vibrator,"['PROPN', 'SPACE']",[],1,0,2
+US2785765A,1953-08-03,Degasser,"['PROPN', 'SPACE']",[],1,0,2
+US2785870A,1953-10-27,Kite,"['PROPN', 'SPACE']",[],1,0,2
+US2785923A,1955-02-18,Nebulizer,"['PROPN', 'SPACE']",[],1,0,2
+US2786158A,1957-03-19,Tognola,['PROPN'],[],1,0,1
+US2786200A,1955-06-27,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2786300A,1955-07-18,Toy,"['PROPN', 'SPACE']",[],1,0,2
+US2786466A,1953-04-20,Pad,"['PROPN', 'SPACE']",[],1,0,2
+US2786574A,1954-01-19,Grader,"['PROPN', 'SPACE']",[],1,0,2
+US2786717A,1952-05-01,Atomizer,"['PROPN', 'SPACE']",['PRODUCT'],1,0,2
+US2786838A,1957-03-26,Cshy b,"['PROPN', 'X']",['ORG'],1,0,2
+US2787017A,1950-12-20,Brush,"['PROPN', 'SPACE']",[],1,0,2
+US2787435A,1955-09-12,Hanger,"['PROPN', 'SPACE']",[],1,0,2
+US2787499A,1954-10-07,Sprinkler,"['PROPN', 'SPACE']",[],1,0,2
+US2787504A,1955-01-07,Piston,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2787701A,1952-09-17,Illuminator,"['PROPN', 'SPACE']",[],1,0,2
+US2787958A,1952-09-15,Projectile,"['PROPN', 'SPACE']",[],1,0,2
+US2787995A,1950-06-05,Cooker,"['PROPN', 'SPACE']",[],1,0,2
+US2788040A,1956-09-28,Purse,"['PROPN', 'SPACE']",[],1,0,2
+US2788126A,1953-09-15,Clarifier,"['PROPN', 'SPACE']",[],1,0,2
+US2788726A,1953-09-21,Terracer,"['PROPN', 'SPACE']",[],1,0,2
+US2788729A,1953-09-28,Cultivator,"['PROPN', 'SPACE']",[],1,0,2
+US2788793A,1955-04-01,Crutch,"['PROPN', 'SPACE']",[],1,0,2
+US2788912A,1954-12-08,Tray,"['PROPN', 'SPACE']",[],1,0,2
+US2788945A,1954-01-11,Kite,"['PROPN', 'SPACE']",[],1,0,2
+US2788959A,1955-03-23,Spherodizer,"['PROPN', 'SPACE']",[],1,0,2
+US2789167A,1957-04-16,Erbstosser,['PROPN'],[],1,0,1
+US2789464A,1952-09-26,Mirror,"['PROPN', 'SPACE']",[],1,0,2
+US2789611A,1955-12-01,Purse,"['PROPN', 'SPACE']",[],1,0,2
+US2789625A,1954-10-28,Headrest,"['PROPN', 'SPACE']",[],1,0,2
+US2789669A,1955-01-11,Pole,"['PROPN', 'SPACE']",[],1,0,2
+US2789783A,1953-06-01,Hanger,"['PROPN', 'SPACE']",[],1,0,2
+US2790169A,1949-04-18,Antenna,"['PROPN', 'SPACE']",[],1,0,2
+US2790587A,1954-10-18,Box,"['PROPN', 'SPACE']",[],1,0,2
+US2790601A,1957-04-30,Hecht,['PROPN'],['ORG'],1,0,1
+US2790882A,1954-10-07,Rheostat,"['PROPN', 'SPACE']",[],1,0,2
+US2791023A,1957-05-07,Stuermer,['PROPN'],[],1,0,1
+US2791042A,1953-06-30,Ditcher,"['PROPN', 'SPACE']",[],1,0,2
+US2791226A,1955-01-10,Hairpin,"['PROPN', 'SPACE']",[],1,0,2
+US2791375A,1953-01-02,Simulator,"['PROPN', 'SPACE']",[],1,0,2
+US2791415A,1953-04-29,Furnace,"['PROPN', 'SPACE']",[],1,0,2
+US2791481A,1954-06-09,Controller,"['PROPN', 'SPACE']",[],1,0,2
+US2791955A,1955-06-06,Cultivator,"['PROPN', 'SPACE']",[],1,0,2
+US2792170A,1953-06-29,Compressor,"['PROPN', 'SPACE']",[],1,0,2
+US2792334A,1955-05-26,Mercaptan,['PROPN'],['GPE'],1,0,1
+US2792404A,1957-05-14,Chjochaoh,['PROPN'],[],1,0,1
+US2792420A,1957-05-14,nan,['PROPN'],['GPE'],1,0,1
+US2792697A,1957-05-21,Gingold,['PROPN'],[],1,0,1
+US2792767A,1957-05-21,schmidt,['PROPN'],[],1,0,1
+US2792995A,1957-05-21,Takema yoshioka,"['PROPN', 'PROPN']",[],1,0,2
+US2793013A,1953-10-07,Truckmixer,"['PROPN', 'SPACE']",[],1,0,2
+US2793294A,1956-02-06,Tuner,"['PROPN', 'SPACE']",[],1,0,2
+US2793297A,1953-04-17,Dosimeter,"['PROPN', 'SPACE']",[],1,0,2
+US2793470A,1955-03-10,Transplanter,"['PROPN', 'SPACE']",[],1,0,2
+US2793578A,1954-03-04,Cultivator,"['PROPN', 'SPACE']",[],1,0,2
+US2793750A,1957-05-28,peterson,"['PROPN', 'SPACE']",[],1,0,2
+US2794114A,1957-05-28,Chamberlain,['PROPN'],[],1,0,1
+US2794167A,1956-08-07,Tester,"['PROPN', 'SPACE']",[],1,0,2
+US2794201A,1953-08-26,Brush,"['PROPN', 'SPACE']",[],1,0,2
+US2794589A,1954-09-20,Envelope,"['PROPN', 'SPACE']",[],1,0,2
+US2794596A,1957-06-04,Lofo folo,"['PROPN', 'ADV']",[],1,0,2
+US2794627A,1954-10-21,Blender,"['PROPN', 'SPACE']",[],1,0,2
+US2794925A,1957-06-04,Deuquet,['PROPN'],[],1,0,1
+US2794990A,1955-02-03,Bathinette,"['PROPN', 'SPACE']",[],1,0,2
+US2794991A,1954-07-19,Mattress,"['PROPN', 'SPACE']",[],1,0,2
+US2795046A,1957-06-11,Deker,['PROPN'],[],1,0,1
+US2795058A,1953-01-23,Tachistoscope,"['PROPN', 'SPACE']",[],1,0,2
+US2795230A,1955-03-31,Pipe,"['PROPN', 'SPACE']",[],1,0,2
+US2795243A,1955-05-13,Jacketboard,"['PROPN', 'SPACE']",[],1,0,2
+US2795258A,1955-06-16,Bag,"['PROPN', 'SPACE']",[],1,0,2
+US2795298A,1957-06-11,Suozzoetal,['PROPN'],[],1,0,1
+US2795358A,1955-01-12,Silos,"['PROPN', 'SPACE']",[],1,0,2
+US2795617A,1957-06-11,nan,['PROPN'],['GPE'],1,0,1
+US2795673A,1955-01-12,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2795751A,1957-06-11,montgomery,['PROPN'],[],1,0,1
+US2795829A,1955-01-21,Fastener,"['PROPN', 'SPACE']",[],1,0,2
+US2795998A,1952-05-06,Microtomes,"['PROPN', 'SPACE']",[],1,0,2
+US2796079A,1953-05-19,Faucet,"['PROPN', 'SPACE']",[],1,0,2
+US2796180A,1955-02-09,Unloader,"['PROPN', 'SPACE']",[],1,0,2
+US2796217A,1954-08-17,Mailbox,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2796620A,1955-01-17,Brush,"['PROPN', 'SPACE']",[],1,0,2
+US2796646A,1955-06-02,Clip,"['PROPN', 'SPACE']",[],1,0,2
+US2796686A,1954-12-09,Tag,"['PROPN', 'SPACE']",[],1,0,2
+US2796758A,1955-01-25,Viscometer,"['PROPN', 'SPACE']",[],1,0,2
+US2796844A,1956-02-08,Anchor,"['PROPN', 'SPACE']",[],1,0,2
+US2797024A,1953-08-14,Trough,"['PROPN', 'SPACE']",[],1,0,2
+US2797047A,1957-06-25,Lehre,['PROPN'],['GPE'],1,0,1
+US2797252A,1957-06-25,Inyentor,['PROPN'],[],1,0,1
+US2797255A,1957-06-25,wreford,['PROPN'],[],1,0,1
+US2797332A,1954-08-09,Radiacs,"['PROPN', 'SPACE']",[],1,0,2
+US2797424A,1954-10-20,Toothbrush,"['PROPN', 'SPACE']",[],1,0,2
+US2797694A,1956-01-06,Hairpin,"['PROPN', 'SPACE']",[],1,0,2
+US2797698A,1955-02-21,Crutch,"['PROPN', 'SPACE']",[],1,0,2
+US2797719A,1954-12-02,Handbag,"['PROPN', 'SPACE']",['NORP'],1,0,2
+US2797747A,1954-06-22,Evaporator,"['PROPN', 'SPACE']",[],1,0,2
+US2797810A,1957-07-02,smith,['PROPN'],[],1,0,1
+US2797869A,1957-07-02,grobl,"['PROPN', 'SPACE']",[],1,0,2
+US2797871A,1952-12-11,Register,"['PROPN', 'SPACE']",[],1,0,2
+US2798108A,1957-07-02,poland,['PROPN'],['GPE'],1,0,1
+US2798134A,1954-12-09,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2
+US2798252A,1955-09-23,Spinnerette,"['PROPN', 'SPACE']",[],1,0,2
+US2798447A,1954-07-21,Anchor,"['PROPN', 'SPACE']",[],1,0,2
+US2798483A,1957-07-09,Hideo kashima,"['NOUN', 'PROPN']",[],1,0,2
+US2798485A,1949-09-01,Ampule,"['PROPN', 'SPACE']",[],1,0,2
+US2798647A,1954-05-11,Pipette,"['PROPN', 'SPACE']",[],1,0,2
+US2798657A,1954-08-30,Compressor,"['PROPN', 'SPACE']",[],1,0,2
+US2799234A,1954-10-18,Transplanter,"['PROPN', 'SPACE']",[],1,0,2
+US2799284A,1954-12-17,Comb,"['PROPN', 'SPACE']",[],1,0,2
+US2799310A,1955-12-12,Nutcracker,"['PROPN', 'SPACE']",[],1,0,2
+US2799458A,1953-02-04,Spool,"['PROPN', 'SPACE']",['ORG'],1,0,2
+US2799616A,1955-04-05,Nematocide,"['PROPN', 'SPACE']",[],1,0,2
+US2799676A,1957-07-16,nan,['PROPN'],['GPE'],1,0,1
+US2799750A,1955-11-22,Thermostat,"['PROPN', 'SPACE']",['GPE'],1,0,2

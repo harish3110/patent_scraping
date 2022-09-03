@@ -1,121 +1,99 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US134053A,1872-12-17,In electro-magnetic annunciators for hotels ,"['ADP', 'PROPN', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],1,0,7,0,1
-US134804A,1873-01-14,Half his eight to ealph heatheringtolsr ,"['DET', 'PRON', 'NUM', 'PART', 'VERB', 'PROPN']","['CARDINAL', 'CARDINAL']",1,0,6,0,1
-US175587A,1876-04-04,Half his eight  to nathan w ,"['DET', 'PRON', 'NUM', 'SPACE', 'ADP', 'PROPN', 'PROPN']","['CARDINAL', 'CARDINAL']",1,0,7,0,1
-US192190A,1877-06-19,Half his eight to walter  l ,"['DET', 'PRON', 'NUM', 'ADP', 'PROPN', 'SPACE', 'NOUN']","['CARDINAL', 'CARDINAL']",1,0,7,0,1
-US192953A,1877-07-10,A hptci wnp o ,"['DET', 'NOUN', 'PROPN', 'NOUN']",[],1,0,4,0,1
-US100251A,1870-03-01,of mansfield ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US100448A,1870-03-01,The ends of rubber hose ,"['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US100453A,1870-03-01,of middletown ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US101095A,1870-03-22,of windsor ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US101243A,1870-03-29,of mossy creek ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US101268A,1870-03-29,For fire ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US101748A,1870-04-12,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US101965A,1870-04-12,In ptohacss ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US102159A,1870-04-19,The heels of boots and shoes ,"['DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,0,1
-US102558A,1870-05-03,Than t ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US102915A,1870-05-10,Of burlington ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US102970A,1870-05-10,Of brooklyn ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US103076A,1870-05-17,To themselves ,"['ADP', 'PRON']",[],0,0,2,0,1
-US103471A,1870-05-24,And loop-retaining comb for knitting-ma ,"['CCONJ', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,0,1
-US104496A,1870-06-21,A i n t an  ,"['DET', 'NOUN', 'NOUN', 'X', 'PRON', 'SPACE']",[],0,0,6,0,1
-US104818A,1870-06-28,And washing fabrics ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US105502A,1870-07-19,In concrete pavement ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US105560A,1870-07-19,And beautifying crystallized salts upon ,"['CCONJ', 'VERB', 'VERB', 'NOUN', 'SCONJ']",[],0,0,5,0,1
-US106098A,1870-08-02,And closing envelopes ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US106220A,1870-08-09,Morrill a ,"['ADP', 'PRON']",[],0,0,2,0,1
-US106487A,1870-08-16,For wire riggings ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US106521A,1870-08-16,of ed in burg ,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US106584A,1870-08-23,Or tawing skins ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US106658A,1870-08-23,Or regulating the flow of ,"['CCONJ', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,5,0,1
-US107091A,1870-09-06,And marking ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US107169A,1870-09-06,And screening ores and fer ,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,5,0,1
-US107823A,1870-09-27,In gftaln-binders ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US107933A,1870-10-04,In grain-binders ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US108245A,1870-10-11,To him ,"['ADP', 'PRON']",[],0,0,2,0,1
-US109341A,1870-11-15,And dyeing ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US112282A,1871-02-28,In sad and fluting irons ,"['ADP', 'ADJ', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,0,1
-US112531A,1871-03-14,In feeding mechanisms for sewing-machines ,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
-US113488A,1871-04-11,The eckert lithographing co ,"['DET', 'NOUN', 'VERB', 'X']",[],0,0,4,0,1
-US113712A,1871-04-11,And ltman p ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US115228A,1871-05-23,of s p rin ,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US115312A,1871-05-30,In machines for creasing leather ,"['ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,5,0,1
-US115430A,1871-05-30,In match-boxes ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US115461A,1871-05-30,In clothes-driers ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US115669A,1871-06-06,In wood-carvisssg rjachwes ,"['ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
-US117136A,1871-07-18,In processes ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US117835A,1871-08-08,In seed-planters ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US124165A,1872-02-27,And alfeed e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US127349A,1872-05-28,In tuck-markers for sewing ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
-US127894A,1872-06-11,In cab-couplings ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US129213A,1872-07-16,In alarm-locks ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US130691A,1872-08-20,In washing-machines ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US131702A,1872-09-24,In printing-presses ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US133554A,1872-12-03,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US133824A,1872-12-10,Half his eight to joffit p ,"['DET', 'PRON', 'NUM', 'PART', 'VERB', 'NOUN']","['CARDINAL', 'CARDINAL']",0,0,6,0,1
-US134503A,1872-12-31,In car-couplsmgs ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US134669A,1873-01-07,And coenell j ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US134682A,1873-01-07,a t tpq  ,"['DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US134780A,1873-01-14,In mechanisms for operating sewing-machines ,"['ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
-US134801A,1873-01-14,In railway-car axle-boxes ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
-US142503A,1873-09-02,In fruit-cans ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US143068A,1873-09-23,In tap-holder attachments for beer-coolers ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,0,1
-US143317A,1873-09-30,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US143547A,1873-10-07,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US144416A,1873-11-11,And geoege h ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US145403A,1873-12-09,In explosive compounds ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US146494A,1874-01-13,w acker ,"['ADP', 'NOUN']",['NORP'],0,0,2,0,1
-US148102A,1874-03-03,And geoegb hobnung ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US148997A,1874-03-24,In cottom-cleaners ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US150065A,1874-04-21,In brick-machines ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US150160A,1874-04-28,Half his eight to o ,"['DET', 'PRON', 'NUM', 'ADP', 'NOUN']","['CARDINAL', 'CARDINAL']",0,0,5,0,1
-US150263A,1874-04-28,In coffee-pots ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US151135A,1874-05-19,In fruit-driers ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US151251A,1874-05-26,In car-axle boxes ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US151407A,1874-05-26,In saw-teeth ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US152851A,1874-07-07,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US154503A,1874-08-25,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US156623A,1874-11-03,In bee-hives ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US156864A,1874-11-17,In hydrants ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US158608A,1875-01-12,In the manufacture of leather ,"['ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
-US160726A,1875-03-09,In altcauix-efib ,"['ADP', 'NOUN', 'PUNCT', 'ADJ']",[],0,0,4,0,1
-US161307A,1875-03-23,Half his ,"['DET', 'PRON']",['CARDINAL'],0,0,2,0,1
-US161400A,1875-03-30,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US161731A,1875-04-06,In boiler washing-machines ,"['ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
-US162272A,1875-04-20,In door-latches ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US162678A,1875-04-27,Half his eight to maecus f ,"['DET', 'PRON', 'NUM', 'PART', 'VERB', 'X']","['CARDINAL', 'CARDINAL']",0,0,6,0,1
-US163176A,1875-05-11,In hand-cars ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US163181A,1875-05-11,Half his eight to fbank h ,"['DET', 'PRON', 'NUM', 'PART', 'VERB', 'NOUN']","['CARDINAL', 'CARDINAL']",0,0,6,0,1
-US165139A,1875-06-29,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US167778A,1875-09-14,In cartridge-loading devices ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US169669A,1875-11-09,a ashcrapt ,"['DET', 'NOUN']",[],0,0,2,0,1
-US169848A,1875-11-09,In revolving fire-ar-ivjs ,"['ADP', 'VERB', 'NOUN', 'PUNCT', 'ADP', 'PUNCT', 'NOUN']",[],0,0,7,0,1
-US170600A,1875-11-30,In blasting-cartridges ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US172423A,1876-01-18,In miners  candles ,"['ADP', 'NOUN', 'SPACE', 'NOUN']",[],0,0,4,0,1
-US174513A,1876-03-07,And slicing ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US174953A,1876-03-21,In lamp-filling cabinets ,"['ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
-US175044A,1876-03-21,In machines for cutting resinous gums ,"['ADP', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US176005A,1876-04-11,Of one-half ,"['ADP', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
-US177048A,1876-05-02,And plimp ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US178386A,1876-06-06,In screw-threaded rawhide shoe-pegs ,"['ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
-US178713A,1876-06-13,In straw-cutters ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US178811A,1876-06-13,In car-couplings ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US179170A,1876-06-27,In overalls ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US180484A,1876-08-01,The same ,"['DET', 'ADJ']",[],0,0,2,0,1
-US183453A,1876-10-17,In bed-bottoms ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US184043A,1876-11-07,In continuous fuse ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US184954A,1876-12-05,Half his eight to spaltlding ,"['DET', 'PRON', 'NUM', 'PART', 'VERB']","['CARDINAL', 'CARDINAL']",0,0,5,0,1
-US185689A,1876-12-26,In face-plates for locks ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
-US186939A,1877-02-06,In hanging lasers ,"['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
-US188398A,1877-03-13,In propellers for vessels ,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US189462A,1877-04-10,In vagon-beds ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US192395A,1877-06-26,Half his eight to a ,"['DET', 'PRON', 'NUM', 'ADP', 'PRON']","['CARDINAL', 'CARDINAL']",0,0,5,0,1
-US192505A,1877-06-26,In grain-separators ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US192590A,1877-07-03,In hog-cholera compounds ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US193275A,1877-07-17,Of philadelphia ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US194630A,1877-08-28,And quality of distilled liquids ,"['CCONJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US194890A,1877-09-04,And wallace ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US195447A,1877-09-25,Of eoobestee ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US196623A,1877-10-30,In scraping-tools ,"['ADP', 'VERB', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US197202A,1877-11-20,of oabftoif ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US197827A,1877-12-04,In rail-joints ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US134053A,1872-12-17,In electro-magnetic annunciators for hotels,"['ADP', 'PROPN', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],1,0,7,0,1
+US100251A,1870-03-01,of mansfield,"['ADP', 'NOUN']",[],0,0,2,0,1
+US100453A,1870-03-01,of middletown,"['ADP', 'NOUN']",[],0,0,2,0,1
+US101095A,1870-03-22,of windsor,"['ADP', 'NOUN']",[],0,0,2,0,1
+US101243A,1870-03-29,of mossy creek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US101268A,1870-03-29,For fire,"['ADP', 'NOUN']",[],0,0,2,0,1
+US101748A,1870-04-12,of worcester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US101965A,1870-04-12,In ptohacss,"['ADP', 'NOUN']",[],0,0,2,0,1
+US102558A,1870-05-03,Than t,"['ADP', 'NOUN']",[],0,0,2,0,1
+US102915A,1870-05-10,Of burlington,"['ADP', 'NOUN']",[],0,0,2,0,1
+US102970A,1870-05-10,Of brooklyn,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US103076A,1870-05-17,To themselves,"['ADP', 'PRON']",[],0,0,2,0,1
+US103471A,1870-05-24,And loop-retaining comb for knitting-ma,"['CCONJ', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,0,1
+US104818A,1870-06-28,And washing fabrics,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US105502A,1870-07-19,In concrete pavement,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US105560A,1870-07-19,And beautifying crystallized salts upon,"['CCONJ', 'VERB', 'VERB', 'NOUN', 'SCONJ']",[],0,0,5,0,1
+US106098A,1870-08-02,And closing envelopes,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US106220A,1870-08-09,Morrill a,"['ADP', 'PRON']",[],0,0,2,0,1
+US106487A,1870-08-16,For wire riggings,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US106521A,1870-08-16,of ed in burg,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US106584A,1870-08-23,Or tawing skins,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US106658A,1870-08-23,Or regulating the flow of,"['CCONJ', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,5,0,1
+US107091A,1870-09-06,And marking,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US107169A,1870-09-06,And screening ores and fer,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,5,0,1
+US107823A,1870-09-27,In gftaln-binders,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US107933A,1870-10-04,In grain-binders,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US108245A,1870-10-11,To him,"['ADP', 'PRON']",[],0,0,2,0,1
+US109341A,1870-11-15,And dyeing,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US112282A,1871-02-28,In sad and fluting irons,"['ADP', 'ADJ', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,0,1
+US112531A,1871-03-14,In feeding mechanisms for sewing-machines,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
+US113712A,1871-04-11,And ltman p,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US115228A,1871-05-23,of s p rin,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US115312A,1871-05-30,In machines for creasing leather,"['ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,5,0,1
+US115430A,1871-05-30,In match-boxes,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US115461A,1871-05-30,In clothes-driers,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US115669A,1871-06-06,In wood-carvisssg rjachwes,"['ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
+US117136A,1871-07-18,In processes,"['ADP', 'NOUN']",[],0,0,2,0,1
+US117835A,1871-08-08,In seed-planters,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US124165A,1872-02-27,And alfeed e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US127349A,1872-05-28,In tuck-markers for sewing,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
+US127894A,1872-06-11,In cab-couplings,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US129213A,1872-07-16,In alarm-locks,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US130691A,1872-08-20,In washing-machines,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US131702A,1872-09-24,In printing-presses,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US133554A,1872-12-03,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US134503A,1872-12-31,In car-couplsmgs,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US134669A,1873-01-07,And coenell j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US134780A,1873-01-14,In mechanisms for operating sewing-machines,"['ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
+US134801A,1873-01-14,In railway-car axle-boxes,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
+US142503A,1873-09-02,In fruit-cans,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US143068A,1873-09-23,In tap-holder attachments for beer-coolers,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,0,1
+US143317A,1873-09-30,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US143547A,1873-10-07,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US144416A,1873-11-11,And geoege h,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US145403A,1873-12-09,In explosive compounds,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US146494A,1874-01-13,w acker,"['ADP', 'NOUN']",['NORP'],0,0,2,0,1
+US148102A,1874-03-03,And geoegb hobnung,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US148997A,1874-03-24,In cottom-cleaners,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US150065A,1874-04-21,In brick-machines,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US150263A,1874-04-28,In coffee-pots,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US151135A,1874-05-19,In fruit-driers,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US151251A,1874-05-26,In car-axle boxes,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US151407A,1874-05-26,In saw-teeth,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US156623A,1874-11-03,In bee-hives,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US156864A,1874-11-17,In hydrants,"['ADP', 'NOUN']",[],0,0,2,0,1
+US158608A,1875-01-12,In the manufacture of leather,"['ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
+US160726A,1875-03-09,In altcauix-efib,"['ADP', 'NOUN', 'PUNCT', 'ADJ']",[],0,0,4,0,1
+US161731A,1875-04-06,In boiler washing-machines,"['ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
+US162272A,1875-04-20,In door-latches,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US163176A,1875-05-11,In hand-cars,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US167778A,1875-09-14,In cartridge-loading devices,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US169848A,1875-11-09,In revolving fire-ar-ivjs,"['ADP', 'VERB', 'NOUN', 'PUNCT', 'ADP', 'PUNCT', 'NOUN']",[],0,0,7,0,1
+US170600A,1875-11-30,In blasting-cartridges,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US172423A,1876-01-18,In miners  candles,"['ADP', 'NOUN', 'SPACE', 'NOUN']",[],0,0,4,0,1
+US174513A,1876-03-07,And slicing,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US174953A,1876-03-21,In lamp-filling cabinets,"['ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
+US175044A,1876-03-21,In machines for cutting resinous gums,"['ADP', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,6,0,1
+US176005A,1876-04-11,Of one-half,"['ADP', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
+US177048A,1876-05-02,And plimp,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US178386A,1876-06-06,In screw-threaded rawhide shoe-pegs,"['ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
+US178713A,1876-06-13,In straw-cutters,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US178811A,1876-06-13,In car-couplings,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US179170A,1876-06-27,In overalls,"['ADP', 'NOUN']",[],0,0,2,0,1
+US183453A,1876-10-17,In bed-bottoms,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US184043A,1876-11-07,In continuous fuse,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US185689A,1876-12-26,In face-plates for locks,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
+US186939A,1877-02-06,In hanging lasers,"['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
+US188398A,1877-03-13,In propellers for vessels,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US189462A,1877-04-10,In vagon-beds,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US192505A,1877-06-26,In grain-separators,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US192590A,1877-07-03,In hog-cholera compounds,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US193275A,1877-07-17,Of philadelphia,"['ADP', 'NOUN']",[],0,0,2,0,1
+US194630A,1877-08-28,And quality of distilled liquids,"['CCONJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US194890A,1877-09-04,And wallace,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US195447A,1877-09-25,Of eoobestee,"['ADP', 'NOUN']",[],0,0,2,0,1
+US196623A,1877-10-30,In scraping-tools,"['ADP', 'VERB', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US197202A,1877-11-20,of oabftoif,"['ADP', 'NOUN']",[],0,0,2,0,1
+US197827A,1877-12-04,In rail-joints,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1

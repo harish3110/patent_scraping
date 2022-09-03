@@ -1,130 +1,51 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US1151510A,1915-08-24,of newport news ,"['ADP', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
-US1193462A,1916-08-01,And augustus m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1194173A,1916-08-08,A cobposasiok  of delav ,"['DET', 'NOUN', 'SPACE', 'ADP', 'PROPN']",[],1,0,5,0,1
-US1194485A,1916-08-15,And edward g ,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
-US1194488A,1916-08-15,A cobpobationi of new jebsey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'PROPN']",['ORG'],1,0,5,0,1
-US1195047A,1916-08-15,And john keown ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1196026A,1916-08-29,And habry b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US1196095A,1916-08-29,And francis j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1112151A,1911-12-11,"Under-water ash-ejector. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US1113338A,1914-01-26,"Confetti cartridge and gun. 
-     ","['DET', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",['ORG'],0,0,6,0,1
-US1116879A,1912-10-02,"Suspensory bandage. 
-     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
-US1120918A,1914-05-21,"By-pass valve for pressure-reducing valves. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,11,0,1
-US1126369A,1913-12-26,"By-pass for incandescent-electric-lamp circuits. 
-     ","['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,12,0,1
-US1129208A,1912-04-25,"Off-bearing machine for brickmaking. 
-     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'VERB', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US1140026A,1915-02-27,"By-pass gas-cock. 
-     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US1144895A,1915-06-29,of jasper county ,"['ADP', 'NOUN', 'NOUN']",['ORG'],0,0,3,0,1
-US1147542A,1914-06-26,"By-pass valve for hydraulic door-operating systems. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,12,0,1
-US1148401A,1914-02-21,"A process for treating osier bark. 
-     ","['DET', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US1155396A,1915-10-05,To universal ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1158203A,1912-09-30,"Under-contact rail and support. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US1161994A,1911-11-24,"Over-speed protecting device for electric motors. 
-     ","['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,10,0,1
-US1164501A,1915-12-14,"Under-water-operated musical apparatus. 
-     ","['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
-US1164950A,1915-06-28,"Suspensory bandage. 
-     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
-US1165286A,1915-04-16,"No-slip horseshoe. 
-     ","['DET', 'NOUN', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1173356A,1916-02-29,of pjttsbttbgh ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1177754A,1916-04-04,A cobpokatiqn oe ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1179468A,1914-02-11,"By-pass valve and controlling device for engine-cylinders. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,13,0,1
-US1185409A,1916-04-04,"Anirattler attachment for doors. 
-     ","['DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1186285A,1911-07-18,"Inside box-end-stapling machine. 
-     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
-US1191652A,1913-04-03,"Weft binding and severing device for looms. 
-     ","['ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
-US1191653A,1914-07-08,"Weft binding and severing device for looms. 
-     ","['ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
-US1191857A,1914-03-17,"Per-diem car-record account cabinet and cards. 
-     ","['ADP', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,12,0,1
-US1193019A,1916-08-01,A coffiposatioh of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1193109A,1916-08-01,And abcheb e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1193118A,1916-08-01,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1193119A,1916-08-01,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1193157A,1916-08-01,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1193193A,1916-08-01,And one-sixth to claude c ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
-US1193221A,1916-08-01,And one-third to batten ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'NOUN']",['CARDINAL'],0,0,6,0,1
-US1193292A,1916-08-01,A cobpoeation of ontabio ,"['DET', 'NOUN', 'ADP', 'PRON']",[],0,0,4,0,1
-US1193335A,1916-08-01,of hew yobk ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1193378A,1916-08-01,A coepobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1193388A,1916-08-01,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1193390A,1916-08-01,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1193393A,1916-08-01,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1193420A,1916-08-01,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1193661A,1916-08-08,And geosge t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1193719A,1916-08-08,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1193767A,1916-08-08,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1193773A,1916-08-08,And abnold ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US1193856A,1916-08-08,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1193892A,1916-08-08,And cleophes e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1193902A,1916-08-08,A cobporation of new jebsey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US1193919A,1916-08-08,A coirpobation p ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1193934A,1916-08-08,A corfdbatiqn ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1194036A,1916-08-08,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1194064A,1916-08-08,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1194065A,1916-08-08,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1194066A,1916-08-08,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1194112A,1916-08-08,And dork e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1194210A,1916-08-08,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1194219A,1916-08-08,And geoeoke b ,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US1194245A,1916-08-08,A cobpobation oe con ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1194296A,1916-08-08,And hugh mcnally ,"['CCONJ', 'NOUN', 'ADV']",[],0,0,3,0,1
-US1194331A,1916-08-08,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1194379A,1916-08-15,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1194442A,1916-08-15,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1194446A,1916-08-15,oe westpobt ,"['DET', 'VERB']",[],0,0,2,0,1
-US1194484A,1916-08-15,And ebward c ,"['CCONJ', 'VERB', 'AUX']",[],0,0,3,0,1
-US1194510A,1916-08-15,A cobpoeation of missoubi ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1194523A,1916-08-15,A cobpobation of m ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1194553A,1916-08-15,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1194569A,1916-08-15,And one-fifth to j ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,6,0,1
-US1194580A,1916-08-15,A cokpr ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1194621A,1916-08-15,A cobpoeatioh of hew ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1194715A,1916-08-15,A cobpobatiqn of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1194759A,1916-08-15,A cospobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1194795A,1916-08-15,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1194845A,1916-08-15,A cobpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1194917A,1916-08-15,of port dover ,"['ADP', 'NOUN', 'NOUN']",['GPE'],0,0,3,0,1
-US1194918A,1916-08-15,of port dover ,"['ADP', 'NOUN', 'NOUN']",['GPE'],0,0,3,0,1
-US1194961A,1916-08-15,of walsall ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1194973A,1916-08-15,A cobpobation of new ,"['DET', 'NOUN', 'ADP', 'ADJ']",[],0,0,4,0,1
-US1195018A,1916-08-15,And proves ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US1195025A,1916-08-15,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1195178A,1916-08-22,of new yobk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1195209A,1916-08-22,A cqbpobatiost ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1195242A,1916-08-22,And quenching apparatus ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1195257A,1916-08-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1195262A,1916-08-22,A coepoeation op pennsyl ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1195285A,1916-08-22,For motoe-vehicles ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US1195389A,1916-08-22,A partnership consisting of edward ,"['DET', 'NOUN', 'VERB', 'ADP', 'NOUN']",[],0,0,5,0,1
-US1195532A,1916-08-22,A cokposation of penn ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1195553A,1916-08-22,A cobpobatiok  g ,"['DET', 'NOUN', 'SPACE', 'NOUN']",[],0,0,4,0,1
-US1195568A,1916-08-22,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1195586A,1916-08-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1195602A,1916-08-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1195672A,1916-08-22,of leeds ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1195678A,1916-08-22,Of new yosk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1195688A,1916-08-22,Of hoboken ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1195736A,1916-08-22,of sayville ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1195937A,1916-08-22,A coeporation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1195972A,1916-08-29,Of endicott ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1195983A,1916-08-29,A corpobatioir of penn ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1195990A,1916-08-29,By augusta hunten ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1196038A,1916-08-29,A cobpobation of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1196074A,1916-08-29,of austin ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1196150A,1916-08-29,A cobpobatiost of pehjst ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1196181A,1916-08-29,And apparatus for watermarking paper ,"['CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,5,0,1
+US1151510A,1915-08-24,of newport news,"['ADP', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
+US1193462A,1916-08-01,And augustus m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1194485A,1916-08-15,And edward g,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US1195047A,1916-08-15,And john keown,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1196026A,1916-08-29,And habry b,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US1196095A,1916-08-29,And francis j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1112151A,1911-12-11,Under-water ash-ejector.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US1120918A,1914-05-21,By-pass valve for pressure-reducing valves.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,11,0,1
+US1126369A,1913-12-26,By-pass for incandescent-electric-lamp circuits.,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,12,0,1
+US1129208A,1912-04-25,Off-bearing machine for brickmaking.,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'VERB', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US1140026A,1915-02-27,By-pass gas-cock.,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US1144895A,1915-06-29,of jasper county,"['ADP', 'NOUN', 'NOUN']",['ORG'],0,0,3,0,1
+US1147542A,1914-06-26,By-pass valve for hydraulic door-operating systems.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,12,0,1
+US1155396A,1915-10-05,To universal,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1158203A,1912-09-30,Under-contact rail and support.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US1161994A,1911-11-24,Over-speed protecting device for electric motors.,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,10,0,1
+US1164501A,1915-12-14,Under-water-operated musical apparatus.,"['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
+US1173356A,1916-02-29,of pjttsbttbgh,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1179468A,1914-02-11,By-pass valve and controlling device for engine-cylinders.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,13,0,1
+US1186285A,1911-07-18,Inside box-end-stapling machine.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
+US1191652A,1913-04-03,Weft binding and severing device for looms.,"['ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
+US1191653A,1914-07-08,Weft binding and severing device for looms.,"['ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
+US1191857A,1914-03-17,Per-diem car-record account cabinet and cards.,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,12,0,1
+US1193109A,1916-08-01,And abcheb e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1193193A,1916-08-01,And one-sixth to claude c,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
+US1193221A,1916-08-01,And one-third to batten,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'NOUN']",['CARDINAL'],0,0,6,0,1
+US1193335A,1916-08-01,of hew yobk,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1193661A,1916-08-08,And geosge t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1193773A,1916-08-08,And abnold,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1193892A,1916-08-08,And cleophes e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1194112A,1916-08-08,And dork e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1194219A,1916-08-08,And geoeoke b,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
+US1194296A,1916-08-08,And hugh mcnally,"['CCONJ', 'NOUN', 'ADV']",[],0,0,3,0,1
+US1194484A,1916-08-15,And ebward c,"['CCONJ', 'VERB', 'AUX']",[],0,0,3,0,1
+US1194569A,1916-08-15,And one-fifth to j,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,6,0,1
+US1194917A,1916-08-15,of port dover,"['ADP', 'NOUN', 'NOUN']",['GPE'],0,0,3,0,1
+US1194918A,1916-08-15,of port dover,"['ADP', 'NOUN', 'NOUN']",['GPE'],0,0,3,0,1
+US1194961A,1916-08-15,of walsall,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1195018A,1916-08-15,And proves,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1195178A,1916-08-22,of new yobk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1195242A,1916-08-22,And quenching apparatus,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1195285A,1916-08-22,For motoe-vehicles,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US1195672A,1916-08-22,of leeds,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1195678A,1916-08-22,Of new yosk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1195688A,1916-08-22,Of hoboken,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1195736A,1916-08-22,of sayville,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1195972A,1916-08-29,Of endicott,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1195990A,1916-08-29,By augusta hunten,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1196074A,1916-08-29,of austin,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1196181A,1916-08-29,And apparatus for watermarking paper,"['CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,5,0,1

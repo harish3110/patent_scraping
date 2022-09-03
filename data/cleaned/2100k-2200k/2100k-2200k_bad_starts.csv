@@ -1,114 +1,29 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US2100260A,1936-09-11,"Thermocouple ammeter 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2106486A,1936-12-03,"The production of anion-exchange resins from m-phenylenediamine 
-     ","['DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,12,0,1
-US2106948A,1937-04-28,"No screed tile clip 
-     ","['DET', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2109396A,1937-06-03,"Thermocouple system 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2110602A,1936-03-16,"Over-shot fishing tool 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2110943A,1935-06-05,"Fungicide 
-     ","['ADP', 'SPACE']",[],0,0,2,0,1
-US2114559A,1938-04-19,A errera ,"['DET', 'NOUN']",[],0,0,2,0,1
-US2115270A,1937-03-22,"Outside surfacing for wooden buildings 
-     ","['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2117050A,1936-06-06,"Inside casing cutter 
-     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2117594A,1936-06-15,"Inside casing cutter 
-     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2117599A,1936-08-26,"Inside casing cutter 
-     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2122009A,1934-09-14,"No-roll-back brake for automobiles 
-     ","['DET', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2122264A,1937-06-11,"Noose device 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2124364A,1935-01-07,"Over-voltage protective device 
-     ","['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2128462A,1934-04-16,"Thermocouple hygrometer 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2129153A,1934-11-06,"Resinlike condensation-products 
-     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2129690A,1935-12-03,"n-propylmethacrylate 
-     ","['CCONJ', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2130580A,1935-09-26,"Inside pipe cutter 
-     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2131695A,1935-05-15,"Inside wind coilable measuring rule 
-     ","['ADP', 'NOUN', 'ADJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2134842A,1938-01-17,"Weft controlled loom stopping mechanism 
-     ","['ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2135807A,1937-03-23,"All-metal gasket 
-     ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2136757A,1934-06-29,"After-treatment of dyeings on cellulosic fibers 
-     ","['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2137057A,1937-02-20,"Thermocouple 
-     ","['DET', 'SPACE']",[],0,0,2,0,1
-US2137130A,1936-03-14,"Suspensory 
-     ","['DET', 'SPACE']",[],0,0,2,0,1
-US2143351A,1934-06-06,"All year air conditioning system 
-     ","['DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",['DATE'],0,0,6,0,1
-US2143541A,1938-05-16,"All metal miniature airplane 
-     ","['DET', 'NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2143741A,1939-01-10,A f pott ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US2145548A,1936-12-18,"All wave distribution system 
-     ","['DET', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2145754A,1939-01-31,A crawford ,"['DET', 'NOUN']",[],0,0,2,0,1
-US2146082A,1937-06-03,"Thermocouple mounting 
-     ","['DET', 'VERB', 'SPACE']",[],0,0,3,0,1
-US2149428A,1936-03-15,"Weft inserting mechanism for looms 
-     ","['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",['ORG'],0,0,6,0,1
-US2152153A,1935-11-22,"Thermocouple 
-     ","['DET', 'SPACE']",[],0,0,2,0,1
-US2154587A,1938-01-22,"All metal automatic cooling tower 
-     ","['DET', 'NOUN', 'ADJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2156853A,1938-03-17,"Thermocouple 
-     ","['DET', 'SPACE']",[],0,0,2,0,1
-US2160318A,1936-09-08,"Over speed engine control 
-     ","['ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US2162812A,1937-02-15,"Inker throw-off 
-     ","['DET', 'VERB', 'PUNCT', 'ADP', 'SPACE']",[],0,0,5,0,1
-US2166010A,1937-11-15,"Suspensory garment 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2169101A,1938-04-29,"Thermocouple wattmeter 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2173839A,1935-07-19,"Inker mechanism 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2175061A,1929-04-13,"No-roll-back device 
-     ","['DET', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US2175372A,1937-02-04,"Inside pipe cutter 
-     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2175787A,1938-10-14,"Weft cutting device 
-     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2177033A,1937-10-12,"Thermocouple tube 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2177198A,1938-09-07,"Fungicide 
-     ","['ADP', 'SPACE']",[],0,0,2,0,1
-US2179985A,1935-10-05,"After-treatment of yarn of artificial origin 
-     ","['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2180693A,1935-02-19,"Inside pipe cutter 
-     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US2182396A,1937-05-27,"Inside curtain and support 
-     ","['ADP', 'NOUN', 'CCONJ', 'VERB', 'SPACE']",[],0,0,5,0,1
-US2183366A,1939-05-31,"All-metal power table for sewing machines 
-     ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2183962A,1939-05-15,"Off-centering device for lens grinding machines 
-     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US2186015A,1936-04-03,"By-pass valve mechanism 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US2186707A,1939-02-08,"Thermocouple structure 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2187344A,1937-10-30,"Weft inserting device for weaving looms having a continuous weft supply 
-     ","['ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN', 'VERB', 'DET', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",['ORG'],0,0,12,0,1
-US2189750A,1938-12-23,"By-pass compensator for meters 
-     ","['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US2189772A,1940-02-13,The manufacture of modified ,"['DET', 'NOUN', 'ADP', 'VERB']",[],0,0,4,0,1
-US2194489A,1938-08-16,"Thermocouple support 
-     ","['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US2195440A,1937-06-03,"After-chromable acid dyestuffs of the triphenylmethane series 
-     ","['ADP', 'PUNCT', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,10,0,1
-US2195770A,1940-04-02,A doebeli ,"['DET', 'NOUN']",[],0,0,2,0,1
-US2196893A,1938-08-27,"Weft straightening apparatus 
-     ","['ADP', 'VERB', 'NOUN', 'SPACE']",['ORG'],0,0,4,0,1
-US2199236A,1939-05-18,"Inside micrometer attachment 
-     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2110602A,1936-03-16,Over-shot fishing tool,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US2110943A,1935-06-05,Fungicide,"['ADP', 'SPACE']",[],0,0,2,0,1
+US2115270A,1937-03-22,Outside surfacing for wooden buildings,"['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US2117050A,1936-06-06,Inside casing cutter,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2117594A,1936-06-15,Inside casing cutter,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2117599A,1936-08-26,Inside casing cutter,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2124364A,1935-01-07,Over-voltage protective device,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US2129153A,1934-11-06,Resinlike condensation-products,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US2129690A,1935-12-03,n-propylmethacrylate,"['CCONJ', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2130580A,1935-09-26,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2131695A,1935-05-15,Inside wind coilable measuring rule,"['ADP', 'NOUN', 'ADJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US2134842A,1938-01-17,Weft controlled loom stopping mechanism,"['ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US2136757A,1934-06-29,After-treatment of dyeings on cellulosic fibers,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US2149428A,1936-03-15,Weft inserting mechanism for looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",['ORG'],0,0,6,0,1
+US2160318A,1936-09-08,Over speed engine control,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US2175372A,1937-02-04,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2175787A,1938-10-14,Weft cutting device,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2177198A,1938-09-07,Fungicide,"['ADP', 'SPACE']",[],0,0,2,0,1
+US2179985A,1935-10-05,After-treatment of yarn of artificial origin,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US2180693A,1935-02-19,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US2182396A,1937-05-27,Inside curtain and support,"['ADP', 'NOUN', 'CCONJ', 'VERB', 'SPACE']",[],0,0,5,0,1
+US2183962A,1939-05-15,Off-centering device for lens grinding machines,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US2186015A,1936-04-03,By-pass valve mechanism,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US2187344A,1937-10-30,Weft inserting device for weaving looms having a continuous weft supply,"['ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN', 'VERB', 'DET', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",['ORG'],0,0,12,0,1
+US2189750A,1938-12-23,By-pass compensator for meters,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US2195440A,1937-06-03,After-chromable acid dyestuffs of the triphenylmethane series,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,10,0,1
+US2196893A,1938-08-27,Weft straightening apparatus,"['ADP', 'VERB', 'NOUN', 'SPACE']",['ORG'],0,0,4,0,1
+US2199236A,1939-05-18,Inside micrometer attachment,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1

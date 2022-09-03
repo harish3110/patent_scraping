@@ -1,723 +1,582 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US1743A,1840-08-28 00:00:00,Apparatusfor obtaining casts from ti-ie teeth and guivis and ti-ie mode ,"['ADP', 'VERB', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'X', 'NOUN', 'CCONJ', 'ADJ', 'CCONJ', 'VERB', 'PUNCT', 'X', 'NOUN']",[],1,0,15,0,1
-US2080A,1841-05-04 00:00:00,And asa jackson ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US2643A,1842-05-26 00:00:00,And richardson t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US3161A,1843-07-08 00:00:00,And david x h hummer ,"['CCONJ', 'PROPN', 'PROPN', 'PROPN', 'NOUN']",[],1,0,5,0,1
-US3189A,1843-07-20 00:00:00,And closing valves oe steam-engines ,"['CCONJ', 'NOUN', 'NOUN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,7,0,1
-US3698A,1844-08-10 00:00:00,a tptt c x     ip ,"['DET', 'NOUN', 'PROPN', 'SYM', 'SPACE', 'NOUN']",[],1,0,6,0,1
-US3852A,1844-12-07 00:00:00,And asa d ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US4895A,1846-12-17 00:00:00,And bernice s ,"['CCONJ', 'PROPN', 'PART']",[],1,0,3,0,1
-US6704A,1849-09-11 00:00:00,of west tkoy ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US6899A,1849-11-27 00:00:00,And samuel mower ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US7286A,1850-04-16 00:00:00,And nathan swan ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US7488A,1850-07-09 00:00:00,of ooemans hollow ,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
-US7657A,1850-09-17 00:00:00,of mott haven ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US8331A,1851-09-02 00:00:00,And david marsh ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US11210A,1854-07-04,of pitts burg ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US18192A,1857-09-15,And samuel m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US18838A,1857-12-15,And amos h ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US20263A,1858-05-18,of new yorfc ,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US23028A,1859-02-22,of new y ,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US24308A,1859-06-07,And edward e ,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
-US28679A,1860-06-12,And jl c ,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
-US30613A,1860-11-13,of chapel hill ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US40244A,1863-10-13,And jonathan c ,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
-US40880A,1863-12-08,The norftis peters l ,"['DET', 'ADJ', 'PROPN', 'X']",[],1,0,4,0,1
-US41055A,1864-01-05,And george r ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US41745A,1864-02-23,To himself and josiah d ,"['ADP', 'PRON', 'CCONJ', 'PROPN', 'PROPN']",[],1,0,5,0,1
-US46080A,1865-01-31,of zstew yoek ,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US46970A,1865-03-21,And charles m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US50449A,1865-10-17,And james p ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US50818A,1865-11-07,of mount mobbis ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US51090A,1865-11-21,And james p ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US51784A,1865-12-26,of east hampton ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US56903A,1866-08-07,And heney j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US57055A,1866-08-07,By abel t ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US58420A,1866-10-02,of mott haven ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US60792A,1867-01-01,And thomas b ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US60837A,1867-01-01,And amos e ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US60961A,1867-01-01,The norkis peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
-US61047A,1867-01-08,of west union ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US61343A,1867-01-22,Of mo u n t pleas a k t ,"['ADP', 'PROPN', 'PROPN', 'NOUN', 'NOUN', 'NOUN', 'DET', 'PROPN', 'NOUN']",[],1,0,9,0,1
-US61590A,1867-01-29,And silas s ,"['CCONJ', 'PROPN', 'PART']",[],1,0,3,0,1
-US62070A,1867-02-12,And jeremiah kimbrough ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US62756A,1867-03-12,of gkanyille cqeners ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US62787A,1867-03-12,And cyrus h ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US63051A,1867-03-19,The noflms petehs co ,"['DET', 'NOUN', 'VERB', 'PROPN']",[],1,0,4,0,1
-US63104A,1867-03-19,The korbis peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",['ORG'],1,0,4,0,1
-US63553A,1867-04-02,And isaac curtis ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US64013A,1867-04-23,of north brookfield ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US64218A,1867-04-30,of mb n t or ,"['ADP', 'PROPN', 'ADV', 'PROPN', 'CCONJ']",[],1,0,5,0,1
-US64333A,1867-04-30,of new tokk ,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US64375A,1867-04-30,The eckeht utmographihg co ,"['DET', 'NOUN', 'AUX', 'PROPN']",[],1,0,4,0,1
-US64670A,1867-05-14,To themselves and james m ,"['ADP', 'PRON', 'CCONJ', 'PROPN', 'VERB']",[],1,0,5,0,1
-US64701A,1867-05-14,And silas crispin ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US65315A,1867-05-28,of montgomery centre ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US65539A,1867-06-11,of budd s lake ,"['ADP', 'PROPN', 'PART', 'NOUN']",[],1,0,4,0,1
-US65945A,1867-06-18,The nqbrls peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
-US65986A,1867-06-18,A b r a h am t ra ge e ,"['DET', 'NOUN', 'NOUN', 'DET', 'NOUN', 'NOUN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']",[],1,0,10,0,1
-US66036A,1867-06-25,of new yoeki k ,"['ADP', 'ADJ', 'PROPN', 'X']",[],1,0,4,0,1
-US66236A,1867-07-02,The norris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
-US66827A,1867-07-16,To all whom ec may concebb ,"['ADP', 'PRON', 'PRON', 'PROPN', 'AUX', 'VERB']",['ORG'],1,0,6,0,1
-US67399A,1867-08-06,of ch aklesto wn ,"['ADP', 'NOUN', 'PROPN', 'ADP']",[],1,0,4,0,1
-US67422A,1867-08-06,and ellis drake ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US67729A,1867-08-13,And abel s ,"['CCONJ', 'PROPN', 'PART']",[],1,0,3,0,1
-US68321A,1867-08-27,n s t e y e n s ,"['CCONJ', 'NOUN', 'NOUN', 'NOUN', 'PROPN', 'PROPN', 'ADP', 'NOUN']","['ORG', 'ORG']",1,0,8,0,1
-US69221A,1867-09-24,The eckert ltthogmphjng co ,"['DET', 'NOUN', 'PROPN', 'X']",[],1,0,4,0,1
-US69277A,1867-09-24,of n e ware ,"['ADP', 'PRON', 'PROPN', 'NOUN']",[],1,0,4,0,1
-US69516A,1867-10-01,w a l k e k ,"['ADP', 'DET', 'X', 'PROPN', 'PROPN', 'X']",['LOC'],1,0,6,0,1
-US70283A,1867-10-29,A l b e r t  ,"['DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'PROPN', 'SPACE']",['ORG'],1,0,7,0,1
-US70537A,1867-11-05,A l p e e d k ,"['DET', 'NOUN', 'NOUN', 'PROPN', 'X', 'X', 'X']",['ORG'],1,0,7,0,1
-US70626A,1867-11-05,of f i n d l e y ,"['ADP', 'PROPN', 'PROPN', 'PROPN', 'X', 'X', 'NOUN', 'PROPN']",[],1,0,8,0,1
-US70788A,1867-11-12,And adam sowden ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US71064A,1867-11-19,Of south abington ,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US71076A,1867-11-19,And samuel t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US71105A,1867-11-19,w i l l b u b ,"['ADP', 'PROPN', 'PROPN', 'X', 'PROPN', 'NOUN', 'NOUN']",['ORG'],1,0,7,0,1
-US71671A,1867-12-03,And blias y ,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
-US71683A,1867-12-03,In machines foe boeing bobbins ,"['ADP', 'NOUN', 'VERB', 'PROPN', 'VERB']",[],1,0,5,0,1
-US72083A,1867-12-10,of south boston ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US72495A,1867-12-24,of del  at- an ,"['ADP', 'PROPN', 'SPACE', 'PROPN', 'PRON']",[],1,0,5,0,1
-US72583A,1867-12-24,a l l   b n ,"['DET', 'X', 'X', 'SPACE', 'PROPN', 'ADV']",['ORG'],1,0,6,0,1
-US73165A,1868-01-07,of west groton ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US73732A,1868-01-28,And said loomis ,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
-US73911A,1868-01-28,Of  chicago ,"['ADP', 'SPACE', 'PROPN']",['GPE'],1,0,3,0,1
-US74301A,1868-02-11,of jers et  ,"['ADP', 'NOUN', 'PROPN', 'SPACE']",[],1,0,4,0,1
-US75182A,1868-03-03,of west chbshike ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US75348A,1868-03-10,of-ma-n gbe-ster ,"['ADP', 'PUNCT', 'PROPN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,8,0,1
-US75384A,1868-03-10,And paedon b ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US75426A,1868-03-10,of parish of tebre bonne ,"['ADP', 'PROPN', 'ADP', 'PROPN', 'PROPN']",[],1,0,5,0,1
-US76344A,1868-04-07,And eleazer jones ,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
-US76733A,1868-04-14,The worftjs peters co ,"['DET', 'NOUN', 'PROPN', 'VERB']",[],1,0,4,0,1
-US76933A,1868-04-21,of roc-hester ,"['ADP', 'PROPN', 'PUNCT', 'NOUN']",['GPE'],1,0,4,0,1
-US76999A,1868-04-21,of chapel hill ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US77209A,1868-04-28,The norris petehs co ,"['DET', 'PROPN', 'NOUN', 'X']",[],1,0,4,0,1
-US77357A,1868-04-28,A n d r e w j ,"['DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'PROPN']",['ORG'],1,0,7,0,1
-US77491A,1868-05-05,And frederick j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US77730A,1868-05-12,A l k x a n ,"['DET', 'X', 'PROPN', 'PROPN', 'PROPN', 'X']",['ORG'],1,0,6,0,1
-US77735A,1868-05-12,of del a van ,"['ADP', 'PROPN', 'DET', 'NOUN']",[],1,0,4,0,1
-US77945A,1868-05-19,And willis bedford ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US78071A,1868-05-19,A f d re w  ,"['DET', 'NOUN', 'PROPN', 'PROPN', 'PROPN', 'SPACE']",[],1,0,6,0,1
-US78075A,1868-05-19,A l e x a n d e r d u n b a r ,"['DET', 'X', 'NOUN', 'PROPN', 'PROPN', 'PROPN', 'NOUN', 'PROPN', 'NOUN', 'PROPN', 'PROPN', 'NOUN', 'NOUN', 'DET', 'NOUN']","['ORG', 'ORG']",1,0,15,0,1
-US78082A,1868-05-19,of c h il l i c  ,"['ADP', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PRON', 'VERB', 'SPACE']",[],1,0,8,0,1
-US78227A,1868-05-26,To all whom ii may concern ,"['ADP', 'PRON', 'PRON', 'PROPN', 'AUX', 'VERB']",[],1,0,6,0,1
-US78243A,1868-05-26,Or bin stone ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US78521A,1868-06-02,of w h i t e s t  ,"['ADP', 'ADP', 'PROPN', 'PRON', 'X', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],1,0,9,0,1
-US78980A,1868-06-16,of go shenj iist di a n a ,"['ADP', 'VERB', 'NOUN', 'PROPN', 'PROPN', 'DET', 'X', 'PRON']",[],1,0,8,0,1
-US79873A,1868-07-14,of b r a c e v i l l e ,"['ADP', 'NOUN', 'NOUN', 'DET', 'NOUN', 'NOUN', 'INTJ', 'PRON', 'PROPN', 'X', 'NOUN']",['ORG'],1,0,11,0,1
-US80863A,1868-08-11,And benjamin arnold ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US80928A,1868-08-11,of san francisco ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US80987A,1868-08-11,of d e wit t ,"['ADP', 'PROPN', 'NOUN', 'NOUN', 'NOUN']",[],1,0,5,0,1
-US81159A,1868-08-18,of po ughk e ep sie ,"['ADP', 'PROPN', 'PROPN', 'NOUN', 'PROPN', 'PROPN']",[],1,0,6,0,1
-US81603A,1868-09-01,A n d r e w christian ,"['DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'PROPN']","['ORG', 'NORP']",1,0,7,0,1
-US81616A,1868-09-01,of san paulo ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US81668A,1868-09-01,The ec kertltthogaapming co ,"['DET', 'PROPN', 'VERB', 'X']",['ORG'],1,0,4,0,1
-US82336A,1868-09-22,of waterloo city ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US83572A,1868-10-27,A n t o n w ,"['DET', 'NOUN', 'NOUN', 'PROPN', 'ADP', 'X']",[],1,0,6,0,1
-US83966A,1868-11-10,of beaver dam ,"['ADP', 'NOUN', 'PROPN']",[],1,0,3,0,1
-US84169A,1868-11-17,of eau claire ,"['ADP', 'PROPN', 'VERB']",['ORG'],1,0,3,0,1
-US87844A,1869-03-16,of ma lone ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US88995A,1869-04-13,of n e w y o r k ,"['ADP', 'ADV', 'X', 'ADP', 'PROPN', 'PROPN', 'NOUN', 'X']",['ORG'],1,0,8,0,1
-US90850A,1869-06-01,of t r o y ,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'PROPN']",[],1,0,5,0,1
-US93852A,1869-08-17,And coolikg distilled water ,"['CCONJ', 'PROPN', 'VERB', 'NOUN']",[],1,0,4,0,1
-US95451A,1869-10-05,The nohris peters co ,"['DET', 'PROPN', 'PROPN', 'VERB']",[],1,0,4,0,1
-US95728A,1869-10-12,of l e e s v i l l e ,"['ADP', 'X', 'PROPN', 'PROPN', 'NOUN', 'NOUN', 'PRON', 'PROPN', 'X', 'NOUN']",['ORG'],1,0,10,0,1
-US96488A,1869-11-02,And daeius lyman ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US96761A,1869-11-16,a l e x a st d e r ,"['DET', 'X', 'NOUN', 'PROPN', 'DET', 'PROPN', 'PROPN', 'NOUN', 'NOUN']",['ORG'],1,0,9,0,1
-US97083A,1869-11-23,of b r y a n  ,"['ADP', 'X', 'NOUN', 'PROPN', 'DET', 'NOUN', 'SPACE']",[],1,0,7,0,1
-US97848A,1869-12-14,of san francisco ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US97850A,1869-12-14,of new orleans ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US99485A,1870-02-01,The ends of vulcanized india-rubber or ,"['DET', 'NOUN', 'ADP', 'VERB', 'PROPN', 'PUNCT', 'NOUN', 'CCONJ']",['GPE'],1,0,8,0,1
-US322A,1837-07-31 00:00:00,The tikes of wheels and otheb articles ,"['DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,7,0,1
-US464A,1837-11-11 00:00:00,of peteeboko ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US502A,1837-12-07 00:00:00,Through trees ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US669A,1838-04-02 00:00:00,In the manufacture of gunpowder ,"['ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
-US788A,1838-06-19 00:00:00,And mode oe ,"['CCONJ', 'VERB', 'ADP']",[],0,0,3,0,1
-US802A,1838-06-23 00:00:00,The horse-power for driving machinery ,"['DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,7,0,1
-US857A,1838-07-26 00:00:00,of greene ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1016A,1838-11-25 00:00:00,And major algar ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1069A,1839-01-16 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1305A,1839-08-29 00:00:00,For drilling- metallic and other substances ,"['ADP', 'DET', 'ADJ', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US1459A,1839-12-31 00:00:00,Of pro ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1617A,1840-05-25 00:00:00,of baltimoee ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1665A,1840-07-01 00:00:00,And wm ,"['CCONJ', 'ADV']",[],0,0,2,0,1
-US1666A,1840-07-01 00:00:00,For railroad and other carriages ,"['ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US1756A,1840-09-02 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1829A,1840-10-16 00:00:00,And chiming staves ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1901A,1840-12-14 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1950A,1841-01-25 00:00:00,The steam-valves op steam-engines when the steam is ,"['DET', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'SCONJ', 'DET', 'NOUN', 'AUX']",[],0,0,12,0,1
-US2017A,1841-03-26 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US2034A,1841-04-02 00:00:00,The frames of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US2040A,1841-04-10 00:00:00,And rufus ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US2042A,1841-04-10 00:00:00,Of cowstkuctistg- window-blind fastestebs ,"['ADP', 'NOUN', 'NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US2083A,1841-05-06 00:00:00,And cleaning out docks ,"['CCONJ', 'VERB', 'ADP', 'NOUN']",[],0,0,4,0,1
-US2271A,1841-09-30 00:00:00,And alfred b ,"['CCONJ', 'ADJ', 'X']",[],0,0,3,0,1
-US2521A,1842-03-28 00:00:00,And in the construction of insulated conductors ,"['CCONJ', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,0,1
-US2598A,1842-04-30 00:00:00,Of puopezmwgr boats ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US2615A,1842-05-07 00:00:00,Of arranging the saw-gates and fender-posts of sawmills ,"['ADP', 'VERB', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,12,0,1
-US2651A,1842-05-28 00:00:00,Of constructing brushes for dressing- warps ,"['ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US2673A,1842-06-18 00:00:00,Of begrttlating the drag of yabjst in the operation of spinning ,"['ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB']",[],0,0,11,0,1
-US2699A,1842-07-02 00:00:00,With elievated ovem ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US2740A,1842-07-28 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US2772A,1842-09-03 00:00:00,The ibon bails of ,"['DET', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,0,1
-US2843A,1842-11-04 00:00:00,of new yokk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US2868A,1842-12-05 00:00:00,By machinery ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US3029A,1843-04-06 00:00:00,Or shaving the heads q ,"['CCONJ', 'VERB', 'DET', 'NOUN', 'X']",[],0,0,5,0,1
-US3200A,1843-07-28 00:00:00,Of cowstbttctingi- steam-boilers ,"['ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
-US3294A,1843-10-06 00:00:00,And lazabus b ,"['CCONJ', 'NOUN', 'NOUN']",['ORG'],0,0,3,0,1
-US3377A,1843-12-15 00:00:00,And edwd ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US3460A,1844-02-28 00:00:00,of schenectadi  ,"['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US3523A,1844-04-04 00:00:00,And caleb ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US3610A,1844-06-05 00:00:00,And thos ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US3742A,1844-09-14 00:00:00,Of kidderminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US4124A,1845-07-26 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US4356A,1846-01-15 00:00:00,A horace h ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US4378A,1846-02-10 00:00:00,of lockport ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US4556A,1846-06-06 00:00:00,of chelmsford ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US4814A,1846-10-14 00:00:00,A brush trimmer ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US5043A,1847-03-27 00:00:00,The graphic ,"['DET', 'NOUN']",[],0,0,2,0,1
-US5095A,1847-05-01 00:00:00,Of albany ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US5193A,1847-07-17 00:00:00,The timbers of vessels ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US5197A,1847-07-24 00:00:00,Or paring ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US5475A,1848-03-14 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US5543A,1848-05-02 00:00:00,of jbesey city ,"['ADP', 'ADJ', 'NOUN']",['GPE'],0,0,3,0,1
-US5990A,1848-12-26 00:00:00,of baltimore ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US6265A,1849-04-03 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US6302A,1849-04-10 00:00:00,of new yoke ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US6303A,1849-04-10 00:00:00,And benjamin hallowell ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US6325A,1849-04-17 00:00:00,And ephm ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US6398A,1849-04-24 00:00:00,of greenfield ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US6421A,1849-05-08 00:00:00,And ezra whitman ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US6619A,1849-07-31 00:00:00,And slicing ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US6810A,1849-10-23 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US7104A,1850-02-19 00:00:00,By allen r ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US7203A,1850-03-19 00:00:00,Of pro ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US7417A,1850-06-04 00:00:00,Of woonsooket ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US7991A,1851-03-18 00:00:00,Of beehives ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US8107A,1851-05-20 00:00:00,And heading movement fob spike-machines ,"['CCONJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
-US8451A,1851-10-21 00:00:00,Of railroad-cars ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US8710A,1852-02-03 00:00:00,Of railroad-oaks ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US8785A,1852-03-02 00:00:00,And edwd ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US8795A,1852-03-09 00:00:00,Of dooe-kitobs ,"['ADP', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US8819A,1852-03-23 00:00:00,of greentown ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US8861A,1852-04-06 00:00:00,of cheshire ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US8938A,1852-05-11 00:00:00,Of brushes ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US8960A,1852-05-18 00:00:00,of baltimore ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US8988A,1852-06-01 00:00:00,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US9086A,1852-06-29 00:00:00,And wm ,"['CCONJ', 'ADV']",[],0,0,2,0,1
-US9388A,1852-11-09 00:00:00,And obed king and ezra king ,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,6,0,1
-US9713A,1853-05-10 00:00:00,And controlling the rudders oe steam vessels ,"['CCONJ', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US9776A,1853-06-07 00:00:00,And henry a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US10130A,1853-10-18,Lifobe of opbbatiwg mttl-saws ,"['ADP', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
-US10360A,1854-01-03,Of wagon s ,"['ADP', 'NOUN', 'PART']",[],0,0,3,0,1
-US10482A,1854-01-31,Of sheet-iron ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US10483A,1854-01-31,Of pbintihg-blocks ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US10983A,1854-05-30,The disks and bims oe car-wheels ,"['DET', 'NOUN', 'CCONJ', 'VERB', 'PRON', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
-US11150A,1854-06-27,Oe steam-bqilebs ,"['DET', 'NOUN', 'PUNCT', 'ADJ']",[],0,0,4,0,1
-US11225A,1854-07-04,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US11251A,1854-07-11,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US11364A,1854-07-25,of salem ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US11478A,1854-08-08,of dansyrlle ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US11842A,1854-10-24,And belated devices ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US11914A,1854-11-07,Of hannibal ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US12103A,1854-12-19,of fort edwahb ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US12162A,1855-01-02,The knife in planing-machines ,"['DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
-US12264A,1855-01-16,Of por ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US12439A,1855-02-27,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US12457A,1855-02-27,to  the at water-  ,"['ADP', 'SPACE', 'PRON', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US12467A,1855-02-27,And jas ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US12527A,1855-03-13,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US12563A,1855-03-20,And tenoning machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US12616A,1855-04-03,Of white lead by precipitation ,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
-US12651A,1855-04-03,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US12668A,1855-04-10,Ifor winding ,"['ADP', 'VERB']",[],0,0,2,0,1
-US12669A,1855-04-10,of waterbury ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US12676A,1855-04-10,The graphic  ,"['DET', 'ADJ', 'SPACE']",[],0,0,3,0,1
-US12845A,1855-05-08,Of nejvvtork ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US12874A,1855-05-15,of hartford ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US13063A,1855-06-12,The edoes of shoe soles ,"['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US13284A,1855-07-17,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US13307A,1855-07-24,And mortising hubs ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US13343A,1855-07-24,And de witt ,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,0,1
-US13461A,1855-08-21,And robt ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US13513A,1855-08-28,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US13763A,1855-11-06,And vv ,"['CCONJ', 'ADV']",[],0,0,2,0,1
-US13868A,1855-12-04,And wm ,"['CCONJ', 'ADV']",[],0,0,2,0,1
-US13934A,1855-12-11,of springfield ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US14125A,1856-01-15,And working steam-valves as cut-offs ,"['CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,0,1
-US14129A,1856-01-15,And charles cunning ,"['CCONJ', 'VERB', 'ADJ']",[],0,0,3,0,1
-US14273A,1856-02-19,Of cisterns ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US14426A,1856-03-11,The rands therein ,"['DET', 'NOUN', 'ADV']",[],0,0,3,0,1
-US14789A,1856-04-29,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US14985A,1856-05-27,And wm ,"['CCONJ', 'ADV']",[],0,0,2,0,1
-US15191A,1856-06-24,Of vehicles ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US15473A,1856-08-05,And detaching boats to and from their tackle ,"['CCONJ', 'VERB', 'NOUN', 'ADP', 'CCONJ', 'ADP', 'PRON', 'NOUN']",[],0,0,8,0,1
-US15633A,1856-08-26,Over the sides ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
-US15693A,1856-09-09,of middletown ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US16305A,1856-12-23,of bridgeport ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US16437A,1857-01-20,Of double-pile carpets and bugs ,"['ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,7,0,1
-US16589A,1857-02-10,In feathering paddle-wheels ,"['ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
-US16953A,1857-03-31,As trustee for certain purposes ,"['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US17484A,1857-06-09,And quartering ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US17609A,1857-06-16,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US17620A,1857-06-23,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US17855A,1857-07-21,of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US17934A,1857-08-04,The kecks oe horses fkoivc plies ,"['DET', 'NOUN', 'DET', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,0,1
-US18262A,1857-09-22,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US18305A,1857-09-29,And milling machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US18436A,1857-10-20,And saml ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US18649A,1857-11-17,And charles c ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
-US18925A,1857-12-22,Giving- motion to valves of steam-engines ,"['ADP', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
-US19511A,1858-03-02,And saml ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US19639A,1858-03-16,The glasses op vault-covers ,"['DET', 'NOUN', 'PRON', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
-US19862A,1858-04-06,And levis h ,"['CCONJ', 'ADV', 'NOUN']",[],0,0,3,0,1
-US19879A,1858-04-06,of baltimore ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US19893A,1858-04-06,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US19947A,1858-04-13,Giving- adhesion to driving-wheels of steam vehicles ,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US19977A,1858-04-20,of auburn ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US20125A,1858-04-27,of gloucester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US20142A,1858-05-04,of new tork ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US20464A,1858-06-01,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US20764A,1858-06-29,of little falls ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US20795A,1858-07-06,Of wagons ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US20814A,1858-07-06,And coring ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US20836A,1858-07-06,Of hannibal ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US21011A,1858-07-27,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US21165A,1858-08-10,And thos ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US21179A,1858-08-17,The cutters to the spindles of augers ,"['DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,1
-US21232A,1858-08-17,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US21447A,1858-09-07,Of coal-stove ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US21566A,1858-09-21,And edw ,"['CCONJ', 'ADV']",[],0,0,2,0,1
-US21608A,1858-09-28,of new tore ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US22262A,1858-12-07,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US22670A,1859-01-18,of tuoy ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US22773A,1859-02-01,And forging- fluids ,"['CCONJ', 'NUM', 'NOUN']",[],0,0,3,0,1
-US22803A,1859-02-01,For grinding and polishing saws ,"['ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,0,1
-US22904A,1859-02-08,of rockland ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US23519A,1859-04-05,of brand ywine ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US23982A,1859-05-10,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US24428A,1859-06-14,To himself and f ,"['ADP', 'PRON', 'CCONJ', 'NOUN']",[],0,0,4,0,1
-US24820A,1859-07-19,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US25769A,1859-10-11,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US25890A,1859-10-25,a nnttq t ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US26076A,1859-11-15,of washixgtox city ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US26310A,1859-11-29,And wm ,"['CCONJ', 'ADV']",[],0,0,2,0,1
-US26491A,1859-12-20,of new ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US26553A,1859-12-27,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US26572A,1859-12-27,of salem ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US26601A,1859-12-27,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US26668A,1860-01-03,For carriages and railroad-cars ,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
-US26756A,1860-01-10,of new yobk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US27217A,1860-02-21,Of city railkoad-cars ,"['ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
-US27615A,1860-03-27,of new yokk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US27850A,1860-04-10,Of locomotive-engines ,"['ADP', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US28396A,1860-05-22,And jas ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US28743A,1860-06-19,The strain oh pulley-belts ,"['DET', 'NOUN', 'INTJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
-US29040A,1860-07-03,of brewer ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US29214A,1860-07-17,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US29820A,1860-08-28,Of richmond ,"['ADP', 'ADV']",[],0,0,2,0,1
-US29821A,1860-08-28,Of richmond ,"['ADP', 'ADV']",[],0,0,2,0,1
-US30241A,1860-10-02,of yonkers ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US30536A,1860-10-30,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US30878A,1860-12-11,And gibbons l ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US30906A,1860-12-18,The handle to saws ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US30940A,1860-12-18,For street-railroads ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US31441A,1861-02-19,And saml ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US31647A,1861-03-05,of cohoes ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US31835A,1861-03-26,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US31840A,1861-03-26,The seconds-hand in stop-watches ,"['DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",['TIME'],0,0,8,0,1
-US31938A,1861-04-02,And garet g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US32917A,1861-07-23,Of operating valves of steam-engines ,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
-US34342A,1862-02-11,Of cakbxages ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US34466A,1862-02-18,And charles c ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
-US34725A,1862-03-18,of new toeevh ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US35287A,1862-05-20,The nortw ,"['DET', 'NOUN']",['GPE'],0,0,2,0,1
-US35420A,1862-05-27,And bdwaed joslin ,"['CCONJ', 'VERB', 'ADJ']",[],0,0,3,0,1
-US35577A,1862-06-17,Of new yoek ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US35618A,1862-06-17,In securing bits in braces ,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
-US36000A,1862-07-29,And wm ,"['CCONJ', 'ADV']",[],0,0,2,0,1
-US36495A,1862-09-16,The hor ,"['DET', 'NOUN']",[],0,0,2,0,1
-US37199A,1862-12-16,of hudson ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US39124A,1863-07-07,Of pro ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US39516A,1863-08-11,In equalizing draft in  horse-powers ,"['ADP', 'VERB', 'NOUN', 'ADP', 'SPACE', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
-US40790A,1863-12-01,a tltc p a t ,"['DET', 'ADJ', 'NOUN', 'DET', 'NOUN']",[],0,0,5,0,1
-US41167A,1864-01-05,The parts ,"['DET', 'NOUN']",[],0,0,2,0,1
-US43469A,1864-07-12,And solon dike ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US43676A,1864-08-02,In key fasteners ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US44125A,1864-09-06,The morris peters ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US44270A,1864-09-13,The heuotypspeistjsoco  ,"['DET', 'NOUN', 'SPACE']",[],0,0,3,0,1
-US44791A,1864-10-25,And geoege f ,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US46233A,1865-02-07,of new yoke ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US47371A,1865-04-18,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US48149A,1865-06-13,And stringing ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US48157A,1865-06-13,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US48553A,1865-07-04,In railway-cars ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US49902A,1865-09-12,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US51882A,1866-01-02,of lyons ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US57706A,1866-09-04,of ilion ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US59763A,1866-11-20,To all whom ,"['ADP', 'DET', 'PRON']",[],0,0,3,0,1
-US59957A,1866-11-27,And be-enpobcfflg button-holes ,"['CCONJ', 'AUX', 'PUNCT', 'X', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
-US60013A,1866-11-27,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US60047A,1866-11-27,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US60091A,1866-11-27,To all whom it may ,"['ADP', 'DET', 'PRON', 'PRON', 'AUX']",[],0,0,5,0,1
-US60159A,1866-12-04,Ie ci i ,"['CCONJ', 'NOUN', 'PRON']",[],0,0,3,0,1
-US60163A,1866-12-04,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US60236A,1866-12-04,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US60285A,1866-12-04,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US60346A,1866-12-11,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US60528A,1866-12-18,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US60723A,1867-01-01,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US60751A,1867-01-01,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US60827A,1867-01-01,of white oak ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US60880A,1867-01-01,And cocking hat ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US60941A,1867-01-01,Of columbus ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US60952A,1867-01-01,Of pottee s cobnebs ,"['ADP', 'NOUN', 'PART', 'NOUN']",[],0,0,4,0,1
-US61025A,1867-01-08,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US61071A,1867-01-08,Of rising x s sun ,"['ADP', 'VERB', 'SYM', 'PART', 'NOUN']",[],0,0,5,0,1
-US61107A,1867-01-08,of hikam ,"['ADP', 'ADJ']",['ORG'],0,0,2,0,1
-US61249A,1867-01-15,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US61314A,1867-01-22,A n bruce ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US61497A,1867-01-22,To all whom it ,"['ADP', 'DET', 'PRON', 'PRON']",[],0,0,4,0,1
-US61548A,1867-01-29,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US61562A,1867-01-29,of lattba ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US61646A,1867-01-29,And leonaed atwood ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US61648A,1867-01-29,Of brooklyn ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US61656A,1867-01-29,of new yoek ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US61673A,1867-01-29,of b-kooklyn ,"['ADP', 'NOUN', 'PUNCT', 'ADJ']",[],0,0,4,0,1
-US61703A,1867-02-05,of manchester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US61730A,1867-02-05,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US61755A,1867-02-05,of decattte ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US61765A,1867-02-05,of liberty ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US61801A,1867-02-05,A l e n a ,"['DET', 'X', 'NOUN', 'ADP', 'PRON']",[],0,0,5,0,1
-US61807A,1867-02-05,of stlvania ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US61825A,1867-02-05,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US61931A,1867-02-12,And in ,"['CCONJ', 'ADP']",[],0,0,2,0,1
-US61940A,1867-02-12,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US61966A,1867-02-12,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US62041A,1867-02-12,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US62061A,1867-02-12,of lansing ,"['ADP', 'VERB']",[],0,0,2,0,1
-US62141A,1867-02-19,of p a ris ,"['ADP', 'NOUN', 'DET', 'NOUN']",[],0,0,4,0,1
-US62151A,1867-02-19,of independence ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US62211A,1867-02-19,of wheatland ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US62287A,1867-02-19,of east bridgewater ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US62288A,1867-02-19,of east bridgewater ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US62366A,1867-02-26,Of springfield ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US62413A,1867-02-26,of calhoun ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US62445A,1867-02-26,To all wllom it may concern ,"['ADP', 'DET', 'NOUN', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US62551A,1867-03-05,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US62692A,1867-03-05,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US62802A,1867-03-12,And charles e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US62814A,1867-03-12,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US62972A,1867-03-19,of lafayette ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US62992A,1867-03-19,An son a ,"['DET', 'NOUN', 'PRON']",[],0,0,3,0,1
-US63034A,1867-03-19,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US63142A,1867-03-26,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US63362A,1867-04-02,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US63602A,1867-04-02,Of honeoye falls ,"['ADP', 'NOUN', 'VERB']",[],0,0,3,0,1
-US63618A,1867-04-09,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US63797A,1867-04-16,of watkins ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US63832A,1867-04-16,And pulping fibeous mateeial ,"['CCONJ', 'VERB', 'ADJ', 'NOUN']",[],0,0,4,0,1
-US63873A,1867-04-16,To all whom it mai conoeen ,"['ADP', 'PRON', 'PRON', 'PRON', 'VERB', 'VERB']",[],0,0,6,0,1
-US63898A,1867-04-16,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US64108A,1867-04-23,of w atkins ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US64129A,1867-04-23,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US64157A,1867-04-23,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US64185A,1867-04-30,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US64364A,1867-04-30,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US64391A,1867-04-30,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US64447A,1867-05-07,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US64510A,1867-05-07,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US64543A,1867-05-07,of new yobk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US64877A,1867-05-21,of plantsville ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US64973A,1867-05-21,of binghamton ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US65054A,1867-05-28,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US65157A,1867-05-28,A simm ,"['DET', 'NOUN']",[],0,0,2,0,1
-US65172A,1867-05-28,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US65588A,1867-06-11,of new yoek ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US65614A,1867-06-11,En sealer ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US65617A,1867-06-11,A mbrose tower ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US65712A,1867-06-11,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US65714A,1867-06-11,Of pine village ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US65907A,1867-06-18,of victor ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US66274A,1867-07-02,Teeodor a ,"['ADP', 'PRON']",[],0,0,2,0,1
-US66301A,1867-07-02,A l v out ,"['DET', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,0,1
-US66532A,1867-07-09,The eckert ut ,"['DET', 'NOUN', 'ADV']",[],0,0,3,0,1
-US66663A,1867-07-09,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US66781A,1867-07-16,The oraphic co ,"['DET', 'ADJ', 'X']",[],0,0,3,0,1
-US66927A,1867-07-16,A l v a ii w i s w a l l ,"['DET', 'NOUN', 'NOUN', 'DET', 'NOUN', 'ADP', 'PRON', 'VERB', 'X', 'DET', 'X', 'NOUN']",[],0,0,12,0,1
-US66967A,1867-07-23,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US67055A,1867-07-23,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US67071A,1867-07-23,To himself ,"['ADP', 'PRON']",[],0,0,2,0,1
-US67073A,1867-07-23,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US67291A,1867-07-30,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US67301A,1867-07-30,of pont i ac ,"['ADP', 'NOUN', 'PRON', 'VERB']",[],0,0,4,0,1
-US67338A,1867-07-30,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US67350A,1867-07-30,Of glasgow ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US67539A,1867-08-06,of mentob ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US67583A,1867-08-06,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US67638A,1867-08-13,Of philadelphia ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US67649A,1867-08-13,of stockbeidge ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US67658A,1867-08-13,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US67788A,1867-08-13,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US67806A,1867-08-13,of f r e e p  ,"['ADP', 'X', 'NOUN', 'NOUN', 'X', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US67836A,1867-08-20,a lex andes ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US67864A,1867-08-20,And be foubert ,"['CCONJ', 'AUX', 'ADJ']",[],0,0,3,0,1
-US68090A,1867-08-27,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US68262A,1867-08-27,of helena ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US68388A,1867-09-03,Of brooklyn ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US68445A,1867-09-03,Of kbokuk ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US68447A,1867-09-03,of homer ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US68519A,1867-09-03,of plymouth ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US68523A,1867-09-03,of de witt ,"['ADP', 'X', 'NOUN']",[],0,0,3,0,1
-US68561A,1867-09-03,And charles r ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US68699A,1867-09-10,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US68926A,1867-09-17,To all ,"['ADP', 'ADV']",[],0,0,2,0,1
-US69008A,1867-09-17,Pr a nois mclaughlin ,"['ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US69132A,1867-09-24,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US69191A,1867-09-24,And washing ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US69240A,1867-09-24,of os we go ,"['ADP', 'ADV', 'PRON', 'VERB']",[],0,0,4,0,1
-US69273A,1867-09-24,To gakrimes ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US69544A,1867-10-08,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US69639A,1867-10-08,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US69753A,1867-10-15,of rockville ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US69779A,1867-10-15,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US69823A,1867-10-15,And albeet lovie ,"['CCONJ', 'VERB', 'ADJ']",[],0,0,3,0,1
-US69958A,1867-10-22,of manchester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US70021A,1867-10-22,of newark ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US70033A,1867-10-22,of ashland ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US70056A,1867-10-22,These presents shall gome ,"['DET', 'NOUN', 'AUX', 'VERB']",[],0,0,4,0,1
-US70258A,1867-10-29,of g-alesbukg ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US70270A,1867-10-29,And monroe p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US70271A,1867-10-29,Of hacke-nsack ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US70632A,1867-11-05,of holdebness ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US70688A,1867-11-12,To all persons to whom these presents shall gome ,"['ADP', 'DET', 'NOUN', 'PART', 'PRON', 'DET', 'NOUN', 'AUX', 'VERB']",[],0,0,9,0,1
-US70695A,1867-11-12,Of clyde ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US70796A,1867-11-12,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US70845A,1867-11-12,Of gable and other chains ,"['ADP', 'ADJ', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US70890A,1867-11-12,a iii s ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US71051A,1867-11-19,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US71297A,1867-11-26,To-all wholl it may concern ,"['ADP', 'PUNCT', 'PRON', 'PRON', 'VERB', 'PRON', 'AUX', 'VERB']",[],0,0,8,0,1
-US71343A,1867-11-26,To-all whom it may concern ,"['ADP', 'PUNCT', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,7,0,1
-US71370A,1867-11-26,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US71374A,1867-11-26,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US71566A,1867-12-03,In lamps ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US71578A,1867-12-03,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US71588A,1867-12-03,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US71713A,1867-12-03,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US72049A,1867-12-10,of new yoek ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US72318A,1867-12-17,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US72332A,1867-12-17,of gales burg ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US72442A,1867-12-24,And kevenue-stamps ,"['CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US72451A,1867-12-24,by bbs ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US72576A,1867-12-24,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US72579A,1867-12-24,Of cardiff ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US72653A,1867-12-24,of in-d ianapol is ,"['ADP', 'ADP', 'PUNCT', 'NOUN', 'NOUN', 'AUX']",[],0,0,6,0,1
-US72656A,1867-12-24,Of trenton ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US72733A,1867-12-31,To all  whom it mat concern ,"['ADP', 'DET', 'SPACE', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,7,0,1
-US72780A,1867-12-31,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US73157A,1868-01-07,of blo omingbubg ,"['ADP', 'X', 'X']",[],0,0,3,0,1
-US73180A,1868-01-07,In straw-cutters ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US73257A,1868-01-14,of brighton ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US73347A,1868-01-14,of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US73382A,1868-01-14,of monroe ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US73501A,1868-01-21,Of south berwick ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US73794A,1868-01-28,of baltimore ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US73985A,1868-02-04,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US74001A,1868-02-04,And in the ,"['CCONJ', 'ADP', 'PRON']",[],0,0,3,0,1
-US74038A,1868-02-04,of rising sun ,"['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
-US74189A,1868-02-04,Edmund a ,"['ADP', 'PRON']",[],0,0,2,0,1
-US74242A,1868-02-11,And bennet vandecar ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US74348A,1868-02-11,of la salle ,"['ADP', 'PRON', 'NOUN']",[],0,0,3,0,1
-US74367A,1868-02-11,of yonkers ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US74410A,1868-02-11,And milton ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US74497A,1868-02-18,of makion ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US74654A,1868-02-18,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US74757A,1868-02-25,of limestone ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US74784A,1868-02-25,And tallying-attaohments ,"['CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US74848A,1868-02-25,of poet henry ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US74895A,1868-02-25,of phelps ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US74928A,1868-02-25,Of easton ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US74967A,1868-02-25,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US75034A,1868-03-03,To all to ,"['ADP', 'ADV', 'PART']",[],0,0,3,0,1
-US75041A,1868-03-03,of mifflinburg ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US75054A,1868-03-03,of p a w p a w ,"['ADP', 'NOUN', 'X', 'X', 'NOUN', 'X', 'NOUN']",[],0,0,7,0,1
-US75093A,1868-03-03,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US75190A,1868-03-03,of w-bstfibld ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US75496A,1868-03-10,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US75575A,1868-03-17,of independence ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US75697A,1868-03-17,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US75783A,1868-03-24,of r u t ,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US75804A,1868-03-24,of foeestville ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US76320A,1868-04-07,of homer ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US76325A,1868-04-07,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US76333A,1868-04-07,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US76484A,1868-04-07,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US76547A,1868-04-07,of speikgfield ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US76578A,1868-04-07,Of petaluma ,"['ADP', 'PRON']",[],0,0,2,0,1
-US76632A,1868-04-14,of chicopee ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US76649A,1868-04-14,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US76700A,1868-04-14,To all whom ,"['ADP', 'DET', 'PRON']",[],0,0,3,0,1
-US76752A,1868-04-14,of ashley ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US76990A,1868-04-21,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US77089A,1868-04-21,To oswald ungee ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US77234A,1868-04-28,Of antwerp ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US77376A,1868-04-28,of cedar falls ,"['ADP', 'NOUN', 'VERB']",[],0,0,3,0,1
-US77384A,1868-04-28,A a a a a a a ,"['DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'PRON']",[],0,0,7,0,1
-US77386A,1868-04-28,And frank ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US77504A,1868-05-05,a ebon dale ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US77531A,1868-05-05,of clevis ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US77584A,1868-05-05,And marmont b ,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US77623A,1868-05-05,To all whom it may concekn ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US77751A,1868-05-12,In cooking-stoves ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US77769A,1868-05-12,An son s earls ,"['DET', 'NOUN', 'PART', 'NOUN']",[],0,0,4,0,1
-US77816A,1868-05-12,of c h i  ,"['ADP', 'NOUN', 'NOUN', 'PRON', 'SPACE']",[],0,0,5,0,1
-US77896A,1868-05-12,And fredericf ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US77986A,1868-05-19,A donibam kendall ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US77993A,1868-05-19,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US78047A,1868-05-19,Of auburn ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US78073A,1868-05-19,And wendel bollman ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US78083A,1868-05-19,of louisville ,"['ADP', 'X']",['GPE'],0,0,2,0,1
-US78100A,1868-05-19,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US78144A,1868-05-19,And gaskell g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US78184A,1868-05-26,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US78194A,1868-05-26,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US78217A,1868-05-26,of chelsea ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US78259A,1868-05-26,To all whom it-may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'PUNCT', 'AUX', 'NOUN']",[],0,0,7,0,1
-US78428A,1868-06-02,of south ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US78522A,1868-06-02,To himself ,"['ADP', 'PRON']",[],0,0,2,0,1
-US78710A,1868-06-09,of cobby ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US78790A,1868-06-09,The oraphic co ,"['DET', 'ADJ', 'X']",[],0,0,3,0,1
-US79044A,1868-06-16,of cornwall ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US79100A,1868-06-23,of sohutlkill ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US79180A,1868-06-23,a nderso n ,"['DET', 'NOUN', 'X']",['ORG'],0,0,3,0,1
-US79198A,1868-06-23,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US79315A,1868-06-30,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US79320A,1868-06-30,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US79383A,1868-06-30,En os page ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US79454A,1868-06-30,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US79587A,1868-07-07,of bridgeport ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US79731A,1868-07-07,of lake tillage ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US79756A,1868-07-07,Of tabrytown ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US79776A,1868-07-07,of westfield ,"['ADP', 'VERB']",[],0,0,2,0,1
-US79791A,1868-07-07,of edinbub-g ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US79823A,1868-07-14,To all whom it may ,"['ADP', 'DET', 'PRON', 'PRON', 'AUX']",[],0,0,5,0,1
-US80011A,1868-07-14,To-all ,"['ADP', 'PUNCT', 'PRON']",[],0,0,3,0,1
-US80085A,1868-07-21,o connell ,"['DET', 'NOUN']",[],0,0,2,0,1
-US80137A,1868-07-21,In lamps ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US80277A,1868-07-28,And elon c ,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
-US80362A,1868-07-28,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US80364A,1868-07-28,Of buffalo grove ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US80420A,1868-07-28,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US80462A,1868-07-28,To all whom it mat concern ,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
-US80545A,1868-08-04,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US80596A,1868-08-04,of auburn ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US80795A,1868-08-04,In agricultural machines ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US80807A,1868-08-11,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US80912A,1868-08-11,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US80994A,1868-08-11,In bean-puller ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US81169A,1868-08-18,of greenpoint ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US81206A,1868-08-18,of monroe ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US81228A,1868-08-18,of new to  ,"['ADP', 'ADJ', 'ADP', 'SPACE']",[],0,0,4,0,1
-US81288A,1868-08-18,of monroe ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US81508A,1868-08-25,of ro chester ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US81529A,1868-08-25,of beading ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US81715A,1868-09-01,w atkins ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US81736A,1868-09-01,Of salem ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US81822A,1868-09-01,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US81892A,1868-09-08,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US82018A,1868-09-08,Of same place ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US82027A,1868-09-08,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US82118A,1868-09-15,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US82129A,1868-09-15,To all whom it may concern ,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
-US82364A,1868-09-22,In sweats for hats ,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US82367A,1868-09-22,Of summit ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US82381A,1868-09-22,To himself and henry ,"['ADP', 'PRON', 'CCONJ', 'NOUN']",[],0,0,4,0,1
-US82408A,1868-09-22,of plain ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US82433A,1868-09-22,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US82481A,1868-09-29,The tops and bottoms of the bodies ,"['DET', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'DET', 'NOUN']",[],0,0,7,0,1
-US82805A,1868-10-06,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US82842A,1868-10-06,of w atkins ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US82957A,1868-10-13,of new haven ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US83067A,1868-10-13,The cutters of mowing-machines ,"['DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
-US83208A,1868-10-20,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US83303A,1868-10-20,The graphic co ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US83476A,1868-10-27,of t re mo nt ,"['ADP', 'NOUN', 'ADP', 'INTJ', 'PART']",[],0,0,5,0,1
-US83774A,1868-11-03,For lathes ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US83786A,1868-11-03,The materials of worn-out printers ,"['DET', 'NOUN', 'ADP', 'VERB', 'PUNCT', 'ADP', 'NOUN']",[],0,0,7,0,1
-US84160A,1868-11-17,For horse-cars ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US84191A,1868-11-17,The cutters of mowing-machines ,"['DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
-US84216A,1868-11-17,of marlborough ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US84579A,1868-12-01,of montague ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US84600A,1868-12-01,In chimneys ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US84648A,1868-12-01,In car-couplings ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US84782A,1868-12-08,In bolt-making machines ,"['ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
-US85025A,1868-12-15,of springville ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US85054A,1868-12-22,of hyannis ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US85131A,1868-12-22,For feeding-rolls ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US85174A,1868-12-22,The extract of bark for tanning ,"['DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
-US85954A,1869-01-19,And protecting stores in case of fire ,"['CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,1
-US86037A,1869-01-19,of monroe ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US86038A,1869-01-19,The nohris pcters co ,"['DET', 'ADJ', 'NOUN', 'VERB']",[],0,0,4,0,1
-US86147A,1869-01-26,The legs of stoves ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US86162A,1869-01-26,Out paper collars ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US86270A,1869-01-26,of enterprise ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US86286A,1869-01-26,And straightening ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US86553A,1869-02-02,The exttdable products op pine trees ,"['DET', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US86700A,1869-02-09,And registering- faucets ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US86764A,1869-02-09,The ends of cigars ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US86841A,1869-02-09,And rich ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US86987A,1869-02-16,of bridgeport ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US87004A,1869-02-16,of lowell ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US87387A,1869-03-02,And disintegrating ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US87403A,1869-03-02,Of brooklyn ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US87778A,1869-03-16,of titusville ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US87825A,1869-03-16,of vtrden ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US88276A,1869-03-30,Or reducing machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US88662A,1869-04-06,over acker ,"['ADP', 'NOUN']",['NORP'],0,0,2,0,1
-US88902A,1869-04-13,The parts of machinery ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US89480A,1869-04-27,And working butter ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US89488A,1869-04-27,And sensitizing photographic paper ,"['CCONJ', 'VERB', 'ADJ', 'NOUN']",[],0,0,4,0,1
-US89595A,1869-05-04,of nine elms ,"['ADP', 'NUM', 'NOUN']",['CARDINAL'],0,0,3,0,1
-US89715A,1869-05-04,From printed paper new plates for reprinting ,"['ADP', 'VERB', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'VERB']",[],0,0,7,0,1
-US89723A,1869-05-04,Of reading ,"['ADP', 'VERB']",[],0,0,2,0,1
-US90363A,1869-05-25,The person and cutting out ladies ,"['DET', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'NOUN']",[],0,0,6,0,1
-US90434A,1869-05-25,of scran ton ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US90596A,1869-05-25,And trimming- metal ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US90821A,1869-06-01,And ellery b ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US91093A,1869-06-08,And dumping coal ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US91508A,1869-06-22,of marietta ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US91642A,1869-06-22,of schuyler s lake ,"['ADP', 'NOUN', 'PART', 'NOUN']",[],0,0,4,0,1
-US92004A,1869-06-29,of copenhagen ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US92006A,1869-06-29,The waste gases of smelting-fur ,"['DET', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
-US92608A,1869-07-13,Edmund a ,"['ADP', 'PRON']",[],0,0,2,0,1
-US92737A,1869-07-20,And baking-apparatus for preparing fuel from waste ,"['CCONJ', 'VERB', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,0,1
-US93003A,1869-07-27,The cylinders and dial-boxes of ,"['DET', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,7,0,1
-US93208A,1869-08-03,The cooling-tubes of bone-black fur ,"['DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,9,0,1
-US93297A,1869-08-03,of avoca ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US93913A,1869-08-17,The morris pcters cc ,"['DET', 'NOUN', 'VERB', 'X']",[],0,0,4,0,1
-US93931A,1869-08-17,A m o s w e s t c o t t ,"['DET', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,12,0,1
-US94541A,1869-09-07,For cone-wheels ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US94744A,1869-09-14,Of bridgeport ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US94907A,1869-09-14,And gardner ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US94909A,1869-09-14,of lansing ,"['ADP', 'VERB']",[],0,0,2,0,1
-US95187A,1869-09-28,A m e s b i boh ,"['DET', 'NOUN', 'NOUN', 'NOUN', 'X', 'PRON', 'VERB']",[],0,0,7,0,1
-US95341A,1869-09-28,And polishing school-slates ,"['CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
-US95496A,1869-10-05,Of sugar ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US95516A,1869-10-05,And wrapping- webbing bootstraps ,"['CCONJ', 'ADV', 'VERB', 'NOUN']",[],0,0,4,0,1
-US95568A,1869-10-05,And elliot savage ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US95607A,1869-10-05,of liberty ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US95725A,1869-10-12,And drying-stove ,"['CCONJ', 'VERB', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US96524A,1869-11-02,The waste prom german silver and other ,"['DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'CCONJ', 'ADJ']",['NORP'],0,0,7,0,1
-US96607A,1869-11-09,And gardner d ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US96610A,1869-11-09,An son w ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US96812A,1869-11-16,In the ,"['ADP', 'PRON']",[],0,0,2,0,1
-US96961A,1869-11-16,of orange ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US97001A,1869-11-16,To himself ,"['ADP', 'PRON']",[],0,0,2,0,1
-US97457A,1869-11-30,And henry ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US97995A,1869-12-14,of catskill ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US98291A,1869-12-28,Of rock ford ,"['ADP', 'NOUN', 'NOUN']",['ORG'],0,0,3,0,1
-US98607A,1870-01-04,And similar coal for metallurgical ,"['CCONJ', 'ADJ', 'NOUN', 'ADP', 'ADJ']",[],0,0,5,0,1
-US98914A,1870-01-18,both ton ,"['DET', 'NOUN']",[],0,0,2,0,1
-US99613A,1870-02-08,To himself ,"['ADP', 'PRON']",[],0,0,2,0,1
-US99675A,1870-02-08,Of danby ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US99848A,1870-02-15,The graphic  ,"['DET', 'ADJ', 'SPACE']",[],0,0,3,0,1
-US99934A,1870-02-15,And fire-brick ,"['CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US1743A,1840-08-28 00:00:00,Apparatusfor obtaining casts from ti-ie teeth and guivis and ti-ie mode,"['ADP', 'VERB', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'X', 'NOUN', 'CCONJ', 'ADJ', 'CCONJ', 'VERB', 'PUNCT', 'X', 'NOUN']",[],1,0,15,0,1
+US2080A,1841-05-04 00:00:00,And asa jackson,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US2643A,1842-05-26 00:00:00,And richardson t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US3161A,1843-07-08 00:00:00,And david x h hummer,"['CCONJ', 'PROPN', 'PROPN', 'PROPN', 'NOUN']",[],1,0,5,0,1
+US3189A,1843-07-20 00:00:00,And closing valves oe steam-engines,"['CCONJ', 'NOUN', 'NOUN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,7,0,1
+US3852A,1844-12-07 00:00:00,And asa d,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US4895A,1846-12-17 00:00:00,And bernice s,"['CCONJ', 'PROPN', 'PART']",[],1,0,3,0,1
+US6704A,1849-09-11 00:00:00,of west tkoy,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US6899A,1849-11-27 00:00:00,And samuel mower,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US7286A,1850-04-16 00:00:00,And nathan swan,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US7488A,1850-07-09 00:00:00,of ooemans hollow,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US7657A,1850-09-17 00:00:00,of mott haven,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US8331A,1851-09-02 00:00:00,And david marsh,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US11210A,1854-07-04,of pitts burg,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US18192A,1857-09-15,And samuel m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US18838A,1857-12-15,And amos h,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US20263A,1858-05-18,of new yorfc,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US23028A,1859-02-22,of new y,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US24308A,1859-06-07,And edward e,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
+US28679A,1860-06-12,And jl c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
+US30613A,1860-11-13,of chapel hill,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US40244A,1863-10-13,And jonathan c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
+US41055A,1864-01-05,And george r,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US41745A,1864-02-23,To himself and josiah d,"['ADP', 'PRON', 'CCONJ', 'PROPN', 'PROPN']",[],1,0,5,0,1
+US46080A,1865-01-31,of zstew yoek,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US46970A,1865-03-21,And charles m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US50449A,1865-10-17,And james p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US50818A,1865-11-07,of mount mobbis,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US51090A,1865-11-21,And james p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US51784A,1865-12-26,of east hampton,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US56903A,1866-08-07,And heney j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US57055A,1866-08-07,By abel t,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US58420A,1866-10-02,of mott haven,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US60792A,1867-01-01,And thomas b,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US60837A,1867-01-01,And amos e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US61047A,1867-01-08,of west union,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US61343A,1867-01-22,Of mo u n t pleas a k t,"['ADP', 'PROPN', 'PROPN', 'NOUN', 'NOUN', 'NOUN', 'DET', 'PROPN', 'NOUN']",[],1,0,9,0,1
+US61590A,1867-01-29,And silas s,"['CCONJ', 'PROPN', 'PART']",[],1,0,3,0,1
+US62070A,1867-02-12,And jeremiah kimbrough,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US62756A,1867-03-12,of gkanyille cqeners,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US62787A,1867-03-12,And cyrus h,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US63553A,1867-04-02,And isaac curtis,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US64013A,1867-04-23,of north brookfield,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US64218A,1867-04-30,of mb n t or,"['ADP', 'PROPN', 'ADV', 'PROPN', 'CCONJ']",[],1,0,5,0,1
+US64333A,1867-04-30,of new tokk,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US64670A,1867-05-14,To themselves and james m,"['ADP', 'PRON', 'CCONJ', 'PROPN', 'VERB']",[],1,0,5,0,1
+US64701A,1867-05-14,And silas crispin,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US65315A,1867-05-28,of montgomery centre,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US65539A,1867-06-11,of budd s lake,"['ADP', 'PROPN', 'PART', 'NOUN']",[],1,0,4,0,1
+US66036A,1867-06-25,of new yoeki k,"['ADP', 'ADJ', 'PROPN', 'X']",[],1,0,4,0,1
+US66827A,1867-07-16,To all whom ec may concebb,"['ADP', 'PRON', 'PRON', 'PROPN', 'AUX', 'VERB']",['ORG'],1,0,6,0,1
+US67399A,1867-08-06,of ch aklesto wn,"['ADP', 'NOUN', 'PROPN', 'ADP']",[],1,0,4,0,1
+US67422A,1867-08-06,and ellis drake,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US67729A,1867-08-13,And abel s,"['CCONJ', 'PROPN', 'PART']",[],1,0,3,0,1
+US68321A,1867-08-27,n s t e y e n s,"['CCONJ', 'NOUN', 'NOUN', 'NOUN', 'PROPN', 'PROPN', 'ADP', 'NOUN']","['ORG', 'ORG']",1,0,8,0,1
+US69277A,1867-09-24,of n e ware,"['ADP', 'PRON', 'PROPN', 'NOUN']",[],1,0,4,0,1
+US69516A,1867-10-01,w a l k e k,"['ADP', 'DET', 'X', 'PROPN', 'PROPN', 'X']",['LOC'],1,0,6,0,1
+US70626A,1867-11-05,of f i n d l e y,"['ADP', 'PROPN', 'PROPN', 'PROPN', 'X', 'X', 'NOUN', 'PROPN']",[],1,0,8,0,1
+US70788A,1867-11-12,And adam sowden,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US71064A,1867-11-19,Of south abington,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US71076A,1867-11-19,And samuel t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US71105A,1867-11-19,w i l l b u b,"['ADP', 'PROPN', 'PROPN', 'X', 'PROPN', 'NOUN', 'NOUN']",['ORG'],1,0,7,0,1
+US71671A,1867-12-03,And blias y,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
+US71683A,1867-12-03,In machines foe boeing bobbins,"['ADP', 'NOUN', 'VERB', 'PROPN', 'VERB']",[],1,0,5,0,1
+US72083A,1867-12-10,of south boston,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US72495A,1867-12-24,of del  at- an,"['ADP', 'PROPN', 'SPACE', 'PROPN', 'PRON']",[],1,0,5,0,1
+US73165A,1868-01-07,of west groton,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US73732A,1868-01-28,And said loomis,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
+US73911A,1868-01-28,Of  chicago,"['ADP', 'SPACE', 'PROPN']",['GPE'],1,0,3,0,1
+US74301A,1868-02-11,of jers et,"['ADP', 'NOUN', 'PROPN', 'SPACE']",[],1,0,4,0,1
+US75182A,1868-03-03,of west chbshike,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US75348A,1868-03-10,of-ma-n gbe-ster,"['ADP', 'PUNCT', 'PROPN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,8,0,1
+US75384A,1868-03-10,And paedon b,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US75426A,1868-03-10,of parish of tebre bonne,"['ADP', 'PROPN', 'ADP', 'PROPN', 'PROPN']",[],1,0,5,0,1
+US76344A,1868-04-07,And eleazer jones,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US76933A,1868-04-21,of roc-hester,"['ADP', 'PROPN', 'PUNCT', 'NOUN']",['GPE'],1,0,4,0,1
+US76999A,1868-04-21,of chapel hill,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US77491A,1868-05-05,And frederick j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US77735A,1868-05-12,of del a van,"['ADP', 'PROPN', 'DET', 'NOUN']",[],1,0,4,0,1
+US77945A,1868-05-19,And willis bedford,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US78082A,1868-05-19,of c h il l i c,"['ADP', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PRON', 'VERB', 'SPACE']",[],1,0,8,0,1
+US78227A,1868-05-26,To all whom ii may concern,"['ADP', 'PRON', 'PRON', 'PROPN', 'AUX', 'VERB']",[],1,0,6,0,1
+US78243A,1868-05-26,Or bin stone,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US78521A,1868-06-02,of w h i t e s t,"['ADP', 'ADP', 'PROPN', 'PRON', 'X', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],1,0,9,0,1
+US78980A,1868-06-16,of go shenj iist di a n a,"['ADP', 'VERB', 'NOUN', 'PROPN', 'PROPN', 'DET', 'X', 'PRON']",[],1,0,8,0,1
+US79873A,1868-07-14,of b r a c e v i l l e,"['ADP', 'NOUN', 'NOUN', 'DET', 'NOUN', 'NOUN', 'INTJ', 'PRON', 'PROPN', 'X', 'NOUN']",['ORG'],1,0,11,0,1
+US80863A,1868-08-11,And benjamin arnold,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US80928A,1868-08-11,of san francisco,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US80987A,1868-08-11,of d e wit t,"['ADP', 'PROPN', 'NOUN', 'NOUN', 'NOUN']",[],1,0,5,0,1
+US81159A,1868-08-18,of po ughk e ep sie,"['ADP', 'PROPN', 'PROPN', 'NOUN', 'PROPN', 'PROPN']",[],1,0,6,0,1
+US81616A,1868-09-01,of san paulo,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US82336A,1868-09-22,of waterloo city,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US83966A,1868-11-10,of beaver dam,"['ADP', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US84169A,1868-11-17,of eau claire,"['ADP', 'PROPN', 'VERB']",['ORG'],1,0,3,0,1
+US87844A,1869-03-16,of ma lone,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US88995A,1869-04-13,of n e w y o r k,"['ADP', 'ADV', 'X', 'ADP', 'PROPN', 'PROPN', 'NOUN', 'X']",['ORG'],1,0,8,0,1
+US90850A,1869-06-01,of t r o y,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'PROPN']",[],1,0,5,0,1
+US93852A,1869-08-17,And coolikg distilled water,"['CCONJ', 'PROPN', 'VERB', 'NOUN']",[],1,0,4,0,1
+US95728A,1869-10-12,of l e e s v i l l e,"['ADP', 'X', 'PROPN', 'PROPN', 'NOUN', 'NOUN', 'PRON', 'PROPN', 'X', 'NOUN']",['ORG'],1,0,10,0,1
+US96488A,1869-11-02,And daeius lyman,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US97083A,1869-11-23,of b r y a n,"['ADP', 'X', 'NOUN', 'PROPN', 'DET', 'NOUN', 'SPACE']",[],1,0,7,0,1
+US97848A,1869-12-14,of san francisco,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US97850A,1869-12-14,of new orleans,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US464A,1837-11-11 00:00:00,of peteeboko,"['ADP', 'NOUN']",[],0,0,2,0,1
+US502A,1837-12-07 00:00:00,Through trees,"['ADP', 'NOUN']",[],0,0,2,0,1
+US669A,1838-04-02 00:00:00,In the manufacture of gunpowder,"['ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
+US788A,1838-06-19 00:00:00,And mode oe,"['CCONJ', 'VERB', 'ADP']",[],0,0,3,0,1
+US857A,1838-07-26 00:00:00,of greene,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1016A,1838-11-25 00:00:00,And major algar,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1305A,1839-08-29 00:00:00,For drilling- metallic and other substances,"['ADP', 'DET', 'ADJ', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,0,1
+US1459A,1839-12-31 00:00:00,Of pro,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1617A,1840-05-25 00:00:00,of baltimoee,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1665A,1840-07-01 00:00:00,And wm,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US1666A,1840-07-01 00:00:00,For railroad and other carriages,"['ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US1829A,1840-10-16 00:00:00,And chiming staves,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US2040A,1841-04-10 00:00:00,And rufus,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US2042A,1841-04-10 00:00:00,Of cowstkuctistg- window-blind fastestebs,"['ADP', 'NOUN', 'NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,6,0,1
+US2083A,1841-05-06 00:00:00,And cleaning out docks,"['CCONJ', 'VERB', 'ADP', 'NOUN']",[],0,0,4,0,1
+US2271A,1841-09-30 00:00:00,And alfred b,"['CCONJ', 'ADJ', 'X']",[],0,0,3,0,1
+US2521A,1842-03-28 00:00:00,And in the construction of insulated conductors,"['CCONJ', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,0,1
+US2598A,1842-04-30 00:00:00,Of puopezmwgr boats,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US2615A,1842-05-07 00:00:00,Of arranging the saw-gates and fender-posts of sawmills,"['ADP', 'VERB', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,12,0,1
+US2651A,1842-05-28 00:00:00,Of constructing brushes for dressing- warps,"['ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,0,1
+US2673A,1842-06-18 00:00:00,Of begrttlating the drag of yabjst in the operation of spinning,"['ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB']",[],0,0,11,0,1
+US2699A,1842-07-02 00:00:00,With elievated ovem,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US2843A,1842-11-04 00:00:00,of new yokk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US2868A,1842-12-05 00:00:00,By machinery,"['ADP', 'NOUN']",[],0,0,2,0,1
+US3029A,1843-04-06 00:00:00,Or shaving the heads q,"['CCONJ', 'VERB', 'DET', 'NOUN', 'X']",[],0,0,5,0,1
+US3200A,1843-07-28 00:00:00,Of cowstbttctingi- steam-boilers,"['ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
+US3294A,1843-10-06 00:00:00,And lazabus b,"['CCONJ', 'NOUN', 'NOUN']",['ORG'],0,0,3,0,1
+US3377A,1843-12-15 00:00:00,And edwd,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US3460A,1844-02-28 00:00:00,of schenectadi,"['ADP', 'NOUN', 'SPACE']",[],0,0,3,0,1
+US3523A,1844-04-04 00:00:00,And caleb,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US3610A,1844-06-05 00:00:00,And thos,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US3742A,1844-09-14 00:00:00,Of kidderminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US4378A,1846-02-10 00:00:00,of lockport,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US4556A,1846-06-06 00:00:00,of chelmsford,"['ADP', 'NOUN']",[],0,0,2,0,1
+US5095A,1847-05-01 00:00:00,Of albany,"['ADP', 'ADJ']",[],0,0,2,0,1
+US5197A,1847-07-24 00:00:00,Or paring,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US5543A,1848-05-02 00:00:00,of jbesey city,"['ADP', 'ADJ', 'NOUN']",['GPE'],0,0,3,0,1
+US5990A,1848-12-26 00:00:00,of baltimore,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US6302A,1849-04-10 00:00:00,of new yoke,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US6303A,1849-04-10 00:00:00,And benjamin hallowell,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US6325A,1849-04-17 00:00:00,And ephm,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US6398A,1849-04-24 00:00:00,of greenfield,"['ADP', 'NOUN']",[],0,0,2,0,1
+US6421A,1849-05-08 00:00:00,And ezra whitman,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US6619A,1849-07-31 00:00:00,And slicing,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US7104A,1850-02-19 00:00:00,By allen r,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US7203A,1850-03-19 00:00:00,Of pro,"['ADP', 'ADJ']",[],0,0,2,0,1
+US7417A,1850-06-04 00:00:00,Of woonsooket,"['ADP', 'NOUN']",[],0,0,2,0,1
+US7991A,1851-03-18 00:00:00,Of beehives,"['ADP', 'NOUN']",[],0,0,2,0,1
+US8107A,1851-05-20 00:00:00,And heading movement fob spike-machines,"['CCONJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
+US8451A,1851-10-21 00:00:00,Of railroad-cars,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US8710A,1852-02-03 00:00:00,Of railroad-oaks,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US8785A,1852-03-02 00:00:00,And edwd,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US8795A,1852-03-09 00:00:00,Of dooe-kitobs,"['ADP', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US8819A,1852-03-23 00:00:00,of greentown,"['ADP', 'ADJ']",[],0,0,2,0,1
+US8861A,1852-04-06 00:00:00,of cheshire,"['ADP', 'NOUN']",[],0,0,2,0,1
+US8938A,1852-05-11 00:00:00,Of brushes,"['ADP', 'NOUN']",[],0,0,2,0,1
+US8960A,1852-05-18 00:00:00,of baltimore,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US9086A,1852-06-29 00:00:00,And wm,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US9388A,1852-11-09 00:00:00,And obed king and ezra king,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,6,0,1
+US9713A,1853-05-10 00:00:00,And controlling the rudders oe steam vessels,"['CCONJ', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,0,1
+US9776A,1853-06-07 00:00:00,And henry a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US10130A,1853-10-18,Lifobe of opbbatiwg mttl-saws,"['ADP', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
+US10360A,1854-01-03,Of wagon s,"['ADP', 'NOUN', 'PART']",[],0,0,3,0,1
+US10482A,1854-01-31,Of sheet-iron,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US10483A,1854-01-31,Of pbintihg-blocks,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US11364A,1854-07-25,of salem,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US11478A,1854-08-08,of dansyrlle,"['ADP', 'NOUN']",[],0,0,2,0,1
+US11842A,1854-10-24,And belated devices,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US11914A,1854-11-07,Of hannibal,"['ADP', 'ADJ']",[],0,0,2,0,1
+US12103A,1854-12-19,of fort edwahb,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US12264A,1855-01-16,Of por,"['ADP', 'NOUN']",[],0,0,2,0,1
+US12457A,1855-02-27,to  the at water-,"['ADP', 'SPACE', 'PRON', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US12467A,1855-02-27,And jas,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US12563A,1855-03-20,And tenoning machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US12616A,1855-04-03,Of white lead by precipitation,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
+US12668A,1855-04-10,Ifor winding,"['ADP', 'VERB']",[],0,0,2,0,1
+US12669A,1855-04-10,of waterbury,"['ADP', 'NOUN']",[],0,0,2,0,1
+US12845A,1855-05-08,Of nejvvtork,"['ADP', 'NOUN']",[],0,0,2,0,1
+US12874A,1855-05-15,of hartford,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US13284A,1855-07-17,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US13307A,1855-07-24,And mortising hubs,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US13343A,1855-07-24,And de witt,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,0,1
+US13461A,1855-08-21,And robt,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US13763A,1855-11-06,And vv,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US13868A,1855-12-04,And wm,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US13934A,1855-12-11,of springfield,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US14125A,1856-01-15,And working steam-valves as cut-offs,"['CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,0,1
+US14129A,1856-01-15,And charles cunning,"['CCONJ', 'VERB', 'ADJ']",[],0,0,3,0,1
+US14273A,1856-02-19,Of cisterns,"['ADP', 'NOUN']",[],0,0,2,0,1
+US14789A,1856-04-29,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US14985A,1856-05-27,And wm,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US15191A,1856-06-24,Of vehicles,"['ADP', 'NOUN']",[],0,0,2,0,1
+US15473A,1856-08-05,And detaching boats to and from their tackle,"['CCONJ', 'VERB', 'NOUN', 'ADP', 'CCONJ', 'ADP', 'PRON', 'NOUN']",[],0,0,8,0,1
+US15633A,1856-08-26,Over the sides,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US15693A,1856-09-09,of middletown,"['ADP', 'NOUN']",[],0,0,2,0,1
+US16305A,1856-12-23,of bridgeport,"['ADP', 'NOUN']",[],0,0,2,0,1
+US16437A,1857-01-20,Of double-pile carpets and bugs,"['ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,7,0,1
+US16589A,1857-02-10,In feathering paddle-wheels,"['ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
+US16953A,1857-03-31,As trustee for certain purposes,"['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US17484A,1857-06-09,And quartering,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US17609A,1857-06-16,of worcester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US17855A,1857-07-21,of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US18305A,1857-09-29,And milling machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US18436A,1857-10-20,And saml,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US18649A,1857-11-17,And charles c,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US18925A,1857-12-22,Giving- motion to valves of steam-engines,"['ADP', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
+US19511A,1858-03-02,And saml,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US19862A,1858-04-06,And levis h,"['CCONJ', 'ADV', 'NOUN']",[],0,0,3,0,1
+US19879A,1858-04-06,of baltimore,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US19893A,1858-04-06,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US19947A,1858-04-13,Giving- adhesion to driving-wheels of steam vehicles,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,9,0,1
+US19977A,1858-04-20,of auburn,"['ADP', 'NOUN']",[],0,0,2,0,1
+US20125A,1858-04-27,of gloucester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US20142A,1858-05-04,of new tork,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US20764A,1858-06-29,of little falls,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US20795A,1858-07-06,Of wagons,"['ADP', 'NOUN']",[],0,0,2,0,1
+US20814A,1858-07-06,And coring,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US20836A,1858-07-06,Of hannibal,"['ADP', 'ADJ']",[],0,0,2,0,1
+US21165A,1858-08-10,And thos,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US21447A,1858-09-07,Of coal-stove,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US21566A,1858-09-21,And edw,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US21608A,1858-09-28,of new tore,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US22262A,1858-12-07,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US22670A,1859-01-18,of tuoy,"['ADP', 'NOUN']",[],0,0,2,0,1
+US22773A,1859-02-01,And forging- fluids,"['CCONJ', 'NUM', 'NOUN']",[],0,0,3,0,1
+US22803A,1859-02-01,For grinding and polishing saws,"['ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,0,1
+US22904A,1859-02-08,of rockland,"['ADP', 'NOUN']",[],0,0,2,0,1
+US23519A,1859-04-05,of brand ywine,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US24428A,1859-06-14,To himself and f,"['ADP', 'PRON', 'CCONJ', 'NOUN']",[],0,0,4,0,1
+US25769A,1859-10-11,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
+US26076A,1859-11-15,of washixgtox city,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US26310A,1859-11-29,And wm,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US26491A,1859-12-20,of new,"['ADP', 'ADJ']",[],0,0,2,0,1
+US26572A,1859-12-27,of salem,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US26668A,1860-01-03,For carriages and railroad-cars,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
+US26756A,1860-01-10,of new yobk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US27217A,1860-02-21,Of city railkoad-cars,"['ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
+US27615A,1860-03-27,of new yokk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US27850A,1860-04-10,Of locomotive-engines,"['ADP', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US28396A,1860-05-22,And jas,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US29040A,1860-07-03,of brewer,"['ADP', 'NOUN']",[],0,0,2,0,1
+US29820A,1860-08-28,Of richmond,"['ADP', 'ADV']",[],0,0,2,0,1
+US29821A,1860-08-28,Of richmond,"['ADP', 'ADV']",[],0,0,2,0,1
+US30241A,1860-10-02,of yonkers,"['ADP', 'NOUN']",[],0,0,2,0,1
+US30878A,1860-12-11,And gibbons l,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US30940A,1860-12-18,For street-railroads,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US31441A,1861-02-19,And saml,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US31647A,1861-03-05,of cohoes,"['ADP', 'NOUN']",[],0,0,2,0,1
+US31835A,1861-03-26,of worcester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US31938A,1861-04-02,And garet g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US32917A,1861-07-23,Of operating valves of steam-engines,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
+US34342A,1862-02-11,Of cakbxages,"['ADP', 'NOUN']",[],0,0,2,0,1
+US34466A,1862-02-18,And charles c,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US34725A,1862-03-18,of new toeevh,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US35420A,1862-05-27,And bdwaed joslin,"['CCONJ', 'VERB', 'ADJ']",[],0,0,3,0,1
+US35577A,1862-06-17,Of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US35618A,1862-06-17,In securing bits in braces,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
+US36000A,1862-07-29,And wm,"['CCONJ', 'ADV']",[],0,0,2,0,1
+US37199A,1862-12-16,of hudson,"['ADP', 'NOUN']",[],0,0,2,0,1
+US39124A,1863-07-07,Of pro,"['ADP', 'ADJ']",[],0,0,2,0,1
+US39516A,1863-08-11,In equalizing draft in  horse-powers,"['ADP', 'VERB', 'NOUN', 'ADP', 'SPACE', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
+US43469A,1864-07-12,And solon dike,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US43676A,1864-08-02,In key fasteners,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US44791A,1864-10-25,And geoege f,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
+US46233A,1865-02-07,of new yoke,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US47371A,1865-04-18,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US48149A,1865-06-13,And stringing,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US48553A,1865-07-04,In railway-cars,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US51882A,1866-01-02,of lyons,"['ADP', 'NOUN']",[],0,0,2,0,1
+US57706A,1866-09-04,of ilion,"['ADP', 'NOUN']",[],0,0,2,0,1
+US59763A,1866-11-20,To all whom,"['ADP', 'DET', 'PRON']",[],0,0,3,0,1
+US59957A,1866-11-27,And be-enpobcfflg button-holes,"['CCONJ', 'AUX', 'PUNCT', 'X', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,1
+US60013A,1866-11-27,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US60047A,1866-11-27,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US60091A,1866-11-27,To all whom it may,"['ADP', 'DET', 'PRON', 'PRON', 'AUX']",[],0,0,5,0,1
+US60159A,1866-12-04,Ie ci i,"['CCONJ', 'NOUN', 'PRON']",[],0,0,3,0,1
+US60163A,1866-12-04,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US60236A,1866-12-04,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US60285A,1866-12-04,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US60346A,1866-12-11,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US60528A,1866-12-18,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US60723A,1867-01-01,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US60827A,1867-01-01,of white oak,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US60880A,1867-01-01,And cocking hat,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US60941A,1867-01-01,Of columbus,"['ADP', 'NOUN']",[],0,0,2,0,1
+US60952A,1867-01-01,Of pottee s cobnebs,"['ADP', 'NOUN', 'PART', 'NOUN']",[],0,0,4,0,1
+US61025A,1867-01-08,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US61071A,1867-01-08,Of rising x s sun,"['ADP', 'VERB', 'SYM', 'PART', 'NOUN']",[],0,0,5,0,1
+US61107A,1867-01-08,of hikam,"['ADP', 'ADJ']",['ORG'],0,0,2,0,1
+US61249A,1867-01-15,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US61497A,1867-01-22,To all whom it,"['ADP', 'DET', 'PRON', 'PRON']",[],0,0,4,0,1
+US61548A,1867-01-29,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US61562A,1867-01-29,of lattba,"['ADP', 'NOUN']",[],0,0,2,0,1
+US61646A,1867-01-29,And leonaed atwood,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US61648A,1867-01-29,Of brooklyn,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US61656A,1867-01-29,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US61673A,1867-01-29,of b-kooklyn,"['ADP', 'NOUN', 'PUNCT', 'ADJ']",[],0,0,4,0,1
+US61703A,1867-02-05,of manchester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US61730A,1867-02-05,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US61755A,1867-02-05,of decattte,"['ADP', 'NOUN']",[],0,0,2,0,1
+US61765A,1867-02-05,of liberty,"['ADP', 'NOUN']",[],0,0,2,0,1
+US61807A,1867-02-05,of stlvania,"['ADP', 'NOUN']",[],0,0,2,0,1
+US61825A,1867-02-05,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US61931A,1867-02-12,And in,"['CCONJ', 'ADP']",[],0,0,2,0,1
+US61940A,1867-02-12,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US61966A,1867-02-12,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US62061A,1867-02-12,of lansing,"['ADP', 'VERB']",[],0,0,2,0,1
+US62141A,1867-02-19,of p a ris,"['ADP', 'NOUN', 'DET', 'NOUN']",[],0,0,4,0,1
+US62151A,1867-02-19,of independence,"['ADP', 'NOUN']",[],0,0,2,0,1
+US62211A,1867-02-19,of wheatland,"['ADP', 'NOUN']",[],0,0,2,0,1
+US62287A,1867-02-19,of east bridgewater,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US62288A,1867-02-19,of east bridgewater,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US62366A,1867-02-26,Of springfield,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US62413A,1867-02-26,of calhoun,"['ADP', 'NOUN']",[],0,0,2,0,1
+US62445A,1867-02-26,To all wllom it may concern,"['ADP', 'DET', 'NOUN', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US62551A,1867-03-05,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US62692A,1867-03-05,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US62802A,1867-03-12,And charles e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US62814A,1867-03-12,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US62972A,1867-03-19,of lafayette,"['ADP', 'NOUN']",[],0,0,2,0,1
+US63362A,1867-04-02,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US63602A,1867-04-02,Of honeoye falls,"['ADP', 'NOUN', 'VERB']",[],0,0,3,0,1
+US63618A,1867-04-09,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US63797A,1867-04-16,of watkins,"['ADP', 'NOUN']",[],0,0,2,0,1
+US63832A,1867-04-16,And pulping fibeous mateeial,"['CCONJ', 'VERB', 'ADJ', 'NOUN']",[],0,0,4,0,1
+US63873A,1867-04-16,To all whom it mai conoeen,"['ADP', 'PRON', 'PRON', 'PRON', 'VERB', 'VERB']",[],0,0,6,0,1
+US63898A,1867-04-16,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US64108A,1867-04-23,of w atkins,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US64129A,1867-04-23,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US64157A,1867-04-23,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US64364A,1867-04-30,of worcester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US64391A,1867-04-30,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US64447A,1867-05-07,of worcester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US64543A,1867-05-07,of new yobk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US64877A,1867-05-21,of plantsville,"['ADP', 'NOUN']",[],0,0,2,0,1
+US64973A,1867-05-21,of binghamton,"['ADP', 'NOUN']",[],0,0,2,0,1
+US65172A,1867-05-28,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US65588A,1867-06-11,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US65614A,1867-06-11,En sealer,"['ADP', 'NOUN']",[],0,0,2,0,1
+US65714A,1867-06-11,Of pine village,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US65907A,1867-06-18,of victor,"['ADP', 'NOUN']",[],0,0,2,0,1
+US66274A,1867-07-02,Teeodor a,"['ADP', 'PRON']",[],0,0,2,0,1
+US66663A,1867-07-09,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US67055A,1867-07-23,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US67071A,1867-07-23,To himself,"['ADP', 'PRON']",[],0,0,2,0,1
+US67291A,1867-07-30,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
+US67301A,1867-07-30,of pont i ac,"['ADP', 'NOUN', 'PRON', 'VERB']",[],0,0,4,0,1
+US67338A,1867-07-30,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US67350A,1867-07-30,Of glasgow,"['ADP', 'NOUN']",[],0,0,2,0,1
+US67539A,1867-08-06,of mentob,"['ADP', 'NOUN']",[],0,0,2,0,1
+US67583A,1867-08-06,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US67638A,1867-08-13,Of philadelphia,"['ADP', 'NOUN']",[],0,0,2,0,1
+US67649A,1867-08-13,of stockbeidge,"['ADP', 'NOUN']",[],0,0,2,0,1
+US67658A,1867-08-13,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US67806A,1867-08-13,of f r e e p,"['ADP', 'X', 'NOUN', 'NOUN', 'X', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US67864A,1867-08-20,And be foubert,"['CCONJ', 'AUX', 'ADJ']",[],0,0,3,0,1
+US68262A,1867-08-27,of helena,"['ADP', 'NOUN']",[],0,0,2,0,1
+US68388A,1867-09-03,Of brooklyn,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US68445A,1867-09-03,Of kbokuk,"['ADP', 'ADJ']",[],0,0,2,0,1
+US68447A,1867-09-03,of homer,"['ADP', 'NOUN']",[],0,0,2,0,1
+US68519A,1867-09-03,of plymouth,"['ADP', 'NOUN']",[],0,0,2,0,1
+US68523A,1867-09-03,of de witt,"['ADP', 'X', 'NOUN']",[],0,0,3,0,1
+US68561A,1867-09-03,And charles r,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US68699A,1867-09-10,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US68926A,1867-09-17,To all,"['ADP', 'ADV']",[],0,0,2,0,1
+US69008A,1867-09-17,Pr a nois mclaughlin,"['ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US69132A,1867-09-24,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US69191A,1867-09-24,And washing,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US69240A,1867-09-24,of os we go,"['ADP', 'ADV', 'PRON', 'VERB']",[],0,0,4,0,1
+US69273A,1867-09-24,To gakrimes,"['ADP', 'NOUN']",[],0,0,2,0,1
+US69753A,1867-10-15,of rockville,"['ADP', 'NOUN']",[],0,0,2,0,1
+US69779A,1867-10-15,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US69823A,1867-10-15,And albeet lovie,"['CCONJ', 'VERB', 'ADJ']",[],0,0,3,0,1
+US69958A,1867-10-22,of manchester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US70021A,1867-10-22,of newark,"['ADP', 'NOUN']",[],0,0,2,0,1
+US70033A,1867-10-22,of ashland,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US70258A,1867-10-29,of g-alesbukg,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US70270A,1867-10-29,And monroe p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US70271A,1867-10-29,Of hacke-nsack,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US70632A,1867-11-05,of holdebness,"['ADP', 'NOUN']",[],0,0,2,0,1
+US70688A,1867-11-12,To all persons to whom these presents shall gome,"['ADP', 'DET', 'NOUN', 'PART', 'PRON', 'DET', 'NOUN', 'AUX', 'VERB']",[],0,0,9,0,1
+US70695A,1867-11-12,Of clyde,"['ADP', 'NOUN']",[],0,0,2,0,1
+US70796A,1867-11-12,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US70845A,1867-11-12,Of gable and other chains,"['ADP', 'ADJ', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,5,0,1
+US71051A,1867-11-19,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US71297A,1867-11-26,To-all wholl it may concern,"['ADP', 'PUNCT', 'PRON', 'PRON', 'VERB', 'PRON', 'AUX', 'VERB']",[],0,0,8,0,1
+US71343A,1867-11-26,To-all whom it may concern,"['ADP', 'PUNCT', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,7,0,1
+US71370A,1867-11-26,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US71374A,1867-11-26,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US71566A,1867-12-03,In lamps,"['ADP', 'NOUN']",[],0,0,2,0,1
+US71578A,1867-12-03,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US71588A,1867-12-03,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US71713A,1867-12-03,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US72049A,1867-12-10,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US72318A,1867-12-17,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US72332A,1867-12-17,of gales burg,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US72442A,1867-12-24,And kevenue-stamps,"['CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US72451A,1867-12-24,by bbs,"['ADP', 'NOUN']",[],0,0,2,0,1
+US72576A,1867-12-24,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US72579A,1867-12-24,Of cardiff,"['ADP', 'ADJ']",[],0,0,2,0,1
+US72653A,1867-12-24,of in-d ianapol is,"['ADP', 'ADP', 'PUNCT', 'NOUN', 'NOUN', 'AUX']",[],0,0,6,0,1
+US72656A,1867-12-24,Of trenton,"['ADP', 'NOUN']",[],0,0,2,0,1
+US72733A,1867-12-31,To all  whom it mat concern,"['ADP', 'DET', 'SPACE', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,7,0,1
+US72780A,1867-12-31,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US73157A,1868-01-07,of blo omingbubg,"['ADP', 'X', 'X']",[],0,0,3,0,1
+US73180A,1868-01-07,In straw-cutters,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US73257A,1868-01-14,of brighton,"['ADP', 'NOUN']",[],0,0,2,0,1
+US73347A,1868-01-14,of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US73382A,1868-01-14,of monroe,"['ADP', 'NOUN']",[],0,0,2,0,1
+US73501A,1868-01-21,Of south berwick,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US73794A,1868-01-28,of baltimore,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US73985A,1868-02-04,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US74001A,1868-02-04,And in the,"['CCONJ', 'ADP', 'PRON']",[],0,0,3,0,1
+US74038A,1868-02-04,of rising sun,"['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
+US74189A,1868-02-04,Edmund a,"['ADP', 'PRON']",[],0,0,2,0,1
+US74242A,1868-02-11,And bennet vandecar,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US74348A,1868-02-11,of la salle,"['ADP', 'PRON', 'NOUN']",[],0,0,3,0,1
+US74367A,1868-02-11,of yonkers,"['ADP', 'NOUN']",[],0,0,2,0,1
+US74410A,1868-02-11,And milton,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US74497A,1868-02-18,of makion,"['ADP', 'NOUN']",[],0,0,2,0,1
+US74654A,1868-02-18,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US74757A,1868-02-25,of limestone,"['ADP', 'NOUN']",[],0,0,2,0,1
+US74784A,1868-02-25,And tallying-attaohments,"['CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US74848A,1868-02-25,of poet henry,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US74895A,1868-02-25,of phelps,"['ADP', 'NOUN']",[],0,0,2,0,1
+US74928A,1868-02-25,Of easton,"['ADP', 'NOUN']",[],0,0,2,0,1
+US74967A,1868-02-25,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US75034A,1868-03-03,To all to,"['ADP', 'ADV', 'PART']",[],0,0,3,0,1
+US75041A,1868-03-03,of mifflinburg,"['ADP', 'NOUN']",[],0,0,2,0,1
+US75054A,1868-03-03,of p a w p a w,"['ADP', 'NOUN', 'X', 'X', 'NOUN', 'X', 'NOUN']",[],0,0,7,0,1
+US75093A,1868-03-03,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US75190A,1868-03-03,of w-bstfibld,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US75496A,1868-03-10,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US75575A,1868-03-17,of independence,"['ADP', 'NOUN']",[],0,0,2,0,1
+US75697A,1868-03-17,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US75783A,1868-03-24,of r u t,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US75804A,1868-03-24,of foeestville,"['ADP', 'NOUN']",[],0,0,2,0,1
+US76320A,1868-04-07,of homer,"['ADP', 'NOUN']",[],0,0,2,0,1
+US76325A,1868-04-07,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US76333A,1868-04-07,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US76484A,1868-04-07,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US76547A,1868-04-07,of speikgfield,"['ADP', 'NOUN']",[],0,0,2,0,1
+US76578A,1868-04-07,Of petaluma,"['ADP', 'PRON']",[],0,0,2,0,1
+US76632A,1868-04-14,of chicopee,"['ADP', 'NOUN']",[],0,0,2,0,1
+US76649A,1868-04-14,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US76700A,1868-04-14,To all whom,"['ADP', 'DET', 'PRON']",[],0,0,3,0,1
+US76752A,1868-04-14,of ashley,"['ADP', 'NOUN']",[],0,0,2,0,1
+US76990A,1868-04-21,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US77089A,1868-04-21,To oswald ungee,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US77234A,1868-04-28,Of antwerp,"['ADP', 'NOUN']",[],0,0,2,0,1
+US77376A,1868-04-28,of cedar falls,"['ADP', 'NOUN', 'VERB']",[],0,0,3,0,1
+US77386A,1868-04-28,And frank,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US77531A,1868-05-05,of clevis,"['ADP', 'ADJ']",[],0,0,2,0,1
+US77584A,1868-05-05,And marmont b,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
+US77623A,1868-05-05,To all whom it may concekn,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US77751A,1868-05-12,In cooking-stoves,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US77816A,1868-05-12,of c h i,"['ADP', 'NOUN', 'NOUN', 'PRON', 'SPACE']",[],0,0,5,0,1
+US77896A,1868-05-12,And fredericf,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US77993A,1868-05-19,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US78047A,1868-05-19,Of auburn,"['ADP', 'NOUN']",[],0,0,2,0,1
+US78073A,1868-05-19,And wendel bollman,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US78083A,1868-05-19,of louisville,"['ADP', 'X']",['GPE'],0,0,2,0,1
+US78100A,1868-05-19,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US78144A,1868-05-19,And gaskell g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US78184A,1868-05-26,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US78194A,1868-05-26,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US78217A,1868-05-26,of chelsea,"['ADP', 'NOUN']",[],0,0,2,0,1
+US78259A,1868-05-26,To all whom it-may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'PUNCT', 'AUX', 'NOUN']",[],0,0,7,0,1
+US78428A,1868-06-02,of south,"['ADP', 'NOUN']",[],0,0,2,0,1
+US78522A,1868-06-02,To himself,"['ADP', 'PRON']",[],0,0,2,0,1
+US78710A,1868-06-09,of cobby,"['ADP', 'NOUN']",[],0,0,2,0,1
+US79044A,1868-06-16,of cornwall,"['ADP', 'NOUN']",[],0,0,2,0,1
+US79100A,1868-06-23,of sohutlkill,"['ADP', 'NOUN']",[],0,0,2,0,1
+US79315A,1868-06-30,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US79320A,1868-06-30,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US79383A,1868-06-30,En os page,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US79454A,1868-06-30,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US79587A,1868-07-07,of bridgeport,"['ADP', 'NOUN']",[],0,0,2,0,1
+US79731A,1868-07-07,of lake tillage,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US79756A,1868-07-07,Of tabrytown,"['ADP', 'NOUN']",[],0,0,2,0,1
+US79776A,1868-07-07,of westfield,"['ADP', 'VERB']",[],0,0,2,0,1
+US79791A,1868-07-07,of edinbub-g,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US79823A,1868-07-14,To all whom it may,"['ADP', 'DET', 'PRON', 'PRON', 'AUX']",[],0,0,5,0,1
+US80011A,1868-07-14,To-all,"['ADP', 'PUNCT', 'PRON']",[],0,0,3,0,1
+US80137A,1868-07-21,In lamps,"['ADP', 'NOUN']",[],0,0,2,0,1
+US80277A,1868-07-28,And elon c,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
+US80362A,1868-07-28,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US80364A,1868-07-28,Of buffalo grove,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US80420A,1868-07-28,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US80462A,1868-07-28,To all whom it mat concern,"['ADP', 'DET', 'PRON', 'PRON', 'VERB', 'NOUN']",[],0,0,6,0,1
+US80545A,1868-08-04,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US80596A,1868-08-04,of auburn,"['ADP', 'NOUN']",[],0,0,2,0,1
+US80795A,1868-08-04,In agricultural machines,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US80807A,1868-08-11,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US80912A,1868-08-11,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US80994A,1868-08-11,In bean-puller,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US81169A,1868-08-18,of greenpoint,"['ADP', 'NOUN']",[],0,0,2,0,1
+US81206A,1868-08-18,of monroe,"['ADP', 'NOUN']",[],0,0,2,0,1
+US81228A,1868-08-18,of new to,"['ADP', 'ADJ', 'ADP', 'SPACE']",[],0,0,4,0,1
+US81288A,1868-08-18,of monroe,"['ADP', 'NOUN']",[],0,0,2,0,1
+US81508A,1868-08-25,of ro chester,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US81529A,1868-08-25,of beading,"['ADP', 'NOUN']",[],0,0,2,0,1
+US81715A,1868-09-01,w atkins,"['ADP', 'NOUN']",[],0,0,2,0,1
+US81736A,1868-09-01,Of salem,"['ADP', 'NOUN']",[],0,0,2,0,1
+US81822A,1868-09-01,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US81892A,1868-09-08,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US82018A,1868-09-08,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US82027A,1868-09-08,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US82129A,1868-09-15,To all whom it may concern,"['ADP', 'PRON', 'PRON', 'PRON', 'AUX', 'VERB']",[],0,0,6,0,1
+US82364A,1868-09-22,In sweats for hats,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US82367A,1868-09-22,Of summit,"['ADP', 'NOUN']",[],0,0,2,0,1
+US82381A,1868-09-22,To himself and henry,"['ADP', 'PRON', 'CCONJ', 'NOUN']",[],0,0,4,0,1
+US82408A,1868-09-22,of plain,"['ADP', 'ADJ']",[],0,0,2,0,1
+US82842A,1868-10-06,of w atkins,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US82957A,1868-10-13,of new haven,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US83208A,1868-10-20,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US83476A,1868-10-27,of t re mo nt,"['ADP', 'NOUN', 'ADP', 'INTJ', 'PART']",[],0,0,5,0,1
+US83774A,1868-11-03,For lathes,"['ADP', 'NOUN']",[],0,0,2,0,1
+US84160A,1868-11-17,For horse-cars,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US84216A,1868-11-17,of marlborough,"['ADP', 'NOUN']",[],0,0,2,0,1
+US84579A,1868-12-01,of montague,"['ADP', 'NOUN']",[],0,0,2,0,1
+US84600A,1868-12-01,In chimneys,"['ADP', 'NOUN']",[],0,0,2,0,1
+US84648A,1868-12-01,In car-couplings,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US84782A,1868-12-08,In bolt-making machines,"['ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
+US85025A,1868-12-15,of springville,"['ADP', 'NOUN']",[],0,0,2,0,1
+US85054A,1868-12-22,of hyannis,"['ADP', 'NOUN']",[],0,0,2,0,1
+US85131A,1868-12-22,For feeding-rolls,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US85954A,1869-01-19,And protecting stores in case of fire,"['CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,1
+US86037A,1869-01-19,of monroe,"['ADP', 'NOUN']",[],0,0,2,0,1
+US86162A,1869-01-26,Out paper collars,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US86270A,1869-01-26,of enterprise,"['ADP', 'NOUN']",[],0,0,2,0,1
+US86286A,1869-01-26,And straightening,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US86700A,1869-02-09,And registering- faucets,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US86841A,1869-02-09,And rich,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US86987A,1869-02-16,of bridgeport,"['ADP', 'NOUN']",[],0,0,2,0,1
+US87004A,1869-02-16,of lowell,"['ADP', 'NOUN']",[],0,0,2,0,1
+US87387A,1869-03-02,And disintegrating,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US87403A,1869-03-02,Of brooklyn,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US87778A,1869-03-16,of titusville,"['ADP', 'NOUN']",[],0,0,2,0,1
+US87825A,1869-03-16,of vtrden,"['ADP', 'NOUN']",[],0,0,2,0,1
+US88276A,1869-03-30,Or reducing machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US88662A,1869-04-06,over acker,"['ADP', 'NOUN']",['NORP'],0,0,2,0,1
+US89480A,1869-04-27,And working butter,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US89488A,1869-04-27,And sensitizing photographic paper,"['CCONJ', 'VERB', 'ADJ', 'NOUN']",[],0,0,4,0,1
+US89595A,1869-05-04,of nine elms,"['ADP', 'NUM', 'NOUN']",['CARDINAL'],0,0,3,0,1
+US89715A,1869-05-04,From printed paper new plates for reprinting,"['ADP', 'VERB', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'VERB']",[],0,0,7,0,1
+US89723A,1869-05-04,Of reading,"['ADP', 'VERB']",[],0,0,2,0,1
+US90434A,1869-05-25,of scran ton,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US90596A,1869-05-25,And trimming- metal,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US90821A,1869-06-01,And ellery b,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US91093A,1869-06-08,And dumping coal,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US91508A,1869-06-22,of marietta,"['ADP', 'NOUN']",[],0,0,2,0,1
+US91642A,1869-06-22,of schuyler s lake,"['ADP', 'NOUN', 'PART', 'NOUN']",[],0,0,4,0,1
+US92004A,1869-06-29,of copenhagen,"['ADP', 'NOUN']",[],0,0,2,0,1
+US92608A,1869-07-13,Edmund a,"['ADP', 'PRON']",[],0,0,2,0,1
+US92737A,1869-07-20,And baking-apparatus for preparing fuel from waste,"['CCONJ', 'VERB', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,0,1
+US93297A,1869-08-03,of avoca,"['ADP', 'NOUN']",[],0,0,2,0,1
+US94541A,1869-09-07,For cone-wheels,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US94744A,1869-09-14,Of bridgeport,"['ADP', 'NOUN']",[],0,0,2,0,1
+US94907A,1869-09-14,And gardner,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US94909A,1869-09-14,of lansing,"['ADP', 'VERB']",[],0,0,2,0,1
+US95341A,1869-09-28,And polishing school-slates,"['CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
+US95496A,1869-10-05,Of sugar,"['ADP', 'NOUN']",[],0,0,2,0,1
+US95516A,1869-10-05,And wrapping- webbing bootstraps,"['CCONJ', 'ADV', 'VERB', 'NOUN']",[],0,0,4,0,1
+US95568A,1869-10-05,And elliot savage,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US95607A,1869-10-05,of liberty,"['ADP', 'NOUN']",[],0,0,2,0,1
+US95725A,1869-10-12,And drying-stove,"['CCONJ', 'VERB', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US96607A,1869-11-09,And gardner d,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US96812A,1869-11-16,In the,"['ADP', 'PRON']",[],0,0,2,0,1
+US96961A,1869-11-16,of orange,"['ADP', 'ADJ']",[],0,0,2,0,1
+US97001A,1869-11-16,To himself,"['ADP', 'PRON']",[],0,0,2,0,1
+US97457A,1869-11-30,And henry,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US97995A,1869-12-14,of catskill,"['ADP', 'NOUN']",[],0,0,2,0,1
+US98291A,1869-12-28,Of rock ford,"['ADP', 'NOUN', 'NOUN']",['ORG'],0,0,3,0,1
+US98607A,1870-01-04,And similar coal for metallurgical,"['CCONJ', 'ADJ', 'NOUN', 'ADP', 'ADJ']",[],0,0,5,0,1
+US99613A,1870-02-08,To himself,"['ADP', 'PRON']",[],0,0,2,0,1
+US99675A,1870-02-08,Of danby,"['ADP', 'NOUN']",[],0,0,2,0,1
+US99934A,1870-02-15,And fire-brick,"['CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1

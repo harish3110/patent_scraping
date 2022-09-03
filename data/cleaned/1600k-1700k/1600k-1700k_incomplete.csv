@@ -1,125 +1,239 @@
 patent_number,date,title,tokens,nltk_pos,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
-US1602000A,1926-03-01,"Feeder and waterer for birds and animals 
-     ","['Feeder', 'and', 'waterer', 'for', 'birds', 'and', 'animals']","[('Feeder', 'NN'), ('and', 'CC'), ('waterer', 'NN'), ('for', 'IN'), ('birds', 'NNS'), ('and', 'CC'), ('animals', 'NNS')]","['PROPN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],1,0,8,1
-US1615686A,1921-09-28,"Method of welding 
-     ","['Method', 'of', 'welding']","[('Method', 'NNP'), ('of', 'IN'), ('welding', 'VBG')]","['PROPN', 'ADP', 'NOUN', 'SPACE']",[],1,0,4,1
-US1637701A,1920-07-13,"Pipe coupling 
-     ","['Pipe', 'coupling']","[('Pipe', 'NNP'), ('coupling', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
-US1638215A,1927-02-09,"Fishing rait 
-     ","['Fishing', 'rait']","[('Fishing', 'VBG'), ('rait', 'NN')]","['NOUN', 'PROPN', 'SPACE']",[],1,0,3,1
-US1638310A,1923-06-22,"Board kicker for end-matching machines 
-     ","['Board', 'kicker', 'for', 'end-matching', 'machines']","[('Board', 'NNP'), ('kicker', 'NN'), ('for', 'IN'), ('end-matching', 'JJ'), ('machines', 'NNS')]","['PROPN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],1,0,8,1
-US1638563A,1924-04-11,"Apparatus and method for packaging paper 
-     ","['Apparatus', 'and', 'method', 'for', 'packaging', 'paper']","[('Apparatus', 'NNP'), ('and', 'CC'), ('method', 'NN'), ('for', 'IN'), ('packaging', 'VBG'), ('paper', 'NN')]","['PROPN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],1,0,7,1
-US1645141A,1926-05-18,"Stencil sheet 
-     ","['Stencil', 'sheet']","[('Stencil', 'NNP'), ('sheet', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
-US1653209A,1926-09-15,"Pattern-chain guide for looms 
-     ","['Pattern-chain', 'guide', 'for', 'looms']","[('Pattern-chain', 'NNP'), ('guide', 'NN'), ('for', 'IN'), ('looms', 'NNS')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'SPACE']",[],1,0,7,1
-US1653730A,1924-04-30,"Manufacture of chemical wood pulp 
-     ","['Manufacture', 'of', 'chemical', 'wood', 'pulp']","[('Manufacture', 'NN'), ('of', 'IN'), ('chemical', 'NN'), ('wood', 'NN'), ('pulp', 'NN')]","['PROPN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],1,0,6,1
-US1668634A,1926-10-15,"Roller logging conveyer 
-     ","['Roller', 'logging', 'conveyer']","[('Roller', 'NNP'), ('logging', 'VBG'), ('conveyer', 'NN')]","['PROPN', 'VERB', 'NOUN', 'SPACE']",[],1,0,4,1
-US1678347A,1924-05-24,"Method of and apparatus for lubricating friction surfaces 
-     ","['Method', 'of', 'and', 'apparatus', 'for', 'lubricating', 'friction', 'surfaces']","[('Method', 'NNP'), ('of', 'IN'), ('and', 'CC'), ('apparatus', 'VB'), ('for', 'IN'), ('lubricating', 'VBG'), ('friction', 'NN'), ('surfaces', 'NNS')]","['PROPN', 'ADP', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],1,0,9,1
-US1688672A,1925-10-28,"Blackboard cleaner 
-     ","['Blackboard', 'cleaner']","[('Blackboard', 'NNP'), ('cleaner', 'NN')]","['PROPN', 'ADV', 'SPACE']",[],1,0,3,1
-US1692059A,1926-10-05,"Towel bar 
-     ","['Towel', 'bar']","[('Towel', 'NNP'), ('bar', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
-US1602300A,1923-10-12,"Automatic signal 
-     ","['Automatic', 'signal']","[('Automatic', 'NNP'), ('signal', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
-US1603287A,1922-10-26,"Secret phonograph record 
-     ","['Secret', 'phonograph', 'record']","[('Secret', 'JJ'), ('phonograph', 'NN'), ('record', 'NN')]","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
-US1607338A,1923-09-13,"Funnel for sound-reproducing apparatus, talking machines, and the like 
-     ","['Funnel', 'for', 'sound-reproducing', 'apparatus,', 'talking', 'machines,', 'and', 'the', 'like']","[('Funnel', 'NNP'), ('for', 'IN'), ('sound-reproducing', 'JJ'), ('apparatus,', 'NN'), ('talking', 'VBG'), ('machines,', 'NN'), ('and', 'CC'), ('the', 'DT'), ('like', 'JJ')]","['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,14,1
-US1608980A,1925-08-18,"Machine for manipulating plastic materials 
-     ","['Machine', 'for', 'manipulating', 'plastic', 'materials']","[('Machine', 'NN'), ('for', 'IN'), ('manipulating', 'VBG'), ('plastic', 'NN'), ('materials', 'NNS')]","['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
-US1610094A,1925-09-25,"Power can opener 
-     ","['Power', 'can', 'opener']","[('Power', 'NN'), ('can', 'MD'), ('opener', 'VB')]","['NOUN', 'AUX', 'VERB', 'SPACE']",[],0,0,4,1
-US1612480A,1923-11-21,"Antirattler for doors 
-     ","['Antirattler', 'for', 'doors']","[('Antirattler', 'NNP'), ('for', 'IN'), ('doors', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,4,1
-US1621816A,1923-04-17,"Temperature regulator 
-     ","['Temperature', 'regulator']","[('Temperature', 'NN'), ('regulator', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
-US1622136A,1924-06-06,"Self-feeding rotating lubricating system 
-     ","['Self-feeding', 'rotating', 'lubricating', 'system']","[('Self-feeding', 'VBG'), ('rotating', 'VBG'), ('lubricating', 'NN'), ('system', 'NN')]","['NOUN', 'PUNCT', 'VERB', 'VERB', 'VERB', 'NOUN', 'SPACE']",[],0,0,7,1
-US1627771A,1922-02-24,"Garment 
-     ",['Garment'],"[('Garment', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1
-US1631149A,1926-08-26,"Friction shock-absorbing mechanism 
-     ","['Friction', 'shock-absorbing', 'mechanism']","[('Friction', 'NNP'), ('shock-absorbing', 'NN'), ('mechanism', 'NN')]","['NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,1
-US1635509A,1921-08-15,"Can 
-     ",['Can'],"[('Can', 'MD')]","['AUX', 'SPACE']",[],0,0,2,1
-US1636014A,1922-10-16,"Compensator for carton conveyers 
-     ","['Compensator', 'for', 'carton', 'conveyers']","[('Compensator', 'NN'), ('for', 'IN'), ('carton', 'NN'), ('conveyers', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
-US1636091A,1924-10-25,"Banjo construction 
-     ","['Banjo', 'construction']","[('Banjo', 'NNP'), ('construction', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
-US1636842A,1922-12-20,"Expansion shield 
-     ","['Expansion', 'shield']","[('Expansion', 'NN'), ('shield', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
-US1638726A,1925-12-11,"Propelling mechanism for air navigators 
-     ","['Propelling', 'mechanism', 'for', 'air', 'navigators']","[('Propelling', 'VBG'), ('mechanism', 'NN'), ('for', 'IN'), ('air', 'NN'), ('navigators', 'NNS')]","['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
-US1643056A,1925-11-27,"Drying apparatus 
-     ","['Drying', 'apparatus']","[('Drying', 'VBG'), ('apparatus', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
-US1645361A,1925-05-13,"Spring draft gear 
-     ","['Spring', 'draft', 'gear']","[('Spring', 'NN'), ('draft', 'NN'), ('gear', 'NN')]","['NOUN', 'NOUN', 'NOUN', 'SPACE']",['DATE'],0,0,4,1
-US1647215A,1925-05-20,"Closure for collapsible tubes 
-     ","['Closure', 'for', 'collapsible', 'tubes']","[('Closure', 'NN'), ('for', 'IN'), ('collapsible', 'JJ'), ('tubes', 'NNS')]","['NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,1
-US1649724A,1925-08-20,"Lock 
-     ",['Lock'],"[('Lock', 'NN')]","['VERB', 'SPACE']",[],0,0,2,1
-US1650014A,1920-11-01,"Electrical swivel connecter 
-     ","['Electrical', 'swivel', 'connecter']","[('Electrical', 'JJ'), ('swivel', 'NN'), ('connecter', 'NN')]","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
-US1650063A,1926-09-17,"Control-valve mechanism 
-     ","['Control-valve', 'mechanism']","[('Control-valve', 'JJ'), ('mechanism', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
-US1651077A,1924-11-24,"Device for operating transplit rims 
-     ","['Device', 'for', 'operating', 'transplit', 'rims']","[('Device', 'NNP'), ('for', 'IN'), ('operating', 'VBG'), ('transplit', 'NN'), ('rims', 'NNS')]","['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
-US1651799A,1925-05-26,"Musical instrument 
-     ","['Musical', 'instrument']","[('Musical', 'JJ'), ('instrument', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
-US1651946A,1927-03-23,"Bar support 
-     ","['Bar', 'support']","[('Bar', 'NNP'), ('support', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
-US1652228A,1923-03-16,"Carburetor 
-     ",['Carburetor'],"[('Carburetor', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1
-US1653157A,1923-09-18,"Door lock 
-     ","['Door', 'lock']","[('Door', 'NNP'), ('lock', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
-US1653594A,1927-02-16,"Quick-recharging top for grease guns 
-     ","['Quick-recharging', 'top', 'for', 'grease', 'guns']","[('Quick-recharging', 'JJ'), ('top', 'NN'), ('for', 'IN'), ('grease', 'NN'), ('guns', 'NNS')]","['ADJ', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
-US1655598A,1926-10-18,"Battery terminal connecter 
-     ","['Battery', 'terminal', 'connecter']","[('Battery', 'NNP'), ('terminal', 'NN'), ('connecter', 'NN')]","['NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,4,1
-US1664819A,1926-05-06,"Mail receiving and delivering device 
-     ","['Mail', 'receiving', 'and', 'delivering', 'device']","[('Mail', 'NNP'), ('receiving', 'NN'), ('and', 'CC'), ('delivering', 'NN'), ('device', 'NN')]","['NOUN', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,1
-US1664867A,1926-12-06,"Hollow tile 
-     ","['Hollow', 'tile']","[('Hollow', 'NNP'), ('tile', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
-US1665291A,1925-03-20,"Operating gear of electric switches 
-     ","['Operating', 'gear', 'of', 'electric', 'switches']","[('Operating', 'VBG'), ('gear', 'NN'), ('of', 'IN'), ('electric', 'JJ'), ('switches', 'NNS')]","['VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,1
-US1666738A,1924-08-29,"Transmission circuit 
-     ","['Transmission', 'circuit']","[('Transmission', 'NN'), ('circuit', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
-US1667959A,1926-08-25,"Discharge gate for mortar mixers 
-     ","['Discharge', 'gate', 'for', 'mortar', 'mixers']","[('Discharge', 'NNP'), ('gate', 'NN'), ('for', 'IN'), ('mortar', 'NN'), ('mixers', 'NNS')]","['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
-US1676189A,1926-05-16,"Beater-blade support 
-     ","['Beater-blade', 'support']","[('Beater-blade', 'JJ'), ('support', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
-US1677174A,1923-12-27,"Scouring implement 
-     ","['Scouring', 'implement']","[('Scouring', 'VBG'), ('implement', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
-US1679775A,1926-07-26,"Cover 
-     ",['Cover'],"[('Cover', 'NN')]","['VERB', 'SPACE']",[],0,0,2,1
-US1681385A,1922-07-13,"Transmission of power to vehicles 
-     ","['Transmission', 'of', 'power', 'to', 'vehicles']","[('Transmission', 'NN'), ('of', 'IN'), ('power', 'NN'), ('to', 'TO'), ('vehicles', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'PART', 'NOUN', 'SPACE']",[],0,0,6,1
-US1682869A,1923-01-24,"Player grand piano 
-     ","['Player', 'grand', 'piano']","[('Player', 'NNP'), ('grand', 'JJ'), ('piano', 'NN')]","['NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,4,1
-US1685183A,1927-05-16,"Dispensing container 
-     ","['Dispensing', 'container']","[('Dispensing', 'VBG'), ('container', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
-US1685283A,1927-03-17,"Collapsible trestle 
-     ","['Collapsible', 'trestle']","[('Collapsible', 'JJ'), ('trestle', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
-US1686509A,1919-04-15,"Sheet-metal wheel 
-     ","['Sheet-metal', 'wheel']","[('Sheet-metal', 'JJ'), ('wheel', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
-US1687497A,1924-06-02,"Door latch for automobiles 
-     ","['Door', 'latch', 'for', 'automobiles']","[('Door', 'NNP'), ('latch', 'NN'), ('for', 'IN'), ('automobiles', 'NNS')]","['NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,1
-US1687821A,1926-04-30,"Spotlight 
-     ",['Spotlight'],"[('Spotlight', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1
-US1687906A,1926-06-01,"Machine for fixing clasps 
-     ","['Machine', 'for', 'fixing', 'clasps']","[('Machine', 'NN'), ('for', 'IN'), ('fixing', 'VBG'), ('clasps', 'NN')]","['NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
-US1695698A,1924-02-11,"Visible index-card system 
-     ","['Visible', 'index-card', 'system']","[('Visible', 'JJ'), ('index-card', 'JJ'), ('system', 'NN')]","['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
-US1696490A,1921-05-18,"Resinous material and process of making same 
-     ","['Resinous', 'material', 'and', 'process', 'of', 'making', 'same']","[('Resinous', 'JJ'), ('material', 'NN'), ('and', 'CC'), ('process', 'NN'), ('of', 'IN'), ('making', 'VBG'), ('same', 'JJ')]","['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ', 'SPACE']",[],0,0,8,1
-US1697437A,1926-07-13,"Automatic pencil 
-     ","['Automatic', 'pencil']","[('Automatic', 'NNP'), ('pencil', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
-US1697506A,1925-02-04,"Variable condenser 
-     ","['Variable', 'condenser']","[('Variable', 'JJ'), ('condenser', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
-US1699716A,1927-03-29,"Switch-rail lock 
-     ","['Switch-rail', 'lock']","[('Switch-rail', 'JJ'), ('lock', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1602000A,1926-03-01,Feeder and waterer for birds and animals,"['Feeder', 'and', 'waterer', 'for', 'birds', 'and', 'animals']","[('Feeder', 'NN'), ('and', 'CC'), ('waterer', 'NN'), ('for', 'IN'), ('birds', 'NNS'), ('and', 'CC'), ('animals', 'NNS')]","['PROPN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],1,0,8,1
+US1607859A,1925-09-03,Vehicle wheel tire,"['Vehicle', 'wheel', 'tire']","[('Vehicle', 'NNP'), ('wheel', 'NN'), ('tire', 'NN')]","['PROPN', 'NOUN', 'NOUN', 'SPACE']",[],1,0,4,1
+US1608898A,1925-04-14,Mop holder,"['Mop', 'holder']","[('Mop', 'NNP'), ('holder', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1609308A,1924-11-13,Process of dispersing bodies in water,"['Process', 'of', 'dispersing', 'bodies', 'in', 'water']","[('Process', 'NN'), ('of', 'IN'), ('dispersing', 'VBG'), ('bodies', 'NNS'), ('in', 'IN'), ('water', 'NN')]","['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],1,0,7,1
+US1610685A,1924-06-04,Apparatus for producing artificial gas,"['Apparatus', 'for', 'producing', 'artificial', 'gas']","[('Apparatus', 'NNP'), ('for', 'IN'), ('producing', 'VBG'), ('artificial', 'JJ'), ('gas', 'NN')]","['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'SPACE']",[],1,0,6,1
+US1615686A,1921-09-28,Method of welding,"['Method', 'of', 'welding']","[('Method', 'NNP'), ('of', 'IN'), ('welding', 'VBG')]","['PROPN', 'ADP', 'NOUN', 'SPACE']",[],1,0,4,1
+US1616763A,1923-07-02,Trouser support,"['Trouser', 'support']","[('Trouser', 'NNP'), ('support', 'NN')]","['PROPN', 'VERB', 'SPACE']",[],1,0,3,1
+US1632909A,1921-03-28,Buffing and cleaning of metal parts,"['Buffing', 'and', 'cleaning', 'of', 'metal', 'parts']","[('Buffing', 'NNP'), ('and', 'CC'), ('cleaning', 'NN'), ('of', 'IN'), ('metal', 'NN'), ('parts', 'NNS')]","['PROPN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],1,0,7,1
+US1633798A,1927-06-28,Method and means for connecting tubes,"['Method', 'and', 'means', 'for', 'connecting', 'tubes']","[('Method', 'NNP'), ('and', 'CC'), ('means', 'VBZ'), ('for', 'IN'), ('connecting', 'VBG'), ('tubes', 'NNS')]","['PROPN', 'CCONJ', 'VERB', 'ADP', 'VERB', 'NOUN']",[],1,0,6,1
+US1637067A,1926-05-18,Vacuum cleaner,"['Vacuum', 'cleaner']","[('Vacuum', 'NNP'), ('cleaner', 'NN')]","['PROPN', 'ADV', 'SPACE']",[],1,0,3,1
+US1637701A,1920-07-13,Pipe coupling,"['Pipe', 'coupling']","[('Pipe', 'NNP'), ('coupling', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1638215A,1927-02-09,Fishing rait,"['Fishing', 'rait']","[('Fishing', 'VBG'), ('rait', 'NN')]","['NOUN', 'PROPN', 'SPACE']",[],1,0,3,1
+US1638310A,1923-06-22,Board kicker for end-matching machines,"['Board', 'kicker', 'for', 'end-matching', 'machines']","[('Board', 'NNP'), ('kicker', 'NN'), ('for', 'IN'), ('end-matching', 'JJ'), ('machines', 'NNS')]","['PROPN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],1,0,8,1
+US1638563A,1924-04-11,Apparatus and method for packaging paper,"['Apparatus', 'and', 'method', 'for', 'packaging', 'paper']","[('Apparatus', 'NNP'), ('and', 'CC'), ('method', 'NN'), ('for', 'IN'), ('packaging', 'VBG'), ('paper', 'NN')]","['PROPN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],1,0,7,1
+US1638820A,1924-01-23,Method of and apparatus for bridge attachment,"['Method', 'of', 'and', 'apparatus', 'for', 'bridge', 'attachment']","[('Method', 'NNP'), ('of', 'IN'), ('and', 'CC'), ('apparatus', 'VB'), ('for', 'IN'), ('bridge', 'NN'), ('attachment', 'NN')]","['PROPN', 'ADP', 'CCONJ', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'SPACE']",[],1,0,8,1
+US1639336A,1924-06-27,Lamp mounting,"['Lamp', 'mounting']","[('Lamp', 'NNP'), ('mounting', 'VBG')]","['PROPN', 'VERB', 'SPACE']",[],1,0,3,1
+US1644063A,1927-04-13,Means for supporting kettle bails,"['Means', 'for', 'supporting', 'kettle', 'bails']","[('Means', 'NNS'), ('for', 'IN'), ('supporting', 'VBG'), ('kettle', 'NN'), ('bails', 'NNS')]","['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],1,0,6,1
+US1645141A,1926-05-18,Stencil sheet,"['Stencil', 'sheet']","[('Stencil', 'NNP'), ('sheet', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1647119A,1925-01-02,Brake for automobiles,"['Brake', 'for', 'automobiles']","[('Brake', 'NNP'), ('for', 'IN'), ('automobiles', 'NNS')]","['PROPN', 'ADP', 'NOUN', 'SPACE']",[],1,0,4,1
+US1653209A,1926-09-15,Pattern-chain guide for looms,"['Pattern-chain', 'guide', 'for', 'looms']","[('Pattern-chain', 'NNP'), ('guide', 'NN'), ('for', 'IN'), ('looms', 'NNS')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'SPACE']",[],1,0,7,1
+US1653730A,1924-04-30,Manufacture of chemical wood pulp,"['Manufacture', 'of', 'chemical', 'wood', 'pulp']","[('Manufacture', 'NN'), ('of', 'IN'), ('chemical', 'NN'), ('wood', 'NN'), ('pulp', 'NN')]","['PROPN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],1,0,6,1
+US1657711A,1922-08-04,Process of desulphidizing and desulphurizing sulphur minerals,"['Process', 'of', 'desulphidizing', 'and', 'desulphurizing', 'sulphur', 'minerals']","[('Process', 'NN'), ('of', 'IN'), ('desulphidizing', 'VBG'), ('and', 'CC'), ('desulphurizing', 'VBG'), ('sulphur', 'NN'), ('minerals', 'NNS')]","['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'PROPN', 'NOUN', 'SPACE']",[],1,0,8,1
+US1666526A,1926-06-26,Traction wheel,"['Traction', 'wheel']","[('Traction', 'NN'), ('wheel', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1666966A,1927-06-03,Piston and piston-ring construction,"['Piston', 'and', 'piston-ring', 'construction']","[('Piston', 'NNP'), ('and', 'CC'), ('piston-ring', 'JJ'), ('construction', 'NN')]","['PROPN', 'CCONJ', 'PROPN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",['ORG'],1,0,7,1
+US1667080A,1927-02-12,Mortuary bed,"['Mortuary', 'bed']","[('Mortuary', 'JJ'), ('bed', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1668634A,1926-10-15,Roller logging conveyer,"['Roller', 'logging', 'conveyer']","[('Roller', 'NNP'), ('logging', 'VBG'), ('conveyer', 'NN')]","['PROPN', 'VERB', 'NOUN', 'SPACE']",[],1,0,4,1
+US1670743A,1923-11-12,Distillation apparatus,"['Distillation', 'apparatus']","[('Distillation', 'NN'), ('apparatus', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1670822A,1926-11-23,Binder for carbon paper,"['Binder', 'for', 'carbon', 'paper']","[('Binder', 'NNP'), ('for', 'IN'), ('carbon', 'NN'), ('paper', 'NN')]","['PROPN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],1,0,5,1
+US1678347A,1924-05-24,Method of and apparatus for lubricating friction surfaces,"['Method', 'of', 'and', 'apparatus', 'for', 'lubricating', 'friction', 'surfaces']","[('Method', 'NNP'), ('of', 'IN'), ('and', 'CC'), ('apparatus', 'VB'), ('for', 'IN'), ('lubricating', 'VBG'), ('friction', 'NN'), ('surfaces', 'NNS')]","['PROPN', 'ADP', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],1,0,9,1
+US1680565A,1923-04-09,Multioffice telephone system,"['Multioffice', 'telephone', 'system']","[('Multioffice', 'NNP'), ('telephone', 'NN'), ('system', 'NN')]","['PROPN', 'NOUN', 'NOUN', 'SPACE']",[],1,0,4,1
+US1680580A,1922-06-03,Method of distilling hydrocarbons,"['Method', 'of', 'distilling', 'hydrocarbons']","[('Method', 'NNP'), ('of', 'IN'), ('distilling', 'VBG'), ('hydrocarbons', 'NNS')]","['PROPN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],1,0,5,1
+US1683092A,1927-06-08,Piezo-electric crystal holder,"['Piezo-electric', 'crystal', 'holder']","[('Piezo-electric', 'JJ'), ('crystal', 'NN'), ('holder', 'NN')]","['PROPN', 'PUNCT', 'PROPN', 'NOUN', 'NOUN', 'SPACE']",['ORG'],1,0,6,1
+US1684994A,1927-03-22,Apparatus for casting under pressure,"['Apparatus', 'for', 'casting', 'under', 'pressure']","[('Apparatus', 'NNP'), ('for', 'IN'), ('casting', 'VBG'), ('under', 'IN'), ('pressure', 'NN')]","['PROPN', 'ADP', 'VERB', 'ADP', 'NOUN', 'SPACE']",[],1,0,6,1
+US1688672A,1925-10-28,Blackboard cleaner,"['Blackboard', 'cleaner']","[('Blackboard', 'NNP'), ('cleaner', 'NN')]","['PROPN', 'ADV', 'SPACE']",[],1,0,3,1
+US1688972A,1926-05-29,Toy motion-picture device,"['Toy', 'motion-picture', 'device']","[('Toy', 'NNP'), ('motion-picture', 'NN'), ('device', 'NN')]","['PROPN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],1,0,6,1
+US1689632A,1926-09-16,Hanger for trolley wires,"['Hanger', 'for', 'trolley', 'wires']","[('Hanger', 'NNP'), ('for', 'IN'), ('trolley', 'NN'), ('wires', 'NNS')]","['PROPN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],1,0,5,1
+US1689642A,1928-10-30,Sectional built portable house,"['Sectional', 'built', 'portable', 'house']","[('Sectional', 'JJ'), ('built', 'VBN'), ('portable', 'JJ'), ('house', 'NN')]","['PROPN', 'VERB', 'ADJ', 'NOUN']",[],1,0,4,1
+US1690159A,1926-10-05,Method of producing sound-record tablets,"['Method', 'of', 'producing', 'sound-record', 'tablets']","[('Method', 'NNP'), ('of', 'IN'), ('producing', 'VBG'), ('sound-record', 'JJ'), ('tablets', 'NNS')]","['PROPN', 'ADP', 'VERB', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],1,0,8,1
+US1691132A,1927-12-12,Lay for looms,"['Lay', 'for', 'looms']","[('Lay', 'NNP'), ('for', 'IN'), ('looms', 'NNS')]","['PROPN', 'ADP', 'NOUN', 'SPACE']",[],1,0,4,1
+US1692006A,1927-04-04,Brake mechanism,"['Brake', 'mechanism']","[('Brake', 'NNP'), ('mechanism', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1692059A,1926-10-05,Towel bar,"['Towel', 'bar']","[('Towel', 'NNP'), ('bar', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1695699A,1924-05-12,Record-sheet holder and sheets therefor,"['Record-sheet', 'holder', 'and', 'sheets', 'therefor']","[('Record-sheet', 'JJ'), ('holder', 'NN'), ('and', 'CC'), ('sheets', 'NNS'), ('therefor', 'VBP')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PROPN', 'SPACE']",[],1,0,8,1
+US1697842A,1924-02-23,Multipart core,"['Multipart', 'core']","[('Multipart', 'NNP'), ('core', 'NN')]","['PROPN', 'NOUN', 'SPACE']",[],1,0,3,1
+US1698493A,1929-01-08,Philip d h,"['Philip', 'd', 'h']","[('Philip', 'NNP'), ('d', 'NN'), ('h', 'NN')]","['PROPN', 'PROPN', 'NOUN']",[],1,0,3,1
+US1699337A,1927-06-23,Apparatus for marking sheet material,"['Apparatus', 'for', 'marking', 'sheet', 'material']","[('Apparatus', 'NNP'), ('for', 'IN'), ('marking', 'VBG'), ('sheet', 'NN'), ('material', 'NN')]","['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],1,0,6,1
+US1600198A,1925-04-25,Power controller,"['Power', 'controller']","[('Power', 'NNP'), ('controller', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1600814A,1922-04-18,Vending machine,"['Vending', 'machine']","[('Vending', 'VBG'), ('machine', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1601491A,1924-08-06,Process of printing,"['Process', 'of', 'printing']","[('Process', 'NN'), ('of', 'IN'), ('printing', 'NN')]","['NOUN', 'ADP', 'VERB', 'SPACE']",[],0,0,4,1
+US1601772A,1924-02-26,Manufacture of rubber compounds,"['Manufacture', 'of', 'rubber', 'compounds']","[('Manufacture', 'NN'), ('of', 'IN'), ('rubber', 'NN'), ('compounds', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'VERB', 'SPACE']",[],0,0,5,1
+US1601905A,1921-08-11,Coin-controlled lock,"['Coin-controlled', 'lock']","[('Coin-controlled', 'JJ'), ('lock', 'NN')]","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US1602300A,1923-10-12,Automatic signal,"['Automatic', 'signal']","[('Automatic', 'NNP'), ('signal', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1603264A,1919-09-26,Dumping mechanism for motor trucks,"['Dumping', 'mechanism', 'for', 'motor', 'trucks']","[('Dumping', 'VBG'), ('mechanism', 'NN'), ('for', 'IN'), ('motor', 'NN'), ('trucks', 'NNS')]","['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1603287A,1922-10-26,Secret phonograph record,"['Secret', 'phonograph', 'record']","[('Secret', 'JJ'), ('phonograph', 'NN'), ('record', 'NN')]","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1604659A,1921-06-03,Rubber heel,"['Rubber', 'heel']","[('Rubber', 'NNP'), ('heel', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1605488A,1924-06-28,Oil burner,"['Oil', 'burner']","[('Oil', 'NN'), ('burner', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1605694A,1924-07-25,Diluting device for internal-combustion engines,"['Diluting', 'device', 'for', 'internal-combustion', 'engines']","[('Diluting', 'VBG'), ('device', 'NN'), ('for', 'IN'), ('internal-combustion', 'NN'), ('engines', 'NNS')]","['VERB', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
+US1606288A,1925-09-26,Adjustable pipe hanger,"['Adjustable', 'pipe', 'hanger']","[('Adjustable', 'JJ'), ('pipe', 'NN'), ('hanger', 'NN')]","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1607338A,1923-09-13,"Funnel for sound-reproducing apparatus, talking machines, and the like","['Funnel', 'for', 'sound-reproducing', 'apparatus,', 'talking', 'machines,', 'and', 'the', 'like']","[('Funnel', 'NNP'), ('for', 'IN'), ('sound-reproducing', 'JJ'), ('apparatus,', 'NN'), ('talking', 'VBG'), ('machines,', 'NN'), ('and', 'CC'), ('the', 'DT'), ('like', 'JJ')]","['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,14,1
+US1608010A,1923-05-02,Food product in sirup form,"['Food', 'product', 'in', 'sirup', 'form']","[('Food', 'NNP'), ('product', 'NN'), ('in', 'IN'), ('sirup', 'JJ'), ('form', 'NN')]","['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1608191A,1926-06-14,Fourdrinier wire stretcher,"['Fourdrinier', 'wire', 'stretcher']","[('Fourdrinier', 'NNP'), ('wire', 'NN'), ('stretcher', 'NN')]","['ADJ', 'NOUN', 'NOUN', 'SPACE']",['ORG'],0,0,4,1
+US1608980A,1925-08-18,Machine for manipulating plastic materials,"['Machine', 'for', 'manipulating', 'plastic', 'materials']","[('Machine', 'NN'), ('for', 'IN'), ('manipulating', 'VBG'), ('plastic', 'NN'), ('materials', 'NNS')]","['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1609689A,1924-10-13,Folding chair,"['Folding', 'chair']","[('Folding', 'VBG'), ('chair', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1609760A,1925-07-09,Electrostatic telephonic instrument for transmitting or receiving purposes,"['Electrostatic', 'telephonic', 'instrument', 'for', 'transmitting', 'or', 'receiving', 'purposes']","[('Electrostatic', 'JJ'), ('telephonic', 'JJ'), ('instrument', 'NN'), ('for', 'IN'), ('transmitting', 'VBG'), ('or', 'CC'), ('receiving', 'VBG'), ('purposes', 'NNS')]","['ADJ', 'ADJ', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,9,1
+US1609951A,1924-06-30,Vehicle brake,"['Vehicle', 'brake']","[('Vehicle', 'NNP'), ('brake', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1609976A,1922-09-02,Transmission of high-tension currents,"['Transmission', 'of', 'high-tension', 'currents']","[('Transmission', 'NN'), ('of', 'IN'), ('high-tension', 'NN'), ('currents', 'NNS')]","['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,1
+US1610094A,1925-09-25,Power can opener,"['Power', 'can', 'opener']","[('Power', 'NN'), ('can', 'MD'), ('opener', 'VB')]","['NOUN', 'AUX', 'VERB', 'SPACE']",[],0,0,4,1
+US1610246A,1926-03-01,Car roof,"['Car', 'roof']","[('Car', 'NN'), ('roof', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1610278A,1925-01-06,Cutting machine,"['Cutting', 'machine']","[('Cutting', 'VBG'), ('machine', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1610372A,1925-08-24,Submarine hammer-drill unit,"['Submarine', 'hammer-drill', 'unit']","[('Submarine', 'NNP'), ('hammer-drill', 'JJ'), ('unit', 'NN')]","['NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1610386A,1925-07-17,Plunger-switch mechanism,"['Plunger-switch', 'mechanism']","[('Plunger-switch', 'NN'), ('mechanism', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1610502A,1926-04-14,Excavator,['Excavator'],"[('Excavator', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1
+US1612064A,1919-10-25,Contact for electrical devices,"['Contact', 'for', 'electrical', 'devices']","[('Contact', 'NN'), ('for', 'IN'), ('electrical', 'JJ'), ('devices', 'NNS')]","['NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,1
+US1612480A,1923-11-21,Antirattler for doors,"['Antirattler', 'for', 'doors']","[('Antirattler', 'NNP'), ('for', 'IN'), ('doors', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,4,1
+US1612507A,1925-07-29,Air distributor,"['Air', 'distributor']","[('Air', 'NNP'), ('distributor', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1613076A,1925-12-02,Check valve,"['Check', 'valve']","[('Check', 'NNP'), ('valve', 'NN')]","['VERB', 'VERB', 'SPACE']",[],0,0,3,1
+US1613277A,1926-07-03,Pneumatic sander,"['Pneumatic', 'sander']","[('Pneumatic', 'JJ'), ('sander', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1613290A,1926-07-23,Transmission,['Transmission'],"[('Transmission', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1
+US1614715A,1926-01-02,Signature-feeding mechanism,"['Signature-feeding', 'mechanism']","[('Signature-feeding', 'JJ'), ('mechanism', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1615780A,1924-11-13,Cover for military hats,"['Cover', 'for', 'military', 'hats']","[('Cover', 'NNP'), ('for', 'IN'), ('military', 'JJ'), ('hats', 'NNS')]","['VERB', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,1
+US1616591A,1926-09-07,Automobile parcel hammock,"['Automobile', 'parcel', 'hammock']","[('Automobile', 'NNP'), ('parcel', 'NN'), ('hammock', 'NN')]","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1616987A,1926-08-04,Three-step clearance control,"['Three-step', 'clearance', 'control']","[('Three-step', 'JJ'), ('clearance', 'NN'), ('control', 'NN')]","['NUM', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",['CARDINAL'],0,0,6,1
+US1618291A,1925-03-12,Device for determining the field of vision,"['Device', 'for', 'determining', 'the', 'field', 'of', 'vision']","[('Device', 'NNP'), ('for', 'IN'), ('determining', 'VBG'), ('the', 'DT'), ('field', 'NN'), ('of', 'IN'), ('vision', 'NN')]","['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,8,1
+US1618298A,1917-08-09,Valve amplifier,"['Valve', 'amplifier']","[('Valve', 'NNP'), ('amplifier', 'NN')]","['VERB', 'ADP', 'SPACE']",[],0,0,3,1
+US1618422A,1921-11-30,Segment fastener,"['Segment', 'fastener']","[('Segment', 'NN'), ('fastener', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1618825A,1924-07-30,Press brake,"['Press', 'brake']","[('Press', 'NNP'), ('brake', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1619450A,1921-02-18,Deflation alarm for pneumatic tires,"['Deflation', 'alarm', 'for', 'pneumatic', 'tires']","[('Deflation', 'NNP'), ('alarm', 'NN'), ('for', 'IN'), ('pneumatic', 'JJ'), ('tires', 'NNS')]","['NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,1
+US1620151A,1925-08-28,Liquid meter,"['Liquid', 'meter']","[('Liquid', 'NNP'), ('meter', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1621251A,1922-11-04,Drain plug or valve for containers,"['Drain', 'plug', 'or', 'valve', 'for', 'containers']","[('Drain', 'NNP'), ('plug', 'NN'), ('or', 'CC'), ('valve', 'NN'), ('for', 'IN'), ('containers', 'NNS')]","['NOUN', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,1
+US1621378A,1924-04-14,Vehicle brake,"['Vehicle', 'brake']","[('Vehicle', 'NNP'), ('brake', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1621816A,1923-04-17,Temperature regulator,"['Temperature', 'regulator']","[('Temperature', 'NN'), ('regulator', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1622136A,1924-06-06,Self-feeding rotating lubricating system,"['Self-feeding', 'rotating', 'lubricating', 'system']","[('Self-feeding', 'VBG'), ('rotating', 'VBG'), ('lubricating', 'NN'), ('system', 'NN')]","['NOUN', 'PUNCT', 'VERB', 'VERB', 'VERB', 'NOUN', 'SPACE']",[],0,0,7,1
+US1622700A,1926-06-05,Curtain-rod bracket,"['Curtain-rod', 'bracket']","[('Curtain-rod', 'JJ'), ('bracket', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1622825A,1927-03-29,Construction op vault or safe doors and the like,"['Construction', 'op', 'vault', 'or', 'safe', 'doors', 'and', 'the', 'like']","[('Construction', 'NN'), ('op', 'VBZ'), ('vault', 'NN'), ('or', 'CC'), ('safe', 'JJ'), ('doors', 'NNS'), ('and', 'CC'), ('the', 'DT'), ('like', 'JJ')]","['NOUN', 'NOUN', 'VERB', 'CCONJ', 'ADJ', 'NOUN', 'CCONJ', 'DET', 'ADJ']",[],0,0,9,1
+US1623785A,1926-09-18,Sound-reproducer mounting,"['Sound-reproducer', 'mounting']","[('Sound-reproducer', 'CD'), ('mounting', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'VERB', 'SPACE']",[],0,0,5,1
+US1623820A,1925-07-28,Automatic weighing machine,"['Automatic', 'weighing', 'machine']","[('Automatic', 'JJ'), ('weighing', 'NN'), ('machine', 'NN')]","['ADJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,1
+US1625419A,1922-08-12,Breathing apparatus,"['Breathing', 'apparatus']","[('Breathing', 'VBG'), ('apparatus', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1625541A,1923-12-21,Elastic-fluid turbine,"['Elastic-fluid', 'turbine']","[('Elastic-fluid', 'JJ'), ('turbine', 'NN')]","['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1626676A,1924-02-15,Anti-side-draft plow hitch,"['Anti-side-draft', 'plow', 'hitch']","[('Anti-side-draft', 'NNP'), ('plow', 'NN'), ('hitch', 'NN')]","['ADJ', 'ADJ', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
+US1627183A,1925-04-25,Resetting device for gas meters,"['Resetting', 'device', 'for', 'gas', 'meters']","[('Resetting', 'VBG'), ('device', 'NN'), ('for', 'IN'), ('gas', 'NN'), ('meters', 'NNS')]","['ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1627771A,1922-02-24,Garment,['Garment'],"[('Garment', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1
+US1628602A,1922-09-13,Automatic shoe machine,"['Automatic', 'shoe', 'machine']","[('Automatic', 'JJ'), ('shoe', 'NN'), ('machine', 'NN')]","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1629031A,1924-10-28,Gas-meter mechanism,"['Gas-meter', 'mechanism']","[('Gas-meter', 'NN'), ('mechanism', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1629086A,1923-03-01,Connection plug,"['Connection', 'plug']","[('Connection', 'NN'), ('plug', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1629111A,1924-07-25,Internal-combustion engine,"['Internal-combustion', 'engine']","[('Internal-combustion', 'NN'), ('engine', 'NN')]","['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1629137A,1925-08-04,Intaglio printing machine,"['Intaglio', 'printing', 'machine']","[('Intaglio', 'NNP'), ('printing', 'NN'), ('machine', 'NN')]","['NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1629335A,1927-05-17,Balloon-tibe patch,"['Balloon-tibe', 'patch']","[('Balloon-tibe', 'NNP'), ('patch', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
+US1629467A,1924-04-03,Electric sign,"['Electric', 'sign']","[('Electric', 'NNP'), ('sign', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1631149A,1926-08-26,Friction shock-absorbing mechanism,"['Friction', 'shock-absorbing', 'mechanism']","[('Friction', 'NNP'), ('shock-absorbing', 'NN'), ('mechanism', 'NN')]","['NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,1
+US1631452A,1924-09-18,Machine for making paper bags,"['Machine', 'for', 'making', 'paper', 'bags']","[('Machine', 'NN'), ('for', 'IN'), ('making', 'VBG'), ('paper', 'NN'), ('bags', 'NNS')]","['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1632323A,1923-05-02,Plaster block and partition construction formed thereof,"['Plaster', 'block', 'and', 'partition', 'construction', 'formed', 'thereof']","[('Plaster', 'NNP'), ('block', 'NN'), ('and', 'CC'), ('partition', 'NN'), ('construction', 'NN'), ('formed', 'VBD'), ('thereof', 'NN')]","['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'VERB', 'ADV', 'SPACE']",[],0,0,8,1
+US1632988A,1920-08-07,Internal-combustion engine and method of operating the same,"['Internal-combustion', 'engine', 'and', 'method', 'of', 'operating', 'the', 'same']","[('Internal-combustion', 'NNP'), ('engine', 'NN'), ('and', 'CC'), ('method', 'NN'), ('of', 'IN'), ('operating', 'VBG'), ('the', 'DT'), ('same', 'JJ')]","['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'SPACE']",[],0,0,11,1
+US1633216A,1922-03-23,Machine for cleaning electrotype plates,"['Machine', 'for', 'cleaning', 'electrotype', 'plates']","[('Machine', 'NN'), ('for', 'IN'), ('cleaning', 'VBG'), ('electrotype', 'NN'), ('plates', 'NNS')]","['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1633398A,1924-12-17,Steam boiler and evaporator,"['Steam', 'boiler', 'and', 'evaporator']","[('Steam', 'NNP'), ('boiler', 'NN'), ('and', 'CC'), ('evaporator', 'NN')]","['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,5,1
+US1634681A,1926-05-21,Internal-combustion engine,"['Internal-combustion', 'engine']","[('Internal-combustion', 'NN'), ('engine', 'NN')]","['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1635509A,1921-08-15,Can,['Can'],"[('Can', 'MD')]","['AUX', 'SPACE']",[],0,0,2,1
+US1636014A,1922-10-16,Compensator for carton conveyers,"['Compensator', 'for', 'carton', 'conveyers']","[('Compensator', 'NN'), ('for', 'IN'), ('carton', 'NN'), ('conveyers', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1636091A,1924-10-25,Banjo construction,"['Banjo', 'construction']","[('Banjo', 'NNP'), ('construction', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1636839A,1926-08-19,Header for pails,"['Header', 'for', 'pails']","[('Header', 'NN'), ('for', 'IN'), ('pails', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,4,1
+US1636842A,1922-12-20,Expansion shield,"['Expansion', 'shield']","[('Expansion', 'NN'), ('shield', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1636925A,1923-11-23,Closing device for belts,"['Closing', 'device', 'for', 'belts']","[('Closing', 'NN'), ('device', 'NN'), ('for', 'IN'), ('belts', 'NNS')]","['NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,1
+US1638726A,1925-12-11,Propelling mechanism for air navigators,"['Propelling', 'mechanism', 'for', 'air', 'navigators']","[('Propelling', 'VBG'), ('mechanism', 'NN'), ('for', 'IN'), ('air', 'NN'), ('navigators', 'NNS')]","['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1638979A,1927-08-16,Clothespin,['Clothespin'],"[('Clothespin', 'NN')]",['NOUN'],[],0,0,1,1
+US1639174A,1920-06-28,Change-speed gear,"['Change-speed', 'gear']","[('Change-speed', 'JJ'), ('gear', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1639867A,1925-11-18,Sectional conduit,"['Sectional', 'conduit']","[('Sectional', 'NNP'), ('conduit', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1641616A,1924-06-07,Impulse-transmitting device,"['Impulse-transmitting', 'device']","[('Impulse-transmitting', 'JJ'), ('device', 'NN')]","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US1642029A,1923-11-12,Wood-spoked steering wheel,"['Wood-spoked', 'steering', 'wheel']","[('Wood-spoked', 'JJ'), ('steering', 'NN'), ('wheel', 'NN')]","['NOUN', 'PUNCT', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1642140A,1923-02-09,Mattress-suspending means,"['Mattress-suspending', 'means']","[('Mattress-suspending', 'JJ'), ('means', 'NNS')]","['NOUN', 'PUNCT', 'NOUN', 'VERB', 'SPACE']",[],0,0,5,1
+US1642766A,1924-02-19,Waterproof abrasive fabric and method of making the same,"['Waterproof', 'abrasive', 'fabric', 'and', 'method', 'of', 'making', 'the', 'same']","[('Waterproof', 'NNP'), ('abrasive', 'JJ'), ('fabric', 'NN'), ('and', 'CC'), ('method', 'NN'), ('of', 'IN'), ('making', 'VBG'), ('the', 'DT'), ('same', 'JJ')]","['ADJ', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'SPACE']",[],0,0,10,1
+US1643056A,1925-11-27,Drying apparatus,"['Drying', 'apparatus']","[('Drying', 'VBG'), ('apparatus', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1644910A,1923-10-26,Refrigerator,['Refrigerator'],"[('Refrigerator', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1
+US1645193A,1926-05-11,Combination candlestick,"['Combination', 'candlestick']","[('Combination', 'NNP'), ('candlestick', 'NN')]","['NOUN', 'VERB', 'SPACE']",[],0,0,3,1
+US1645361A,1925-05-13,Spring draft gear,"['Spring', 'draft', 'gear']","[('Spring', 'NN'), ('draft', 'NN'), ('gear', 'NN')]","['NOUN', 'NOUN', 'NOUN', 'SPACE']",['DATE'],0,0,4,1
+US1645759A,1922-11-07,Carpet sweeper,"['Carpet', 'sweeper']","[('Carpet', 'NN'), ('sweeper', 'NN')]","['NOUN', 'NOUN', 'SPACE']",['ORG'],0,0,3,1
+US1645817A,1925-07-27,Draft-gear key-retaining means,"['Draft-gear', 'key-retaining', 'means']","[('Draft-gear', 'JJ'), ('key-retaining', 'NN'), ('means', 'NNS')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'VERB', 'SPACE']",[],0,0,8,1
+US1645865A,1926-12-10,Bending press,"['Bending', 'press']","[('Bending', 'VBG'), ('press', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1645943A,1925-06-01,Automatic regulating gate,"['Automatic', 'regulating', 'gate']","[('Automatic', 'JJ'), ('regulating', 'NN'), ('gate', 'NN')]","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1646317A,1926-08-19,Liquid gauge,"['Liquid', 'gauge']","[('Liquid', 'NNP'), ('gauge', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1646319A,1927-05-17,Fan-housing construction,"['Fan-housing', 'construction']","[('Fan-housing', 'JJ'), ('construction', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1646861A,1925-03-06,Elastic-fluid turbine,"['Elastic-fluid', 'turbine']","[('Elastic-fluid', 'JJ'), ('turbine', 'NN')]","['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1647104A,1924-07-11,Tire-building machine,"['Tire-building', 'machine']","[('Tire-building', 'JJ'), ('machine', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1647215A,1925-05-20,Closure for collapsible tubes,"['Closure', 'for', 'collapsible', 'tubes']","[('Closure', 'NN'), ('for', 'IN'), ('collapsible', 'JJ'), ('tubes', 'NNS')]","['NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,1
+US1647433A,1925-08-31,Machine for splitting sheet material,"['Machine', 'for', 'splitting', 'sheet', 'material']","[('Machine', 'NN'), ('for', 'IN'), ('splitting', 'VBG'), ('sheet', 'NN'), ('material', 'NN')]","['NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1648291A,1925-11-25,Brake mechanism for automotive vehicles,"['Brake', 'mechanism', 'for', 'automotive', 'vehicles']","[('Brake', 'NNP'), ('mechanism', 'NN'), ('for', 'IN'), ('automotive', 'JJ'), ('vehicles', 'NNS')]","['NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,1
+US1648546A,1926-12-16,Concrete mixer,"['Concrete', 'mixer']","[('Concrete', 'NNP'), ('mixer', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1648719A,1925-11-06,Internal-combustion engine,"['Internal-combustion', 'engine']","[('Internal-combustion', 'NN'), ('engine', 'NN')]","['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1649724A,1925-08-20,Lock,['Lock'],"[('Lock', 'NN')]","['VERB', 'SPACE']",[],0,0,2,1
+US1650014A,1920-11-01,Electrical swivel connecter,"['Electrical', 'swivel', 'connecter']","[('Electrical', 'JJ'), ('swivel', 'NN'), ('connecter', 'NN')]","['ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,1
+US1650063A,1926-09-17,Control-valve mechanism,"['Control-valve', 'mechanism']","[('Control-valve', 'JJ'), ('mechanism', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1650120A,1926-08-11,Sleeve-valve internal-combustion engine,"['Sleeve-valve', 'internal-combustion', 'engine']","[('Sleeve-valve', 'JJ'), ('internal-combustion', 'NN'), ('engine', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
+US1650328A,1924-12-11,Load binder,"['Load', 'binder']","[('Load', 'NNP'), ('binder', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1650352A,1923-10-29,Friction shock-absorbing mechanism,"['Friction', 'shock-absorbing', 'mechanism']","[('Friction', 'NNP'), ('shock-absorbing', 'NN'), ('mechanism', 'NN')]","['NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,1
+US1651077A,1924-11-24,Device for operating transplit rims,"['Device', 'for', 'operating', 'transplit', 'rims']","[('Device', 'NNP'), ('for', 'IN'), ('operating', 'VBG'), ('transplit', 'NN'), ('rims', 'NNS')]","['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1651449A,1922-04-01,System of distribution,"['System', 'of', 'distribution']","[('System', 'NN'), ('of', 'IN'), ('distribution', 'NN')]","['NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,4,1
+US1651799A,1925-05-26,Musical instrument,"['Musical', 'instrument']","[('Musical', 'JJ'), ('instrument', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1651946A,1927-03-23,Bar support,"['Bar', 'support']","[('Bar', 'NNP'), ('support', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1652228A,1923-03-16,Carburetor,['Carburetor'],"[('Carburetor', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1
+US1653157A,1923-09-18,Door lock,"['Door', 'lock']","[('Door', 'NNP'), ('lock', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1653594A,1927-02-16,Quick-recharging top for grease guns,"['Quick-recharging', 'top', 'for', 'grease', 'guns']","[('Quick-recharging', 'JJ'), ('top', 'NN'), ('for', 'IN'), ('grease', 'NN'), ('guns', 'NNS')]","['ADJ', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
+US1655598A,1926-10-18,Battery terminal connecter,"['Battery', 'terminal', 'connecter']","[('Battery', 'NNP'), ('terminal', 'NN'), ('connecter', 'NN')]","['NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,4,1
+US1655643A,1925-02-06,Steam-hose coupling-assembling head,"['Steam-hose', 'coupling-assembling', 'head']","[('Steam-hose', 'JJ'), ('coupling-assembling', 'JJ'), ('head', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,8,1
+US1656171A,1925-10-29,Plant-spraying apparatus,"['Plant-spraying', 'apparatus']","[('Plant-spraying', 'JJ'), ('apparatus', 'NN')]","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US1656703A,1926-09-04,Electric switch,"['Electric', 'switch']","[('Electric', 'NNP'), ('switch', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1657461A,1925-12-28,Battery mounting,"['Battery', 'mounting']","[('Battery', 'NN'), ('mounting', 'NN')]","['NOUN', 'VERB', 'SPACE']",[],0,0,3,1
+US1658809A,1927-07-12,"Transparent, folding, rain-proof window screen","['Transparent,', 'folding,', 'rain-proof', 'window', 'screen']","[('Transparent,', 'NNP'), ('folding,', 'VBD'), ('rain-proof', 'JJ'), ('window', 'NN'), ('screen', 'NN')]","['ADJ', 'PUNCT', 'VERB', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,10,1
+US1660840A,1925-02-05,Animated-picture device and method of manufacture,"['Animated-picture', 'device', 'and', 'method', 'of', 'manufacture']","[('Animated-picture', 'JJ'), ('device', 'NN'), ('and', 'CC'), ('method', 'NN'), ('of', 'IN'), ('manufacture', 'NN')]","['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,9,1
+US1661515A,1925-12-18,Process of printing in greasy inks with gelatin printing surfaces,"['Process', 'of', 'printing', 'in', 'greasy', 'inks', 'with', 'gelatin', 'printing', 'surfaces']","[('Process', 'NN'), ('of', 'IN'), ('printing', 'NN'), ('in', 'IN'), ('greasy', 'JJ'), ('inks', 'NNS'), ('with', 'IN'), ('gelatin', 'NN'), ('printing', 'NN'), ('surfaces', 'NNS')]","['NOUN', 'ADP', 'VERB', 'ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,11,1
+US1661767A,1927-05-28,Lumber-returning device for ripsaws,"['Lumber-returning', 'device', 'for', 'ripsaws']","[('Lumber-returning', 'JJ'), ('device', 'NN'), ('for', 'IN'), ('ripsaws', 'NN')]","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,1
+US1662799A,1925-08-31,Mining machine,"['Mining', 'machine']","[('Mining', 'NN'), ('machine', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1663552A,1925-01-24,Electrolytic rheostat,"['Electrolytic', 'rheostat']","[('Electrolytic', 'JJ'), ('rheostat', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1663639A,1924-07-12,Fruit grader,"['Fruit', 'grader']","[('Fruit', 'NNP'), ('grader', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1664026A,1926-07-31,Paper-feed control,"['Paper-feed', 'control']","[('Paper-feed', 'NNP'), ('control', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1664758A,1926-11-26,Electrically-heated sadiron stand,"['Electrically-heated', 'sadiron', 'stand']","[('Electrically-heated', 'JJ'), ('sadiron', 'NN'), ('stand', 'NN')]","['ADV', 'PUNCT', 'VERB', 'NOUN', 'VERB', 'SPACE']",[],0,0,6,1
+US1664819A,1926-05-06,Mail receiving and delivering device,"['Mail', 'receiving', 'and', 'delivering', 'device']","[('Mail', 'NNP'), ('receiving', 'NN'), ('and', 'CC'), ('delivering', 'NN'), ('device', 'NN')]","['NOUN', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'SPACE']",[],0,0,6,1
+US1664867A,1926-12-06,Hollow tile,"['Hollow', 'tile']","[('Hollow', 'NNP'), ('tile', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1664940A,1926-06-14,Excavating shovel,"['Excavating', 'shovel']","[('Excavating', 'VBG'), ('shovel', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1665291A,1925-03-20,Operating gear of electric switches,"['Operating', 'gear', 'of', 'electric', 'switches']","[('Operating', 'VBG'), ('gear', 'NN'), ('of', 'IN'), ('electric', 'JJ'), ('switches', 'NNS')]","['VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,1
+US1665993A,1924-01-26,Process for the production of unsintered binding means of oil shale and limestone and the like,"['Process', 'for', 'the', 'production', 'of', 'unsintered', 'binding', 'means', 'of', 'oil', 'shale', 'and', 'limestone', 'and', 'the', 'like']","[('Process', 'NN'), ('for', 'IN'), ('the', 'DT'), ('production', 'NN'), ('of', 'IN'), ('unsintered', 'JJ'), ('binding', 'NN'), ('means', 'NNS'), ('of', 'IN'), ('oil', 'NN'), ('shale', 'NN'), ('and', 'CC'), ('limestone', 'NN'), ('and', 'CC'), ('the', 'DT'), ('like', 'JJ')]","['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,17,1
+US1666738A,1924-08-29,Transmission circuit,"['Transmission', 'circuit']","[('Transmission', 'NN'), ('circuit', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1667297A,1921-05-09,Train-line coupler,"['Train-line', 'coupler']","[('Train-line', 'JJ'), ('coupler', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1667488A,1926-02-05,Hob grinder,"['Hob', 'grinder']","[('Hob', 'NNP'), ('grinder', 'NN')]","['PRON', 'VERB', 'SPACE']",[],0,0,3,1
+US1667717A,1921-12-16,Freight-weighing device,"['Freight-weighing', 'device']","[('Freight-weighing', 'JJ'), ('device', 'NN')]","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US1667919A,1927-02-21,Cosmetic container,"['Cosmetic', 'container']","[('Cosmetic', 'JJ'), ('container', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1667959A,1926-08-25,Discharge gate for mortar mixers,"['Discharge', 'gate', 'for', 'mortar', 'mixers']","[('Discharge', 'NNP'), ('gate', 'NN'), ('for', 'IN'), ('mortar', 'NN'), ('mixers', 'NNS')]","['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1668721A,1924-07-14,Book-support attachment for desks and the like,"['Book-support', 'attachment', 'for', 'desks', 'and', 'the', 'like']","[('Book-support', 'NNP'), ('attachment', 'NN'), ('for', 'IN'), ('desks', 'NNS'), ('and', 'CC'), ('the', 'DT'), ('like', 'JJ')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,10,1
+US1671854A,1926-04-08,Thermionic valve,"['Thermionic', 'valve']","[('Thermionic', 'NNP'), ('valve', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1672442A,1926-06-28,Coke-extracting mechanism for vertical retorts for the distillation of carbonaceous materials,"['Coke-extracting', 'mechanism', 'for', 'vertical', 'retorts', 'for', 'the', 'distillation', 'of', 'carbonaceous', 'materials']","[('Coke-extracting', 'JJ'), ('mechanism', 'NN'), ('for', 'IN'), ('vertical', 'JJ'), ('retorts', 'NNS'), ('for', 'IN'), ('the', 'DT'), ('distillation', 'NN'), ('of', 'IN'), ('carbonaceous', 'JJ'), ('materials', 'NNS')]","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",['ORG'],0,0,14,1
+US1672493A,1923-11-03,Loud speaker,"['Loud', 'speaker']","[('Loud', 'JJ'), ('speaker', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1673021A,1922-10-19,Divided-load thrust bearing,"['Divided-load', 'thrust', 'bearing']","[('Divided-load', 'NNP'), ('thrust', 'NN'), ('bearing', 'NN')]","['VERB', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,6,1
+US1673962A,1924-01-26,Electric sign,"['Electric', 'sign']","[('Electric', 'NNP'), ('sign', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1674751A,1925-06-17,Equalized braking mechanism for single-track vehicles,"['Equalized', 'braking', 'mechanism', 'for', 'single-track', 'vehicles']","[('Equalized', 'VBN'), ('braking', 'NN'), ('mechanism', 'NN'), ('for', 'IN'), ('single-track', 'JJ'), ('vehicles', 'NNS')]","['ADJ', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",['ORG'],0,0,9,1
+US1676189A,1926-05-16,Beater-blade support,"['Beater-blade', 'support']","[('Beater-blade', 'JJ'), ('support', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1676348A,1925-03-14,Dispensing closure for containers,"['Dispensing', 'closure', 'for', 'containers']","[('Dispensing', 'VBG'), ('closure', 'NN'), ('for', 'IN'), ('containers', 'NNS')]","['VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,1
+US1676488A,1926-02-25,Steering wheel,"['Steering', 'wheel']","[('Steering', 'VBG'), ('wheel', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1677174A,1923-12-27,Scouring implement,"['Scouring', 'implement']","[('Scouring', 'VBG'), ('implement', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1679775A,1926-07-26,Cover,['Cover'],"[('Cover', 'NN')]","['VERB', 'SPACE']",[],0,0,2,1
+US1679989A,1925-02-28,Baking oven,"['Baking', 'oven']","[('Baking', 'VBG'), ('oven', 'RB')]","['VERB', 'ADJ', 'SPACE']",[],0,0,3,1
+US1681113A,1927-09-07,Grain-car door for box cars,"['Grain-car', 'door', 'for', 'box', 'cars']","[('Grain-car', 'NNP'), ('door', 'NN'), ('for', 'IN'), ('box', 'NN'), ('cars', 'NNS')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
+US1681384A,1927-04-25,Clutch and control mechanism,"['Clutch', 'and', 'control', 'mechanism']","[('Clutch', 'NNP'), ('and', 'CC'), ('control', 'NN'), ('mechanism', 'NN')]","['VERB', 'CCONJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1681385A,1922-07-13,Transmission of power to vehicles,"['Transmission', 'of', 'power', 'to', 'vehicles']","[('Transmission', 'NN'), ('of', 'IN'), ('power', 'NN'), ('to', 'TO'), ('vehicles', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'PART', 'NOUN', 'SPACE']",[],0,0,6,1
+US1681616A,1927-06-30,Coupler for mine cars,"['Coupler', 'for', 'mine', 'cars']","[('Coupler', 'NN'), ('for', 'IN'), ('mine', 'NN'), ('cars', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1681652A,1927-01-05,Duplicating-machine drive and feed,"['Duplicating-machine', 'drive', 'and', 'feed']","[('Duplicating-machine', 'JJ'), ('drive', 'NN'), ('and', 'CC'), ('feed', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'SPACE']",[],0,0,7,1
+US1681781A,1921-04-18,Coupler attachment,"['Coupler', 'attachment']","[('Coupler', 'NNP'), ('attachment', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1682297A,1928-08-28,Vehicle speed control,"['Vehicle', 'speed', 'control']","[('Vehicle', 'NNP'), ('speed', 'NN'), ('control', 'NN')]","['NOUN', 'NOUN', 'NOUN']",[],0,0,3,1
+US1682462A,1927-02-05,Safety razor,"['Safety', 'razor']","[('Safety', 'NN'), ('razor', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1682553A,1926-08-30,Film-winding mechanism,"['Film-winding', 'mechanism']","[('Film-winding', 'JJ'), ('mechanism', 'NN')]","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US1682627A,1927-10-13,Fire stop or trap for motion-picture machines,"['Fire', 'stop', 'or', 'trap', 'for', 'motion-picture', 'machines']","[('Fire', 'NNP'), ('stop', 'NN'), ('or', 'CC'), ('trap', 'NN'), ('for', 'IN'), ('motion-picture', 'NN'), ('machines', 'NNS')]","['NOUN', 'VERB', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,10,1
+US1682836A,1927-01-17,Closure means for inflatable hollow rubber bodies,"['Closure', 'means', 'for', 'inflatable', 'hollow', 'rubber', 'bodies']","[('Closure', 'NN'), ('means', 'VBZ'), ('for', 'IN'), ('inflatable', 'JJ'), ('hollow', 'JJ'), ('rubber', 'NN'), ('bodies', 'NNS')]","['NOUN', 'VERB', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
+US1682869A,1923-01-24,Player grand piano,"['Player', 'grand', 'piano']","[('Player', 'NNP'), ('grand', 'JJ'), ('piano', 'NN')]","['NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,4,1
+US1684081A,1926-06-26,Therapy and infra-red-ray lamp,"['Therapy', 'and', 'infra-red-ray', 'lamp']","[('Therapy', 'NN'), ('and', 'CC'), ('infra-red-ray', 'NN'), ('lamp', 'NN')]","['NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,1
+US1684617A,1923-02-21,Flying shears,"['Flying', 'shears']","[('Flying', 'VBG'), ('shears', 'NNS')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1684677A,1924-04-21,Body and chassis construction for motor vehicles,"['Body', 'and', 'chassis', 'construction', 'for', 'motor', 'vehicles']","[('Body', 'NN'), ('and', 'CC'), ('chassis', 'NN'), ('construction', 'NN'), ('for', 'IN'), ('motor', 'NN'), ('vehicles', 'NNS')]","['NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,1
+US1685183A,1927-05-16,Dispensing container,"['Dispensing', 'container']","[('Dispensing', 'VBG'), ('container', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1685283A,1927-03-17,Collapsible trestle,"['Collapsible', 'trestle']","[('Collapsible', 'JJ'), ('trestle', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1686509A,1919-04-15,Sheet-metal wheel,"['Sheet-metal', 'wheel']","[('Sheet-metal', 'JJ'), ('wheel', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1687135A,1928-10-09,Device for automatically controlling pilot lights of heavy-oil burners,"['Device', 'for', 'automatically', 'controlling', 'pilot', 'lights', 'of', 'heavy-oil', 'burners']","[('Device', 'NNP'), ('for', 'IN'), ('automatically', 'RB'), ('controlling', 'VBG'), ('pilot', 'NN'), ('lights', 'NNS'), ('of', 'IN'), ('heavy-oil', 'NN'), ('burners', 'NNS')]","['NOUN', 'ADP', 'ADV', 'VERB', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,11,1
+US1687497A,1924-06-02,Door latch for automobiles,"['Door', 'latch', 'for', 'automobiles']","[('Door', 'NNP'), ('latch', 'NN'), ('for', 'IN'), ('automobiles', 'NNS')]","['NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,1
+US1687821A,1926-04-30,Spotlight,['Spotlight'],"[('Spotlight', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1
+US1687906A,1926-06-01,Machine for fixing clasps,"['Machine', 'for', 'fixing', 'clasps']","[('Machine', 'NN'), ('for', 'IN'), ('fixing', 'VBG'), ('clasps', 'NN')]","['NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,1
+US1688479A,1924-03-14,Device for preventing theft of automobiles on highways,"['Device', 'for', 'preventing', 'theft', 'of', 'automobiles', 'on', 'highways']","[('Device', 'NNP'), ('for', 'IN'), ('preventing', 'VBG'), ('theft', 'NN'), ('of', 'IN'), ('automobiles', 'NNS'), ('on', 'IN'), ('highways', 'NNS')]","['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,9,1
+US1690185A,1927-07-30,Transmission-line device,"['Transmission-line', 'device']","[('Transmission-line', 'JJ'), ('device', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1690367A,1926-09-07,Thread rack for sewing machines,"['Thread', 'rack', 'for', 'sewing', 'machines']","[('Thread', 'NNP'), ('rack', 'NN'), ('for', 'IN'), ('sewing', 'VBG'), ('machines', 'NNS')]","['NOUN', 'VERB', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1691681A,1927-01-18,Conveyer of the belt type,"['Conveyer', 'of', 'the', 'belt', 'type']","[('Conveyer', 'NNP'), ('of', 'IN'), ('the', 'DT'), ('belt', 'NN'), ('type', 'NN')]","['NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1691815A,1928-01-03,Mine locomotive,"['Mine', 'locomotive']","[('Mine', 'NNP'), ('locomotive', 'NN')]","['PRON', 'ADJ', 'SPACE']",[],0,0,3,1
+US1692304A,1926-07-03,Pumping mechanism,"['Pumping', 'mechanism']","[('Pumping', 'VBG'), ('mechanism', 'NN')]","['VERB', 'NOUN', 'SPACE']",[],0,0,3,1
+US1692560A,1928-11-20,mokrejs,['mokrejs'],"[('mokrejs', 'NN')]",['VERB'],[],0,0,1,1
+US1693775A,1926-07-09,Fishplate,['Fishplate'],"[('Fishplate', 'NN')]","['ADJ', 'SPACE']",[],0,0,2,1
+US1693869A,1927-08-22,Trailer for self-propelled vehicles,"['Trailer', 'for', 'self-propelled', 'vehicles']","[('Trailer', 'NN'), ('for', 'IN'), ('self-propelled', 'JJ'), ('vehicles', 'NNS')]","['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,7,1
+US1693912A,1926-07-06,Latch,['Latch'],"[('Latch', 'NN')]","['VERB', 'SPACE']",[],0,0,2,1
+US1695149A,1926-06-11,Fence-wire spacer and holder,"['Fence-wire', 'spacer', 'and', 'holder']","[('Fence-wire', 'JJ'), ('spacer', 'NN'), ('and', 'CC'), ('holder', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,7,1
+US1695698A,1924-02-11,Visible index-card system,"['Visible', 'index-card', 'system']","[('Visible', 'JJ'), ('index-card', 'JJ'), ('system', 'NN')]","['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,1
+US1696490A,1921-05-18,Resinous material and process of making same,"['Resinous', 'material', 'and', 'process', 'of', 'making', 'same']","[('Resinous', 'JJ'), ('material', 'NN'), ('and', 'CC'), ('process', 'NN'), ('of', 'IN'), ('making', 'VBG'), ('same', 'JJ')]","['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ', 'SPACE']",[],0,0,8,1
+US1697437A,1926-07-13,Automatic pencil,"['Automatic', 'pencil']","[('Automatic', 'NNP'), ('pencil', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1697506A,1925-02-04,Variable condenser,"['Variable', 'condenser']","[('Variable', 'JJ'), ('condenser', 'NN')]","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,1
+US1698240A,1922-11-06,Distilling carbonaceous material,"['Distilling', 'carbonaceous', 'material']","[('Distilling', 'VBG'), ('carbonaceous', 'JJ'), ('material', 'NN')]","['VERB', 'ADJ', 'NOUN', 'SPACE']",['ORG'],0,0,4,1
+US1698470A,1926-01-29,Railway-traffic-controlling apparatus,"['Railway-traffic-controlling', 'apparatus']","[('Railway-traffic-controlling', 'JJ'), ('apparatus', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,7,1
+US1699631A,1924-11-15,Manifolding book,"['Manifolding', 'book']","[('Manifolding', 'VBG'), ('book', 'NN')]","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,1
+US1699716A,1927-03-29,Switch-rail lock,"['Switch-rail', 'lock']","[('Switch-rail', 'JJ'), ('lock', 'NN')]","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,1
+US1699988A,1926-12-23,Plane,['Plane'],"[('Plane', 'NN')]","['NOUN', 'SPACE']",[],0,0,2,1

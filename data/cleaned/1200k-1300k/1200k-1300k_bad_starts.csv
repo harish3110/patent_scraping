@@ -1,32 +1,12 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US1203587A,1915-09-30,"Inside wind-shield for vehicles. 
-     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US1205698A,1911-12-11,"By-product coke-oven. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US1217912A,1916-08-14,"No-glare headlight. 
-     ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1233340A,1914-02-09,"By-pass valve. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1233632A,1917-07-17,w winkler ,"['ADP', 'X']",[],0,0,2,0,1
-US1233862A,1917-07-17,A cobpobation ob ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1242245A,1916-04-14,"By-pass valve. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1244687A,1915-02-10,"All-steel roof. 
-     ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1254395A,1915-03-22,"Inside box-end-stapling machine. 
-     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
-US1265968A,1915-11-19,"Suspensory sack and fabric therefor. 
-     ","['DET', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,7,0,1
-US1277903A,1917-02-26,"Over-fire gas-consumer. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US1280383A,1918-02-13,"Inside cover for smoking-tobacco boxes. 
-     ","['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
-US1280894A,1918-10-08,This notice is for the missing page containing ,"['DET', 'NOUN', 'AUX', 'ADP', 'DET', 'VERB', 'NOUN', 'VERB']",[],0,0,8,0,1
-US1280969A,1917-10-16,"Through-ringing amplifier. 
-     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1282693A,1917-11-02,"In-motion recorder for road-vehicles. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,10,0,1
-US1283161A,1918-10-29,This notice is for the missing page containing ,"['DET', 'NOUN', 'AUX', 'ADP', 'DET', 'VERB', 'NOUN', 'VERB']",[],0,0,8,0,1
-US1284632A,1918-01-02,"Suspensory jock-strap. 
-     ","['DET', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1293096A,1919-02-04,For issue date ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1203587A,1915-09-30,Inside wind-shield for vehicles.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US1205698A,1911-12-11,By-product coke-oven.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US1233340A,1914-02-09,By-pass valve.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US1233632A,1917-07-17,w winkler,"['ADP', 'X']",[],0,0,2,0,1
+US1242245A,1916-04-14,By-pass valve.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US1254395A,1915-03-22,Inside box-end-stapling machine.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
+US1277903A,1917-02-26,Over-fire gas-consumer.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US1280383A,1918-02-13,Inside cover for smoking-tobacco boxes.,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
+US1280969A,1917-10-16,Through-ringing amplifier.,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US1282693A,1917-11-02,In-motion recorder for road-vehicles.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,10,0,1
+US1293096A,1919-02-04,For issue date,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1

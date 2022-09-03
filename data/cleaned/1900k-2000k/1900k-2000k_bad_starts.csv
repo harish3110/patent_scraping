@@ -1,149 +1,67 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US1903656A,1933-04-11,of south bend ,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1903686A,1933-04-11,of south bend ,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1904161A,1929-04-18,"By-product coke oven operation 
-     ","['ADP', 'PUNCT', 'NOUN', 'PROPN', 'PROPN', 'NOUN', 'SPACE']",[],1,0,7,0,1
-US1904468A,1933-04-18,And karl d ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1908358A,1933-05-09,And detroit totst cqwpawz ,"['CCONJ', 'PROPN', 'PROPN', 'VERB']",['GPE'],1,0,4,0,1
-US1909386A,1933-05-16,A cobpoeatioet oe dela ,"['DET', 'NOUN', 'PROPN', 'NOUN']",[],1,0,4,0,1
-US1911533A,1933-05-30,A ttorne y ,"['DET', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US1911548A,1933-05-30,of green bay ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1911562A,1933-05-30,And marvin c ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1911685A,1933-05-30,And william t ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1911745A,1933-05-30,And majdhav r ,"['CCONJ', 'PROPN', 'NOUN']",['GPE'],1,0,3,0,1
-US1911765A,1933-05-30,And lee m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1917338A,1933-07-11,To eastman kodak com- c ,"['ADP', 'PROPN', 'PROPN', 'NOUN', 'AUX']",['ORG'],1,0,5,0,1
-US1920067A,1931-11-14,"The cardel company, inc. 
-     ","['DET', 'NOUN', 'NOUN', 'PUNCT', 'PROPN', 'PROPN', 'SPACE']",[],1,0,7,0,1
-US1933656A,1930-05-05,"Over-lapping screw ash remover 
-     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'PROPN', 'NOUN', 'SPACE']",[],1,0,7,0,1
-US1947499A,1930-08-12,"By-product coke oven 
-     ","['ADP', 'PUNCT', 'NOUN', 'PROPN', 'PROPN', 'SPACE']",[],1,0,6,0,1
-US1900749A,1933-03-07,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1902067A,1933-03-21,Of eneicott ,"['ADP', 'ADV']",[],0,0,2,0,1
-US1903179A,1933-03-28,of chemnitz ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1903236A,1933-03-28,A oobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1904815A,1933-04-18,of basel ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1904819A,1933-04-18,A corporatiolf of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1905465A,1933-04-25,A cobpobatiom ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1905532A,1929-08-15,"Fungicide 
-     ","['ADP', 'SPACE']",[],0,0,2,0,1
-US1906015A,1929-08-21,"After treatment of artificial silk 
-     ","['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US1906416A,1930-03-11,"Inside cutting tool 
-     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US1906674A,1932-05-03,"Through wall flashing 
-     ","['ADP', 'NOUN', 'VERB', 'SPACE']",[],0,0,4,0,1
-US1907428A,1933-05-09,of springfield ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1907499A,1931-07-21,"Above-water torpedo armament for surface warships 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US1910743A,1933-05-23,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1911232A,1932-04-23,"Inside storm window 
-     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US1911489A,1933-05-30,And carroll a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1911526A,1933-05-30,of andebsow ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1911529A,1933-05-30,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1911538A,1933-05-30,of noeth eidgeville ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1911565A,1933-05-30,of waterbury ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1911583A,1933-05-30,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1911587A,1933-05-30,of kingsport ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1911593A,1933-05-30,of axbon ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1911614A,1933-05-30,epstein  ,"['ADP', 'SPACE']",[],0,0,2,0,1
-US1911620A,1933-05-30,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1911730A,1933-05-30,of worcester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1911734A,1933-05-30,of wyandgtte ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1911740A,1933-05-30,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1911744A,1933-05-30,A cobpobation of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1911756A,1933-05-30,A corbobatioh of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1911868A,1930-10-01,"Fungicide 
-     ","['ADP', 'SPACE']",[],0,0,2,0,1
-US1912301A,1933-05-30,of basel ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1912522A,1930-11-29,"Weft detecting automatic drop box loom 
-     ","['ADP', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US1912695A,1933-06-06,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1912710A,1933-06-06,A co-partnership ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1912746A,1933-06-06,And cybil ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US1913401A,1933-06-13,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1915688A,1931-05-25,"All steel hot air furnace 
-     ","['DET', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US1916401A,1933-07-04,As tbustes ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1916636A,1932-10-19,"All aluminum pocket seal 
-     ","['DET', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1917157A,1930-12-06,"All metal tire cover 
-     ","['DET', 'NOUN', 'NOUN', 'VERB', 'SPACE']",[],0,0,5,0,1
-US1917182A,1933-07-04,of lttbeck ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1917245A,1933-07-11,And constanttn d ,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US1917476A,1933-07-11,of orange ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1918974A,1929-05-31,"Down draft carburetor 
-     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US1920115A,1933-07-25,A cobpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1921123A,1931-04-27,"After treatment of filaments 
-     ","['ADP', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1921529A,1933-08-08,A kottmann ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1922295A,1927-09-07,"Inside glare shield 
-     ","['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US1930124A,1928-10-24,"By-product recovery process and apparatus 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,8,0,1
-US1934264A,1930-12-04,"Over-current signal means 
-     ","['ADP', 'PUNCT', 'ADJ', 'NOUN', 'VERB', 'SPACE']",[],0,0,6,0,1
-US1936873A,1930-12-22,"By-pass gate valve 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US1941216A,1930-10-13,"Outside covering for buildings 
-     ","['ADP', 'VERB', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1948506A,1929-08-03,"By-pass condenser 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1950183A,1934-03-06,A kottmann ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1950705A,1924-09-15,"By-passing device for idle running steam engines 
-     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,10,0,1
-US1952430A,1931-02-06,"By-pass line valve 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US1954171A,1932-09-10,"Fungicide 
-     ","['ADP', 'SPACE']",[],0,0,2,0,1
-US1955350A,1930-11-29,"All way cutting machine 
-     ","['DET', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1956908A,1934-05-01,The mke fresh ,"['DET', 'NOUN', 'ADJ']",[],0,0,3,0,1
-US1958102A,1932-09-16,"Fungicide 
-     ","['ADP', 'SPACE']",[],0,0,2,0,1
-US1962149A,1930-09-29,"All-way fuse 
-     ","['DET', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1965526A,1932-04-19,"By-pass valve 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1965745A,1931-03-21,"Off-bearing machine 
-     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1968072A,1929-07-12,"Under water lighting unit 
-     ","['ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1971574A,1933-05-22,"Off bearing delivery 
-     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US1971634A,1934-08-28,Of producing an oxidized ,"['ADP', 'VERB', 'DET', 'VERB']",[],0,0,4,0,1
-US1972146A,1930-10-18,"Thermocouple 
-     ","['DET', 'SPACE']",[],0,0,2,0,1
-US1973356A,1930-10-30,"Weft feeding shuttle for automatic looms 
-     ","['ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",['ORG'],0,0,7,0,1
-US1973437A,1934-09-11,A kottmann ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1977491A,1933-12-12,"Inside grooving tool 
-     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
-US1978321A,1930-10-21,"A low compression oil burning engine 
-     ","['DET', 'ADJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US1978683A,1929-02-18,"No roll back device 
-     ","['DET', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1979085A,1930-12-06,"Thermocouple 
-     ","['DET', 'SPACE']",[],0,0,2,0,1
-US1980010A,1930-12-27,"By-product ammonia recovery method 
-     ","['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US1983409A,1932-03-16,"Weft inserting mechanism for looms for weaving 
-     ","['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'SPACE']",['ORG'],0,0,8,0,1
-US1984490A,1932-02-10,"Over-running clutch construction 
-     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
-US1985597A,1932-06-23,"Fungicide 
-     ","['ADP', 'SPACE']",[],0,0,2,0,1
-US1985631A,1934-12-25,The product thereof ,"['DET', 'NOUN', 'ADV']",[],0,0,3,0,1
-US1987066A,1933-01-30,"Vernier adjusting control unit 
-     ","['DET', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1987575A,1934-03-12,"By-pass for high tension electricity 
-     ","['ADP', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
-US1991274A,1935-02-12,No-paste photograph album ,"['DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US1994651A,1933-01-30,"Vernier adjusting control unit 
-     ","['DET', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1994832A,1935-03-19,A b osgood ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1998804A,1934-01-02,"Inside casing cutter 
-     ","['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1903656A,1933-04-11,of south bend,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1903686A,1933-04-11,of south bend,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1904161A,1929-04-18,By-product coke oven operation,"['ADP', 'PUNCT', 'NOUN', 'PROPN', 'PROPN', 'NOUN', 'SPACE']",[],1,0,7,0,1
+US1904468A,1933-04-18,And karl d,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1908358A,1933-05-09,And detroit totst cqwpawz,"['CCONJ', 'PROPN', 'PROPN', 'VERB']",['GPE'],1,0,4,0,1
+US1911548A,1933-05-30,of green bay,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1911562A,1933-05-30,And marvin c,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1911685A,1933-05-30,And william t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1911745A,1933-05-30,And majdhav r,"['CCONJ', 'PROPN', 'NOUN']",['GPE'],1,0,3,0,1
+US1911765A,1933-05-30,And lee m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1917338A,1933-07-11,To eastman kodak com- c,"['ADP', 'PROPN', 'PROPN', 'NOUN', 'AUX']",['ORG'],1,0,5,0,1
+US1933656A,1930-05-05,Over-lapping screw ash remover,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'PROPN', 'NOUN', 'SPACE']",[],1,0,7,0,1
+US1947499A,1930-08-12,By-product coke oven,"['ADP', 'PUNCT', 'NOUN', 'PROPN', 'PROPN', 'SPACE']",[],1,0,6,0,1
+US1902067A,1933-03-21,Of eneicott,"['ADP', 'ADV']",[],0,0,2,0,1
+US1903179A,1933-03-28,of chemnitz,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1904815A,1933-04-18,of basel,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1905532A,1929-08-15,Fungicide,"['ADP', 'SPACE']",[],0,0,2,0,1
+US1906015A,1929-08-21,After treatment of artificial silk,"['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1906416A,1930-03-11,Inside cutting tool,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1906674A,1932-05-03,Through wall flashing,"['ADP', 'NOUN', 'VERB', 'SPACE']",[],0,0,4,0,1
+US1907428A,1933-05-09,of springfield,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1907499A,1931-07-21,Above-water torpedo armament for surface warships,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US1910743A,1933-05-23,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1911232A,1932-04-23,Inside storm window,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1911489A,1933-05-30,And carroll a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1911526A,1933-05-30,of andebsow,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1911538A,1933-05-30,of noeth eidgeville,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1911565A,1933-05-30,of waterbury,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1911587A,1933-05-30,of kingsport,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1911593A,1933-05-30,of axbon,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1911614A,1933-05-30,epstein,"['ADP', 'SPACE']",[],0,0,2,0,1
+US1911730A,1933-05-30,of worcester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1911734A,1933-05-30,of wyandgtte,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1911868A,1930-10-01,Fungicide,"['ADP', 'SPACE']",[],0,0,2,0,1
+US1912301A,1933-05-30,of basel,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1912522A,1930-11-29,Weft detecting automatic drop box loom,"['ADP', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1912746A,1933-06-06,And cybil,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US1916401A,1933-07-04,As tbustes,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1917182A,1933-07-04,of lttbeck,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1917245A,1933-07-11,And constanttn d,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
+US1917476A,1933-07-11,of orange,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1918974A,1929-05-31,Down draft carburetor,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1921123A,1931-04-27,After treatment of filaments,"['ADP', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1922295A,1927-09-07,Inside glare shield,"['ADP', 'NOUN', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1930124A,1928-10-24,By-product recovery process and apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1934264A,1930-12-04,Over-current signal means,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'VERB', 'SPACE']",[],0,0,6,0,1
+US1936873A,1930-12-22,By-pass gate valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1941216A,1930-10-13,Outside covering for buildings,"['ADP', 'VERB', 'ADP', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1948506A,1929-08-03,By-pass condenser,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1950705A,1924-09-15,By-passing device for idle running steam engines,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,10,0,1
+US1952430A,1931-02-06,By-pass line valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1954171A,1932-09-10,Fungicide,"['ADP', 'SPACE']",[],0,0,2,0,1
+US1958102A,1932-09-16,Fungicide,"['ADP', 'SPACE']",[],0,0,2,0,1
+US1965526A,1932-04-19,By-pass valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1965745A,1931-03-21,Off-bearing machine,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1968072A,1929-07-12,Under water lighting unit,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1971574A,1933-05-22,Off bearing delivery,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1971634A,1934-08-28,Of producing an oxidized,"['ADP', 'VERB', 'DET', 'VERB']",[],0,0,4,0,1
+US1973356A,1930-10-30,Weft feeding shuttle for automatic looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",['ORG'],0,0,7,0,1
+US1977491A,1933-12-12,Inside grooving tool,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1
+US1980010A,1930-12-27,By-product ammonia recovery method,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1983409A,1932-03-16,Weft inserting mechanism for looms for weaving,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'SPACE']",['ORG'],0,0,8,0,1
+US1984490A,1932-02-10,Over-running clutch construction,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,1
+US1985597A,1932-06-23,Fungicide,"['ADP', 'SPACE']",[],0,0,2,0,1
+US1987575A,1934-03-12,By-pass for high tension electricity,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1998804A,1934-01-02,Inside casing cutter,"['ADP', 'VERB', 'NOUN', 'SPACE']",[],0,0,4,0,1

@@ -1,36 +1,10 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US807054A,1905-06-03,"Under-whip pick-motion for looms. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,10,0,1
-US812867A,1906-02-20,o connor ,"['DET', 'NOUN']",[],0,0,2,0,1
-US817866A,1906-04-17,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US818100A,1905-08-30,"For scraper. 
-     ","['ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
-US818981A,1906-04-24,On-the-main ,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,0,1
-US825659A,1905-10-02,"Suspensory controlling device for artificial limbs. 
-     ","['DET', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US826815A,1905-12-26,"Suspensory bandage. 
-     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
-US827207A,1906-02-12,"Suspensory bandage and dressing-retainer. 
-     ","['DET', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US829865A,1904-02-04,"The manufacture of nozzles for elastic-fluid turbines or other cored castings. 
-     ","['DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,15,0,1
-US830268A,1905-10-27,"A means or device for improving the circulation and augmenting the heating capacity of the fluid in heating systems. 
-     ","['DET', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'CCONJ', 'VERB', 'DET', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,21,0,1
-US832951A,1905-09-19,"Suspensory device for electric lamps. 
-     ","['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,7,0,1
-US852008A,1906-05-19,"By-pass valve. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US856650A,1906-01-24,"By-pass and waste for tapping-machines. 
-     ","['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,11,0,1
-US860584A,1905-05-09,"Suspensory bandage. 
-     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
-US870264A,1907-04-26,"Under-screen for carding-machines. 
-     ","['ADP', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
-US877868A,1906-03-28,"By-pass valve for locomotives. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
-US885809A,1907-09-06,"Off-bearing machine. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US897586A,1908-03-28,"Under-water exhaust. 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US898258A,1907-11-01,"Suspensory undershirt. 
-     ","['DET', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
+US807054A,1905-06-03,Under-whip pick-motion for looms.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,10,0,1
+US818100A,1905-08-30,For scraper.,"['ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,4,0,1
+US818981A,1906-04-24,On-the-main,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,0,1
+US852008A,1906-05-19,By-pass valve.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US856650A,1906-01-24,By-pass and waste for tapping-machines.,"['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,11,0,1
+US870264A,1907-04-26,Under-screen for carding-machines.,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,9,0,1
+US877868A,1906-03-28,By-pass valve for locomotives.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,1
+US885809A,1907-09-06,Off-bearing machine.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US897586A,1908-03-28,Under-water exhaust.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1

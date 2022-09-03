@@ -1,840 +1,380 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US1303364A,1919-05-13,For car-vestibttml-biaphragm ,"['ADP', 'NOUN', 'PUNCT', 'PROPN', 'PUNCT', 'PROPN']",[],1,0,6,0,1
-US1303559A,1919-05-13,And rexford m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1304232A,1919-05-20,And john a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US1304527A,1919-05-27,And one-third to pbancis e ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'NOUN']","['CARDINAL', 'GPE']",1,0,7,0,1
-US1304638A,1919-05-27,A cobpobation of west vibginia ,"['DET', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['GPE'],1,0,5,0,1
-US1305578A,1919-06-03,And one-fourth to everett e ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PROPN']",['CARDINAL'],1,0,7,0,1
-US1305580A,1919-06-03,And one-eourth to everett e ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PROPN']",['CARDINAL'],1,0,7,0,1
-US1305581A,1919-06-03,And one-fourth to everett e ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PROPN']",['CARDINAL'],1,0,7,0,1
-US1305876A,1919-06-03,To samuel l ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1306381A,1919-06-10,of hew haven ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1306507A,1919-06-10,And thirty-nine and one-half one-htjndredths to james a ,"['CCONJ', 'NUM', 'PUNCT', 'NUM', 'CCONJ', 'NUM', 'PUNCT', 'NOUN', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'PRON']","['CARDINAL', 'CARDINAL']",1,0,14,0,1
-US1306805A,1919-06-17,A voluntary association oe ,"['DET', 'ADJ', 'NOUN', 'PROPN']",[],1,0,4,0,1
-US1306965A,1919-06-17,The noaais pereksco ,"['DET', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1307021A,1919-06-17,And paul hardies ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1307028A,1919-06-17,For dynamo electric machines ,"['ADP', 'PROPN', 'ADJ', 'NOUN']",[],1,0,4,0,1
-US1307353A,1919-06-24,And howell c ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1307447A,1919-06-24,And simon lazakus ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1307454A,1919-06-24,And gabriel midboe ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1307809A,1919-06-24,And krahcis mead ,"['CCONJ', 'PROPN', 'NOUN']",['GPE'],1,0,3,0,1
-US1308092A,1919-07-01,A firm composed of frank c ,"['DET', 'NOUN', 'VERB', 'ADP', 'PROPN', 'PROPN']",[],1,0,6,0,1
-US1308098A,1919-07-01,A cobjpobation of new jkesey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'PROPN']",[],1,0,5,0,1
-US1309000A,1919-07-08,An d william b ,"['DET', 'PROPN', 'PROPN', 'PROPN']",[],1,0,4,0,1
-US1309304A,1919-07-08,And john f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1309571A,1919-07-08,And edward j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1309653A,1919-07-15,And obeblin smith ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1309884A,1919-07-15,And hugo froehlich ,"['CCONJ', 'PROPN', 'PROPN']",['EVENT'],1,0,3,0,1
-US1310388A,1919-07-15,And abraham schachat ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US1310399A,1919-07-15,A firm composed of jesse st ,"['DET', 'NOUN', 'VERB', 'ADP', 'PROPN', 'PROPN']",[],1,0,6,0,1
-US1310845A,1919-07-22,of kathbone plage ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1311030A,1919-07-22,And john a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US1311573A,1919-07-29,Of one-hals  to arthur c ,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'SPACE', 'AUX', 'PROPN', 'PROPN']","['CARDINAL', 'ORG']",1,0,8,0,1
-US1311812A,1919-07-29,And moses selig ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1311813A,1919-07-29,And moses selio ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1311912A,1919-08-05,Per arvid peterson ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1312027A,1919-08-05,And sep abating ores ,"['CCONJ', 'PROPN', 'VERB', 'NOUN']",[],1,0,4,0,1
-US1312603A,1919-08-12,To charles cory ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1313227A,1919-08-12,And edith m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1313360A,1919-08-19,And samuel b ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1314315A,1919-08-26,And james c ,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
-US1314359A,1919-08-26,And george f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1314821A,1919-09-02,By mildred l ,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US1315662A,1919-09-09,And wateb sefabatob ,"['CCONJ', 'PROPN', 'ADP']",[],1,0,3,0,1
-US1315870A,1919-09-09,A cobpobatiobt oe vibginia ,"['DET', 'NOUN', 'X', 'PROPN']",[],1,0,4,0,1
-US1316256A,1919-09-16,And cesare ghovanelli ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1316472A,1919-09-16,Puanograi il co ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1316572A,1919-09-23,A cobporatioit oe itew jeesey ,"['DET', 'NOUN', 'INTJ', 'ADJ', 'PROPN']",[],1,0,5,0,1
-US1317007A,1919-09-23,A firm composed of adolph ,"['DET', 'NOUN', 'VERB', 'ADP', 'PROPN']",[],1,0,5,0,1
-US1317592A,1919-09-30,And el wood a ,"['CCONJ', 'PROPN', 'VERB', 'PRON']",[],1,0,4,0,1
-US1317593A,1919-09-30,And el wood a ,"['CCONJ', 'PROPN', 'VERB', 'PRON']",[],1,0,4,0,1
-US1317868A,1919-10-07,Of hxkdto mnatahtb  ,"['ADP', 'PROPN', 'NOUN', 'SPACE']",[],1,0,4,0,1
-US1318099A,1919-10-07,And wilmab f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1318200A,1919-10-07,And antonio hebbejon lopez ,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",[],1,0,4,0,1
-US1318583A,1919-10-14,By lola v ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1319380A,1919-10-21,And rolanb heimbecker ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1319725A,1919-10-28,And john p ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1320635A,1919-11-04,of los angeles ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US1320776A,1919-11-04,And one-twelfth to charles j ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'NOUN']",['CARDINAL'],1,0,7,0,1
-US1320784A,1919-11-04,A copartnership consisting of francis e ,"['DET', 'NOUN', 'VERB', 'ADP', 'PROPN', 'NOUN']",[],1,0,6,0,1
-US1321115A,1919-11-11,And frank dove ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1321176A,1919-11-11,By mis-sue e ,"['ADP', 'PROPN', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,5,0,1
-US1321305A,1919-11-11,A copartnership composed oe george a ,"['DET', 'NOUN', 'VERB', 'PROPN', 'PROPN', 'PRON']",[],1,0,6,0,1
-US1321766A,1919-11-11,And edith m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1321880A,1919-11-18,A  coejpobation of illi ,"['DET', 'SPACE', 'NOUN', 'ADP', 'PROPN']",[],1,0,5,0,1
-US1322762A,1919-11-25,A cobpobation ov new jebsey ,"['DET', 'NOUN', 'VERB', 'ADJ', 'PROPN']",['ORG'],1,0,5,0,1
-US1322957A,1919-11-25,By clara rusk ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1323175A,1919-11-25,And one-fourth to john ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN']",['CARDINAL'],1,0,6,0,1
-US1323266A,1919-12-02,A coepokation of new jessev ,"['DET', 'NOUN', 'ADP', 'PROPN', 'PROPN']",[],1,0,5,0,1
-US1323438A,1919-12-02,of niagara falls ,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1323485A,1919-12-02,By ida w ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1323545A,1919-12-02,of san jose ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US1323727A,1919-12-02,A cokpoeation of illietois ,"['DET', 'NOUN', 'ADP', 'PROPN']",[],1,0,4,0,1
-US1323760A,1919-12-02,And one-third to james c ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,7,0,1
-US1324057A,1919-12-09,And one-hale to elizabeth ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN']",['CARDINAL'],1,0,6,0,1
-US1324105A,1919-12-09,By cora m ,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1324426A,1919-12-09,of niagara falls ,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1324484A,1919-12-09,A cobpokaiioit oe mich ,"['DET', 'NOUN', 'PROPN', 'PROPN']",[],1,0,4,0,1
-US1324532A,1919-12-09,To wqodson s ,"['ADP', 'PROPN', 'PART']",[],1,0,3,0,1
-US1324984A,1919-12-16,A partnership composed of wm ,"['DET', 'NOUN', 'VERB', 'ADP', 'PROPN']",[],1,0,5,0,1
-US1325551A,1919-12-23,And john a ,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US1325646A,1919-12-23,And sobbbt d ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1326253A,1919-12-30,And geobge b ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US1326661A,1919-12-30,And august h ,"['CCONJ', 'PROPN', 'NOUN']",['DATE'],1,0,3,0,1
-US1327380A,1920-01-06,To fedders manufactur ,"['ADP', 'NOUN', 'PROPN']",[],1,0,3,0,1
-US1327575A,1920-01-06,Of los aetgeles ,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1329039A,1920-01-27,And abthub l ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1329114A,1920-01-27,A coiupobation oe stew jeesey ,"['DET', 'NOUN', 'PROPN', 'ADP', 'PROPN']",[],1,0,5,0,1
-US1330009A,1920-02-03,Of san francisco ,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US1330769A,1920-02-10,And one-fourth to william ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN']",['CARDINAL'],1,0,6,0,1
-US1331238A,1920-02-17,And harry p ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1334155A,1920-03-16,And samuel m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1343750A,1920-06-15,A cgkpohation of missot ki ,"['DET', 'NOUN', 'ADP', 'ADJ', 'PROPN']",[],1,0,5,0,1
-US1343816A,1920-06-15,And samuel friedman ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1344459A,1920-06-22,And george g ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1355447A,1920-10-12,And one-third to james ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN']",['CARDINAL'],1,0,6,0,1
-US1355634A,1920-10-12,And bert ff ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1358889A,1920-11-16,A cokporatioii of new jebsey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'PROPN']",[],1,0,5,0,1
-US1359632A,1920-11-23,And one-third to eli cahn ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,7,0,1
-US1360089A,1920-11-23,And walter j ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1360403A,1920-11-30,To johnson automobile sheet ,"['ADP', 'PROPN', 'NOUN', 'NOUN']",[],1,0,4,0,1
-US1361326A,1920-12-07,And one-fourth to herman c ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PROPN']",['CARDINAL'],1,0,7,0,1
-US1361843A,1916-08-14,"Inside corner-bead 
-     ","['ADP', 'NOUN', 'PUNCT', 'PROPN', 'SPACE']",[],1,0,5,0,1
-US1364718A,1921-01-04,by amelia b ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1370715A,1921-03-08,And augustus wood ,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1370944A,1921-03-08,And lynn a ,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US1371028A,1921-03-08,By annie mae ,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1374895A,1921-04-19,And thbee-eighths to e ,"['CCONJ', 'PROPN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],1,0,6,0,1
-US1376062A,1921-04-26,Of highland pabk ,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US1376898A,1921-05-03,And john f ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1380863A,1921-06-07,Of cbttde petboleum pob ptjbificatioi-t ,"['ADP', 'NOUN', 'NOUN', 'PROPN', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,7,0,1
-US1383760A,1921-07-05,And roy j ,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
-US1385105A,1921-07-19,And alfonso m ,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US1385145A,1921-07-19,A copartnership consisting of francis e ,"['DET', 'NOUN', 'VERB', 'ADP', 'PROPN', 'NOUN']",[],1,0,6,0,1
-US1389446A,1921-08-30,And david o ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1389886A,1921-09-06,And gttstave nemnich ,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
-US1390241A,1921-09-06,And harry d ,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1300699A,1919-04-15,of flint ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1302923A,1919-05-06,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1303023A,1919-05-06,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1303057A,1919-05-06,Sh abpeneb fob disk harbors ,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US1303058A,1919-05-06,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1303101A,1919-05-06,And one-third to ferdinand boehmer ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
-US1303193A,1919-05-06,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1303209A,1919-05-06,And herbert g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1303224A,1919-05-13,A cbrporation of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1303250A,1919-05-13,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1303259A,1919-05-13,A coepobatiom ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1303277A,1919-05-13,And margin olszak ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1303304A,1919-05-13,The correct holding of the hand when writing and for ,"['DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'SCONJ', 'VERB', 'CCONJ', 'ADP']",[],0,0,10,0,1
-US1303371A,1919-05-13,A corporatiok ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1303454A,1919-05-13,And working dottgh ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1303517A,1919-05-13,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1303524A,1919-05-13,of newark ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1303572A,1919-05-13,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1303618A,1919-05-13,And apparatus for heating liquid by means of heat produced ,"['CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,10,0,1
-US1303686A,1919-05-13,And fbank ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US1303783A,1919-05-13,A cobporation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1303860A,1919-05-20,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1303948A,1919-05-20,o connor ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1303961A,1919-05-20,Farming- implement ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US1304258A,1919-05-20,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1304263A,1919-05-20,And one-twelfth to frank m ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'VERB']",['CARDINAL'],0,0,7,0,1
-US1304270A,1914-06-11,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1304365A,1919-05-20,of quebec ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1304373A,1919-05-20,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1304483A,1919-05-20,of kyoto ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1304559A,1919-05-27,A cobfobavioiff ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1304695A,1919-05-27,A coepobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1304752A,1919-05-27,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1304805A,1919-05-27,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1304829A,1919-05-27,A cqbpokgtxoh ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1304891A,1919-05-27,A corporatiok ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1305034A,1919-05-27,And hugh v ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1305045A,1919-05-27,of new brunswick ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1305202A,1919-05-27,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1305222A,1919-05-27,And ten ,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
-US1305247A,1919-06-03,of hale ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1305328A,1919-06-03,of waterbury ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1305451A,1919-06-03,By lillie may ,"['ADP', 'NOUN', 'AUX']",[],0,0,3,0,1
-US1305531A,1919-06-03,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1305577A,1919-06-03,And one-fourth to evbsetz e ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
-US1305616A,1919-06-03,of renfrew ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1305644A,1919-06-03,And alexander a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1305678A,1919-06-03,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1305697A,1919-06-03,A voluntary association op ,"['DET', 'ADJ', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1305756A,1919-06-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1305833A,1919-06-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1305899A,1919-06-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1305913A,1919-06-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1306106A,1919-06-10,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1306112A,1919-06-10,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1306120A,1919-06-10,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1306121A,1919-06-10,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1306199A,1919-06-10,A cobbos ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1306290A,1919-06-10,And one-sixth to j ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,6,0,1
-US1306399A,1919-06-10,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1306413A,1919-06-10,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1306466A,1919-06-10,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1306471A,1919-06-10,A cobpobatioh ob hew yosk ,"['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US1306527A,1919-06-10,A voluntary association of ,"['DET', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,0,1
-US1306535A,1919-06-10,A voluntary association of ,"['DET', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,0,1
-US1306540A,1919-06-10,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1306542A,1919-06-10,By hazel t ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1306554A,1919-06-10,And steering wheel ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1306564A,1919-06-10,And alexis r ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1306584A,1919-06-10,And george a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1306585A,1919-06-10,And george a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1306608A,1919-06-10,Of middleport ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1306744A,1919-06-17,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1306773A,1919-06-17,A voluntary asso ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1306822A,1919-06-17,Of massachu ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1306846A,1919-06-17,of philadelphia ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1306991A,1919-06-17,For separating meats from hulls ,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
-US1307048A,1919-06-17,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1307065A,1919-06-17,A cobpobatxon of penksyl ,"['DET', 'NOUN', 'ADP', 'ADJ']",[],0,0,4,0,1
-US1307087A,1919-06-17,A cobr ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1307160A,1919-06-17,a hptt cl ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1307205A,1919-06-17,A cobpobatioisr ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1307248A,1919-06-17,of syracuse ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1307264A,1919-06-17,To union ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1307266A,1919-06-17,A fibm consisting of ,"['DET', 'NOUN', 'VERB', 'ADP']",[],0,0,4,0,1
-US1307364A,1919-06-24,A cobpoiiatioit ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1307371A,1919-06-24,By laura augusta ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1307381A,1919-06-24,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1307388A,1919-06-24,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1307403A,1919-06-24,And one-third to claude l ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
-US1307436A,1919-06-24,A cobporation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1307470A,1919-06-24,A partnership ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1307492A,1919-06-24,And one-third to frederick ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
-US1307532A,1919-06-24,By johk e ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1307579A,1919-06-24,of corning ,"['ADP', 'VERB']",[],0,0,2,0,1
-US1307622A,1919-06-24,And one-third to w ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'ADP']",['CARDINAL'],0,0,6,0,1
-US1307713A,1919-06-24,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1307727A,1919-06-24,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1307735A,1919-06-24,A cobporatiom ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1307743A,1919-06-24,A corpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1307797A,1919-06-24,And calvin p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1307880A,1919-06-24,of liverpool ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1307886A,1919-06-24,of budapest ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1307992A,1919-06-24,A cobpobation of vibginia ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
-US1308093A,1919-07-01,A cobpobatiojt ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1308142A,1919-07-01,A cobpokatiobt of ottto ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1308234A,1919-07-01,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1308278A,1919-07-01,A cobj ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1308322A,1919-07-01,A cobpobatiow of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1308389A,1919-07-01,of hale ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1308401A,1919-07-01,A corpobation of peot ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1308443A,1919-07-01,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1308484A,1919-07-01,A voltotaby association of ,"['DET', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,0,1
-US1308509A,1919-07-01,of tronbhjem ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1308722A,1919-07-01,And ten per cent ,"['CCONJ', 'NUM', 'NOUN', 'NOUN']",['MONEY'],0,0,4,0,1
-US1308734A,1919-07-01,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1308738A,1919-07-01,Of bridgeport ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1308743A,1919-07-01,And charles p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1308837A,1919-07-08,Of brooklyn ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1308850A,1919-07-08,For fluid-pressure systems ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US1308881A,1919-07-08,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1309023A,1919-07-08,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1309237A,1919-07-08,A cobporation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1309275A,1919-07-08,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1309287A,1919-07-08,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1309374A,1919-07-08,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1309375A,1919-07-08,A corporatiqh of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1309413A,1919-07-08,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1309570A,1919-07-08,A cobjpokation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1309696A,1919-07-15,And claude c ,"['CCONJ', 'VERB', 'AUX']",[],0,0,3,0,1
-US1309705A,1919-07-15,of salem ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1309722A,1919-07-15,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1309786A,1919-07-15,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1309909A,1919-07-15,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1309967A,1919-07-15,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1310210A,1919-07-15,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1310346A,1919-07-15,of kearney ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1310386A,1919-07-15,In march ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1310421A,1919-07-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1310575A,1919-07-22,A cobpokatiost ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1310623A,1919-07-22,And alfred shedlock ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1310624A,1919-07-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1310660A,1919-07-22,in man ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1310689A,1919-07-22,A partnership ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1310715A,1919-07-22,And gtjstave monrath ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1310716A,1919-07-22,of billancourt ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1310738A,1919-07-22,And oliver d ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1310748A,1919-07-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1310842A,1919-07-22,A corpoeatioit of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1310909A,1919-07-22,of pobtlajoj ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1310958A,1919-07-22,o connor ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1310971A,1919-07-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1310998A,1919-07-22,Of materials by gravity ,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1311010A,1919-07-22,And edward m ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1311095A,1919-07-22,And emil tavastila ,"['CCONJ', 'ADV', 'NOUN']",[],0,0,3,0,1
-US1311162A,1919-07-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1311163A,1919-07-29,The colua ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1311197A,1919-07-29,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1311263A,1919-07-29,A firm composed of otis l ,"['DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US1311296A,1919-07-29,And akehtjb ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US1311316A,1919-07-29,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1311336A,1919-07-29,By-passed-flue-gas cane-juice heater ,"['ADP', 'PUNCT', 'VERB', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,11,0,1
-US1311377A,1919-07-29,And stabilizing ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US1311467A,1919-07-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1311504A,1919-07-29,And one-third to a e bartlett ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",['CARDINAL'],0,0,8,0,1
-US1311540A,1919-07-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1311617A,1919-07-29,A cobp ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1311645A,1919-07-29,A cobporation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1311767A,1919-07-29,A cokpobgtiok osi ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1311872A,1919-08-05,A corposatkot of dela ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
-US1311878A,1919-08-05,A cosjporation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1311926A,1919-08-05,A cobpokatioh ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1311962A,1919-08-05,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1312000A,1919-08-05,And other ,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US1312034A,1919-08-05,Of rochester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1312042A,1919-08-05,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1312046A,1919-08-05,of tiptobt ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1312158A,1919-08-05,A cobfo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1312182A,1919-08-05,A cobpobation op ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1312387A,1919-08-05,And one-thibd to frank ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
-US1312399A,1919-08-05,By fannie brown ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1312424A,1919-08-05,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1312478A,1919-08-05,And theodore h ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1312517A,1919-08-12,Of worcester ,"['ADP', 'ADV']",[],0,0,2,0,1
-US1312530A,1919-08-12,To the j ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
-US1312532A,1919-08-12,A cobporation of massachti ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1312533A,1919-08-12,A cospobatiobt of massachu ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1312669A,1919-08-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1312750A,1919-08-12,A cobfobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1312774A,1919-08-12,The columhia planooraph ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1312776A,1919-08-12,of castleton ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1312834A,1919-08-12,of flint ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1312855A,1919-08-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1312858A,1919-08-12,Of penn ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1312914A,1919-08-12,A firm composed of felix counard ,"['DET', 'NOUN', 'VERB', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US1312920A,1919-08-12,A voluntary asso ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1313006A,1919-08-12,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1313029A,1919-08-12,Of liquid ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1313056A,1919-08-12,And fred pearson ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1313166A,1919-08-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1313176A,1919-08-12,A cokpobation obi wis ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1313218A,1919-08-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1313219A,1919-08-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1313259A,1919-08-19,A cospobaeeonof sew tobk ,"['DET', 'NOUN', 'VERB', 'NOUN']",[],0,0,4,0,1
-US1313292A,1919-08-19,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1313297A,1919-08-19,And one-fourth ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
-US1313298A,1919-08-19,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1313331A,1919-08-19,And emantjel j ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1313345A,1919-08-19,A cokpob-ation of ,"['DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,5,0,1
-US1313358A,1919-08-19,w atkins ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1313397A,1919-08-19,of montreal ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1313423A,1919-08-19,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1313525A,1919-08-19,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1313527A,1919-08-19,A cosposa ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1313664A,1919-08-19,of grand rapids ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1313668A,1919-08-19,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1313695A,1919-08-19,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1313706A,1919-08-19,A corpobatioit of ,"['DET', 'NOUN', 'ADP']",['GPE'],0,0,3,0,1
-US1313844A,1919-08-19,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1313991A,1919-08-26,And william a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1314068A,1919-08-26,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1314342A,1919-08-26,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1314453A,1919-08-26,And haruy e ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1314454A,1919-08-26,A coxpobatioet of illiktois ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1314458A,1919-08-26,A cobpobation of new yobk ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US1314577A,1919-09-02,And one-third to w ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'ADP']",['CARDINAL'],0,0,6,0,1
-US1314613A,1919-09-02,of pittsburgh ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1314709A,1919-09-02,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1314849A,1919-09-02,And one-third to clarence l ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
-US1314883A,1919-09-02,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1314884A,1919-09-02,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1314958A,1919-09-02,of new yobk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1314971A,1919-09-02,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1314986A,1919-09-02,A corporatibir of hew yore ,"['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US1315000A,1919-09-02,and-erson ,"['CCONJ', 'PUNCT', 'NOUN']",[],0,0,3,0,1
-US1315106A,1919-09-02,A cobpobatioh ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1315202A,1919-09-09,And wabben s ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1315342A,1919-09-09,A trust of massa ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1315378A,1919-09-09,of new yobk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1315397A,1919-09-09,A eoeporatioh oii new ,"['DET', 'ADV', 'NOUN', 'ADJ']",[],0,0,4,0,1
-US1315399A,1919-09-09,A corp ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1315460A,1919-09-09,And nathaniel h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1315574A,1919-09-09,And harvey h ,"['CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
-US1315582A,1919-09-09,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1315589A,1919-09-09,of seattle ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1315607A,1919-09-09,of quebec ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1315639A,1919-09-09,of bbttssels ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1315658A,1919-09-09,A cokporation of pennsyl ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1315720A,1919-09-09,Re weighing-machine ,"['ADP', 'VERB', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US1315889A,1919-09-09,Per westin ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1315947A,1919-09-16,A cokpohatioitoe ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1315997A,1919-09-16,Nt office ,"['DET', 'NOUN']",['ORG'],0,0,2,0,1
-US1316018A,1919-09-16,A cokpoba ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1316104A,1919-09-16,A eorporation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1316123A,1919-09-16,A cokpobatioit of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1316146A,1919-09-16,A cobpobatior of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1316204A,1919-09-16,A cokpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1316205A,1919-09-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1316210A,1919-09-16,A corpobation oe ,"['DET', 'NOUN', 'INTJ']",[],0,0,3,0,1
-US1316249A,1919-09-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1316261A,1919-09-16,And alfred v ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1316390A,1919-09-16,And demotfnter ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US1316410A,1919-09-16,And double-decking cotton-bales in freight-cabs ,"['CCONJ', 'ADJ', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,11,0,1
-US1316444A,1919-09-16,A cokpobatiomt ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1316516A,1919-09-16,A cobjpoeatiolt of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1316528A,1919-09-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1316581A,1919-09-23,A cobpobatioh ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1316601A,1919-09-23,A cokpoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1316666A,1919-09-23,And alfred v ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1316668A,1919-09-23,of baitbcobb ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1316885A,1919-09-23,of springfield ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1316902A,1919-09-23,Nt office ,"['DET', 'NOUN']",['ORG'],0,0,2,0,1
-US1316903A,1919-09-23,of youngstqww ,"['ADP', 'ADV']",[],0,0,2,0,1
-US1317160A,1919-09-30,of basel ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1317225A,1919-09-30,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1317250A,1919-09-30,A cobporatiojet ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1317280A,1919-09-30,Of stretfobb ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1317328A,1919-09-30,A cobpobation of new jebsey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",['ORG'],0,0,5,0,1
-US1317384A,1919-09-30,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1317407A,1919-09-30,A cdupoilation of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1317431A,1919-09-30,Ob excavating machhite ,"['ADP', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
-US1317435A,1919-09-30,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1317459A,1919-09-30,of ivry-port ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US1317486A,1919-09-30,A cokp ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1317506A,1919-09-30,A corpobgtiok oei jstew ,"['DET', 'NOUN', 'INTJ', 'NOUN']",[],0,0,4,0,1
-US1317526A,1919-09-30,A cokpohatiojs  of ,"['DET', 'NOUN', 'SPACE', 'ADP']",[],0,0,4,0,1
-US1317529A,1919-09-30,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1317534A,1919-09-30,A gobpobatioh ,"['DET', 'NOUN']",['DATE'],0,0,2,0,1
-US1317563A,1919-09-30,And six twenty ,"['CCONJ', 'NUM', 'NUM']",['CARDINAL'],0,0,3,0,1
-US1317681A,1919-10-07,Inside gage fob ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1317732A,1919-10-07,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1317785A,1919-10-07,A cobpobatiqn ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1317860A,1919-10-07,To tee staitoakd parts ,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1317931A,1919-10-07,By grace ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1317967A,1919-10-07,And one-half to stew art-warner speedometer cor ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']","['CARDINAL', 'ORG']",0,0,11,0,1
-US1318098A,1919-10-07,of act-out vale ,"['ADP', 'VERB', 'PUNCT', 'ADP', 'NOUN']",[],0,0,5,0,1
-US1318173A,1919-10-07,To union ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1318212A,1919-10-07,of pabis ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1318243A,1919-10-07,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1318244A,1919-10-07,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1318245A,1919-10-07,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1318310A,1919-10-07,and herman- w ,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US1318350A,1919-10-14,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1318381A,1919-10-14,A cokpobatioij ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1318445A,1919-10-14,A cobporatiobt obi haute ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1318464A,1919-10-14,A cobporation of dela ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
-US1318484A,1919-10-14,A cokporatiom ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1318501A,1919-10-14,A fibm compose ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1318523A,1919-10-14,And fireproofing wood and other materials ,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US1318626A,1919-10-14,And georcke e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1318641A,1919-10-14,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1318646A,1919-10-14,A corporatioit of dela ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
-US1318731A,1919-10-14,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1318766A,1919-10-14,And ten ,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
-US1318771A,1919-10-14,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1318772A,1919-10-14,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1318827A,1919-10-14,of leicester ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1318836A,1919-10-14,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1318876A,1919-10-14,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1318885A,1919-10-14,And maximilian charles ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1318912A,1919-10-14,And harvey h ,"['CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
-US1319123A,1919-10-21,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1319135A,1919-10-21,Automobile- alarm ,"['ADP', 'NOUN']",['ORG'],0,0,2,0,1
-US1319175A,1919-10-21,A cokpobatiqn ojf ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1319214A,1919-10-21,A corsgb ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1319232A,1919-10-21,By may e ,"['ADP', 'AUX', 'NOUN']",[],0,0,3,0,1
-US1319264A,1919-10-21,And brewster c ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1319314A,1919-10-21,of binghamton ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1319365A,1919-10-21,of basel ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1319374A,1919-10-21,The mechanical tension of electric line conductors ,"['DET', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US1319411A,1919-10-21,A eirm composed ,"['DET', 'ADJ', 'VERB']",[],0,0,3,0,1
-US1319424A,1919-10-21,To marine safety ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1319430A,1919-10-21,A cobpobatioh of hew yoke ,"['DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US1319467A,1919-10-21,A corporatlon ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1319490A,1919-10-21,And prank e ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1319501A,1919-10-21,Of mis ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1319632A,1919-10-21,To the petroleum ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
-US1319716A,1919-10-28,A cobpobationi osi illistois ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1319717A,1919-10-28,A ssigltor  to ,"['DET', 'NOUN', 'SPACE', 'ADP']",[],0,0,4,0,1
-US1319795A,1919-10-28,The same ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1319805A,1919-10-28,A cobporation of pennsyl ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1319828A,1919-10-28,And willard c ,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
-US1319843A,1919-10-28,And hugh t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1319895A,1919-10-28,A coepobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1320007A,1919-10-28,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1320156A,1919-10-28,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1320245A,1919-10-28,A joint stock association of new yob-k ,"['DET', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,0,1
-US1320248A,1919-10-28,A corpobation of new jeksey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US1320293A,1919-10-28,To food ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1320362A,1919-10-28,A cobporatioh of illi ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1320469A,1919-11-04,A common law ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1320653A,1919-11-04,A cobpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1320716A,1919-11-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1320870A,1919-11-04,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1320928A,1919-11-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1320929A,1919-11-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1320930A,1919-11-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1321077A,1919-11-11,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1321149A,1919-11-11,A cokpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1321288A,1919-11-11,of little falls ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1321291A,1919-11-11,Or the like ,"['CCONJ', 'DET', 'INTJ']",[],0,0,3,0,1
-US1321314A,1919-11-11,of la fayette ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
-US1321418A,1919-11-11,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1321428A,1919-11-11,And chester t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1321440A,1919-11-11,A voluntary ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1321477A,1919-11-11,of grand rapids ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1321478A,1919-11-11,of new castle ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1321514A,1919-11-11,of aurora ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1321575A,1919-11-11,of cedar rapids ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1321723A,1918-04-11,"Through ringing repeater circuits. 
-     ","['ADP', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
-US1321785A,1919-11-11,of portland ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1321845A,1919-11-18,Per emil perman ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1321878A,1919-11-18,of watob vaxies ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1321922A,1919-11-18,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1321956A,1919-11-18,of karlstad ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1321974A,1919-11-18,of amesbury ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1321985A,1919-11-18,A cobjpobatiqjst ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1322001A,1919-11-18,A cokpokation ot ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1322035A,1919-11-18,A cobpobatioh ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1322047A,1919-11-18,And lokest l ,"['CCONJ', 'ADJ', 'X']",[],0,0,3,0,1
-US1322097A,1919-11-18,A copjpora ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1322112A,1919-11-18,A gobeobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1322158A,1919-11-18,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1322179A,1919-11-18,of cardonald ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1322191A,1919-11-18,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1322242A,1919-11-18,of new haven ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1322316A,1919-11-18,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1322317A,1919-11-18,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1322350A,1919-11-18,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1322457A,1919-11-18,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1322497A,1919-11-18,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1322501A,1919-11-18,A cokpqgation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1322537A,1919-11-25,of springfield ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1322629A,1919-11-25,A corpoeatiost of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1322691A,1919-11-25,And elmee s ,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1322697A,1919-11-25,A cobporation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1322750A,1919-11-25,of alliance ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1322776A,1919-11-25,And frederick p ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1322785A,1919-11-25,A firm consisting of theodore h ,"['DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US1322834A,1919-11-25,of beading ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1322869A,1919-11-25,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1322900A,1919-11-25,of eastoit ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1322917A,1919-11-25,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1322922A,1919-11-25,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1322945A,1919-11-25,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1323125A,1919-11-25,A cobpobation of wis ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1323220A,1919-11-25,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1323239A,1919-12-02,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1323262A,1919-12-02,of westminster ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1323276A,1919-12-02,cf hartford ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1323357A,1919-12-02,And one-fourth to jasper ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'NOUN']",['CARDINAL'],0,0,6,0,1
-US1323461A,1919-12-02,And cutting apparatus ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1323471A,1919-12-02,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1323543A,1919-12-02,of new yobk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1323561A,1919-12-02,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1323569A,1919-12-02,A coepgbation of massachu ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
-US1323776A,1919-12-02,A cobpoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1323847A,1919-12-02,of tubize ,"['ADP', 'VERB']",[],0,0,2,0,1
-US1323859A,1919-12-02,of norwood ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1323920A,1919-12-02,Of ships ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1323944A,1919-12-02,And charles a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1324010A,1919-12-02,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1324014A,1919-12-02,of akron ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1324047A,1919-12-09,And one-third to ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP']",['CARDINAL'],0,0,5,0,1
-US1324079A,1919-12-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1324140A,1919-12-09,A cobporation op ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1324154A,1919-12-09,A cobpobation of dela ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
-US1324155A,1919-12-09,A cohpqration ccf ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1324157A,1919-12-09,A cohpobatioef of deeawake ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1324162A,1919-12-09,A cospobatiow ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1324163A,1919-12-09,Of one-hale to himselsi ,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
-US1324211A,1919-12-09,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1324225A,1919-12-09,A voluntary assg ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1324346A,1919-12-09,A cobpobatioit ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1324371A,1919-12-09,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1324372A,1919-12-09,And httgh ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US1324373A,1919-12-09,And hugh h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1324374A,1919-12-09,And hugh h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1324375A,1919-12-09,And hugh h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1324376A,1919-12-09,And hugh h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1324377A,1919-12-09,And hugh h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1324378A,1919-12-09,And hugh h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1324379A,1919-12-09,And hugh h ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1324431A,1919-12-09,A corpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1324450A,1919-12-09,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1324491A,1919-12-09,A cobp ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1324497A,1919-12-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1324508A,1919-12-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1324548A,1919-12-09,Of whiting ,"['ADP', 'VERB']",[],0,0,2,0,1
-US1324573A,1919-12-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1324593A,1919-12-09,And feeding device ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1324788A,1919-12-16,A corpobatioz ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1324894A,1919-12-16,of rochester ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1324969A,1919-12-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1324980A,1919-12-16,And arthur p ,"['CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
-US1325011A,1919-12-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325074A,1919-12-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1325092A,1919-12-16,And one-half ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
-US1325093A,1919-12-16,And one-hal ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
-US1325148A,1919-12-16,a ttttcft ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325172A,1919-12-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325178A,1919-12-16,And one-third to j ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,6,0,1
-US1325278A,1919-12-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1325294A,1919-12-16,By cecil ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1325324A,1919-12-16,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325333A,1919-12-16,And one-third to edward h ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN']",['CARDINAL'],0,0,7,0,1
-US1325359A,1919-12-16,of pabkebseueg ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1325424A,1919-12-16,A cobjpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325509A,1919-12-23,of baltimore ,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1325563A,1919-12-23,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1325611A,1919-12-23,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325612A,1919-12-23,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325670A,1919-12-23,A  corpo ,"['DET', 'SPACE', 'NOUN']",[],0,0,3,0,1
-US1325691A,1919-12-23,A cojeupora ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325844A,1919-12-23,A qoileqbatioh of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1325866A,1919-12-23,A corpoba ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325911A,1919-12-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1325919A,1919-12-23,A cozupoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325923A,1919-12-23,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1325946A,1919-12-23,of wyomissing ,"['ADP', 'VERB']",[],0,0,2,0,1
-US1326003A,1919-12-23,of la fayette ,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
-US1326009A,1919-12-23,A trust estate ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1326035A,1919-12-23,a tttktt ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1326041A,1919-12-23,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1326049A,1919-12-23,By bessie m ,"['ADP', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1326132A,1919-12-23,A cobpobation of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1326211A,1919-12-30,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1326228A,1919-12-30,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1326611A,1919-12-30,And charles c ,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
-US1326621A,1919-12-30,A cobpobatiojs ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1326659A,1919-12-30,A corpoeation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1326666A,1919-12-30,A coeeobatioh  of majists ,"['DET', 'NOUN', 'SPACE', 'ADP', 'NOUN']",[],0,0,5,0,1
-US1326702A,1919-12-30,A coepobatioixt ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1326755A,1919-12-30,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1326892A,1919-12-30,A cobpobation of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1327216A,1920-01-06,of ivry-port ,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US1328783A,1920-01-20,A cobpobation of illi ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1328865A,1920-01-27,And train-control system ,"['CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US1328893A,1920-01-27,of freeport ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1329463A,1920-02-03,of akron ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1329511A,1920-02-03,And feteb ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US1329889A,1920-02-03,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1330006A,1920-02-03,And emmerich h ,"['CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
-US1331038A,1920-02-17,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1331471A,1920-02-17,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1331712A,1920-02-24,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1332214A,1920-03-02,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1332699A,1920-03-02,A cobpor ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1333060A,1920-03-09,For looms ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1333167A,1920-03-09,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1333631A,1915-04-17,"By-product condenser 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1333929A,1920-03-16,A cobpobation op illi ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1334095A,1920-03-16,By hazel t ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1335349A,1920-03-30,A cobpobatioh of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1335648A,1920-03-30,A firm consisting of ,"['DET', 'NOUN', 'VERB', 'ADP']",[],0,0,4,0,1
-US1335769A,1920-04-06,A cqkpokation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1336768A,1920-04-13,of youngstown ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1336797A,1920-04-13,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1336838A,1920-04-13,Qqc ooo ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1337305A,1920-04-20,A coxpqbation oe con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1338042A,1920-04-27,And maximillian ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US1338946A,1920-05-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1339677A,1920-05-11,A coepobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1341344A,1920-05-25,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1342644A,1920-06-08,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1342894A,1920-06-08,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1342969A,1920-06-08,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1343121A,1920-06-08,A cobpoh ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1343170A,1920-06-08,A cobboba ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1343295A,1920-06-15,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1343347A,1920-06-15,For lids ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1343413A,1920-06-15,of mahwah ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1343690A,1920-06-15,A cobporation of massa ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1343961A,1916-12-09,"No-voltage release attachment for electric switches 
-     ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US1344117A,1920-06-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1344260A,1920-06-22,A cobpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1344687A,1920-06-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1344840A,1920-06-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1344841A,1920-06-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1344842A,1920-06-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1344866A,1919-04-09,"Through-rail diamond 
-     ","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1345420A,1920-07-06,And one-eighth to ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
-US1345853A,1920-07-06,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1346049A,1920-07-06,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1346481A,1920-07-13,Of vermo x ,"['ADP', 'NOUN', 'PUNCT']",[],0,0,3,0,1
-US1346801A,1920-07-13,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1346899A,1920-07-20,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1347103A,1920-07-20,A coepoba ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1347668A,1920-07-27,And edward ,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US1347723A,1920-07-27,of karlstad ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1347775A,1920-07-27,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1347864A,1918-01-03,"Suspensory 
-     ","['DET', 'SPACE']",[],0,0,2,0,1
-US1348401A,1915-12-20,"Udder attachment for milking-machines 
-     ","['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US1348755A,1920-08-03,of bridgeport ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1349039A,1920-08-10,A copartnership consisting ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1349445A,1920-08-10,A cofijoltation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1349628A,1920-08-17,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1349783A,1920-08-17,of derby ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1350634A,1920-08-24,A voluntary associa ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1350681A,1920-08-24,And arthctb ,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US1350750A,1920-08-24,And lewis v ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1350863A,1915-12-07,"Suspensory 
-     ","['DET', 'SPACE']",[],0,0,2,0,1
-US1351348A,1920-08-31,A cobpobation of new jebsey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",['ORG'],0,0,5,0,1
-US1352266A,1920-09-07,To blttjr motor ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1352382A,1920-09-07,Of one-hale to alexander ,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
-US1353250A,1920-09-21,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1353285A,1920-09-21,of zubich ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1353293A,1920-09-21,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1354090A,1920-09-28,of rhone ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1354823A,1920-10-05,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1355197A,1920-10-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1355274A,1920-10-12,A cokpok ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1355438A,1920-10-12,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1355439A,1920-10-12,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1355562A,1920-10-12,By lillie ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1355864A,1920-10-19,of coventry ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1356124A,1920-10-19,of hendra ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1356945A,1920-10-26,A copartnership consisting of ,"['DET', 'NOUN', 'VERB', 'ADP']",[],0,0,4,0,1
-US1357126A,1920-10-26,of cardiff ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1357196A,1920-10-26,of gotten- ,"['ADP', 'PRON']",[],0,0,2,0,1
-US1357291A,1920-11-02,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1357317A,1920-11-02,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1357747A,1920-11-02,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1357748A,1920-11-02,A cobpok ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1357975A,1920-11-09,And three ,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
-US1358058A,1920-11-09,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1358263A,1920-11-09,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1358550A,1920-11-09,A cokpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1358722A,1920-11-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1359173A,1920-11-16,A cobpoeation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1359780A,1920-11-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1360043A,1919-04-16,"Inside cylinder-covering for reducing steam consumption 
-     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
-US1360150A,1920-11-23,And one-thied ,"['CCONJ', 'NUM', 'PUNCT', 'VERB']",['CARDINAL'],0,0,4,0,1
-US1360373A,1920-11-30,A cokpokation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1360437A,1920-11-30,A coepobation oe penn ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1360864A,1920-11-30,And edward c ,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
-US1361016A,1920-12-07,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1361169A,1919-05-12,"Inside hood-lock 
-     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1361824A,1920-12-14,A voluntary asso ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1361985A,1920-12-14,Off-bearing mechanism for tile-cutters ,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
-US1362185A,1918-05-11,To fitz-empire double ,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADJ']",[],0,0,5,0,1
-US1362247A,1920-12-14,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1362268A,1919-05-22,"Off-bearing machine 
-     ","['ADP', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1362281A,1920-12-14,A cqkpqra ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1362352A,1920-12-14,of oshkosh ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1362355A,1920-08-31,And leslie t ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1362515A,1920-12-14,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1363003A,1920-12-21,A corpqeation of new yobk ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US1363194A,1920-12-21,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1363581A,1920-12-28,A cobporation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1363704A,1920-12-28,A corh ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1363823A,1920-12-28,And laubance h ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1363840A,1920-12-28,A cobpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1364159A,1921-01-04,Through-ringing repeater-circuits ,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
-US1364358A,1921-01-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1364416A,1921-01-04,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1365048A,1921-01-11,And mortimer j ,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1365152A,1921-01-11,A cobposatiobt of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1365327A,1921-01-11,of akron ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1366036A,1921-01-18,A coepobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1366104A,1921-01-18,A copartnership ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1366494A,1915-04-17,"By-product-recovert apparatus 
-     ","['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
-US1366807A,1921-01-25,A corpqbattnw ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1367405A,1921-02-01,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1367991A,1921-02-08,A coepoea ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1368775A,1921-02-15,Of chattanooga ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1368891A,1921-02-15,And one-thibd to tohk ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'NOUN']",['CARDINAL'],0,0,6,0,1
-US1368968A,1921-02-15,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1369028A,1921-02-22,of new yobk ,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1369140A,1921-02-22,And fred a ,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1369272A,1921-02-22,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1369435A,1921-02-22,A cobpoeation op new jebsey ,"['DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US1371460A,1921-03-15,Tvmile attqttstin barbet ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1371642A,1920-07-02,"Inside pipe-wrench 
-     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1372857A,1921-03-29,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1373777A,1921-04-05,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1374326A,1921-04-12,And mobbis g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1375079A,1921-04-19,of flint ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1375103A,1921-04-19,To jambs ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1375678A,1921-04-26,of bttcyrtjs ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1375749A,1921-04-26,A cobpoba ,"['DET', 'ADJ']",[],0,0,2,0,1
-US1376072A,1921-04-26,A cosposation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1376244A,1921-04-26,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1377366A,1920-01-02,"Between-the-lens photographic shutter 
-     ","['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,8,0,1
-US1377482A,1921-05-10,of stuttgart ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1377704A,1921-04-18,A cobpobation of new jebsey ,"['DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",['ORG'],0,0,5,0,1
-US1377856A,1921-05-10,And one-third to ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP']",['CARDINAL'],0,0,5,0,1
-US1378877A,1921-05-24,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1379545A,1920-07-23,"Inside pipe-cutter 
-     ","['ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,1
-US1379762A,1921-05-31,A coepobatiok osi ,"['DET', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1379778A,1921-05-31,A cokpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1379992A,1921-05-31,And one ,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
-US1380081A,1921-05-31,A cokpobation of pexawabe ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1380085A,1921-05-31,of akron ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1380857A,1921-06-07,To western ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1380975A,1921-06-07,A coit ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1381412A,1921-06-14,And aluhihum potvbxr ,"['CCONJ', 'NOUN', 'ADJ']",[],0,0,3,0,1
-US1381652A,1921-06-14,A firm ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1381653A,1921-06-14,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1381673A,1921-06-14,And five per cent ,"['CCONJ', 'NUM', 'NOUN', 'NOUN']",['MONEY'],0,0,4,0,1
-US1381814A,1921-06-14,And charles g ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1383130A,1921-06-28,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1383418A,1921-07-05,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1384742A,1921-07-19,And one-half to clark cutter ,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
-US1384862A,1921-07-19,A voluntary association ,"['DET', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1384877A,1921-07-19,A cobpokatxon oe wash ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1384896A,1921-07-19,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1385013A,1921-07-19,For shipping vehicles ,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1385061A,1921-07-19,A cobjpobation of wis ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1385114A,1921-07-19,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1385697A,1921-07-26,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1386503A,1921-08-02,And milo w ,"['CCONJ', 'ADJ', 'ADP']",[],0,0,3,0,1
-US1386684A,1921-08-09,A cqbposation oe ,"['DET', 'NOUN', 'ADV']",[],0,0,3,0,1
-US1387099A,1921-08-09,A cobpqbation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1387181A,1921-08-09,Of hew ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1387527A,1921-08-16,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1387860A,1921-08-16,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1388255A,1920-11-29,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1388665A,1921-08-23,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1388670A,1921-08-23,A corpoba ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1388836A,1921-08-23,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1388898A,1921-08-30,A corpo ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1388899A,1921-08-30,And cleaning machine ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1389556A,1921-08-30,A gok-pobation ,"['DET', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US1389750A,1921-09-06,A cobpobation of dela ,"['DET', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,4,0,1
-US1390180A,1921-09-06,Of bbttitswick ,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1390594A,1921-09-13,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1390597A,1919-06-14,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1390983A,1921-09-20,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1391149A,1921-09-20,A cobpobation op west ,"['DET', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1391318A,1921-09-20,of tacoma ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1391784A,1921-09-27,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1392541A,1921-10-04,of pabis ,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1393146A,1921-10-11,And laurence h ,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1394032A,1921-10-18,A cobpobation oe new ,"['DET', 'NOUN', 'NOUN', 'ADJ']",[],0,0,4,0,1
-US1394262A,1921-10-18,To its user ,"['ADP', 'PRON', 'NOUN']",[],0,0,3,0,1
-US1394380A,1921-10-18,A cobpobation of con ,"['DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
-US1394604A,1921-10-25,Of mans ,"['ADP', 'NOUN']",['NORP'],0,0,2,0,1
-US1394856A,1921-10-25,a a a a a a   ,"['DET', 'NOUN', 'NOUN', 'NOUN', 'DET', 'PRON', 'SPACE']",[],0,0,7,0,1
-US1395079A,1921-10-25,And harry r ,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1395357A,1921-11-01,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1395600A,1920-01-31,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1396285A,1921-11-08,A cobpobation of ,"['DET', 'NOUN', 'ADP']",[],0,0,3,0,1
-US1396572A,1921-11-08,A copartnership consist ,"['DET', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1396966A,1921-11-15,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1397908A,1921-11-22,A corpora ,"['DET', 'X']",[],0,0,2,0,1
-US1399343A,1921-12-06,A cobpobation ,"['DET', 'NOUN']",[],0,0,2,0,1
-US1399496A,1917-12-26,"No-voltage release-switch 
-     ","['DET', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1303364A,1919-05-13,For car-vestibttml-biaphragm,"['ADP', 'NOUN', 'PUNCT', 'PROPN', 'PUNCT', 'PROPN']",[],1,0,6,0,1
+US1303559A,1919-05-13,And rexford m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1304232A,1919-05-20,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US1304527A,1919-05-27,And one-third to pbancis e,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'NOUN']","['CARDINAL', 'GPE']",1,0,7,0,1
+US1305578A,1919-06-03,And one-fourth to everett e,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PROPN']",['CARDINAL'],1,0,7,0,1
+US1305580A,1919-06-03,And one-eourth to everett e,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PROPN']",['CARDINAL'],1,0,7,0,1
+US1305581A,1919-06-03,And one-fourth to everett e,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PROPN']",['CARDINAL'],1,0,7,0,1
+US1305876A,1919-06-03,To samuel l,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1306381A,1919-06-10,of hew haven,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1306507A,1919-06-10,And thirty-nine and one-half one-htjndredths to james a,"['CCONJ', 'NUM', 'PUNCT', 'NUM', 'CCONJ', 'NUM', 'PUNCT', 'NOUN', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'PRON']","['CARDINAL', 'CARDINAL']",1,0,14,0,1
+US1307021A,1919-06-17,And paul hardies,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1307028A,1919-06-17,For dynamo electric machines,"['ADP', 'PROPN', 'ADJ', 'NOUN']",[],1,0,4,0,1
+US1307353A,1919-06-24,And howell c,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1307447A,1919-06-24,And simon lazakus,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1307454A,1919-06-24,And gabriel midboe,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1307809A,1919-06-24,And krahcis mead,"['CCONJ', 'PROPN', 'NOUN']",['GPE'],1,0,3,0,1
+US1309304A,1919-07-08,And john f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1309571A,1919-07-08,And edward j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1309653A,1919-07-15,And obeblin smith,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1309884A,1919-07-15,And hugo froehlich,"['CCONJ', 'PROPN', 'PROPN']",['EVENT'],1,0,3,0,1
+US1310388A,1919-07-15,And abraham schachat,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US1310845A,1919-07-22,of kathbone plage,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1311030A,1919-07-22,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US1311573A,1919-07-29,Of one-hals  to arthur c,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'SPACE', 'AUX', 'PROPN', 'PROPN']","['CARDINAL', 'ORG']",1,0,8,0,1
+US1311812A,1919-07-29,And moses selig,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1311813A,1919-07-29,And moses selio,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1311912A,1919-08-05,Per arvid peterson,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1312027A,1919-08-05,And sep abating ores,"['CCONJ', 'PROPN', 'VERB', 'NOUN']",[],1,0,4,0,1
+US1312603A,1919-08-12,To charles cory,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1313227A,1919-08-12,And edith m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1313360A,1919-08-19,And samuel b,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1314315A,1919-08-26,And james c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
+US1314359A,1919-08-26,And george f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1314821A,1919-09-02,By mildred l,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US1315662A,1919-09-09,And wateb sefabatob,"['CCONJ', 'PROPN', 'ADP']",[],1,0,3,0,1
+US1316256A,1919-09-16,And cesare ghovanelli,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1316472A,1919-09-16,Puanograi il co,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1317592A,1919-09-30,And el wood a,"['CCONJ', 'PROPN', 'VERB', 'PRON']",[],1,0,4,0,1
+US1317593A,1919-09-30,And el wood a,"['CCONJ', 'PROPN', 'VERB', 'PRON']",[],1,0,4,0,1
+US1317868A,1919-10-07,Of hxkdto mnatahtb,"['ADP', 'PROPN', 'NOUN', 'SPACE']",[],1,0,4,0,1
+US1318099A,1919-10-07,And wilmab f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1318200A,1919-10-07,And antonio hebbejon lopez,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",[],1,0,4,0,1
+US1318583A,1919-10-14,By lola v,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1319380A,1919-10-21,And rolanb heimbecker,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1319725A,1919-10-28,And john p,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1320635A,1919-11-04,of los angeles,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1320776A,1919-11-04,And one-twelfth to charles j,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'NOUN']",['CARDINAL'],1,0,7,0,1
+US1321115A,1919-11-11,And frank dove,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1321176A,1919-11-11,By mis-sue e,"['ADP', 'PROPN', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,5,0,1
+US1321766A,1919-11-11,And edith m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1322957A,1919-11-25,By clara rusk,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1323175A,1919-11-25,And one-fourth to john,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN']",['CARDINAL'],1,0,6,0,1
+US1323438A,1919-12-02,of niagara falls,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1323485A,1919-12-02,By ida w,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1323545A,1919-12-02,of san jose,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1323760A,1919-12-02,And one-third to james c,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,7,0,1
+US1324057A,1919-12-09,And one-hale to elizabeth,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN']",['CARDINAL'],1,0,6,0,1
+US1324105A,1919-12-09,By cora m,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1324426A,1919-12-09,of niagara falls,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1324532A,1919-12-09,To wqodson s,"['ADP', 'PROPN', 'PART']",[],1,0,3,0,1
+US1325551A,1919-12-23,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US1325646A,1919-12-23,And sobbbt d,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1326253A,1919-12-30,And geobge b,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US1326661A,1919-12-30,And august h,"['CCONJ', 'PROPN', 'NOUN']",['DATE'],1,0,3,0,1
+US1327380A,1920-01-06,To fedders manufactur,"['ADP', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US1327575A,1920-01-06,Of los aetgeles,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1329039A,1920-01-27,And abthub l,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1330009A,1920-02-03,Of san francisco,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1330769A,1920-02-10,And one-fourth to william,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN']",['CARDINAL'],1,0,6,0,1
+US1331238A,1920-02-17,And harry p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1334155A,1920-03-16,And samuel m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1343816A,1920-06-15,And samuel friedman,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1344459A,1920-06-22,And george g,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1355447A,1920-10-12,And one-third to james,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN']",['CARDINAL'],1,0,6,0,1
+US1355634A,1920-10-12,And bert ff,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1359632A,1920-11-23,And one-third to eli cahn,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,7,0,1
+US1360089A,1920-11-23,And walter j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1360403A,1920-11-30,To johnson automobile sheet,"['ADP', 'PROPN', 'NOUN', 'NOUN']",[],1,0,4,0,1
+US1361326A,1920-12-07,And one-fourth to herman c,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PROPN']",['CARDINAL'],1,0,7,0,1
+US1361843A,1916-08-14,Inside corner-bead,"['ADP', 'NOUN', 'PUNCT', 'PROPN', 'SPACE']",[],1,0,5,0,1
+US1364718A,1921-01-04,by amelia b,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1370715A,1921-03-08,And augustus wood,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1370944A,1921-03-08,And lynn a,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
+US1371028A,1921-03-08,By annie mae,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1374895A,1921-04-19,And thbee-eighths to e,"['CCONJ', 'PROPN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],1,0,6,0,1
+US1376062A,1921-04-26,Of highland pabk,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
+US1376898A,1921-05-03,And john f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1380863A,1921-06-07,Of cbttde petboleum pob ptjbificatioi-t,"['ADP', 'NOUN', 'NOUN', 'PROPN', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,7,0,1
+US1383760A,1921-07-05,And roy j,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
+US1385105A,1921-07-19,And alfonso m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1389446A,1921-08-30,And david o,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1389886A,1921-09-06,And gttstave nemnich,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
+US1390241A,1921-09-06,And harry d,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1300699A,1919-04-15,of flint,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1303023A,1919-05-06,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1303057A,1919-05-06,Sh abpeneb fob disk harbors,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US1303101A,1919-05-06,And one-third to ferdinand boehmer,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
+US1303209A,1919-05-06,And herbert g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1303277A,1919-05-13,And margin olszak,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1303454A,1919-05-13,And working dottgh,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1303524A,1919-05-13,of newark,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1303618A,1919-05-13,And apparatus for heating liquid by means of heat produced,"['CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,10,0,1
+US1303686A,1919-05-13,And fbank,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1303961A,1919-05-20,Farming- implement,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1304263A,1919-05-20,And one-twelfth to frank m,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'VERB']",['CARDINAL'],0,0,7,0,1
+US1304270A,1914-06-11,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1304365A,1919-05-20,of quebec,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1304483A,1919-05-20,of kyoto,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1305034A,1919-05-27,And hugh v,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1305045A,1919-05-27,of new brunswick,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1305222A,1919-05-27,And ten,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
+US1305247A,1919-06-03,of hale,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1305328A,1919-06-03,of waterbury,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1305451A,1919-06-03,By lillie may,"['ADP', 'NOUN', 'AUX']",[],0,0,3,0,1
+US1305577A,1919-06-03,And one-fourth to evbsetz e,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
+US1305616A,1919-06-03,of renfrew,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1305644A,1919-06-03,And alexander a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1305678A,1919-06-03,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1306290A,1919-06-10,And one-sixth to j,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,6,0,1
+US1306413A,1919-06-10,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1306542A,1919-06-10,By hazel t,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1306554A,1919-06-10,And steering wheel,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1306564A,1919-06-10,And alexis r,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1306584A,1919-06-10,And george a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1306585A,1919-06-10,And george a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1306608A,1919-06-10,Of middleport,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1306822A,1919-06-17,Of massachu,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1306846A,1919-06-17,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1306991A,1919-06-17,For separating meats from hulls,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
+US1307248A,1919-06-17,of syracuse,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1307264A,1919-06-17,To union,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1307371A,1919-06-24,By laura augusta,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1307388A,1919-06-24,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1307403A,1919-06-24,And one-third to claude l,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
+US1307492A,1919-06-24,And one-third to frederick,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
+US1307532A,1919-06-24,By johk e,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1307579A,1919-06-24,of corning,"['ADP', 'VERB']",[],0,0,2,0,1
+US1307622A,1919-06-24,And one-third to w,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'ADP']",['CARDINAL'],0,0,6,0,1
+US1307797A,1919-06-24,And calvin p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1307880A,1919-06-24,of liverpool,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1307886A,1919-06-24,of budapest,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1308389A,1919-07-01,of hale,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1308509A,1919-07-01,of tronbhjem,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1308722A,1919-07-01,And ten per cent,"['CCONJ', 'NUM', 'NOUN', 'NOUN']",['MONEY'],0,0,4,0,1
+US1308738A,1919-07-01,Of bridgeport,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1308743A,1919-07-01,And charles p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1308837A,1919-07-08,Of brooklyn,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1308850A,1919-07-08,For fluid-pressure systems,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US1309374A,1919-07-08,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1309696A,1919-07-15,And claude c,"['CCONJ', 'VERB', 'AUX']",[],0,0,3,0,1
+US1309705A,1919-07-15,of salem,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1309722A,1919-07-15,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1309909A,1919-07-15,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1310346A,1919-07-15,of kearney,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1310386A,1919-07-15,In march,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1310623A,1919-07-22,And alfred shedlock,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1310660A,1919-07-22,in man,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1310715A,1919-07-22,And gtjstave monrath,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1310716A,1919-07-22,of billancourt,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1310738A,1919-07-22,And oliver d,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1310909A,1919-07-22,of pobtlajoj,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1310998A,1919-07-22,Of materials by gravity,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,0,1
+US1311010A,1919-07-22,And edward m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US1311095A,1919-07-22,And emil tavastila,"['CCONJ', 'ADV', 'NOUN']",[],0,0,3,0,1
+US1311296A,1919-07-29,And akehtjb,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US1311336A,1919-07-29,By-passed-flue-gas cane-juice heater,"['ADP', 'PUNCT', 'VERB', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,11,0,1
+US1311377A,1919-07-29,And stabilizing,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1311504A,1919-07-29,And one-third to a e bartlett,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",['CARDINAL'],0,0,8,0,1
+US1312000A,1919-08-05,And other,"['CCONJ', 'ADJ']",[],0,0,2,0,1
+US1312034A,1919-08-05,Of rochester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1312046A,1919-08-05,of tiptobt,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1312387A,1919-08-05,And one-thibd to frank,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
+US1312399A,1919-08-05,By fannie brown,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1312478A,1919-08-05,And theodore h,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1312517A,1919-08-12,Of worcester,"['ADP', 'ADV']",[],0,0,2,0,1
+US1312530A,1919-08-12,To the j,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US1312776A,1919-08-12,of castleton,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1312834A,1919-08-12,of flint,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1312858A,1919-08-12,Of penn,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1313029A,1919-08-12,Of liquid,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1313056A,1919-08-12,And fred pearson,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1313297A,1919-08-19,And one-fourth,"['CCONJ', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
+US1313298A,1919-08-19,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1313331A,1919-08-19,And emantjel j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1313358A,1919-08-19,w atkins,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1313397A,1919-08-19,of montreal,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1313664A,1919-08-19,of grand rapids,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1313991A,1919-08-26,And william a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1314453A,1919-08-26,And haruy e,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1314577A,1919-09-02,And one-third to w,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'ADP']",['CARDINAL'],0,0,6,0,1
+US1314613A,1919-09-02,of pittsburgh,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1314849A,1919-09-02,And one-third to clarence l,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
+US1314958A,1919-09-02,of new yobk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1315000A,1919-09-02,and-erson,"['CCONJ', 'PUNCT', 'NOUN']",[],0,0,3,0,1
+US1315202A,1919-09-09,And wabben s,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1315378A,1919-09-09,of new yobk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1315460A,1919-09-09,And nathaniel h,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1315574A,1919-09-09,And harvey h,"['CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
+US1315589A,1919-09-09,of seattle,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1315607A,1919-09-09,of quebec,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1315639A,1919-09-09,of bbttssels,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1315720A,1919-09-09,Re weighing-machine,"['ADP', 'VERB', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US1315889A,1919-09-09,Per westin,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1316261A,1919-09-16,And alfred v,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1316390A,1919-09-16,And demotfnter,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1316410A,1919-09-16,And double-decking cotton-bales in freight-cabs,"['CCONJ', 'ADJ', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,11,0,1
+US1316666A,1919-09-23,And alfred v,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1316668A,1919-09-23,of baitbcobb,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1316885A,1919-09-23,of springfield,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1316903A,1919-09-23,of youngstqww,"['ADP', 'ADV']",[],0,0,2,0,1
+US1317160A,1919-09-30,of basel,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1317280A,1919-09-30,Of stretfobb,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1317431A,1919-09-30,Ob excavating machhite,"['ADP', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
+US1317459A,1919-09-30,of ivry-port,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US1317563A,1919-09-30,And six twenty,"['CCONJ', 'NUM', 'NUM']",['CARDINAL'],0,0,3,0,1
+US1317681A,1919-10-07,Inside gage fob,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1317860A,1919-10-07,To tee staitoakd parts,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1317931A,1919-10-07,By grace,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1317967A,1919-10-07,And one-half to stew art-warner speedometer cor,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']","['CARDINAL', 'ORG']",0,0,11,0,1
+US1318098A,1919-10-07,of act-out vale,"['ADP', 'VERB', 'PUNCT', 'ADP', 'NOUN']",[],0,0,5,0,1
+US1318173A,1919-10-07,To union,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1318212A,1919-10-07,of pabis,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1318310A,1919-10-07,and herman- w,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
+US1318523A,1919-10-14,And fireproofing wood and other materials,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,0,1
+US1318626A,1919-10-14,And georcke e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1318731A,1919-10-14,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1318766A,1919-10-14,And ten,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
+US1318827A,1919-10-14,of leicester,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1318885A,1919-10-14,And maximilian charles,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1318912A,1919-10-14,And harvey h,"['CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
+US1319135A,1919-10-21,Automobile- alarm,"['ADP', 'NOUN']",['ORG'],0,0,2,0,1
+US1319232A,1919-10-21,By may e,"['ADP', 'AUX', 'NOUN']",[],0,0,3,0,1
+US1319264A,1919-10-21,And brewster c,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1319314A,1919-10-21,of binghamton,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1319365A,1919-10-21,of basel,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1319424A,1919-10-21,To marine safety,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1319490A,1919-10-21,And prank e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1319501A,1919-10-21,Of mis,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1319632A,1919-10-21,To the petroleum,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US1319828A,1919-10-28,And willard c,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
+US1319843A,1919-10-28,And hugh t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1320293A,1919-10-28,To food,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1321288A,1919-11-11,of little falls,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1321291A,1919-11-11,Or the like,"['CCONJ', 'DET', 'INTJ']",[],0,0,3,0,1
+US1321314A,1919-11-11,of la fayette,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US1321428A,1919-11-11,And chester t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1321477A,1919-11-11,of grand rapids,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1321478A,1919-11-11,of new castle,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1321514A,1919-11-11,of aurora,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1321575A,1919-11-11,of cedar rapids,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1321723A,1918-04-11,Through ringing repeater circuits.,"['ADP', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,6,0,1
+US1321785A,1919-11-11,of portland,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1321845A,1919-11-18,Per emil perman,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1321878A,1919-11-18,of watob vaxies,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1321956A,1919-11-18,of karlstad,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1321974A,1919-11-18,of amesbury,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1322047A,1919-11-18,And lokest l,"['CCONJ', 'ADJ', 'X']",[],0,0,3,0,1
+US1322179A,1919-11-18,of cardonald,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1322191A,1919-11-18,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1322242A,1919-11-18,of new haven,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1322537A,1919-11-25,of springfield,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1322691A,1919-11-25,And elmee s,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
+US1322750A,1919-11-25,of alliance,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1322776A,1919-11-25,And frederick p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1322834A,1919-11-25,of beading,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1322900A,1919-11-25,of eastoit,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1323262A,1919-12-02,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1323276A,1919-12-02,cf hartford,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1323357A,1919-12-02,And one-fourth to jasper,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'NOUN']",['CARDINAL'],0,0,6,0,1
+US1323461A,1919-12-02,And cutting apparatus,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1323543A,1919-12-02,of new yobk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1323847A,1919-12-02,of tubize,"['ADP', 'VERB']",[],0,0,2,0,1
+US1323859A,1919-12-02,of norwood,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1323920A,1919-12-02,Of ships,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1323944A,1919-12-02,And charles a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1324014A,1919-12-02,of akron,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1324047A,1919-12-09,And one-third to,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP']",['CARDINAL'],0,0,5,0,1
+US1324163A,1919-12-09,Of one-hale to himselsi,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
+US1324372A,1919-12-09,And httgh,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US1324373A,1919-12-09,And hugh h,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1324374A,1919-12-09,And hugh h,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1324375A,1919-12-09,And hugh h,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1324376A,1919-12-09,And hugh h,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1324377A,1919-12-09,And hugh h,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1324378A,1919-12-09,And hugh h,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1324379A,1919-12-09,And hugh h,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1324548A,1919-12-09,Of whiting,"['ADP', 'VERB']",[],0,0,2,0,1
+US1324593A,1919-12-09,And feeding device,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1324894A,1919-12-16,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1324980A,1919-12-16,And arthur p,"['CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
+US1325092A,1919-12-16,And one-half,"['CCONJ', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
+US1325093A,1919-12-16,And one-hal,"['CCONJ', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
+US1325178A,1919-12-16,And one-third to j,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,6,0,1
+US1325294A,1919-12-16,By cecil,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1325359A,1919-12-16,of pabkebseueg,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1325509A,1919-12-23,of baltimore,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
+US1325946A,1919-12-23,of wyomissing,"['ADP', 'VERB']",[],0,0,2,0,1
+US1326003A,1919-12-23,of la fayette,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
+US1326049A,1919-12-23,By bessie m,"['ADP', 'NOUN', 'VERB']",[],0,0,3,0,1
+US1326611A,1919-12-30,And charles c,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
+US1327216A,1920-01-06,of ivry-port,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
+US1328865A,1920-01-27,And train-control system,"['CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US1328893A,1920-01-27,of freeport,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1329463A,1920-02-03,of akron,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1329511A,1920-02-03,And feteb,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US1330006A,1920-02-03,And emmerich h,"['CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,3,0,1
+US1333060A,1920-03-09,For looms,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1333631A,1915-04-17,By-product condenser,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1334095A,1920-03-16,By hazel t,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1336768A,1920-04-13,of youngstown,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1336838A,1920-04-13,Qqc ooo,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1338042A,1920-04-27,And maximillian,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US1343347A,1920-06-15,For lids,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1343413A,1920-06-15,of mahwah,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1344866A,1919-04-09,Through-rail diamond,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1345420A,1920-07-06,And one-eighth to,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
+US1346481A,1920-07-13,Of vermo x,"['ADP', 'NOUN', 'PUNCT']",[],0,0,3,0,1
+US1347668A,1920-07-27,And edward,"['CCONJ', 'NOUN']",[],0,0,2,0,1
+US1347723A,1920-07-27,of karlstad,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1348401A,1915-12-20,Udder attachment for milking-machines,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1348755A,1920-08-03,of bridgeport,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1349783A,1920-08-17,of derby,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1350681A,1920-08-24,And arthctb,"['CCONJ', 'VERB']",[],0,0,2,0,1
+US1350750A,1920-08-24,And lewis v,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1352266A,1920-09-07,To blttjr motor,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1352382A,1920-09-07,Of one-hale to alexander,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
+US1353285A,1920-09-21,of zubich,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1354090A,1920-09-28,of rhone,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1355562A,1920-10-12,By lillie,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1355864A,1920-10-19,of coventry,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1356124A,1920-10-19,of hendra,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1357126A,1920-10-26,of cardiff,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1357196A,1920-10-26,of gotten-,"['ADP', 'PRON']",[],0,0,2,0,1
+US1357975A,1920-11-09,And three,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
+US1360043A,1919-04-16,Inside cylinder-covering for reducing steam consumption,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'SPACE']",[],0,0,9,0,1
+US1360150A,1920-11-23,And one-thied,"['CCONJ', 'NUM', 'PUNCT', 'VERB']",['CARDINAL'],0,0,4,0,1
+US1360864A,1920-11-30,And edward c,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
+US1361169A,1919-05-12,Inside hood-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1361985A,1920-12-14,Off-bearing mechanism for tile-cutters,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,0,1
+US1362185A,1918-05-11,To fitz-empire double,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADJ']",[],0,0,5,0,1
+US1362268A,1919-05-22,Off-bearing machine,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1362352A,1920-12-14,of oshkosh,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1362355A,1920-08-31,And leslie t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1363823A,1920-12-28,And laubance h,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1364159A,1921-01-04,Through-ringing repeater-circuits,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
+US1365048A,1921-01-11,And mortimer j,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1365327A,1921-01-11,of akron,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1366494A,1915-04-17,By-product-recovert apparatus,"['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,7,0,1
+US1368775A,1921-02-15,Of chattanooga,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1368891A,1921-02-15,And one-thibd to tohk,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'NOUN']",['CARDINAL'],0,0,6,0,1
+US1369028A,1921-02-22,of new yobk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
+US1369140A,1921-02-22,And fred a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
+US1371642A,1920-07-02,Inside pipe-wrench,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1374326A,1921-04-12,And mobbis g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1375079A,1921-04-19,of flint,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1375103A,1921-04-19,To jambs,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1375678A,1921-04-26,of bttcyrtjs,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1377366A,1920-01-02,Between-the-lens photographic shutter,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'SPACE']",[],0,0,8,0,1
+US1377482A,1921-05-10,of stuttgart,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1377856A,1921-05-10,And one-third to,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP']",['CARDINAL'],0,0,5,0,1
+US1379545A,1920-07-23,Inside pipe-cutter,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,1
+US1379992A,1921-05-31,And one,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
+US1380085A,1921-05-31,of akron,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1380857A,1921-06-07,To western,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1381412A,1921-06-14,And aluhihum potvbxr,"['CCONJ', 'NOUN', 'ADJ']",[],0,0,3,0,1
+US1381673A,1921-06-14,And five per cent,"['CCONJ', 'NUM', 'NOUN', 'NOUN']",['MONEY'],0,0,4,0,1
+US1381814A,1921-06-14,And charles g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1384742A,1921-07-19,And one-half to clark cutter,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN']",['CARDINAL'],0,0,7,0,1
+US1385013A,1921-07-19,For shipping vehicles,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1386503A,1921-08-02,And milo w,"['CCONJ', 'ADJ', 'ADP']",[],0,0,3,0,1
+US1387181A,1921-08-09,Of hew,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1388899A,1921-08-30,And cleaning machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1390180A,1921-09-06,Of bbttitswick,"['ADP', 'ADJ']",[],0,0,2,0,1
+US1391318A,1921-09-20,of tacoma,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1392541A,1921-10-04,of pabis,"['ADP', 'NOUN']",[],0,0,2,0,1
+US1393146A,1921-10-11,And laurence h,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
+US1394262A,1921-10-18,To its user,"['ADP', 'PRON', 'NOUN']",[],0,0,3,0,1
+US1394604A,1921-10-25,Of mans,"['ADP', 'NOUN']",['NORP'],0,0,2,0,1
+US1395079A,1921-10-25,And harry r,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1

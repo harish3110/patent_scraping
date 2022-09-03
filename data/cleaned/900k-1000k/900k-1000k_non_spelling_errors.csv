@@ -1,160 +1,108 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts,misspelt_words,misspelt
-US907265A,1908-12-22,Street gar indicator ,"['NOUN', 'PUNCT', 'PROPN', 'NOUN']",[],1,0,4,0,0,set(),0
-US909618A,1908-06-15,"Means for protecting the operatives of railway rolling stock against injury 
-     ","['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],1,0,13,0,0,set(),0
-US912783A,1904-12-19,"Apparatus for separating ores by flotation 
-     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],1,0,7,0,0,set(),0
-US928324A,1905-12-12,"Apparatus for generating hot compressed gas 
-     ","['PROPN', 'ADP', 'VERB', 'ADJ', 'VERB', 'NOUN', 'SPACE']",[],1,0,7,0,0,set(),0
-US945419A,1910-01-04,Envelop sealing machine ,"['PROPN', 'PUNCT', 'VERB', 'NOUN']",[],1,0,4,0,0,set(),0
-US949305A,1905-10-27,"Dynamo electric machine 
-     ","['PROPN', 'PUNCT', 'ADJ', 'NOUN', 'SPACE']",[],1,0,5,0,0,set(),0
-US950467A,1907-06-27,"Means for effecting the control of an alternating current electric motor 
-     ","['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'VERB', 'PUNCT', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",[],1,0,13,0,0,set(),0
-US951165A,1909-07-15,"Brake lever strut 
-     ","['PROPN', 'PUNCT', 'PROPN', 'NOUN', 'SPACE']",[],1,0,5,0,0,set(),0
-US961390A,1910-06-14,Means for locking the steering mechanisms of motor vehicles ,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,10,0,0,set(),0
-US979603A,1909-11-01,"Dynamo electric machinery 
-     ","['PROPN', 'PUNCT', 'ADJ', 'NOUN', 'SPACE']",[],1,0,5,0,0,set(),0
-US980108A,1907-04-20,"Apparatus for evaporating solutions 
-     ","['PROPN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],1,0,5,0,0,set(),0
-US984961A,1910-07-20,"Method of producing and operating grinding wheels 
-     ","['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],1,0,9,0,0,set(),0
-US990626A,1909-03-19,"Clothes receptacle 
-     ","['NOUN', 'PUNCT', 'PROPN', 'SPACE']",[],1,0,4,0,0,set(),0
-US902055A,1908-10-27,Railway brake beam ,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US902556A,1908-08-27,"Metallic pipe 
-     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
-US902742A,1908-02-21,"Pipe bending machine 
-     ","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US905825A,1906-07-23,"Hook and eye 
-     ","['NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
-US907262A,1908-12-22,Display rack ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US907267A,1908-12-22,Railroad lantern ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US907268A,1908-12-22,Motor vehicle wheel ,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
-US907273A,1908-12-22,Pneumatic tire pi ,"['ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,0,set(),0
-US907274A,1908-12-22,Metal dipping machine ,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
-US907277A,1908-12-22,Dump car ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US907283A,1908-12-22,Stock feeding apparatus ,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
-US907287A,1908-12-22,Farm gate ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US907288A,1908-12-22,sheets sheet  ,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
-US907289A,1908-12-22,Transmission gear ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US907293A,1908-12-22,Roller bearing ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US909024A,1907-03-18,"Exercising ladder and like apparatus 
-     ","['VERB', 'PUNCT', 'NOUN', 'CCONJ', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
-US909758A,1909-01-12,Nursery chair ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US909760A,1909-01-12,Cattle stanchion ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US910378A,1909-01-19,Clock attachment ,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
-US910411A,1907-07-08,"Rail fastening or chair 
-     ","['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US912676A,1907-04-19,"Metal working machine 
-     ","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US913965A,1908-06-25,"Automatic cylinder cock 
-     ","['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US915279A,1907-08-19,"Vending device 
-     ","['VERB', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
-US916607A,1907-05-25,"Flush elevator hatchway 
-     ","['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US916719A,1909-03-30,Packing compound ,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
-US917353A,1908-08-03,"Automobile support 
-     ","['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
-US917398A,1908-01-08,"Rim night latch 
-     ","['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",['TIME'],0,0,5,0,0,set(),0
-US917592A,1909-04-06,Folding bed ,"['VERB', 'NOUN']",[],0,0,2,0,0,set(),0
-US917680A,1909-04-06,Ironing comb for straightening hair ,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,0,0,set(),0
-US917683A,1909-04-06,Machine fob ,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
-US917701A,1907-05-24,"Dust collecting attachment for brooms 
-     ","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
-US918303A,1908-12-23,"Sound reproducing apparatus 
-     ","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US919389A,1908-08-14,"Drag saw 
-     ","['NOUN', 'PUNCT', 'VERB', 'SPACE']",[],0,0,4,0,0,set(),0
-US919472A,1908-07-24,"Electrical switch 
-     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
-US920515A,1908-03-07,"Starting device for explosive engines 
-     ","['VERB', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
-US924667A,1906-10-03,"Control system for electric motors . 
-     ","['NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,7,0,0,set(),0
-US925914A,1909-06-22,Combined window lift and lock ,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'VERB']",[],0,0,5,0,0,set(),0
-US925915A,1909-06-22,Trap door for mines ,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,0,set(),0
-US925921A,1909-06-22,Nose glasses ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US925922A,1909-06-22,Fire escape ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US925925A,1909-06-22,Telegraph transmitter ,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,0,0,set(),0
-US925926A,1909-06-22,Agricultural implement ,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
-US925927A,1909-06-22,Nut lock ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US925930A,1909-06-22,Wheel tire ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US925931A,1909-06-22,Automatic self closing funnel ,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
-US925936A,1909-06-22,Oven boos holder ok ,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'INTJ']",[],0,0,5,0,0,set(),0
-US925937A,1909-06-22,Elastic vehicle tire ,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US925938A,1909-06-22,Paper and wood pulp receptacle ,"['NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,0,0,set(),0
-US925939A,1909-06-22,Bail joint ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US925940A,1909-06-22,Post foundation ,"['ADJ', 'NOUN', 'NOUN']",['ORG'],0,0,3,0,0,set(),0
-US925944A,1909-06-22,Marble shooter or gun ,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,4,0,0,set(),0
-US925946A,1909-06-22,Soil pipe flashing ,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
-US925948A,1909-06-22,Concrete hog trough and valve ,"['ADJ', 'ADJ', 'PUNCT', 'NOUN', 'CCONJ', 'VERB']",[],0,0,6,0,0,set(),0
-US925949A,1909-06-22,Web controller for presses ,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,0,set(),0
-US926950A,1907-02-01,"Automatic ringing circuit and apparatus for telephone exchanges 
-     ","['ADJ', 'VERB', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,11,0,0,set(),0
-US927219A,1908-09-30,"Junction box for electrical conductors 
-     ","['NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
-US927242A,1907-10-24,"Carding engine and like machine 
-     ","['ADJ', 'PUNCT', 'NOUN', 'CCONJ', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
-US932033A,1909-08-24,Johannes krone ,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
-US938824A,1909-11-02,Locomotive ash pan ,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,4,0,0,set(),0
-US941881A,1909-11-30,Centrifugal cream separator ,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US946326A,1908-06-06,"Process of printing 
-     ","['NOUN', 'ADP', 'VERB', 'SPACE']",[],0,0,4,0,0,set(),0
-US949313A,1908-01-31,"Dump bed for vehicles 
-     ","['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,0,set(),0
-US949721A,1910-02-15,Type writing machine ,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
-US956323A,1909-07-27,"Car weighing apparatus 
-     ","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US959654A,1909-11-13,"Thin place detecting mechanism for looms 
-     ","['ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,9,0,0,set(),0
-US964283A,1910-07-12,Door holder ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US964994A,1909-12-14,"Storage battery indicator 
-     ","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US968410A,1908-10-26,"Tamping mechanism 
-     ","['NOUN', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
-US970472A,1910-09-20,Grade level ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US972426A,1908-11-30,"Fire resisting shutter 
-     ","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US974575A,1908-11-21,"Means for securing glass panes in position 
-     ","['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,8,0,0,set(),0
-US977097A,1910-11-29,Carton sealing machine ,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",['GPE'],0,0,4,0,0,set(),0
-US977447A,1910-12-06,Cut out telephone system ,"['VERB', 'PUNCT', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
-US980747A,1909-11-18,"Pneumatic piano 
-     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
-US980812A,1908-03-30,"Automatic electric circuit breaker 
-     ","['ADJ', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,0,set(),0
-US980885A,1910-06-15,"Cable box 
-     ","['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
-US981293A,1910-04-14,"Tobacco can and receptacle 
-     ","['NOUN', 'AUX', 'CCONJ', 'VERB', 'SPACE']",[],0,0,5,0,0,set(),0
-US983908A,1909-10-12,"Electric switch 
-     ","['ADJ', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
-US984552A,1911-02-21,Combined filtering and heating device ,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
-US984553A,1911-02-21,Temperature changing device for cars ,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,0,set(),0
-US984554A,1911-02-21,Bottle attachment ,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
-US984556A,1911-02-21,Clothes reel ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US986279A,1910-03-28,"Automatic fire alarm 
-     ","['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US988830A,1910-05-20,"Life buoy 
-     ","['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
-US989929A,1910-11-16,"Fire damp indicator 
-     ","['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US990417A,1910-03-18,"Form for molded conduits 
-     ","['VERB', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US990591A,1910-03-28,"Grab apparatus for ice machines 
-     ","['NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
-US990818A,1907-09-03,"Diving apparatus or the like 
-     ","['ADJ', 'NOUN', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,6,0,0,set(),0
-US997273A,1910-03-21,"Vehicle brake 
-     ","['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
-US997594A,1911-07-11,Telephone repeater ,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US997595A,1911-07-11,Tobacco cutting machine ,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
-US997687A,1910-11-16,"Pneumatic tire cover 
-     ","['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
-US997773A,1909-11-06,"Compound door for safes and vaults . 
-     ","['NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,0,set(),0
-US998869A,1911-07-25,See sofa ,"['VERB', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US907265A,1908-12-22,Street gar indicator,"['NOUN', 'PUNCT', 'PROPN', 'NOUN']",[],1,0,4,0,0,set(),0
+US909618A,1908-06-15,Means for protecting the operatives of railway rolling stock against injury,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],1,0,13,0,0,set(),0
+US912783A,1904-12-19,Apparatus for separating ores by flotation,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],1,0,7,0,0,set(),0
+US928324A,1905-12-12,Apparatus for generating hot compressed gas,"['PROPN', 'ADP', 'VERB', 'ADJ', 'VERB', 'NOUN', 'SPACE']",[],1,0,7,0,0,set(),0
+US945419A,1910-01-04,Envelop sealing machine,"['PROPN', 'PUNCT', 'VERB', 'NOUN']",[],1,0,4,0,0,set(),0
+US949305A,1905-10-27,Dynamo electric machine,"['PROPN', 'PUNCT', 'ADJ', 'NOUN', 'SPACE']",[],1,0,5,0,0,set(),0
+US950467A,1907-06-27,Means for effecting the control of an alternating current electric motor,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'VERB', 'PUNCT', 'ADJ', 'ADJ', 'NOUN', 'SPACE']",[],1,0,13,0,0,set(),0
+US951165A,1909-07-15,Brake lever strut,"['PROPN', 'PUNCT', 'PROPN', 'NOUN', 'SPACE']",[],1,0,5,0,0,set(),0
+US961390A,1910-06-14,Means for locking the steering mechanisms of motor vehicles,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,10,0,0,set(),0
+US979603A,1909-11-01,Dynamo electric machinery,"['PROPN', 'PUNCT', 'ADJ', 'NOUN', 'SPACE']",[],1,0,5,0,0,set(),0
+US980108A,1907-04-20,Apparatus for evaporating solutions,"['PROPN', 'ADP', 'VERB', 'NOUN', 'SPACE']",[],1,0,5,0,0,set(),0
+US984961A,1910-07-20,Method of producing and operating grinding wheels,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],1,0,9,0,0,set(),0
+US990626A,1909-03-19,Clothes receptacle,"['NOUN', 'PUNCT', 'PROPN', 'SPACE']",[],1,0,4,0,0,set(),0
+US902055A,1908-10-27,Railway brake beam,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
+US902556A,1908-08-27,Metallic pipe,"['ADJ', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
+US902742A,1908-02-21,Pipe bending machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US905825A,1906-07-23,Hook and eye,"['NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
+US907262A,1908-12-22,Display rack,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US907267A,1908-12-22,Railroad lantern,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US907268A,1908-12-22,Motor vehicle wheel,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
+US907273A,1908-12-22,Pneumatic tire pi,"['ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,0,set(),0
+US907274A,1908-12-22,Metal dipping machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
+US907277A,1908-12-22,Dump car,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US907283A,1908-12-22,Stock feeding apparatus,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
+US907287A,1908-12-22,Farm gate,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US907288A,1908-12-22,sheets sheet,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
+US907289A,1908-12-22,Transmission gear,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US907293A,1908-12-22,Roller bearing,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US909024A,1907-03-18,Exercising ladder and like apparatus,"['VERB', 'PUNCT', 'NOUN', 'CCONJ', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
+US909758A,1909-01-12,Nursery chair,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US909760A,1909-01-12,Cattle stanchion,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US910378A,1909-01-19,Clock attachment,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
+US910411A,1907-07-08,Rail fastening or chair,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US912676A,1907-04-19,Metal working machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US913965A,1908-06-25,Automatic cylinder cock,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US915279A,1907-08-19,Vending device,"['VERB', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
+US916607A,1907-05-25,Flush elevator hatchway,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US916719A,1909-03-30,Packing compound,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
+US917353A,1908-08-03,Automobile support,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
+US917398A,1908-01-08,Rim night latch,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",['TIME'],0,0,5,0,0,set(),0
+US917592A,1909-04-06,Folding bed,"['VERB', 'NOUN']",[],0,0,2,0,0,set(),0
+US917680A,1909-04-06,Ironing comb for straightening hair,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,0,0,set(),0
+US917683A,1909-04-06,Machine fob,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
+US917701A,1907-05-24,Dust collecting attachment for brooms,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
+US918303A,1908-12-23,Sound reproducing apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US919389A,1908-08-14,Drag saw,"['NOUN', 'PUNCT', 'VERB', 'SPACE']",[],0,0,4,0,0,set(),0
+US919472A,1908-07-24,Electrical switch,"['ADJ', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
+US920515A,1908-03-07,Starting device for explosive engines,"['VERB', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
+US924667A,1906-10-03,Control system for electric motors .,"['NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,7,0,0,set(),0
+US925914A,1909-06-22,Combined window lift and lock,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'VERB']",[],0,0,5,0,0,set(),0
+US925915A,1909-06-22,Trap door for mines,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,0,set(),0
+US925921A,1909-06-22,Nose glasses,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US925922A,1909-06-22,Fire escape,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US925925A,1909-06-22,Telegraph transmitter,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,0,0,set(),0
+US925926A,1909-06-22,Agricultural implement,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
+US925927A,1909-06-22,Nut lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US925930A,1909-06-22,Wheel tire,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US925931A,1909-06-22,Automatic self closing funnel,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
+US925936A,1909-06-22,Oven boos holder ok,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'INTJ']",[],0,0,5,0,0,set(),0
+US925937A,1909-06-22,Elastic vehicle tire,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
+US925938A,1909-06-22,Paper and wood pulp receptacle,"['NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,0,0,set(),0
+US925939A,1909-06-22,Bail joint,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US925940A,1909-06-22,Post foundation,"['ADJ', 'NOUN', 'NOUN']",['ORG'],0,0,3,0,0,set(),0
+US925944A,1909-06-22,Marble shooter or gun,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,4,0,0,set(),0
+US925946A,1909-06-22,Soil pipe flashing,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
+US925948A,1909-06-22,Concrete hog trough and valve,"['ADJ', 'ADJ', 'PUNCT', 'NOUN', 'CCONJ', 'VERB']",[],0,0,6,0,0,set(),0
+US925949A,1909-06-22,Web controller for presses,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,0,set(),0
+US926950A,1907-02-01,Automatic ringing circuit and apparatus for telephone exchanges,"['ADJ', 'VERB', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,11,0,0,set(),0
+US927219A,1908-09-30,Junction box for electrical conductors,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
+US927242A,1907-10-24,Carding engine and like machine,"['ADJ', 'PUNCT', 'NOUN', 'CCONJ', 'ADP', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
+US932033A,1909-08-24,Johannes krone,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
+US938824A,1909-11-02,Locomotive ash pan,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,4,0,0,set(),0
+US941881A,1909-11-30,Centrifugal cream separator,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
+US946326A,1908-06-06,Process of printing,"['NOUN', 'ADP', 'VERB', 'SPACE']",[],0,0,4,0,0,set(),0
+US949313A,1908-01-31,Dump bed for vehicles,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,6,0,0,set(),0
+US949721A,1910-02-15,Type writing machine,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
+US956323A,1909-07-27,Car weighing apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US959654A,1909-11-13,Thin place detecting mechanism for looms,"['ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,9,0,0,set(),0
+US964283A,1910-07-12,Door holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US964994A,1909-12-14,Storage battery indicator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US968410A,1908-10-26,Tamping mechanism,"['NOUN', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
+US970472A,1910-09-20,Grade level,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US972426A,1908-11-30,Fire resisting shutter,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US974575A,1908-11-21,Means for securing glass panes in position,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'SPACE']",[],0,0,8,0,0,set(),0
+US977097A,1910-11-29,Carton sealing machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",['GPE'],0,0,4,0,0,set(),0
+US977447A,1910-12-06,Cut out telephone system,"['VERB', 'PUNCT', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
+US980747A,1909-11-18,Pneumatic piano,"['ADJ', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
+US980812A,1908-03-30,Automatic electric circuit breaker,"['ADJ', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,6,0,0,set(),0
+US980885A,1910-06-15,Cable box,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
+US981293A,1910-04-14,Tobacco can and receptacle,"['NOUN', 'AUX', 'CCONJ', 'VERB', 'SPACE']",[],0,0,5,0,0,set(),0
+US983908A,1909-10-12,Electric switch,"['ADJ', 'NOUN', 'SPACE']",[],0,0,3,0,0,set(),0
+US984552A,1911-02-21,Combined filtering and heating device,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
+US984553A,1911-02-21,Temperature changing device for cars,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,0,set(),0
+US984554A,1911-02-21,Bottle attachment,"['NOUN', 'NOUN']",[],0,0,2,0,0,set(),0
+US984556A,1911-02-21,Clothes reel,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US986279A,1910-03-28,Automatic fire alarm,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US988830A,1910-05-20,Life buoy,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
+US989929A,1910-11-16,Fire damp indicator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US990417A,1910-03-18,Form for molded conduits,"['VERB', 'ADP', 'ADJ', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US990591A,1910-03-28,Grab apparatus for ice machines,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,7,0,0,set(),0
+US990818A,1907-09-03,Diving apparatus or the like,"['ADJ', 'NOUN', 'CCONJ', 'DET', 'INTJ', 'SPACE']",[],0,0,6,0,0,set(),0
+US997273A,1910-03-21,Vehicle brake,"['NOUN', 'PUNCT', 'NOUN', 'SPACE']",[],0,0,4,0,0,set(),0
+US997594A,1911-07-11,Telephone repeater,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US997595A,1911-07-11,Tobacco cutting machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,0,0,set(),0
+US997687A,1910-11-16,Pneumatic tire cover,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'SPACE']",[],0,0,5,0,0,set(),0
+US997773A,1909-11-06,Compound door for safes and vaults .,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'SPACE']",[],0,0,8,0,0,set(),0
+US998869A,1911-07-25,See sofa,"['VERB', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
