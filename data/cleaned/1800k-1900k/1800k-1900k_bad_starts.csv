@@ -1,19 +1,29 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
+US1806551A,1931-05-19,And warren h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1806736A,1931-05-26,By john bbowning,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
 US1806933A,1931-05-26,Of san francisco,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1807016A,1931-05-26,And albert e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1807731A,1931-06-02,of leipzig-plagwitz,"['ADP', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,4,0,1
+US1807733A,1931-06-02,And carl j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1823587A,1931-09-15,And edward l,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
 US1824239A,1931-09-22,To milwaukee gas,"['ADP', 'PROPN', 'NOUN']",['GPE'],1,0,3,0,1
 US1828075A,1931-10-20,of los angeles,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1837737A,1931-12-22,And john e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1847416A,1932-03-01,And curtis l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
 US1848466A,1932-03-08,of terre haute,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US1848645A,1932-03-08,And wladyslaw czarnecki,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
+US1848753A,1932-03-08,And thomas marlow,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1848885A,1932-03-08,And norman l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1853555A,1932-04-12,And one-half to tub checker cab manufacturing com,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'NOUN', 'PROPN', 'NOUN', 'NOUN']",['CARDINAL'],1,0,10,0,1
 US1861623A,1932-06-07,And areli h,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
 US1864271A,1924-09-13,Inside coated lamp bulb,"['ADP', 'VERB', 'PROPN', 'PROPN']",[],1,0,5,0,1
 US1864723A,1932-06-28,Of los angeles,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1872162A,1932-08-16,And john gotthaed sjosteom,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
 US1873108A,1931-04-17,Weft detecting mechanism for drop box looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PROPN', 'VERB']",[],1,0,8,0,1
+US1874656A,1932-08-30,And bernard joos,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
+US1875359A,1932-09-06,And matthew exbbidge dun,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
 US1875374A,1932-09-06,of south bend,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1875375A,1932-09-06,And william e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1875408A,1932-09-06,of san francisco,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
 US1875417A,1932-09-06,of san francisco,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
 US1875425A,1932-09-06,of fort madison,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
@@ -22,6 +32,8 @@ US1875494A,1932-09-06,And ckomweix b,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
 US1875540A,1932-09-06,of terre haute,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US1876381A,1932-09-06,And one-fourth to jacob kaufman,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,7,0,1
 US1876480A,1932-09-06,And fbedebick sieeke,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
+US1876521A,1932-09-06,And carl w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1887272A,1932-11-08,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1888012A,1930-06-24,By-product coke oven,"['ADP', 'PUNCT', 'NOUN', 'PROPN', 'PROPN']",[],1,0,6,0,1
 US1892987A,1933-01-03,of leipzig-plagwitz,"['ADP', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,4,0,1
 US1899275A,1926-08-13,By-product coke oven,"['ADP', 'PUNCT', 'NOUN', 'PROPN', 'PROPN']",[],1,0,6,0,1
@@ -54,6 +66,7 @@ US1807828A,1931-06-02,Of endicott,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1808032A,1924-01-22,Out of water propeller,"['ADP', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
 US1811306A,1931-06-23,Of holborn,"['ADP', 'VERB']",[],0,0,2,0,1
 US1814048A,1928-03-22,Inside casing or tool joint cutter,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADJ', 'NOUN']",[],0,0,7,0,1
+US1815023A,1927-02-19,Amplifier coupling,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
 US1818073A,1931-08-11,And one-third to,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP']",['CARDINAL'],0,0,5,0,1
 US1821044A,1931-09-01,of stamford,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1822249A,1931-09-08,of akron,"['ADP', 'NOUN']",[],0,0,2,0,1
@@ -71,6 +84,7 @@ US1839008A,1931-12-29,of dttrsley,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1840727A,1929-07-11,Down draft carburetor,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
 US1840968A,1929-10-24,By-pass valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
 US1841078A,1932-01-12,And charles kiaqges,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1842558A,1929-07-20,Amplifier energizing system,"['ADP', 'VERB', 'NOUN']",['PERSON'],0,1,4,0,1
 US1843063A,1932-01-26,Of cabbon monoxide anj,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,1
 US1844668A,1929-09-30,By-pass valve for motor pumps,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,8,0,1
 US1845498A,1929-03-27,By-pass casing,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1

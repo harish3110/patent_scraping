@@ -1,18 +1,41 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
+US1700745A,1929-02-05,And albert b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1702337A,1929-02-19,And paul h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1702933A,1929-02-19,And kingsley l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1703827A,1929-02-26,And thomas h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1703838A,1929-02-26,And warren t,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1703882A,1929-03-05,And martin r,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
+US1704274A,1929-03-05,To anthony coiflpakty,"['ADP', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1705495A,1929-03-19,And donald s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
 US1706816A,1929-03-26,To xwrireless s,"['ADP', 'PROPN', 'PART']",[],1,0,3,0,1
+US1710277A,1929-04-23,And william taylob,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1711497A,1926-05-22,And william f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1714794A,1929-05-28,And hugo hoffmahit,"['CCONJ', 'PROPN', 'VERB']",['EVENT'],1,0,3,0,1
+US1715301A,1929-05-28,And bruce beardsley and paul,"['CCONJ', 'PROPN', 'PROPN', 'CCONJ', 'PROPN']",['PERSON'],1,1,5,0,1
 US1719031A,1929-07-02,By james p,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1719777A,1929-07-02,And walter s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
+US1720647A,1929-07-09,And thomas w var,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
 US1724174A,1929-08-13,To automatic electbic inc,"['ADP', 'ADJ', 'PROPN', 'PROPN']",[],1,0,4,0,1
+US1725205A,1929-08-20,And lawrence brtjehl of brooklyn,"['CCONJ', 'NOUN', 'PROPN', 'ADP', 'PROPN']","['PERSON', 'GPE']",1,1,5,0,1
 US1725561A,1929-08-20,And cole coolidge,"['CCONJ', 'PROPN', 'NOUN']",['PRODUCT'],1,0,3,0,1
 US1727591A,1929-09-10,And david f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1728680A,1929-09-17,And arthur c,"['CCONJ', 'PROPN', 'AUX']",['PERSON'],1,1,3,0,1
+US1729202A,1929-09-24,And william e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1740102A,1929-12-17,Of los angeles,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
 US1740156A,1929-12-17,And tobias j,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
 US1741226A,1929-12-31,of east orange,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US1742508A,1930-01-07,And ebenezer emmet reid,"['CCONJ', 'PROPN', 'PROPN', 'NOUN']",[],1,0,4,0,1
+US1750731A,1930-03-18,By george w,"['ADP', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1772511A,1930-08-12,And paul moore,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1784509A,1930-12-09,Of los angeles,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
 US1790286A,1931-01-27,And lowell m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1790287A,1931-01-27,And james g,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1790366A,1931-01-27,And francisco a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
+US1790388A,1931-01-27,And roy l,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
 US1790622A,1931-01-27,Of los angeles,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
+US1790798A,1931-02-03,To davis tool,"['ADP', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
+US1791037A,1931-02-03,And george d,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1797401A,1931-03-24,And herbert w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1701035A,1929-02-05,Of pennsyl,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1701926A,1929-02-12,To-the plintkote,"['ADP', 'PUNCT', 'DET', 'NOUN']",[],0,0,4,0,1
 US1701967A,1929-02-12,of whiting,"['ADP', 'VERB']",[],0,0,2,0,1
@@ -22,6 +45,7 @@ US1702977A,1929-02-19,of lansdale,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1703296A,1929-02-26,of dayton,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1704637A,1929-03-05,of basel,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1704865A,1927-08-12,After-hour depository,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US1705560A,1929-03-19,And harold w,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
 US1706645A,1929-03-26,of wyomissing,"['ADP', 'VERB']",[],0,0,2,0,1
 US1707108A,1929-03-26,of battle creek,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
 US1707467A,1926-08-19,Fungicide,['ADP'],[],0,0,2,0,1
@@ -104,6 +128,7 @@ US1778851A,1930-10-21,of steeling,"['ADP', 'VERB']",[],0,0,2,0,1
 US1779798A,1930-10-28,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
 US1780076A,1930-10-28,And three-fourths to na,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB']",['CARDINAL'],0,0,6,0,1
 US1780100A,1928-05-04,Inside casing cutter,"['ADP', 'VERB', 'NOUN']",[],0,0,4,0,1
+US1785193A,1924-09-27,Amplifier horn,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
 US1786209A,1930-12-23,of seattle,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1786454A,1930-12-30,of dayton,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1786462A,1930-12-30,of memphis,"['ADP', 'PRON']",[],0,0,2,0,1
@@ -111,6 +136,7 @@ US1786979A,1930-12-30,Of endicott,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1788123A,1931-01-06,And macdonau,"['CCONJ', 'VERB']",[],0,0,2,0,1
 US1788872A,1931-01-13,of flint,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1789020A,1928-03-26,Inside caliper,"['ADP', 'ADJ']",[],0,0,3,0,1
+US1789673A,1926-03-30,Amplifier coupling,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
 US1789973A,1931-01-27,of columbus,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1790343A,1931-01-27,By direct,"['ADP', 'ADJ']",[],0,0,2,0,1
 US1790465A,1928-06-15,To the miehle printing,"['ADP', 'DET', 'NOUN', 'VERB']",[],0,0,4,0,1

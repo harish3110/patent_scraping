@@ -1,5 +1,6 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
 US3208905A,1963-03-12,"N, n'-alkylene-bis-1-aziridine carboximides as insects sterilants","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",['GPE'],1,0,12,0,1
+US3236844A,1962-02-02,"N, beta-disubstituted and phenethyl piperidines","['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'ADJ', 'CCONJ', 'PROPN', 'NOUN']",[],1,0,9,0,1
 US3236981A,1963-11-21,By-pass switch with pivoted contacts and arc prevention apparatus,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'PROPN', 'PROPN', 'PROPN']",[],1,0,12,0,1
 US3238524A,1962-12-21,"In line brushes for drum type encoders for true ""v"" scan application for true binary code","['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'ADJ', 'PUNCT', 'PROPN', 'NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN']",[],1,0,19,0,1
 US3240342A,1961-11-06,In-line removable filter assembly,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'PROPN']",[],1,0,7,0,1
@@ -8,9 +9,9 @@ US3256835A,1963-01-28,Through-running suction and pressure piston pump,"['ADP', 
 US3269294A,1963-08-24,Between-the-lens shutter assembly,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'PROPN']",[],1,0,8,0,1
 US3201791A,1964-02-13,Near miss distance scoring system using doppler effect,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN']",[],0,0,9,0,1
 US3201982A,1962-05-24,In-vehicle dynamometer,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US3204178A,1961-09-26,Amplifier input control circuits,"['ADP', 'NOUN', 'NOUN', 'NOUN']",['PERSON'],0,1,5,0,1
 US3205079A,1962-03-29,Semicrystalline ceramic body and method of making it,"['ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'PRON']",[],0,0,9,0,1
 US3205312A,1960-12-23,Off-hook detector,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3205405A,1962-08-08,Over-temperature protection system for a dynamoelectric machine,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",[],0,0,10,0,1
 US3205807A,1963-09-03,By-pass flow control,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
 US3205885A,1965-09-14,Under tree heater,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
 US3208520A,1963-01-03,In situ combustion initiation,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
@@ -25,8 +26,6 @@ US3223158A,1962-12-10,In situ retorting of oil shale,"['ADP', 'ADJ', 'NOUN', 'AD
 US3223219A,1962-04-05,On-off switch with cover interlock and overriding means for typewriter,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,13,0,1
 US3223749A,1962-10-01,Hf alkylation and acid rerun process,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
 US3225752A,1963-11-08,By-pass valve for engines,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,1
-US3226402A,1965-12-28,"And process of making and using
-same","['CCONJ', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'SPACE', 'ADJ']",[],0,0,8,0,1
 US3227401A,1963-03-05,In-flight cargo pick-up device,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'PUNCT', 'ADP', 'NOUN']",[],0,0,9,0,1
 US3227839A,1964-01-24,And gate devices,"['CCONJ', 'NOUN', 'VERB']",[],0,0,4,0,1
 US3228468A,1961-12-08,In-situ recovery of hydrocarbons from underground formations of oil shale,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,13,0,1
@@ -39,6 +38,7 @@ US3231865A,1961-07-07,On-line data transfer apparatus,"['ADP', 'PUNCT', 'NOUN', 
 US3232565A,1964-01-27,On-sea rescue ramp,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
 US3232941A,1959-03-13,"N,n'-dialkyltriethylenediammonium dinitrates","['CCONJ', 'PUNCT', 'NOUN', 'VERB']",[],0,0,5,0,1
 US3233871A,1963-04-22,In-line hand rail and mounting,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB']",[],0,0,8,0,1
+US3234975A,1963-07-01,In-line veneer jointer,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",['PERSON'],0,1,6,0,1
 US3236662A,1962-03-19,Semicrystalline body and method of making it,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'PRON']",[],0,0,8,0,1
 US3237862A,1964-01-30,In-line temperature actuated valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'VERB']",[],0,0,7,0,1
 US3238969A,1964-01-10,By-pass gas meter bar and key actuator therefor,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP']",[],0,0,11,0,1

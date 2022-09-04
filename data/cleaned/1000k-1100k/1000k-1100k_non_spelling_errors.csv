@@ -1,5 +1,6 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts,misspelt_words,misspelt
 US1016339A,1911-11-01,Cooking utensil,"['VERB', 'PROPN']",[],1,0,3,0,0,set(),0
+US1022551A,1912-04-09,Herbert hat hewitt,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3,0,0,set(),0
 US1024633A,1912-04-30,Orchard heater and vaporizer,"['PROPN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,5,0,0,set(),0
 US1031900A,1911-12-23,Manufacture of hollow bodies from quartz,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'PROPN']",[],1,0,7,0,0,set(),0
 US1033472A,1910-02-02,Apparatus for operating alarms or other device,"['PROPN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,8,0,0,set(),0
@@ -22,7 +23,9 @@ US1024610A,1912-04-30,Rail joint,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),
 US1024615A,1912-04-30,Socket joint,"['NOUN', 'PUNCT', 'ADJ']",[],0,0,3,0,0,set(),0
 US1024620A,1912-04-30,Locomotive engine,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
 US1024626A,1912-04-30,Convertible steam car heater,"['ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
+US1024627A,1912-04-30,Hose coupling,"['NOUN', 'PUNCT', 'NOUN']",['PERSON'],0,1,3,0,0,set(),0
 US1024628A,1912-04-30,Buffing machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
+US1024632A,1912-04-30,Cigar molding machine,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",['PERSON'],0,1,4,0,0,set(),0
 US1025067A,1910-11-09,Fluid pump,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
 US1027969A,1912-05-28,Sad iron,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
 US1032920A,1912-01-11,Cylinder door lock,"['NOUN', 'NOUN', 'PUNCT', 'VERB']",[],0,0,5,0,0,set(),0

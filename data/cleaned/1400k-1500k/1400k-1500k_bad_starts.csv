@@ -1,27 +1,45 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
 US1402684A,1922-01-03,And one-foubth to clatjb w,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'ADP']",['CARDINAL'],1,0,7,0,1
+US1404233A,1919-12-26,And john harris,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1405589A,1922-02-07,By alida b,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US1407225A,1922-02-21,To jtjstrite manufactttb,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US1408275A,1922-02-28,Of san diego,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1411760A,1922-04-04,And eric kehjhtley,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1412658A,1922-04-11,And james albert emery,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
+US1415845A,1922-05-09,And edwin h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1416731A,1920-09-25,By-pass system for piston pumps,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'VERB']",[],1,0,8,0,1
 US1418180A,1922-05-30,And lewis richard,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
+US1418748A,1922-06-06,And john dudley,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1419035A,1922-06-06,And frank c,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
 US1419686A,1922-06-13,By kate b,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
 US1422451A,1922-07-11,of bo awoke,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1422832A,1922-07-18,And anthony f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1422978A,1922-07-18,And one-fourth to charles j,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'NOUN']",['CARDINAL'],1,0,7,0,1
+US1423125A,1922-07-18,And one-fourth to john hancock,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']","['CARDINAL', 'PERSON']",1,1,7,0,1
 US1424101A,1922-07-25,of sah francisco,"['ADP', 'NOUN', 'PROPN']",[],1,0,3,0,1
 US1426786A,1922-08-22,And feahklin htjtchinson,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US1427754A,1921-03-31,And herman w,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
 US1430296A,1922-09-26,Of san francisco,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
 US1434053A,1922-10-31,of niagara falls,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
 US1440546A,1923-01-02,And john of,"['CCONJ', 'PROPN', 'ADP']",[],1,0,3,0,1
+US1440965A,1923-01-02,And ralph g,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1448628A,1923-03-13,And henby f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US1449825A,1923-03-27,of niagara falls,"['ADP', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1457793A,1923-06-05,And paul w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1459294A,1923-06-19,Of new orleans,"['ADP', 'ADJ', 'PROPN']",['GPE'],1,0,3,0,1
+US1467796A,1923-09-11,And kabl d,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1468790A,1923-09-25,And david bakeb smith,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
+US1470006A,1923-10-09,And john wolff,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
+US1470140A,1923-10-09,And thomas ellis bbown,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
 US1475868A,1923-11-27,And james p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
 US1476524A,1919-07-07,By-product coke oven,"['ADP', 'PUNCT', 'NOUN', 'PROPN', 'PROPN']",[],1,0,6,0,1
 US1479792A,1924-01-08,And kay e,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
+US1480774A,1924-01-15,And william e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1481540A,1924-01-22,And arthur w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1482473A,1924-02-05,And loots davis,"['CCONJ', 'NOUN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1483741A,1924-02-12,Ab b one-third to harry v,"['ADP', 'PROPN', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'PROPN']",['CARDINAL'],1,0,8,0,1
+US1484123A,1924-02-19,And arthur f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1484952A,1924-02-26,And harry w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1400489A,1921-12-13,By mildbed lowby,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
 US1401752A,1921-12-27,And wehnee,"['CCONJ', 'VERB']",[],0,0,2,0,1
 US1404779A,1922-01-31,And one-hale to a,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PRON']",['CARDINAL'],0,0,6,0,1
@@ -31,7 +49,9 @@ US1407983A,1922-02-28,And geghge csisson,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,
 US1410256A,1922-03-21,By henrietta h,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
 US1411304A,1922-04-04,of solothurn,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1411492A,1919-08-15,Off-bearing mechanism for tile cutters,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,0,1
+US1413321A,1922-04-18,of hew brunswick,"['ADP', 'NOUN', 'NOUN']",['PERSON'],0,1,3,0,1
 US1414987A,1922-05-02,And morris j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
+US1415600A,1922-05-09,And egbert g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
 US1417770A,1921-07-08,By-pass valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
 US1417808A,1921-02-26,By-pass valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
 US1419102A,1921-05-11,Under-tree plow,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
@@ -65,6 +85,7 @@ US1446485A,1923-02-27,And one-fourth to clifton,"['CCONJ', 'NUM', 'PUNCT', 'NOUN
 US1447289A,1923-03-06,And the like,"['CCONJ', 'DET', 'INTJ']",[],0,0,3,0,1
 US1448752A,1923-03-20,of dayton,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1451813A,1922-03-24,Inside pocket iron,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1452265A,1923-04-17,And louis roessel,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,0,1
 US1453060A,1923-04-24,of ludwigshaeen-on-the-rhine,"['ADP', 'VERB', 'PUNCT', 'ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN']",[],0,0,8,0,1
 US1453109A,1923-04-24,of springfield,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1458765A,1921-01-15,By-pass valve for angle cocks,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,8,0,1
@@ -82,6 +103,8 @@ US1468330A,1923-09-18,To the sperey gybqscope,"['ADP', 'DET', 'NOUN', 'NOUN']",[
 US1468510A,1923-09-18,And frederick a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
 US1468748A,1923-09-25,of newark,"['ADP', 'NOUN']",[],0,0,2,0,1
 US1472464A,1922-06-13,Inside pipe wrench,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
+US1474389A,1923-11-20,And otto w,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
+US1474390A,1923-11-20,And otto w,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
 US1474719A,1923-11-20,And helmer g,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
 US1475473A,1923-11-27,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
 US1475864A,1923-11-27,And charles e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1

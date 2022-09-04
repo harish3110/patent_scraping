@@ -1,8 +1,12 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
 US1151510A,1915-08-24,of newport news,"['ADP', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
+US1176982A,1916-03-28,And joseph w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1193462A,1916-08-01,And augustus m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1194271A,1916-08-08,And carl w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1194485A,1916-08-15,And edward g,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
 US1195047A,1916-08-15,And john keown,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
+US1195453A,1916-08-22,And william d,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
+US1195641A,1916-08-22,And james h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
 US1196026A,1916-08-29,And habry b,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
 US1196095A,1916-08-29,And francis j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
 US1112151A,1911-12-11,Under-water ash-ejector.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,8,0,1

@@ -1,8 +1,8 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
+US3727180A,1971-03-23,On-board aircraft weight and c. g. synchro-type self-checking attitude sensor,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'VERB']",['PERSON'],1,1,17,0,1
 US3729273A,1970-11-23,In-tank fuel pump reservoir,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'PROPN']",[],1,0,7,0,1
 US3737430A,1971-03-03,"N,n'-bis((tri(substituted))silylalkylene)-1,4-xylene-alpha,alpha'-diimine","['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'PROPN', 'PUNCT', 'ADP']",[],1,0,10,0,1
 US3757060A,1972-06-12,In extreme position slide switch assembly with auxiliary switch deactivated by controller,"['ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'VERB', 'ADP', 'PROPN']",[],1,0,13,0,1
-US3758629A,1971-05-07,By reaction with a di-2-oxazoline cross linking of addition polymers containing combined free carboxyl,"['ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'VERB', 'VERB', 'ADJ', 'PROPN']",[],1,0,17,0,1
 US3758690A,1963-08-02,And use of such n-cyclopropyl compounds as hypotensives pharmaceutical compositions containing n-cyclopropyl-1-amino indanes,"['CCONJ', 'NOUN', 'ADP', 'ADJ', 'PROPN', 'PUNCT', 'PROPN', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'NOUN', 'VERB', 'CCONJ', 'PUNCT', 'SPACE', 'PUNCT', 'ADJ', 'NOUN']",[],1,0,20,0,1
 US3759140A,1972-03-29,Inside flash bead trimmer apparatus for welded metal pipe having alternately remotely positionable flash bead cutters,"['ADP', 'PROPN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'VERB', 'ADV', 'ADV', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],1,0,17,0,1
 US3761360A,1971-01-20,Re entrainment charging of preheated coal into coking chambers of a coke oven battery,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'DET', 'PROPN', 'ADJ', 'NOUN']",[],1,0,15,0,1
@@ -19,6 +19,7 @@ US3707757A,1970-09-02,In-line replacement tool,"['ADP', 'PUNCT', 'NOUN', 'NOUN',
 US3710875A,1971-02-18,Down pressure assembly for truck mounted auger,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADJ']",[],0,0,8,0,1
 US3711761A,1970-08-13,Off delay timer and internally generated auxiliary direct current voltage source for a controlled rectifier alternating current switch for use therein,"['ADP', 'VERB', 'NOUN', 'CCONJ', 'ADV', 'VERB', 'ADJ', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'VERB', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADV']",[],0,0,22,0,1
 US3712396A,1971-01-04,Over-snow vehicle,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
+US3714602A,1970-11-12,Amplifier circuit having a controllable gain,"['ADP', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN']",['PERSON'],0,1,7,0,1
 US3715688A,1970-09-04,Tm01 mode exciter and a multimode exciter using same,"['ADP', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'NOUN', 'VERB', 'ADJ']",[],0,0,10,0,1
 US3715914A,1970-10-12,On site pressure vessel inspection device,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
 US3716351A,1970-04-28,Algaecide composition having improved stability,"['ADP', 'NOUN', 'AUX', 'VERB', 'NOUN']",[],0,0,6,0,1
@@ -93,6 +94,7 @@ US3761600A,1973-01-11,Above ground gas-insulated pipe type transmission configur
 US3762662A,1971-02-19,Off loom cloth take up or winder,"['ADP', 'NOUN', 'NOUN', 'VERB', 'ADP', 'CCONJ', 'VERB']",[],0,0,8,0,1
 US3763850A,1970-12-31,Or measuring the partial pressure of a gas in a fluid,"['CCONJ', 'VERB', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN']",[],0,0,12,0,1
 US3764392A,1968-07-16,Inside out primary dry cell with carbonresin film on inside surface of container,"['ADP', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,14,0,1
+US3764922A,1971-10-14,Amplifier offset compensation arrangement,"['ADP', 'VERB', 'NOUN', 'NOUN']",['PERSON'],0,1,5,0,1
 US3765929A,1972-03-31,In situ fluorination of graphite in iron alloy,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,9,0,1
 US3767019A,1971-07-21,Over running clutch,"['ADP', 'VERB', 'VERB']",[],0,0,4,0,1
 US3767026A,1971-10-29,By pass mechanism for a conveyor system,"['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,8,0,1
@@ -102,6 +104,7 @@ US3771847A,1972-01-10,Over the cabinet door assembly,"['ADP', 'DET', 'NOUN', 'NO
 US3772216A,1971-11-12,Polyimide foam thermal insulation and fire protection,"['ADP', 'NOUN', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,8,0,1
 US3772276A,1971-02-03,As-triazines,"['ADP', 'PUNCT', 'NOUN']",[],0,0,4,0,1
 US3772316A,1968-05-13,"N,n'-methylene-bis(2-amino-1,3,4-thiadiazole)","['CCONJ', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,11,0,1
+US3772554A,1972-01-14,In-line electron gun,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
 US3774718A,1972-05-25,In-situ acoustic sediment probe,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",[],0,0,7,0,1
 US3775073A,1971-08-27,In situ gasification of coal by gas fracturing,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,9,0,1
 US3775533A,1971-08-27,Actinide compounds with ammonia or co and h,"['ADP', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'CCONJ', 'VERB']",[],0,0,9,0,1
@@ -121,6 +124,7 @@ US3787109A,1972-06-28,Inside helmet sight apparatus,"['ADP', 'NOUN', 'NOUN', 'NO
 US3787386A,1972-03-24,Tripeptide,['ADP'],[],0,0,2,0,1
 US3787717A,1971-12-09,Over voltage protection circuit lateral bipolar transistor with gated collector junction,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,12,0,1
 US3789183A,1973-02-28,Through-insulation welding method and apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,8,0,1
+US3789314A,1971-12-06,Amplifier utilizing input signal power,"['ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN']",['PERSON'],0,1,6,0,1
 US3790740A,1970-07-09,Through deck welding,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
 US3791044A,1972-06-08,Through drying for fibrous web,"['ADP', 'VERB', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,0,1
 US3791107A,1971-02-10,Off-gas system for nuclear reactors,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,8,0,1
@@ -130,6 +134,7 @@ US3793812A,1972-05-12,In-line multitube centrifugal separator,"['ADP', 'PUNCT', 
 US3794365A,1972-10-19,Inside emergency exit latch,"['ADP', 'NOUN', 'NOUN', 'VERB']",[],0,0,5,0,1
 US3794858A,1972-12-13,Off delay timer and ptc sensing circuit,"['ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
 US3796398A,1973-05-14,In-flight aircraft recovery system,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
+US3796967A,1966-09-19,Amplifier protection circuit,"['ADP', 'NOUN', 'NOUN']",['PERSON'],0,1,4,0,1
 US3797255A,1973-02-26,Under-water anchor apparatus and methods of installation,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,10,0,1
 US3797302A,1972-06-21,On-board aircraft weight transducer with mechanical offset adjustment,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,11,0,1
 US3797488A,1972-07-10,Ampoule applicator with one-way clutch,"['ADP', 'NOUN', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'VERB']",['CARDINAL'],0,0,8,0,1

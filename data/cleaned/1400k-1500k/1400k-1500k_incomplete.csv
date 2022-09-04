@@ -1,203 +1,214 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
-US1400097A,1921-04-08,Toy aeroplane,"['PROPN', 'NOUN']",[],1,0,3,1
-US1403461A,1921-06-09,Apparatus for underground-animal extermination,"['PROPN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,7,1
-US1403714A,1918-06-12,Apparatus for making photographic enlargements,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],1,0,6,1
-US1403796A,1919-03-03,Rotary bake oven,"['ADJ', 'NOUN', 'PROPN']",['GPE'],1,0,4,1
-US1404368A,1921-01-27,Conductor's equipment case,"['PROPN', 'PART', 'NOUN', 'NOUN']",[],1,0,5,1
-US1405947A,1920-07-12,Apparatus for manufacturing pulp,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,1
-US1406772A,1919-03-10,Hand cultivator,"['PROPN', 'NOUN']",[],1,0,3,1
-US1409303A,1922-03-14,Gun deflection-angle and range measuring instrument,"['PROPN', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'NOUN']",[],1,0,8,1
-US1411092A,1920-08-02,Laundry tag,"['PROPN', 'NOUN']",['ORG'],1,0,3,1
-US1413288A,1920-12-07,Throttle valve,"['PROPN', 'VERB']",[],1,0,3,1
-US1416093A,1921-02-26,Combination shade and curtain hanger,"['NOUN', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",[],1,0,6,1
-US1416188A,1921-08-02,Drag link,"['PROPN', 'NOUN']",[],1,0,3,1
-US1417913A,1914-07-28,Apparatus for generating high-frequency electric currents,"['PROPN', 'ADP', 'VERB', 'ADJ', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],1,0,9,1
-US1418027A,1921-01-26,Process for forming plaster board,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],1,0,6,1
-US1418354A,1920-08-14,Waterproof covering for hats,"['PROPN', 'VERB', 'ADP', 'NOUN']",[],1,0,5,1
-US1419696A,1921-09-28,Collar fastener,"['PROPN', 'NOUN']",[],1,0,3,1
-US1438783A,1919-03-28,"Grader for potatoes, roots, and fruit","['PROPN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'NOUN']",[],1,0,9,1
-US1440892A,1922-07-29,Water-closet,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,4,1
-US1445175A,1921-06-18,Means for connecting the shafts of mixing machines to the hubs of mixing or agitating blades,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],1,0,17,1
-US1448794A,1920-01-19,Pivot polisher,"['PROPN', 'NOUN']",[],1,0,3,1
-US1455363A,1916-11-08,Process of purifying water,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,1
-US1467737A,1922-03-21,Oil or like press or expressing apparatus of the worm-screw type,"['NOUN', 'CCONJ', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT', 'PROPN', 'NOUN']",[],1,0,14,1
-US1468865A,1921-12-16,Lamp shade,"['PROPN', 'NOUN']",[],1,0,3,1
-US1474871A,1920-08-16,Apparatus for preparing cane for extraction,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],1,0,7,1
-US1477553A,1919-05-22,Method and means for amplifying and projecting sound,"['PROPN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],1,0,9,1
-US1483616A,1923-04-23,"Shutter for the headlights of motor cars, motor cycles, and other vehicles","['PROPN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'CCONJ', 'ADJ', 'NOUN']",['ORG'],1,0,15,1
-US1484947A,1923-03-14,Hand-control load-lifting truck,"['PROPN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],1,0,8,1
-US1488914A,1920-12-01,Method of making sheet glass,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],1,0,6,1
-US1493531A,1923-05-11,Tray handler,"['PROPN', 'NOUN']",[],1,0,3,1
-US1495481A,1922-12-23,Apparatus for measuring the refractive value of the principal point of the eye,"['PROPN', 'ADP', 'VERB', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN']",[],1,0,14,1
-US1498148A,1920-07-14,Receptacle and cap therefor,"['NOUN', 'CCONJ', 'NOUN', 'PROPN']",['ORG'],1,0,5,1
-US1498630A,1921-06-08,Apparatus for cooling comminuted solid material,"['PROPN', 'ADP', 'VERB', 'VERB', 'ADJ', 'NOUN']",[],1,0,7,1
-US1498917A,1921-11-02,Apparatus for the distillation of carbonaceous materials,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],1,0,8,1
-US1499397A,1922-10-25,Roofing tile,"['PROPN', 'NOUN']",[],1,0,3,1
-US1499630A,1923-06-02,Portable wall section for house building,"['ADJ', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'PROPN']",[],1,0,7,1
-US1400623A,1920-01-30,Protecting appliance for use on automobiles,"['VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,1
-US1400680A,1921-02-28,Curtain-window for vehicles,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,1
-US1401082A,1921-06-06,Trolley apparatus,"['NOUN', 'NOUN']",['GPE'],0,0,3,1
-US1401376A,1917-11-14,Fiber-conditioning process and apparatus,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,7,1
-US1402638A,1921-03-01,Process for the treatment of undecomposed fertilizing substances,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,9,1
-US1402781A,1920-04-30,Casket-lowering device,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
-US1403527A,1919-10-01,Tobacco pipe,"['NOUN', 'NOUN']",[],0,0,3,1
-US1403541A,1919-05-28,Sheet-feeding machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
-US1403589A,1921-09-13,Spring-leaf spreader and lubricator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,7,1
-US1403605A,1919-12-26,Rotary fountain brush,"['ADJ', 'NOUN', 'NOUN']",['GPE'],0,0,4,1
-US1403747A,1921-02-16,Stay-bolt structure,"['VERB', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1404187A,1918-01-29,Electric lighting system,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
-US1404335A,1920-07-12,Machine for loading cotton bales in cars,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,1
-US1405272A,1921-06-27,Transmission,['NOUN'],[],0,0,2,1
-US1405449A,1921-06-09,Cellulose-ether solvent and composition,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,7,1
-US1406490A,1920-08-27,Watering device for cattle,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
-US1407464A,1922-02-21,Combined holber j,"['VERB', 'NOUN', 'NOUN']",[],0,0,3,1
-US1407601A,1921-04-22,Sifter,['NOUN'],[],0,0,2,1
-US1407772A,1921-09-12,Protective covering for waterproofing coating on concrete,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,1
-US1407798A,1919-12-03,Reserve-supply device for automobile fuel tanks,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,1
-US1407911A,1919-12-17,Driving and steering axle,"['VERB', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,5,1
-US1408082A,1921-03-16,Safety anchor,"['NOUN', 'NOUN']",[],0,0,3,1
-US1408430A,1919-10-20,Charging and discharging device,"['VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,1
-US1409225A,1916-07-29,Photographic exposure meter,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
-US1409408A,1922-03-14,Motor sleigh,"['NOUN', 'NOUN']",[],0,0,2,1
-US1409508A,1921-05-20,Magnetic steadying device for electrodes,"['ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,1
-US1409636A,1921-11-16,Automatic railway gate,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
-US1409662A,1920-12-11,Adjustable back rest,"['ADJ', 'ADV', 'NOUN']",[],0,0,4,1
-US1409865A,1920-04-10,Radiator for motor vehicles,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,1
-US1409884A,1921-07-08,Animal trap,"['NOUN', 'NOUN']",[],0,0,3,1
-US1409989A,1921-06-13,Ice chipper,"['NOUN', 'NOUN']",[],0,0,3,1
-US1410616A,1919-03-04,Concentrator,['NOUN'],[],0,0,2,1
-US1411386A,1920-11-15,Folding insulation for flange joints,"['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,1
-US1411433A,1921-04-06,Flexible shafting,"['ADJ', 'NOUN']",[],0,0,3,1
-US1411548A,1921-07-18,Bicycle gearing,"['NOUN', 'VERB']",[],0,0,3,1
-US1412252A,1920-09-15,Machine gun and similar weapon,"['NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,1
-US1412369A,1917-03-02,Door-operating mechanism,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
-US1412460A,1921-03-08,Screen and storm-sash hanger,"['NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,1
-US1412600A,1921-07-14,Lock,['VERB'],[],0,0,2,1
-US1413498A,1920-03-26,Ratchet drive for conveyers,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
-US1413791A,1921-01-08,Metallic packing for pistons,"['ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
-US1414233A,1918-12-09,Starting mechanism for internal-combustion engines,"['VERB', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,1
-US1414780A,1916-08-19,Cooling system for internal-combustion engines,"['VERB', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,1
-US1414966A,1921-04-13,Storm sash and screen fastener,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,1
-US1415425A,1921-03-23,Pedal lock,"['NOUN', 'NOUN']",[],0,0,3,1
-US1415600A,1922-05-09,And egbert g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,1
-US1415686A,1922-02-02,Calendar,['NOUN'],[],0,0,2,1
-US1416977A,1920-06-21,Internal-combustion engine,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1417015A,1921-07-02,Hoisting and conveying device,"['NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,1
-US1417070A,1919-12-08,Suspension transporter arrangement,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,1
-US1418048A,1921-01-31,Arch support,"['ADJ', 'NOUN']",[],0,0,3,1
-US1418051A,1915-09-13,Lighting system for automobiles,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
-US1418059A,1921-09-02,Key case,"['ADJ', 'NOUN']",[],0,0,3,1
-US1418217A,1919-07-29,Match holder for hats,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
-US1418685A,1919-10-15,Adjustable stilt,"['ADJ', 'VERB']",[],0,0,3,1
-US1419531A,1922-06-13,Carrier and retractor for wheel rims and tires,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,8,1
-US1420225A,1921-10-08,Amusement device,"['NOUN', 'NOUN']",[],0,0,3,1
-US1421839A,1921-01-24,Fishline reel,"['NOUN', 'NOUN']",[],0,0,3,1
-US1422915A,1920-10-26,Ventilated automobile driver's seat,"['VERB', 'NOUN', 'NOUN', 'PART', 'NOUN']",[],0,0,6,1
-US1424109A,1921-02-07,Drilling device,"['NOUN', 'NOUN']",[],0,0,3,1
-US1424282A,1921-09-28,Vehicle-window device,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1424695A,1921-03-29,Elastic fork for motor cycles and other vehicles having a single steering wheel,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN', 'NOUN']",[],0,0,14,1
-US1426129A,1920-06-25,Disappearing automobile top,"['VERB', 'NOUN', 'NOUN']",[],0,0,4,1
-US1426317A,1921-08-22,Cinematographic screen,"['ADJ', 'NOUN']",[],0,0,3,1
-US1426744A,1919-11-24,Pencil,['NOUN'],[],0,0,2,1
-US1427259A,1922-01-27,Bottle cap,"['NOUN', 'NOUN']",[],0,0,3,1
-US1427589A,1921-10-04,Bicycle propelling means,"['NOUN', 'NOUN', 'VERB']",[],0,0,4,1
-US1427910A,1920-11-22,Oil burner,"['NOUN', 'NOUN']",[],0,0,3,1
-US1430408A,1921-04-25,Harvester cutting mechanism,"['NOUN', 'VERB', 'NOUN']",[],0,0,4,1
-US1430710A,1920-02-12,Vamp-locating device,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
-US1431858A,1921-10-05,Slice for paper-making machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,7,1
-US1432208A,1921-07-26,Oil-seal gas separator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,1
-US1432480A,1920-04-09,Holder frame for interchangeable signs,"['NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,1
-US1433308A,1921-04-05,Process of obtaining complete alcoholysis,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,6,1
-US1433434A,1919-06-30,Oil burner,"['NOUN', 'NOUN']",[],0,0,3,1
-US1434528A,1919-12-01,Tapeline-case stop,"['NOUN', 'PUNCT', 'NOUN', 'VERB']",[],0,0,5,1
-US1435413A,1921-02-08,Grading machine,"['VERB', 'NOUN']",[],0,0,3,1
-US1437475A,1921-12-12,Wrench,['NOUN'],[],0,0,2,1
-US1439333A,1922-02-24,Caster retainer,"['NOUN', 'NOUN']",[],0,0,3,1
-US1439694A,1922-12-26,cooper,['NOUN'],[],0,0,1,1
-US1440115A,1917-07-14,Caster,['NOUN'],[],0,0,2,1
-US1440856A,1923-01-02,Island,['NOUN'],[],0,0,1,1
-US1442089A,1921-10-24,Chemical fireproof paint,"['NOUN', 'ADJ', 'NOUN']",['ORG'],0,0,4,1
-US1442410A,1922-02-24,Air-agitating tube for refrigerating systems,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,8,1
-US1442570A,1918-05-22,Detachable tractor unit for gun mounts,"['ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,1
-US1442623A,1923-01-16,Sail-beefing mechanism for boats,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,1
-US1443617A,1920-02-02,Shock absorber,"['NOUN', 'NOUN']",[],0,0,3,1
-US1443791A,1920-05-29,Safety device for punch presses and the like,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],0,0,9,1
-US1444340A,1920-12-23,Valve-stem guard,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1445064A,1922-01-31,Automobile top and windshield coupling,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,1
-US1447137A,1921-10-17,Saw,['VERB'],[],0,0,2,1
-US1448260A,1921-07-09,Window-shade bracket,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1448490A,1917-12-21,Variable-speed transmission,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1448908A,1920-09-23,Fluid-operated brake,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
-US1448953A,1921-09-14,Locking device,"['VERB', 'NOUN']",[],0,0,3,1
-US1449699A,1920-05-14,Electric drive for spinning machines or the like,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],0,0,9,1
-US1450174A,1921-08-12,Nickeliferous catalyzers and process of manufacturing the same,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ']",[],0,0,9,1
-US1451497A,1922-12-16,Pivotal clamping device for bumpers and the like,"['ADJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],0,0,9,1
-US1451691A,1922-05-29,Pump-actuating mechanism,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
-US1453175A,1922-02-17,Grinding machine,"['VERB', 'NOUN']",[],0,0,3,1
-US1454303A,1921-03-05,Money-paying device,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
-US1454330A,1922-01-23,Abdominal band,"['ADJ', 'NOUN']",[],0,0,3,1
-US1456112A,1921-11-25,Reflocculated product and process of preparing same,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ']",[],0,0,8,1
-US1457560A,1922-05-09,Centrifugal amalgamator,"['ADJ', 'NOUN']",[],0,0,3,1
-US1458369A,1921-06-09,Lubricating pump,"['VERB', 'VERB']",[],0,0,3,1
-US1460418A,1922-05-01,Can punch and seal,"['AUX', 'VERB', 'CCONJ', 'VERB']",[],0,0,5,1
-US1461068A,1922-07-29,Printing roller,"['NOUN', 'NOUN']",[],0,0,3,1
-US1461547A,1921-09-23,Reed for looms,"['NOUN', 'ADP', 'NOUN']",[],0,0,4,1
-US1462641A,1920-12-02,Gas distributing and governing valve,"['NOUN', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,6,1
-US1462956A,1923-01-02,Automobile shield,"['NOUN', 'NOUN']",[],0,0,3,1
-US1463184A,1918-12-04,Fire-brick arch,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1464467A,1921-12-30,Level,['NOUN'],[],0,0,2,1
-US1464669A,1916-05-17,Feed-water regulator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1464950A,1920-10-06,Grinding machine,"['VERB', 'NOUN']",[],0,0,3,1
-US1466163A,1921-03-07,Artificial limb,"['ADJ', 'NOUN']",[],0,0,3,1
-US1467335A,1922-11-17,Button,['NOUN'],[],0,0,2,1
-US1467591A,1921-04-26,Speed-changing device and take-up of chain drives or the like,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],0,0,15,1
-US1467946A,1922-08-07,Spectacle hinge,"['NOUN', 'INTJ']",[],0,0,3,1
-US1470937A,1921-11-26,Keyhole guard,"['NOUN', 'NOUN']",[],0,0,3,1
-US1471424A,1922-10-30,Ball-varnishing machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
-US1471676A,1922-07-25,Pants presser,"['NOUN', 'NOUN']",[],0,0,3,1
-US1471919A,1918-07-24,Poultry feeder,"['NOUN', 'NOUN']",[],0,0,3,1
-US1472189A,1921-01-10,Car roof,"['NOUN', 'NOUN']",[],0,0,3,1
-US1472282A,1921-08-15,Marking stamp,"['VERB', 'NOUN']",[],0,0,3,1
-US1472338A,1920-10-12,Pump mechanism,"['ADJ', 'NOUN']",[],0,0,3,1
-US1473138A,1921-09-01,Bearing,['VERB'],[],0,0,2,1
-US1475697A,1920-08-13,Fluid-pressure-actuated switch valve,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN']",[],0,0,8,1
-US1477432A,1923-02-12,Antitheft lock,"['ADJ', 'NOUN']",[],0,0,3,1
-US1478185A,1919-12-20,Flexible tubing,"['ADJ', 'NOUN']",[],0,0,3,1
-US1478375A,1918-07-18,Electric furnace,"['ADJ', 'NOUN']",[],0,0,3,1
-US1478868A,1922-05-11,Soldering iron,"['VERB', 'NOUN']",[],0,0,3,1
-US1480731A,1922-07-26,Door-hanger structure,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1481340A,1921-09-29,Ruffling mechanism for sewing machines,"['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,1
-US1482109A,1923-05-04,Truck-centering device,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
-US1484353A,1922-10-05,Honing device for bores of internal-combustion engines,"['VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,10,1
-US1484476A,1923-04-10,Camp grill,"['NOUN', 'NOUN']",[],0,0,3,1
-US1484791A,1921-12-22,Roasting furnace,"['VERB', 'NOUN']",[],0,0,3,1
-US1484792A,1924-02-26,Hedge trimmer,"['ADJ', 'NOUN']",[],0,0,2,1
-US1484897A,1922-10-25,Child's vehicle,"['NOUN', 'PART', 'NOUN']",[],0,0,4,1
-US1485157A,1920-07-09,Overload protective device,"['NOUN', 'ADJ', 'NOUN']",[],0,0,4,1
-US1485470A,1921-01-12,Weighing scale,"['NOUN', 'NOUN']",[],0,0,3,1
-US1485634A,1923-06-18,Case for tape measures,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,1
-US1485804A,1922-08-15,Pulling machine,"['VERB', 'NOUN']",[],0,0,3,1
-US1485880A,1922-10-10,Platform truck,"['NOUN', 'NOUN']",[],0,0,3,1
-US1486056A,1920-12-11,Pallet for block-making machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,7,1
-US1486230A,1923-03-15,Tire-gauge holder,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1486704A,1921-07-07,Variable-speed gear,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1489415A,1924-04-08,Cut-off appaeatus foe liquid-supply lines,"['VERB', 'PUNCT', 'ADP', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,9,1
-US1489502A,1923-05-22,Harness connecter and adjuster,"['ADJ', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,5,1
-US1489646A,1922-11-25,Light projector,"['NOUN', 'NOUN']",[],0,0,3,1
-US1490131A,1924-04-15,Typewriting machine,"['VERB', 'NOUN']",[],0,0,2,1
-US1491576A,1922-01-12,Door arrangement for railway cars,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,1
-US1491970A,1919-03-03,Wrapping machine,"['NOUN', 'NOUN']",[],0,0,3,1
-US1491978A,1921-11-23,Bearing,['VERB'],[],0,0,2,1
-US1493256A,1922-03-07,Flexible driving shaft,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
-US1493359A,1923-03-28,Shower head,"['ADJ', 'NOUN']",['ORG'],0,0,3,1
-US1493739A,1921-04-23,Time-controlled thermostatic switch,"['NOUN', 'PUNCT', 'VERB', 'ADJ', 'NOUN']",[],0,0,6,1
-US1494108A,1923-01-25,Auxiliary brake for automobiles,"['ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
-US1494403A,1922-06-30,Door fastener,"['NOUN', 'NOUN']",[],0,0,3,1
-US1495090A,1922-01-16,Molding machine,"['NOUN', 'NOUN']",[],0,0,3,1
-US1495324A,1922-11-09,Metal cap,"['NOUN', 'NOUN']",[],0,0,3,1
-US1496171A,1920-11-19,Book-drilling machine,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
-US1496871A,1920-02-06,Gondola-car end wall,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,1
-US1497091A,1922-11-18,Speed-control means for lifting mechanisms,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,8,1
-US1498732A,1923-05-12,Automatic feeder for soap-cutting tables,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,8,1
-US1499553A,1922-11-25,Shipping package,"['NOUN', 'NOUN']",[],0,0,3,1
-US1499882A,1922-11-22,Shock absorber for automobiles,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
+US1400084A,1920-01-14,Cigar-box,"['PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,4,1
+US1403221A,1912-07-09,Method of boring embroidery fabric,"['PROPN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],1,0,6,1
+US1403471A,1922-01-10,Method of heating at high temperatures,"['PROPN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],1,0,6,1
+US1403594A,1919-01-11,Apparatus for heating or vaporizing fluids,"['PROPN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],1,0,7,1
+US1404032A,1920-11-24,Gopher trap,"['PROPN', 'NOUN']",[],1,0,3,1
+US1405593A,1920-11-08,Apparatus for baking material,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,1
+US1406280A,1917-03-28,Method of making shoes,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,1
+US1408692A,1920-12-23,Cooking utensil,"['VERB', 'PROPN']",[],1,0,3,1
+US1410298A,1919-05-26,Insect trap,"['PROPN', 'VERB']",[],1,0,3,1
+US1412409A,1919-05-19,Port light,"['PROPN', 'NOUN']",[],1,0,3,1
+US1415119A,1921-07-13,Chuck for tool-operating machines,"['PROPN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",['PERSON'],1,1,7,1
+US1415160A,1919-05-07,Apparatus for drying materials,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,1
+US1416512A,1917-05-26,Means for using pulverized fuel in the furnaces of steam generators,"['PROPN', 'ADP', 'VERB', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],1,0,12,1
+US1416604A,1921-06-08,Egg case,"['PROPN', 'NOUN']",[],1,0,3,1
+US1416866A,1921-03-05,Hose supporter,"['PROPN', 'NOUN']",['PERSON'],1,1,3,1
+US1418184A,1920-08-12,Screw driver,"['PROPN', 'NOUN']",['DATE'],1,0,3,1
+US1436003A,1921-11-07,Electrically-illuminated fireproof christmas wreath,"['ADV', 'PUNCT', 'VERB', 'ADJ', 'PROPN', 'NOUN']",[],1,0,7,1
+US1437844A,1921-06-13,Apparatus and process for producing dental impressions,"['PROPN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],1,0,8,1
+US1442118A,1921-09-03,Clamping screw,"['VERB', 'PROPN']",[],1,0,3,1
+US1445292A,1919-10-25,Parcel carrier for vehicles,"['PROPN', 'NOUN', 'ADP', 'NOUN']",[],1,0,5,1
+US1451531A,1922-01-06,Method of manufacturing antifriction bearing rings,"['PROPN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],1,0,7,1
+US1462967A,1920-05-06,Brake shoe,"['PROPN', 'NOUN']",['ORG'],1,0,3,1
+US1464049A,1920-12-07,Throttle valve,"['PROPN', 'VERB']",[],1,0,3,1
+US1469748A,1922-05-05,Loose-leaf binder and filler therefor,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PROPN']",[],1,0,8,1
+US1472289A,1923-10-30,Radio wise connecting cikciti e s,"['NOUN', 'ADJ', 'VERB', 'PROPN', 'PROPN', 'VERB']",[],1,0,6,1
+US1477667A,1922-05-26,Cooking utensil,"['VERB', 'PROPN']",[],1,0,3,1
+US1479039A,1923-01-15,Method of making wardrobe-trunk trolleys,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,8,1
+US1482815A,1923-03-13,Vehicle headlight,"['PROPN', 'VERB']",[],1,0,3,1
+US1486829A,1924-03-11,Revolving gkate and seaiee pcs st-eel ranges,"['PROPN', 'VERB', 'CCONJ', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'NOUN', 'VERB']",[],1,0,9,1
+US1488542A,1920-12-09,Apparatus for obtaining photographic records,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],1,0,6,1
+US1490911A,1921-07-14,Bag fastener,"['PROPN', 'NOUN']",[],1,0,3,1
+US1491325A,1922-08-19,"Fitting for electrical conduits, outlet boxes, and the like","['VERB', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'PROPN', 'NOUN', 'PUNCT', 'CCONJ', 'DET', 'INTJ']",[],1,0,12,1
+US1491734A,1921-09-21,Marking device for lumber,"['VERB', 'NOUN', 'ADP', 'PROPN']",[],1,0,5,1
+US1492105A,1923-09-04,Display apparatus,"['PROPN', 'NOUN']",[],1,0,3,1
+US1492325A,1921-04-26,Road rail for concrete pavements and analogous uses,"['PROPN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'ADJ', 'VERB']",[],1,0,9,1
+US1495685A,1920-11-09,Oven and electric heater therefor,"['ADJ', 'CCONJ', 'ADJ', 'NOUN', 'PROPN']",[],1,0,6,1
+US1495990A,1920-06-09,Method of introducing paste into dry-cell cups,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,10,1
+US1498022A,1923-07-21,Mop holder,"['PROPN', 'NOUN']",[],1,0,3,1
+US1499367A,1923-02-27,Apparatus for hair waving,"['PROPN', 'ADP', 'NOUN', 'VERB']",[],1,0,5,1
+US1401078A,1920-11-30,Sand-dispensing device for motor-vehicles,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,1
+US1401223A,1919-03-31,Multiple-ball valve,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1401937A,1920-11-09,Purification of maleic acid by reducing agents,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,8,1
+US1401945A,1921-01-19,Cooking apparatus,"['NOUN', 'NOUN']",[],0,0,3,1
+US1401993A,1920-02-27,Folding crate for eggs and other products,"['VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,8,1
+US1402007A,1918-03-19,Decolorizing carbon and process of making same,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ']",[],0,0,8,1
+US1402142A,1919-07-22,Demountable rim,"['ADJ', 'NOUN']",[],0,0,3,1
+US1402577A,1921-08-04,Coaster brake,"['NOUN', 'NOUN']",[],0,0,3,1
+US1402726A,1921-03-03,Expansion feed roller,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,1
+US1403670A,1920-10-28,Oil dispenser,"['NOUN', 'NOUN']",[],0,0,3,1
+US1403845A,1919-07-19,Telephone-exchange system,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1404881A,1921-01-08,Tappet-wrench set,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",['NORP'],0,0,5,1
+US1405841A,1919-02-15,Climeter,['NOUN'],[],0,0,2,1
+US1405976A,1921-02-15,Fishing tool for oil wells,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,1
+US1406125A,1920-04-10,Self-measuring stock feeder,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN']",[],0,0,6,1
+US1406155A,1920-01-29,Race game,"['NOUN', 'NOUN']",[],0,0,3,1
+US1406283A,1921-04-08,Flywheel for automobiles,"['NOUN', 'ADP', 'NOUN']",[],0,0,4,1
+US1406463A,1921-03-12,Bead chain,"['VERB', 'NOUN']",[],0,0,3,1
+US1406822A,1921-09-15,Safety lock for trunks and the like,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],0,0,8,1
+US1407638A,1921-05-12,Stripping comb,"['VERB', 'NOUN']",[],0,0,3,1
+US1407818A,1919-06-12,Supervisory mechanism,"['ADJ', 'NOUN']",[],0,0,3,1
+US1407922A,1919-07-17,Tank-closure lock,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1408048A,1920-03-31,Trolley-conductor clamp,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1408069A,1918-02-09,Composite sheet piling,"['ADJ', 'NOUN', 'VERB']",[],0,0,4,1
+US1408252A,1920-10-26,Drawing apparatus utilizing parallel movements,"['NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN']",[],0,0,6,1
+US1408271A,1921-06-04,Oil burner,"['NOUN', 'NOUN']",[],0,0,3,1
+US1408383A,1920-05-12,Batch box,"['NOUN', 'NOUN']",[],0,0,3,1
+US1409015A,1920-09-04,Printing machine,"['NOUN', 'NOUN']",[],0,0,3,1
+US1409767A,1922-03-14,Bituminous construction material and process of making the same,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ']",[],0,0,9,1
+US1409804A,1918-11-29,Machine and process for stemming fruit,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,7,1
+US1409914A,1919-03-08,Tonnage recorder for ships,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
+US1410581A,1921-01-21,Lock,['VERB'],[],0,0,2,1
+US1410686A,1919-07-26,Tube cleaner,"['NOUN', 'ADV']",[],0,0,3,1
+US1410773A,1920-04-07,Bell ringer and line lock,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,1
+US1410922A,1921-06-23,Cards for playing games,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,5,1
+US1411813A,1920-10-30,Fruit-juice extractor,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1412105A,1916-12-27,Centrifugal pump,"['ADJ', 'NOUN']",[],0,0,3,1
+US1412537A,1921-03-29,Disk-record file,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1413078A,1920-06-25,Resilient tire for automobiles and other vehicles,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,8,1
+US1413250A,1920-04-28,Switch system for mine locomotives,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,1
+US1413704A,1919-09-05,Convertible automobile body construction,"['ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,1
+US1413862A,1920-10-06,Drying apparatus employed in the manufacture of boots and shoes,"['VERB', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,11,1
+US1413947A,1921-10-08,Photographic camera,"['ADJ', 'NOUN']",[],0,0,3,1
+US1415239A,1920-03-15,Transmission mechanism,"['NOUN', 'NOUN']",[],0,0,3,1
+US1415273A,1917-03-09,Ceiling construction,"['NOUN', 'NOUN']",[],0,0,3,1
+US1415325A,1919-02-14,Ice manufacture,"['NOUN', 'NOUN']",[],0,0,3,1
+US1416346A,1920-10-08,Heater and ventilator,"['NOUN', 'CCONJ', 'NOUN']",[],0,0,4,1
+US1416349A,1919-05-19,Molding flask,"['VERB', 'NOUN']",[],0,0,3,1
+US1416358A,1922-05-16,Automobile bumper,"['NOUN', 'NOUN']",[],0,0,2,1
+US1416534A,1921-04-28,Silo,['NOUN'],[],0,0,2,1
+US1416997A,1911-11-17,Machine for filling and closing cans,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,7,1
+US1417844A,1920-06-05,Slicing machine,"['VERB', 'NOUN']",[],0,0,3,1
+US1418478A,1921-02-24,Phonograph needle and holder structure,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,1
+US1420062A,1922-02-01,Polishing apparatus,"['VERB', 'NOUN']",[],0,0,3,1
+US1421058A,1920-03-01,Lantern construction,"['ADJ', 'NOUN']",[],0,0,3,1
+US1422301A,1919-04-30,Post for wire fencing,"['VERB', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,1
+US1422499A,1920-06-30,Automatic slack adjuster,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
+US1422924A,1921-02-14,Hay stacker,"['NOUN', 'NOUN']",[],0,0,3,1
+US1424300A,1917-02-13,Control system for single-phase motors,"['NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,1
+US1424487A,1920-07-19,Fuse for blasting with a liquefied gas and method of producing the same,"['NOUN', 'ADP', 'VERB', 'ADP', 'DET', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ']",['PERSON'],0,1,14,1
+US1424913A,1920-11-30,Gate-operating mechanism,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1425413A,1921-05-07,Adjustable foot pedal,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
+US1425734A,1921-03-23,Running gear,"['VERB', 'NOUN']",[],0,0,3,1
+US1426067A,1921-12-09,Device for stenciling,"['NOUN', 'ADP', 'VERB']",[],0,0,4,1
+US1428555A,1921-09-21,Mechanism for operating sliding doors,"['NOUN', 'ADP', 'VERB', 'VERB', 'NOUN']",[],0,0,6,1
+US1428872A,1921-04-22,Candy-dipping device,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1430011A,1922-02-02,Sardine-turning apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1430370A,1921-04-23,Sanding machine,"['VERB', 'NOUN']",[],0,0,3,1
+US1430624A,1920-08-19,Polishing machine,"['VERB', 'NOUN']",[],0,0,3,1
+US1431465A,1920-08-02,Ornamental article of manufacture,"['ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
+US1431572A,1919-09-24,Differential gear,"['ADJ', 'NOUN']",[],0,0,3,1
+US1432642A,1921-11-03,Headlight-turning device,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1433527A,1921-02-14,Tool holder,"['NOUN', 'NOUN']",[],0,0,3,1
+US1435548A,1919-05-09,Wrench,['NOUN'],[],0,0,2,1
+US1437387A,1921-05-03,Lifeboat,['NOUN'],[],0,0,2,1
+US1437755A,1921-01-28,Rotary drilling apparatus,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
+US1438159A,1919-09-08,Mold-cutting mechanism,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1438897A,1922-12-12,zeoop,['NOUN'],[],0,0,1,1
+US1440119A,1919-01-01,Index,['NOUN'],[],0,0,2,1
+US1440417A,1920-03-17,Automatic train control,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
+US1440572A,1922-04-24,Manufacture of annular plait or netting in the form of tubes,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,12,1
+US1440616A,1919-11-22,Friction cutting machine,"['NOUN', 'VERB', 'NOUN']",[],0,0,4,1
+US1441623A,1922-05-31,Nursing bottle,"['NOUN', 'NOUN']",[],0,0,3,1
+US1441805A,1920-06-22,Lens-grinding machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1442335A,1921-12-06,Automobile transmission-case truss,"['NOUN', 'NOUN', 'PUNCT', 'NOUN', 'VERB']",[],0,0,6,1
+US1443015A,1921-04-02,Tire-rim tool,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1445055A,1921-03-28,Fabric for garments,"['NOUN', 'ADP', 'NOUN']",[],0,0,4,1
+US1446184A,1922-09-14,Twist lace and in the method of making the same,"['ADJ', 'NOUN', 'CCONJ', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ']",[],0,0,11,1
+US1446402A,1920-04-30,Washing machine,"['NOUN', 'NOUN']",[],0,0,3,1
+US1446822A,1922-04-07,Valve tool,"['NOUN', 'NOUN']",[],0,0,3,1
+US1446865A,1921-11-02,Bag-frame fastener,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1447658A,1921-04-26,Window shade and curtain bracket,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,1
+US1448131A,1921-12-27,Shock absorber,"['NOUN', 'NOUN']",[],0,0,3,1
+US1449413A,1920-04-03,Metal-working machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1449611A,1921-01-14,Stamped metal lever,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
+US1451089A,1922-05-10,Grinding and lapping machine,"['VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,1
+US1452173A,1921-04-05,Low-water indicator,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1452198A,1922-10-25,Dumping car,"['VERB', 'NOUN']",[],0,0,3,1
+US1453969A,1921-02-03,Acoustic device,"['ADJ', 'NOUN']",[],0,0,3,1
+US1455437A,1918-07-09,Petroleum-distillation process,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1456229A,1922-02-09,Window stop,"['NOUN', 'VERB']",[],0,0,3,1
+US1458220A,1921-11-21,Block planer,"['NOUN', 'NOUN']",[],0,0,3,1
+US1458907A,1908-06-25,Automatic telephone system,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,1
+US1459386A,1923-02-15,Monorail car,"['ADJ', 'NOUN']",['PERSON'],0,1,3,1
+US1460474A,1919-11-17,Internal-combustion engine,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1460761A,1922-02-16,Card-index tab,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",['ORG'],0,0,5,1
+US1460922A,1922-08-12,Valve-actuating means,"['NOUN', 'PUNCT', 'VERB', 'VERB']",[],0,0,5,1
+US1462196A,1919-03-29,Fishing apparatus,"['NOUN', 'NOUN']",[],0,0,3,1
+US1462373A,1922-02-08,Edging or border finish,"['NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,5,1
+US1462656A,1920-09-14,Dental-appliance unit,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1463891A,1921-03-14,Rim breaker,"['ADJ', 'NOUN']",[],0,0,3,1
+US1465099A,1917-12-17,Safety device for checks,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
+US1465351A,1921-12-20,Low-gascline signal,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1465688A,1918-01-12,Incased circuit connecting and controlling device,"['ADJ', 'NOUN', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,7,1
+US1468626A,1921-01-03,Wrapping machine,"['NOUN', 'NOUN']",[],0,0,3,1
+US1469089A,1921-09-27,Chain fastener,"['NOUN', 'NOUN']",[],0,0,3,1
+US1469359A,1922-08-21,Service cabinet,"['NOUN', 'NOUN']",[],0,0,3,1
+US1469606A,1919-11-19,Waterproof product and process of making same,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ']",[],0,0,8,1
+US1469872A,1922-02-04,Fumigator,['NOUN'],[],0,0,2,1
+US1469963A,1918-12-20,Water-feeding apparatus for storage batteries,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,1
+US1470022A,1922-03-29,Centrifugal pump,"['ADJ', 'NOUN']",[],0,0,3,1
+US1470818A,1920-05-24,Gear-wheel forging dies and method of making same,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ']",[],0,0,11,1
+US1473328A,1921-10-20,Car door,"['NOUN', 'NOUN']",[],0,0,3,1
+US1475027A,1922-06-07,Detector for wireless signals,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,1
+US1475787A,1916-08-07,Machine for drilling buttons,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,5,1
+US1475978A,1922-12-08,Beater,['NOUN'],[],0,0,2,1
+US1476486A,1919-06-24,Optical pyrometer,"['ADJ', 'NOUN']",[],0,0,3,1
+US1478360A,1919-11-29,Barrel chime,"['NOUN', 'NOUN']",[],0,0,3,1
+US1478964A,1921-06-15,Bearing and gear removing tool,"['NOUN', 'CCONJ', 'VERB', 'VERB', 'NOUN']",[],0,0,6,1
+US1479696A,1921-09-13,Safety device for planes,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
+US1481879A,1921-08-26,Oil-burning apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1482001A,1923-06-28,Candle-finishing machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1482307A,1923-01-05,Freight-car door,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1482308A,1922-01-26,Glare screen and clamp,"['NOUN', 'NOUN', 'CCONJ', 'VERB']",[],0,0,5,1
+US1482408A,1922-05-29,Absorption device,"['NOUN', 'NOUN']",[],0,0,3,1
+US1482664A,1922-10-11,Chain connecter,"['NOUN', 'NOUN']",[],0,0,3,1
+US1482974A,1923-04-12,Lock,['VERB'],[],0,0,2,1
+US1483129A,1923-10-16,Line-throwing gun,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,1
+US1483295A,1922-08-09,Poultry house,"['NOUN', 'NOUN']",[],0,0,3,1
+US1483376A,1923-01-19,Manger for dairy barns,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,1
+US1483541A,1922-10-28,Door fastening for safes and the like,"['NOUN', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],0,0,8,1
+US1483702A,1920-11-04,Garment lacing,"['NOUN', 'NOUN']",[],0,0,3,1
+US1484186A,1921-12-30,Suitcase,['VERB'],[],0,0,2,1
+US1486934A,1920-06-14,Combination lock,"['NOUN', 'NOUN']",[],0,0,3,1
+US1487028A,1922-03-24,Cigarette-machine cut-off,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'ADP']",[],0,0,7,1
+US1487187A,1921-03-03,Typewriting machine,"['VERB', 'NOUN']",[],0,0,3,1
+US1487620A,1924-03-18,Geoege b,"['NOUN', 'NOUN']",[],0,0,2,1
+US1489085A,1922-05-05,Breast-strap slide,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1489471A,1922-08-17,Holder for fish lines and hooks,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",['ORG'],0,0,7,1
+US1489481A,1919-12-22,Plow,['NOUN'],[],0,0,2,1
+US1490709A,1922-12-20,Embossing machine,"['VERB', 'NOUN']",[],0,0,3,1
+US1490802A,1923-01-06,Combined valve and filler cap,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,1
+US1491206A,1922-08-11,Door and window stop,"['NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,5,1
+US1491555A,1921-12-21,Clothes drier,"['NOUN', 'NOUN']",[],0,0,3,1
+US1491855A,1920-10-27,Mortar for throwing line-carrying projectiles,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,8,1
+US1492534A,1923-01-02,Tooth-paste holder,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1492778A,1923-02-07,Brooder stove,"['NOUN', 'VERB']",[],0,0,3,1
+US1493651A,1923-07-07,Excavating system,"['VERB', 'NOUN']",[],0,0,3,1
+US1494341A,1919-06-27,Water-closet seat,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,1
+US1494569A,1923-11-26,Fluid-operated braking system,"['NOUN', 'PUNCT', 'VERB', 'VERB', 'NOUN']",[],0,0,6,1
+US1496212A,1923-02-06,Circular-saw guard,"['ADJ', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,5,1
+US1497003A,1922-09-30,Oil-burner heating attachment for furnaces,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,1
+US1497324A,1923-09-06,Machine for making envelopes and the like,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],0,0,8,1
+US1497611A,1923-11-28,Permutation padlock,"['NOUN', 'NOUN']",[],0,0,3,1
+US1497857A,1922-12-23,Bending brake,"['VERB', 'NOUN']",['PERSON'],0,1,3,1
+US1497994A,1922-05-06,Loom attachment,"['NOUN', 'NOUN']",[],0,0,3,1
+US1498045A,1923-07-05,Process of cleansing wells and apparatus therein,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADV']",[],0,0,8,1
+US1498540A,1921-05-13,Coupler shank and yoke connection,"['NOUN', 'VERB', 'CCONJ', 'NOUN', 'NOUN']",['PERSON'],0,1,6,1
+US1498826A,1923-08-23,Tension attachment for winding machines,"['NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,1
+US1498854A,1922-07-24,Demountable rim,"['ADJ', 'NOUN']",[],0,0,3,1
+US1499124A,1921-10-31,Cutting machine,"['VERB', 'NOUN']",[],0,0,3,1
+US1499393A,1922-11-01,Cracking-off device for sheet glass,"['NOUN', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,1
+US1499499A,1923-07-02,Welding machine,"['NOUN', 'NOUN']",[],0,0,3,1
+US1499613A,1921-04-27,Hoisting mechanism,"['NOUN', 'NOUN']",[],0,0,3,1
