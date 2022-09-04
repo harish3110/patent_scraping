@@ -1,2 +1,2 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
-US1098392A,1914-02-16,Uncoupling mechanism.,"['VERB', 'NOUN', 'PUNCT']",[],0,0,4,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings
+US1098392A,1914-02-16,Uncoupling mechanism.,"['VERB', 'NOUN', 'PUNCT']",[],0,0,4,"['uncoupling', 'mechanism.']",1

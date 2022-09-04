@@ -1,13 +1,12 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len
-US1210625A,1917-01-02,Joseph m,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US1212315A,1917-01-16,bjerre,['PROPN'],['PERSON'],1,1,1
-US1225304A,1917-05-08,Paul a,"['PROPN', 'PRON']",['PERSON'],1,1,2
-US1233629A,1917-07-17,Addick g,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1244493A,1917-10-30,hamilton,['PROPN'],['PERSON'],1,1,1
-US1245009A,1917-10-30,van poindexter,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1252367A,1918-01-01,Clinton a,"['PROPN', 'PRON']",['PERSON'],1,1,2
-US1253587A,1918-01-15,Arthur graham,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1265522A,1918-05-07,Mrederick m,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US1265523A,1918-05-07,russell,['PROPN'],['PERSON'],1,1,1
-US1266495A,1918-05-14,landon,['VERB'],['PERSON'],0,1,2
-US1267821A,1918-05-28,Harry h,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,is_inventor
+US1210625A,1917-01-02,Joseph m,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['joseph', 'm']",1
+US1212315A,1917-01-16,bjerre,['PROPN'],['PERSON'],1,1,1,['bjerre'],1
+US1225304A,1917-05-08,Paul a,"['PROPN', 'PRON']",['PERSON'],1,1,2,"['paul', 'a']",1
+US1233629A,1917-07-17,Addick g,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['addick', 'g']",1
+US1244493A,1917-10-30,hamilton,['PROPN'],['PERSON'],1,1,1,['hamilton'],1
+US1245009A,1917-10-30,van poindexter,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['van', 'poindexter']",1
+US1252367A,1918-01-01,Clinton a,"['PROPN', 'PRON']",['PERSON'],1,1,2,"['clinton', 'a']",1
+US1253587A,1918-01-15,Arthur graham,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['arthur', 'graham']",1
+US1265522A,1918-05-07,Mrederick m,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['mrederick', 'm']",1
+US1265523A,1918-05-07,russell,['PROPN'],['PERSON'],1,1,1,['russell'],1
+US1266495A,1918-05-14,landon,['VERB'],['PERSON'],0,1,2,['landon'],1

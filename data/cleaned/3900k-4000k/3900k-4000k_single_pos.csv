@@ -1,4 +1,4 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
-US3911462A,1971-03-09,IIIa,['NOUN'],[],0,0,1,0
-US3949397A,1970-02-06,Identification,['NOUN'],[],0,0,1,0
-US3972906A,1974-04-26,Novel,['NOUN'],[],0,0,1,0
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings
+US3911462A,1971-03-09,IIIa,['NOUN'],[],0,0,1,['iiia'],0
+US3949397A,1970-02-06,Identification,['NOUN'],[],0,0,1,['identification'],0
+US3972906A,1974-04-26,Novel,['NOUN'],[],0,0,1,['novel'],0

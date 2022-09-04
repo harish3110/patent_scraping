@@ -1,720 +1,720 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US300024A,1884-06-10,Of john smalley,"['ADP', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US300123A,1884-06-10,And chaeles john,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
-US300648A,1884-06-17,And hermann a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US300684A,1884-06-17,And james c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
-US300833A,1884-06-24,And gustavus g,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US301186A,1884-07-01,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US301538A,1884-07-08,And john fawcett,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US301607A,1884-07-08,And feank h,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
-US301651A,1884-07-08,And joseph j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US302096A,1884-07-15,And franklin j,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
-US303266A,1884-08-12,And joseph h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US303626A,1884-08-19,And james h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US304078A,1884-08-26,And william b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US304215A,1884-08-26,And jay p,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US304680A,1884-09-02,And enoch j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US304681A,1884-09-02,And enoch j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US304989A,1884-09-09,And flora b,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US305356A,1884-09-16,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US305633A,1884-09-23,And campbell p,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,0,1
-US305650A,1884-09-23,And julius f,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US306011A,1884-09-30,And john i,"['CCONJ', 'PROPN', 'PRON']",['PERSON'],1,1,3,0,1
-US306317A,1884-10-07,And oeein claeiv,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US306404A,1884-10-14,of ihtts vi lli,"['ADP', 'PROPN', 'PROPN', 'PROPN']","['NORP', 'PERSON']",1,1,4,0,1
-US307729A,1884-11-04,And james w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US307760A,1884-11-11,And henry van hoeven,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
-US308405A,1884-11-25,And thomas egles,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US308549A,1884-11-25,And charles wilson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US308571A,1884-11-25,And john h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US309239A,1884-12-16,And thomas b,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US309584A,1884-12-23,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US309586A,1884-12-23,And cheistian f,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US309758A,1884-12-23,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US309811A,1884-12-23,And john n,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US310056A,1884-12-30,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US310538A,1885-01-06,And albert e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US310681A,1885-01-13,And george weber,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US310796A,1885-01-13,And george w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US310862A,1885-01-13,And robert william henry,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
-US311175A,1885-01-27,And joseph l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US311490A,1885-02-03,And william l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US311491A,1885-02-03,And william l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US311855A,1885-02-03,And andrew runstetler,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US312688A,1885-02-24,And james b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US312954A,1885-02-24,And everett eaedon,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US313158A,1885-03-03,And john thomson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US313532A,1885-03-10,And charles s,"['CCONJ', 'PROPN', 'PART']",['PERSON'],1,1,3,0,1
-US313829A,1885-03-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US314115A,1885-03-17,And pateick kenny,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US314374A,1885-03-24,And william j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US315049A,1885-04-07,And henby b,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US315089A,1885-04-07,And william w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US315122A,1885-04-07,And joseph t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US315495A,1885-04-14,And william f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US315532A,1885-04-14,And william fbecii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US316353A,1885-04-21,And joseph f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US317425A,1885-05-05,And george yule,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US318225A,1885-05-19,And thomas sault,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US318632A,1885-05-19,of zstew yoek,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US318666A,1885-05-19,And alfred j,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
-US319614A,1885-06-09,And joseph b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US319779A,1885-06-09,And william e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US320390A,1885-06-16,And thomas seenen,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US320501A,1885-06-23,And thomas joseph,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US321578A,1885-07-07,And elisha s,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US322844A,1885-07-21,And john w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US323235A,1885-07-28,And john n,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US323296A,1885-07-28,And george yule,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US323317A,1885-07-28,And lyman smith,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US323896A,1885-08-04,By k grier moore,"['ADP', 'PROPN', 'ADJ', 'NOUN']",['PERSON'],1,1,4,0,1
-US325096A,1885-08-25,And john coffin,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US325787A,1885-09-08,And anthony fries,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US326041A,1885-09-08,To  franklin,"['ADP', 'SPACE', 'PROPN']",[],1,0,3,0,1
-US326218A,1885-09-15,And samuel t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US326580A,1885-09-22,And john d,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US327725A,1885-10-06,For layiig o ut patterns,"['ADP', 'PROPN', 'NOUN', 'ADJ', 'NOUN']",[],1,0,5,0,1
-US328243A,1885-10-13,And john n,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US329160A,1885-10-27,And benjamin f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US329906A,1885-11-10,And thomas s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US330190A,1885-11-10,And henry beitz,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US330318A,1885-11-10,And warren k,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US330321A,1885-11-10,And feancis g,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US330974A,1885-11-24,And abraham l,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US331761A,1885-12-08,And christian c,"['CCONJ', 'PROPN', 'AUX']",['NORP'],1,0,3,0,1
-US332110A,1885-12-08,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US332161A,1885-12-08,And edward lapham,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US333105A,1885-12-29,And michael zieb,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US333591A,1886-01-05,And william e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US335017A,1886-01-26,And henry w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US335218A,1886-02-02,And frank b,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US335573A,1886-02-09,And john j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US335951A,1886-02-09,And lawson g,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US336718A,1886-02-23,And francis hyde,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US336785A,1886-02-23,By marriage now sarah,"['ADP', 'NOUN', 'ADV', 'PROPN']",[],1,0,4,0,1
-US336912A,1886-03-02,And gomee jones,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US338435A,1886-03-23,And joseph u,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US339348A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US339349A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US339350A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US339351A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US339352A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US339353A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US339354A,1886-04-06,And heney l,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,0,1
-US339519A,1886-04-06,And john d,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US339839A,1886-04-13,And henry e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US340042A,1886-04-13,And geoege edwin haeeis,"['CCONJ', 'NOUN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
-US341485A,1886-05-11,Under braider for sewing-m ach ines,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'PROPN', 'PROPN', 'PROPN']",[],1,0,8,0,1
-US342549A,1886-05-25,And william j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US342692A,1886-05-25,And allan mason,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US342801A,1886-06-01,And david e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US342920A,1886-06-01,And hoeace w,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,0,1
-US342942A,1886-06-01,And james w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US343512A,1886-06-08,And john n,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US343558A,1886-06-08,And john b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US344028A,1886-06-22,And albert moeley,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US344205A,1886-06-22,And frederick m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US344464A,1886-06-29,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US344465A,1886-06-29,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US344523A,1886-06-29,And john hurtin king,"['CCONJ', 'PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,4,0,1
-US344603A,1886-06-29,And william e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US344951A,1886-07-06,And nelson w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US345601A,1886-07-13,And david c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
-US347046A,1886-08-10,To george h,"['ADP', 'VERB', 'PROPN']",[],1,0,3,0,1
-US347207A,1886-08-10,And joseph kil,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US349106A,1886-09-14,And david h,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US349351A,1886-09-21,And orville s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US349650A,1886-09-21,And james ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US349767A,1886-09-28,And dennis j,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US349964A,1886-09-28,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US349965A,1886-09-28,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US350266A,1886-10-05,And thomas m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US350900A,1886-10-12,Ry james speatt,"['ADP', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US351989A,1886-11-02,And john t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US352384A,1886-11-09,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US352497A,1886-11-09,And john s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US352781A,1886-11-16,And harris filson,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US352826A,1886-11-16,And john m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US353356A,1886-11-30,And thomas bedstead,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US353714A,1886-12-07,And james c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
-US353778A,1886-12-07,And george dickman,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US353911A,1886-12-07,And john wagner,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US354638A,1886-12-21,And albert e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US354694A,1886-12-21,And paul e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US355633A,1887-01-04,And benjamin w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US355634A,1887-01-04,And benjamin w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US356189A,1887-01-18,And william hanson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US356204A,1887-01-18,And john b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US356720A,1887-01-25,And william m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US357116A,1887-02-01,And alice w,"['CCONJ', 'VERB', 'PROPN']",['PERSON'],1,1,3,0,1
-US357515A,1887-02-08,And patrick eeillt,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US357535A,1887-02-08,And david p,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US357642A,1887-02-15,of hanover square,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US357730A,1887-02-15,And john l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US358459A,1887-03-01,And john c,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US358471A,1887-03-01,And lee hutchins,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US358856A,1887-03-08,And henry hebeeling,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US358921A,1887-03-08,And fbedbick peteb eos,"['CCONJ', 'ADJ', 'PROPN', 'PROPN']",['ORG'],1,0,4,0,1
-US360026A,1887-03-29,And peter english,"['CCONJ', 'PROPN', 'PROPN']",['LANGUAGE'],1,0,3,0,1
-US360496A,1887-04-05,And john h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US361845A,1887-04-26,And luthee k,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,0,1
-US361846A,1887-04-26,And luther k,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US362597A,1887-05-10,And thomas p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US362729A,1887-05-10,And samuel tiiomp,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US362842A,1887-05-10,And james w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US362945A,1887-05-17,And outtina button holes,"['CCONJ', 'PROPN', 'NOUN', 'VERB']",[],1,0,4,0,1
-US362964A,1887-05-17,And henry kirk,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US363113A,1887-05-17,And john j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US363295A,1887-05-17,Wilhblm lichtenberg and joseph baloun,"['ADP', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5,0,1
-US363323A,1887-05-17,And albert ball,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US363574A,1887-05-24,And thomas j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US363696A,1887-05-24,And samuel m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US363874A,1887-05-31,And george place,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US364073A,1887-05-31,And john f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US364261A,1887-06-07,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US364541A,1887-06-07,And easmus peteesen,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US365353A,1887-06-21,And albert l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US365874A,1887-07-05,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US365875A,1887-07-05,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US365876A,1887-07-05,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US365877A,1887-07-05,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US366054A,1887-07-05,And galen b,"['CCONJ', 'PROPN', 'X']",[],1,0,3,0,1
-US366113A,1887-07-05,And james jamieson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US366147A,1887-07-05,And stanley w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US366606A,1887-07-12,And henry m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US366722A,1887-07-19,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US367554A,1887-08-02,And francis w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US367665A,1887-08-02,And christopher j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US367951A,1887-08-09,And hoeatio thomas,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US367984A,1887-08-09,And ahira tyrrell,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US368565A,1887-08-23,And campbell p,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,0,1
-US368658A,1887-08-23,And jacob o,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US368889A,1887-08-23,And harry k,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US369697A,1887-09-13,And henry f,"['CCONJ', 'PROPN', 'X']",['PERSON'],1,1,3,0,1
-US369779A,1887-09-13,of kingston,"['ADP', 'PROPN']",[],1,0,3,0,1
-US369849A,1887-09-13,And john p,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US370258A,1887-09-20,And francis w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US370301A,1887-09-20,And james m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US370589A,1887-09-27,And frederick m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US370637A,1887-09-27,And john bobinson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US371150A,1887-10-04,And philip e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US371530A,1887-10-11,And edward h,"['CCONJ', 'NOUN', 'PROPN']",['PERSON'],1,1,3,0,1
-US371797A,1887-10-18,And william j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US371882A,1887-10-18,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US372306A,1887-11-01,And eollee goastee,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US372308A,1887-11-01,And john goedon,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US372421A,1887-11-01,And walter t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US372542A,1887-11-01,And john e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US374029A,1887-11-29,And charles s,"['CCONJ', 'PROPN', 'PART']",['PERSON'],1,1,3,0,1
-US374630A,1887-12-13,And peancis gleason,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US374669A,1887-12-13,Of joseph feeeman,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US375033A,1887-12-20,And joseph w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US375264A,1887-12-20,And william m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US376780A,1888-01-24,And john waldron,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US376896A,1888-01-24,And heney j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US377083A,1888-01-31,And henry b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US377644A,1888-02-07,And john austin  jmocul,"['CCONJ', 'PROPN', 'PROPN', 'SPACE', 'PROPN']",['PERSON'],1,1,5,0,1
-US377819A,1888-02-14,And the orford copper com,"['CCONJ', 'DET', 'PROPN', 'NOUN', 'NOUN']",[],1,0,5,0,1
-US378402A,1888-02-21,And andeew-w,"['CCONJ', 'PROPN', 'PUNCT', 'PROPN']",[],1,0,4,0,1
-US378628A,1888-02-28,And david r,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US379084A,1888-03-06,And louis gabdnee bostedo,"['CCONJ', 'PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,4,0,1
-US379896A,1888-03-20,And henry williams,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US380347A,1888-04-03,And john w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US380822A,1888-04-10,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US381163A,1888-04-17,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US381425A,1888-04-17,And feank eosewatee,"['CCONJ', 'PROPN', 'VERB']",['ORG'],1,0,3,0,1
-US381579A,1888-04-17,And henry w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US381862A,1888-04-24,And william heokeet,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US382423A,1888-05-08,And louis wahl,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US383167A,1888-05-22,And john seymour,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US383454A,1888-05-29,And milan o,"['CCONJ', 'PROPN', 'NOUN']",['GPE'],1,0,3,0,1
-US384276A,1888-06-12,And william f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US384312A,1888-06-12,And roderick s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US384942A,1888-06-19,And edward h,"['CCONJ', 'NOUN', 'PROPN']",['PERSON'],1,1,3,0,1
-US385103A,1888-06-26,And samuel moran,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US385164A,1888-06-26,And william c,"['CCONJ', 'PROPN', 'AUX']",['PERSON'],1,1,3,0,1
-US385974A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US385975A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US385976A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US385977A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US385978A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US386479A,1888-07-24,And frank m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US387083A,1888-07-31,And george c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
-US387137A,1888-07-31,And william ore,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US387358A,1888-08-07,And albert w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US387578A,1888-08-07,And george c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
-US388166A,1888-08-21,And james wood carver,"['CCONJ', 'PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,4,0,1
-US388413A,1888-08-28,And harris p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US388584A,1888-08-28,And wilson w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US388653A,1888-08-28,of cedae hill,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US388812A,1888-09-04,And louis pfingst,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US389762A,1888-09-18,And eli eidg,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US389875A,1888-09-25,Of one-half to john needham longden,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'ADJ']","['CARDINAL', 'PERSON']",1,1,8,0,1
-US390330A,1888-10-02,And john e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US390408A,1888-10-02,And herbert l,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US390969A,1888-10-09,And thomas claek,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US391206A,1888-10-16,And isaiah f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US391301A,1888-10-16,And william j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US391364A,1888-10-16,And clorista e,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US391782A,1888-10-30,And jacob keitch,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US392425A,1888-11-06,And john j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US392698A,1888-11-13,And albert l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US392996A,1888-11-20,And george w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US393073A,1888-11-20,And thomas j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US393202A,1888-11-20,And andeew wiggin,"['CCONJ', 'PROPN', 'VERB']",['NORP'],1,0,3,0,1
-US393570A,1888-11-27,And james v,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US393921A,1888-12-04,And thomas p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US394230A,1888-12-11,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US394448A,1888-12-11,And john bancroft,"['CCONJ', 'PROPN', 'ADP']",['PERSON'],1,1,3,0,1
-US394539A,1888-12-11,And frank ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US394665A,1888-12-18,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US394834A,1888-12-18,And john parker,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US394914A,1888-12-18,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US395602A,1889-01-01,And charles s,"['CCONJ', 'PROPN', 'PART']",['PERSON'],1,1,3,0,1
-US395788A,1889-01-08,And edwin norton,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US396037A,1889-01-08,And joseph schmitt,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US396402A,1889-01-22,And george edward,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US396478A,1889-01-22,And samuel w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US396688A,1889-01-22,And william w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US396806A,1889-01-29,And charles ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US396966A,1889-01-29,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US396967A,1889-01-29,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US397275A,1889-02-05,And thomas ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US397522A,1889-02-12,And august giese,"['CCONJ', 'PROPN', 'NOUN']",['DATE'],1,0,3,0,1
-US398164A,1889-02-19,And hugh j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US398417A,1889-02-26,In vein t dr,"['ADP', 'PROPN', 'PROPN', 'PROPN']",[],1,0,4,0,1
-US398482A,1889-02-26,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US398512A,1889-02-26,And john h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US398628A,1889-02-26,And hugh j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US398677A,1889-02-26,And joseph g,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US398687A,1889-02-26,And lofis pfingst,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US398782A,1889-02-26,And the iiitson motor,"['CCONJ', 'DET', 'PROPN', 'NOUN']",[],1,0,4,0,1
-US399205A,1889-03-05,And charles ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US399331A,1889-03-12,And james c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,0,1
-US399633A,1889-03-12,And francis g,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US399702A,1889-03-19,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US399746A,1889-03-19,And francis h,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US399758A,1889-03-19,And amos h,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US399849A,1889-03-19,And paul e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US399870A,1889-03-19,And francis m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US300183A,1884-06-10,And peed cheisten,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US300193A,1884-06-10,And emil m,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,0,1
-US300194A,1884-06-10,And emil m,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,0,1
-US300861A,1884-06-24,And sol,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US300890A,1884-06-24,Of-paris,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
-US300963A,1884-06-24,And chaeles,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US301456A,1884-07-01,And  sewing machine com,"['CCONJ', 'SPACE', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US301457A,1884-07-01,in patten,"['ADP', 'NOUN']",[],0,0,2,0,1
-US301529A,1884-07-08,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US301700A,1884-07-08,Of oiste-half to,"['ADP', 'VERB', 'PUNCT', 'NOUN', 'PART']",[],0,0,5,0,1
-US301801A,1884-07-08,And forming the heads and faces,"['CCONJ', 'VERB', 'DET', 'NOUN', 'CCONJ', 'VERB']",[],0,0,6,0,1
-US301802A,1884-07-08,of mannheim,"['ADP', 'NOUN']",[],0,0,2,0,1
-US301931A,1884-07-15,Or cooling pad,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US302011A,1884-07-15,To bacco-resw eater,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US302013A,1884-07-15,And chaeles,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US302151A,1884-07-15,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US302165A,1884-07-15,And dressing- machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US302193A,1884-07-15,Or forming fibrous pulp barrels of,"['CCONJ', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,6,0,1
-US302528A,1884-07-22,And geoege yule,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US302607A,1884-07-29,And benjamin,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US302631A,1884-07-29,And slubbing frame,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US302665A,1884-07-29,And aethue a,"['CCONJ', 'NOUN', 'PRON']",[],0,0,3,0,1
-US302749A,1884-07-29,Heeby a,"['ADP', 'PRON']",['NORP'],0,0,2,0,1
-US303371A,1884-08-12,Of baltimoeb,"['ADP', 'NOUN']",[],0,0,2,0,1
-US303419A,1884-08-12,To him,"['ADP', 'PRON']",[],0,0,2,0,1
-US303586A,1884-08-12,And smelting ores,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US304470A,1884-02-12,By mua,"['ADP', 'NOUN']",[],0,0,2,0,1
-US305249A,1884-09-16,And albeet h,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US305311A,1884-09-16,And florentine a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US305632A,1884-09-23,And alfeed s,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US305848A,1884-09-30,of quebec,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US306131A,1884-10-07,For machines,"['ADP', 'NOUN']",[],0,0,2,0,1
-US306467A,1884-10-14,Or water pump,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US306580A,1884-10-14,And excavating- machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US307107A,1884-10-28,And unloading,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US307108A,1884-10-28,And husking machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US307149A,1884-10-28,And albeet j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US307727A,1884-11-04,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US307969A,1884-11-11,And heney a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US308021A,1884-11-11,Of pro,"['ADP', 'ADJ']",[],0,0,2,0,1
-US308103A,1884-11-18,And geobge p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US308311A,1884-11-18,And chaeles,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US308425A,1884-11-25,Of new yojrk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US308838A,1884-12-02,To wilson w,"['ADP', 'NOUN', 'ADP']",['PERSON'],0,1,3,0,1
-US308931A,1884-12-09,And harry,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US309126A,1884-12-09,And daniel,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US309160A,1884-12-09,And bror f,"['CCONJ', 'NOUN', 'X']",[],0,0,3,0,1
-US309181A,1884-12-09,And chaeles langbein,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US309195A,1884-12-16,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US309912A,1884-12-30,And winton c,"['CCONJ', 'NOUN', 'AUX']",['ORG'],0,0,3,0,1
-US310093A,1884-12-30,And ridging machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US310340A,1885-01-06,Inside stay for shoes,"['ADP', 'VERB', 'ADP', 'NOUN']",[],0,0,4,0,1
-US310540A,1885-01-06,And albeet e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US310631A,1885-01-13,Sh ing ling-bracket,"['ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,1
-US310646A,1885-01-13,And oebin claek,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US310880A,1885-01-20,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
-US311053A,1885-01-20,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US311062A,1885-01-20,And thoma,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US311192A,1885-01-27,And charles,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US311424A,1885-01-27,And eobeet,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US311477A,1885-02-03,And james a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US311773A,1885-02-03,And automatically,"['CCONJ', 'ADV']",[],0,0,2,0,1
-US311813A,1885-02-03,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
-US311814A,1885-02-03,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
-US311972A,1885-02-10,And wick kaising lamp,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US312274A,1885-02-17,And unloading tramways,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US312448A,1885-02-17,And filling machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US312491A,1885-02-17,And otto miller,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,0,1
-US313869A,1885-03-17,And winding yaen oe theead upon bobbins,"['CCONJ', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'SCONJ', 'NOUN']",[],0,0,7,0,1
-US313980A,1885-03-17,For pistons,"['ADP', 'NOUN']",[],0,0,2,0,1
-US314085A,1885-03-17,And tapping- apparatus,"['CCONJ', 'ADP', 'NOUN']",[],0,0,3,0,1
-US314439A,1885-03-24,And cleaning machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US315451A,1885-04-07,And geoege yule,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US315452A,1885-04-07,And geobge yule,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,0,1
-US315569A,1885-04-14,Until their burial,"['ADP', 'PRON', 'NOUN']",[],0,0,3,0,1
-US315912A,1885-04-14,And drying the sedimentary,"['CCONJ', 'VERB', 'DET', 'ADJ']",[],0,0,4,0,1
-US316064A,1885-04-21,And heney w,"['CCONJ', 'NOUN', 'X']",['ORG'],0,0,3,0,1
-US316400A,1885-04-21,And claeence vose,"['CCONJ', 'NOUN', 'ADV']",[],0,0,3,0,1
-US316406A,1885-04-21,And peeparim starch,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US316416A,1885-04-21,of newpoet,"['ADP', 'ADJ']",[],0,0,2,0,1
-US316585A,1885-04-28,Edmund tweedy,"['ADP', 'NOUN']",[],0,0,2,0,1
-US316899A,1885-04-28,To colts,"['ADP', 'NOUN']",[],0,0,2,0,1
-US317115A,1885-05-05,And spinning hemp,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US317117A,1885-05-05,And spinning hemp,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US317125A,1885-05-05,Of sam,"['ADP', 'NOUN']",[],0,0,2,0,1
-US317348A,1885-05-05,Of peo,"['ADP', 'NOUN']",[],0,0,2,0,1
-US317432A,1885-05-05,And recording device,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US317730A,1885-05-12,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
-US317797A,1885-05-12,Inside blind,"['ADP', 'ADJ']",[],0,0,2,0,1
-US317798A,1885-05-12,Inside blind,"['ADP', 'ADJ']",[],0,0,2,0,1
-US317922A,1885-05-12,And eoss c,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,0,1
-US317930A,1885-05-12,And trimming fabrics,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US318221A,1885-05-19,And flanging machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US318405A,1885-05-19,And twisting- machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US319403A,1885-06-02,Of baltimore,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US319648A,1885-06-09,For rollers of rolling mills,"['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US319747A,1885-06-09,And cueling- hats,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US319909A,1885-06-09,And oleanina grain,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US320115A,1885-06-16,And geoege yule,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US320344A,1885-06-16,And toussaint it vat,"['CCONJ', 'VERB', 'PRON', 'VERB']",[],0,0,4,0,1
-US320601A,1885-06-23,of beswick,"['ADP', 'NOUN']",[],0,0,2,0,1
-US320786A,1885-06-23,Inside shutter,"['ADP', 'NOUN']",[],0,0,2,0,1
-US321043A,1885-06-30,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US321089A,1885-06-30,And agitating apparatus foe plant washes,"['CCONJ', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'VERB']",[],0,0,6,0,1
-US321277A,1885-06-30,And henby a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US321393A,1885-06-30,And masking cloth,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US321683A,1885-07-07,And folding machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US321851A,1885-07-07,And cleaning- cotton and other fibers,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US322026A,1885-07-14,Of pro,"['ADP', 'ADJ']",[],0,0,2,0,1
-US322323A,1885-07-14,And track sweeping attachment foe railway oaks,"['CCONJ', 'VERB', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'VERB']",[],0,0,7,0,1
-US322693A,1885-07-21,And edward a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US323089A,1885-07-28,And wolcott a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US323090A,1885-07-28,And wolcott a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US323091A,1885-07-28,And wol,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US323544A,1885-08-04,And ruffling fabrics,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US323932A,1885-08-11,And eichaed,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US325114A,1885-08-25,Ux eansom,"['ADP', 'VERB']",[],0,0,2,0,1
-US325211A,1885-08-25,And ferdinand s,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US325310A,1885-09-01,And displaying vegetables,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US325360A,1885-09-01,And leioestee allen,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US325408A,1885-09-01,And bichard b,"['CCONJ', 'NOUN', 'X']",[],0,0,3,0,1
-US325584A,1885-09-01,And gus,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US325744A,1885-09-08,And george a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US325752A,1885-09-08,Of same plage,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US325766A,1885-09-08,And eeinhold boek,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,0,1
-US325901A,1885-09-08,To himself,"['ADP', 'PRON']",[],0,0,2,0,1
-US326293A,1885-09-15,And maeshall c,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US326386A,1885-09-15,And eobeet e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US326391A,1885-09-15,And twisting machines,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US327122A,1885-09-29,And geoe,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US327123A,1885-09-29,And geobge yule,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,0,1
-US328073A,1885-10-13,And polly a,"['CCONJ', 'ADV', 'PRON']",[],0,0,3,0,1
-US328192A,1885-10-13,of bbooklyn,"['ADP', 'X']",[],0,0,2,0,1
-US328582A,1885-10-20,And drawing hemp,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US328994A,1885-10-27,wy man,"['CCONJ', 'NOUN']",[],0,0,3,0,1
-US329139A,1885-10-27,And charles a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US329370A,1885-10-27,And asa,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US330303A,1885-11-10,And angus campbell,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US330413A,1885-11-17,And geoege w,"['CCONJ', 'NOUN', 'ADP']",[],0,0,3,0,1
-US330441A,1885-11-17,And geoege yule,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US330780A,1885-11-17,And petee,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US330798A,1885-11-17,And pembroke s,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US330951A,1885-11-24,And marcus,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US332407A,1885-12-15,And skip,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US333014A,1885-12-22,And seven-sixteenths,"['CCONJ', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
-US333451A,1885-12-29,Of keokuk,"['ADP', 'NOUN']",['CARDINAL'],0,0,2,0,1
-US333655A,1886-01-05,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US333731A,1886-01-05,On and treatment of vegetable fibrous substances,"['ADP', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN']",[],0,0,7,0,1
-US333788A,1886-01-05,of guatemala,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US334321A,1886-01-12,And marcus,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US334379A,1886-01-12,And heman d,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US335016A,1886-01-26,And chaeles d,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US335152A,1886-02-02,And aaeon e,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US335245A,1886-02-02,Of woecesteb,"['ADP', 'NOUN']",[],0,0,2,0,1
-US335371A,1886-02-02,qnp a tl,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
-US335415A,1886-02-02,And chaeles w,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US335429A,1886-02-02,And trimming machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US335522A,1886-02-02,And seven-sixteenths to,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
-US335631A,1886-02-09,of poet chester,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US335636A,1886-02-09,And beaming machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US336518A,1886-02-16,And the ameri,"['CCONJ', 'DET', 'NOUN']",[],0,0,3,0,1
-US336734A,1886-02-23,And ernest g,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US336905A,1886-03-02,And chaeles g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US336990A,1886-03-02,For machinery,"['ADP', 'NOUN']",[],0,0,2,0,1
-US337195A,1886-03-02,For attaching buttons to garments,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
-US337254A,1886-03-02,And sigmund berg,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,0,1
-US337500A,1886-03-09,And egbert buddy,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,0,1
-US338364A,1886-03-23,On-tyne,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
-US338642A,1886-03-23,And daniel,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US338849A,1886-03-30,Wilhblm loeenz,"['ADP', 'NOUN']",[],0,0,2,0,1
-US339246A,1886-04-06,And setting mechanism,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US339310A,1886-04-06,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
-US339679A,1886-04-13,And inseeting staples in music eollees,"['CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,6,0,1
-US340197A,1886-04-20,And spooling wire steands,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US340402A,1886-04-20,of newaek,"['ADP', 'NOUN']",[],0,0,2,0,1
-US340709A,1886-04-27,And ezra t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US340785A,1886-04-27,Under guide for printing-machines,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,0,1
-US340905A,1886-04-27,And aechie,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US341309A,1886-05-04,And pembroke s,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US341353A,1886-05-04,And deawing sheet metal,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US341361A,1886-05-04,And greasing machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US341398A,1886-05-04,And looking mechanism,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US341450A,1886-05-11,And controlling system for electric clocks,"['CCONJ', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US341497A,1886-05-11,And augustus,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US341541A,1886-05-11,Inside blind,"['ADP', 'ADJ']",[],0,0,2,0,1
-US341727A,1886-05-11,And floe a b,"['CCONJ', 'VERB', 'DET', 'NOUN']",['PERSON'],0,1,4,0,1
-US342490A,1886-05-25,And fred g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US342525A,1886-05-25,And adaline s,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
-US343087A,1886-06-01,For electric lights,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US343773A,1886-06-15,And chaeles n,"['CCONJ', 'VERB', 'ADV']",[],0,0,3,0,1
-US344214A,1886-06-22,And rolla butterfield,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US344462A,1886-06-29,And geoege m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US344463A,1886-06-29,And geoegb m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US344609A,1886-06-29,And charles g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US344785A,1886-06-29,And william a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US344813A,1886-07-06,And haydbn h,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US344819A,1886-07-06,And cutting wire,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US344942A,1886-07-06,And peedeeic e,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US345502A,1886-07-13,And bpheaim c,"['CCONJ', 'VERB', 'AUX']",[],0,0,3,0,1
-US345506A,1886-07-13,And frank,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US345757A,1886-07-20,And chaeles peattsman bowden,"['CCONJ', 'VERB', 'NOUN', 'ADJ']",[],0,0,4,0,1
-US346204A,1886-07-27,And egbert e,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US346514A,1886-08-03,Ob mixing- machine,"['ADP', 'NOUN', 'NOUN']",['ORG'],0,0,3,0,1
-US346548A,1886-08-03,Or of one-third to f,"['CCONJ', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,7,0,1
-US346603A,1886-08-03,And henry,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US346693A,1886-08-03,And winding machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US347910A,1886-08-24,And vaenum t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US347948A,1886-08-24,And hardening metal surfaces,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US348058A,1886-08-24,And irving hale,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US348165A,1886-08-24,And frank a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US348574A,1886-09-07,And geoege f,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US348590A,1886-09-07,And frank e,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,0,1
-US348808A,1886-09-07,To white,"['ADP', 'ADJ']",[],0,0,2,0,1
-US349029A,1886-09-14,And chaeles platt,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US349418A,1886-09-21,And grindin,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US350198A,1886-10-05,And washing,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US350453A,1886-10-05,On buttons,"['ADP', 'NOUN']",[],0,0,2,0,1
-US350572A,1886-10-12,Spokefor vehicle-wheels,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US350716A,1886-10-12,And randolph m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US350809A,1886-10-12,And thomas a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US350890A,1886-10-12,And curtis tilton,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US351757A,1886-11-02,By direct,"['ADP', 'ADJ']",[],0,0,2,0,1
-US351850A,1886-11-02,Up coal,"['ADP', 'NOUN']",[],0,0,2,0,1
-US351933A,1886-11-02,And edward blakeney,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US352235A,1886-11-09,And chaeles d,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US352340A,1886-11-09,And magnus kohler,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US352393A,1886-11-09,Under-garment,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
-US352569A,1886-11-16,And maeion s,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US353039A,1886-11-23,And austin cuetin,"['CCONJ', 'NOUN', 'NOUN']",['PERSON'],0,1,3,0,1
-US353337A,1886-11-30,en holm,"['ADP', 'NOUN']",[],0,0,2,0,1
-US353654A,1886-12-07,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US353963A,1886-12-07,Under-garment,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
-US354396A,1886-12-14,And frederick a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US354465A,1886-12-14,Conkad a,"['ADP', 'PRON']",[],0,0,2,0,1
-US354477A,1886-12-14,And frank a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US354588A,1886-12-21,w wheeler,"['ADP', 'NOUN']",[],0,0,3,0,1
-US355045A,1886-12-28,Inside window-blind,"['ADP', 'NOUN', 'PUNCT', 'ADJ']",[],0,0,4,0,1
-US355076A,1886-12-28,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US355136A,1886-12-28,Or severing device,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US355168A,1886-12-28,Inside blind,"['ADP', 'ADJ']",[],0,0,2,0,1
-US355288A,1886-12-28,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
-US355331A,1887-01-04,And adolph ohl,"['CCONJ', 'VERB', 'ADP']",[],0,0,3,0,1
-US355461A,1883-12-17,And alfred,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US355635A,1887-01-04,And theodore -s,"['CCONJ', 'VERB', 'PUNCT']",[],0,0,3,0,1
-US355640A,1887-01-04,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US355823A,1887-01-11,And the fales,"['CCONJ', 'DET', 'NOUN']",[],0,0,3,0,1
-US355918A,1887-01-11,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US356332A,1887-01-18,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US356333A,1887-01-18,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US356577A,1887-01-25,And geoegb n,"['CCONJ', 'NOUN', 'X']",[],0,0,3,0,1
-US357091A,1887-02-01,And eudolph w,"['CCONJ', 'ADV', 'X']",[],0,0,3,0,1
-US357139A,1887-02-01,And pro,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US357302A,1887-02-08,Of making the same,"['ADP', 'VERB', 'DET', 'ADJ']",[],0,0,4,0,1
-US357514A,1887-02-08,And splitting collets,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US357551A,1887-02-08,And deliveet mechanism,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US358399A,1887-02-22,And sechter,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US358841A,1887-03-08,And aaeon shelby,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US359350A,1887-03-15,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US359536A,1887-03-15,And geoege h,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US359812A,1887-03-22,And holding electeio wiees,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US359874A,1887-03-22,And egbert m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US359958A,1887-03-22,And stephen p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US360161A,1887-03-29,And patrick j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US360482A,1887-04-05,And haetley,"['CCONJ', 'NOUN']",['GPE'],0,0,2,0,1
-US360718A,1887-04-05,Of one,"['ADP', 'NUM']",['CARDINAL'],0,0,2,0,1
-US360786A,1887-04-05,And egbert h,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,0,1
-US360830A,1887-04-05,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US361402A,1887-04-19,And edgar s,"['CCONJ', 'VERB', 'VERB']",['PERSON'],0,1,3,0,1
-US361438A,1887-04-19,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US361680A,1887-04-26,And geokge a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US362002A,1887-04-26,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
-US362006A,1887-04-26,And feank a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US362026A,1887-04-26,To the,"['ADP', 'PRON']",[],0,0,2,0,1
-US362267A,1887-05-03,And partially shaping cigar fillers,"['CCONJ', 'ADV', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US362560A,1887-05-10,On-the-main,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,0,1
-US362667A,1887-05-10,On-the-main,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,0,1
-US363577A,1887-05-24,And adolphe decortjs,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US363625A,1887-05-24,And heney c,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US363633A,1887-05-24,For casks,"['ADP', 'NOUN']",[],0,0,2,0,1
-US364019A,1887-05-31,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US364154A,1887-05-31,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US364729A,1887-06-14,Of one-half,"['ADP', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
-US364962A,1887-06-14,Ob sceew threading eods,"['ADP', 'ADJ', 'NOUN', 'NOUN']",['ORG'],0,0,4,0,1
-US365186A,1887-06-21,Than barnes,"['ADP', 'NOUN']",[],0,0,2,0,1
-US365468A,1887-06-28,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US365796A,1887-07-05,And winding paper,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US365899A,1887-07-05,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US365929A,1887-07-05,And alexander,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US366389A,1887-07-12,And recording cash received,"['CCONJ', 'VERB', 'NOUN', 'VERB']",[],0,0,4,0,1
-US366454A,1887-07-12,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US366482A,1887-07-12,And eichaed a,"['CCONJ', 'VERB', 'PRON']",['ORG'],0,0,3,0,1
-US366634A,1887-07-12,And charles,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US366684A,1887-07-19,And haeet m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US366746A,1887-07-19,And the sutherland coeeu,"['CCONJ', 'DET', 'NOUN', 'VERB']",[],0,0,4,0,1
-US367002A,1887-07-19,And isidore,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US368103A,1887-08-09,of gallarate,"['ADP', 'NOUN']",[],0,0,2,0,1
-US368414A,1887-08-16,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US368500A,1887-08-16,And edward m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US368512A,1887-08-16,And chaeles,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US369252A,1887-08-30,And bukniseing,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US370086A,1887-09-20,And geoege j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US370282A,1887-09-20,And tempering metals,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US370296A,1887-09-20,w weinig,"['ADP', 'NOUN']",[],0,0,2,0,1
-US370317A,1887-09-20,And stephen p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US370640A,1887-09-27,of lowell,"['ADP', 'NOUN']",[],0,0,2,0,1
-US370781A,1887-10-04,Under-garment,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,0,1
-US370891A,1887-10-04,And eleazee,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US371116A,1887-10-04,And charles c,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
-US371181A,1887-10-11,Of beaver palls,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US371957A,1887-10-25,Wilhblm loeenz,"['ADP', 'NOUN']",[],0,0,2,0,1
-US372025A,1887-10-25,And hie am a,"['CCONJ', 'INTJ', 'AUX', 'PRON']",[],0,0,4,0,1
-US372156A,1887-10-25,To the laning feinting,"['ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US372187A,1887-10-25,And distributing- machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US372392A,1887-11-01,And ed,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US372394A,1887-11-01,And the bower city machine com,"['CCONJ', 'DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US372581A,1887-11-01,And ed,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US372961A,1887-11-08,And frank sickels,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US373075A,1887-11-15,And cleaning cotton,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US373585A,1887-11-22,And fbank bate,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US373665A,1887-11-22,Inside blind,"['ADP', 'ADJ']",[],0,0,2,0,1
-US374022A,1887-11-29,Of peo,"['ADP', 'NOUN']",[],0,0,2,0,1
-US374223A,1887-12-06,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
-US374285A,1887-12-06,And said eichaed d,"['CCONJ', 'VERB', 'VERB', 'NOUN']",['PERSON'],0,1,4,0,1
-US374607A,1887-12-13,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US374779A,1887-12-13,And haeey e,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US375440A,1887-12-27,And frank conrick,"['CCONJ', 'ADJ', 'VERB']",['PERSON'],0,1,3,0,1
-US375848A,1888-01-03,On-the-main,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,0,1
-US375878A,1888-01-03,Or other can,"['CCONJ', 'ADJ', 'AUX']",[],0,0,3,0,1
-US376095A,1888-01-10,Or oscillating filter,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US376457A,1888-01-17,Of pro,"['ADP', 'ADJ']",[],0,0,2,0,1
-US376641A,1888-01-17,And cutting fabrics,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US377051A,1888-01-31,And noeman m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US377379A,1888-02-07,girard,['ADP'],[],0,0,2,0,1
-US377591A,1888-02-07,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US377788A,1888-02-14,trayee,['ADP'],[],0,0,2,0,1
-US377871A,1888-02-14,And traveler for spinning machines,"['CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US378522A,1888-02-28,For sand-paper,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US378552A,1888-02-28,Re lay-mag net,"['ADP', 'ADV', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US378620A,1888-02-28,In vent or,"['ADP', 'NOUN', 'CCONJ']",[],0,0,3,0,1
-US378803A,1888-02-28,Wilhblm oesteelein,"['ADP', 'NOUN']",[],0,0,2,0,1
-US379136A,1888-03-06,On-trent,"['ADP', 'PUNCT', 'ADJ']",[],0,0,3,0,1
-US379722A,1888-03-20,And excavating machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US380274A,1888-03-27,And edwakd hill,"['CCONJ', 'NOUN', 'NOUN']",['FAC'],0,0,3,0,1
-US380823A,1888-04-10,And edwabd,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US380830A,1888-04-10,Oscae a,"['ADP', 'PRON']",[],0,0,2,0,1
-US381300A,1888-04-17,Of peo,"['ADP', 'NOUN']",[],0,0,2,0,1
-US381479A,1888-04-17,And edmund l,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US382111A,1888-05-01,Edmund k,"['ADP', 'X']",[],0,0,2,0,1
-US382443A,1888-05-08,To the,"['ADP', 'PRON']",[],0,0,2,0,1
-US383562A,1888-05-29,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US383686A,1888-05-29,Wilhblm bansen,"['ADP', 'NOUN']",[],0,0,2,0,1
-US383916A,1888-06-05,And levi w,"['CCONJ', 'ADV', 'X']",[],0,0,3,0,1
-US383934A,1888-06-05,To the,"['ADP', 'PRON']",[],0,0,2,0,1
-US383953A,1888-06-05,And fbank,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US383975A,1888-06-05,And albeet back,"['CCONJ', 'VERB', 'ADP']",[],0,0,3,0,1
-US383990A,1888-06-05,And aaeon,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US384382A,1888-06-12,To the adams,"['ADP', 'DET', 'NOUN']",[],0,0,3,0,1
-US384830A,1888-06-19,And ezra t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US384868A,1888-06-19,of guatemala,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US384948A,1888-06-19,By mesne,"['ADP', 'NOUN']",[],0,0,2,0,1
-US385113A,1888-06-26,of kupfebhammee,"['ADP', 'NOUN']",['ORG'],0,0,2,0,1
-US385385A,1888-07-03,Of electrically welding chains and links,"['ADP', 'ADV', 'VERB', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,0,1
-US385413A,1888-07-03,And lighting,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US385457A,1888-07-03,Alfoed caeeoll hall,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US385574A,1888-07-03,Of peo,"['ADP', 'NOUN']",[],0,0,2,0,1
-US385752A,1888-07-10,And geoege w,"['CCONJ', 'NOUN', 'ADP']",[],0,0,3,0,1
-US385781A,1888-07-10,Oscae a,"['ADP', 'PRON']",[],0,0,2,0,1
-US385846A,1888-07-10,And prank,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US385984A,1888-07-10,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US386036A,1888-07-10,And theodore,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US386088A,1888-07-10,By electricity,"['ADP', 'NOUN']",[],0,0,2,0,1
-US386164A,1888-07-17,Of pro,"['ADP', 'ADJ']",[],0,0,2,0,1
-US386472A,1888-07-24,For pattern chains of looms,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
-US386628A,1888-07-24,And charles c,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,0,1
-US387357A,1888-08-07,And aliseut w,"['CCONJ', 'NOUN', 'ADP']",['PERSON'],0,1,3,0,1
-US387470A,1888-08-07,w eeden,"['ADP', 'NOUN']",[],0,0,2,0,1
-US387789A,1888-08-14,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US387810A,1888-08-14,Of one-half,"['ADP', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,0,1
-US388042A,1888-08-21,Of johnstown,"['ADP', 'ADJ']",['GPE'],0,0,2,0,1
-US388184A,1888-08-21,Bael a,"['ADP', 'PRON']",[],0,0,2,0,1
-US388546A,1888-08-28,To the,"['ADP', 'PRON']",[],0,0,2,0,1
-US389426A,1888-09-11,And william- p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US389533A,1888-09-11,For uniting knit fabrics,"['ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,4,0,1
-US389647A,1888-09-18,And justus a,"['CCONJ', 'ADP', 'PRON']",[],0,0,3,0,1
-US389974A,1888-09-25,And alfred,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US390308A,1888-10-02,And frank h,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,0,1
-US390434A,1888-10-02,And geoege,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US390469A,1888-10-02,And ciiaeles f,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US390511A,1888-10-02,To building,"['ADP', 'VERB']",[],0,0,2,0,1
-US390955A,1888-10-09,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,0,1
-US391082A,1888-10-16,And milton,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US391169A,1888-10-16,And geoege t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US391270A,1888-10-16,And alfred pfannkuciie,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US391275A,1888-10-16,Of peo,"['ADP', 'NOUN']",[],0,0,2,0,1
-US391442A,1888-10-23,w welburn,"['ADP', 'NOUN']",[],0,0,2,0,1
-US392101A,1888-10-30,Or cleansing tin or terne plates,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US392189A,1888-11-06,And elias s,"['CCONJ', 'NOUN', 'PART']",[],0,0,3,0,1
-US393347A,1888-11-27,And frank leseure,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US393475A,1888-11-27,And william a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US393617A,1888-11-27,And victor,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US393867A,1888-12-04,On glass,"['ADP', 'NOUN']",[],0,0,2,0,1
-US393952A,1888-12-04,And alvinus b,"['CCONJ', 'NOUN', 'X']",[],0,0,3,0,1
-US394131A,1888-12-04,Of bostox,"['ADP', 'NOUN']",['ORG'],0,0,2,0,1
-US395455A,1889-01-01,And edward petten,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US396051A,1889-01-08,Of flatonia,"['ADP', 'NOUN']",[],0,0,2,0,1
-US396064A,1889-01-15,Inside calipers or gage,"['ADP', 'NOUN', 'CCONJ', 'VERB']",[],0,0,4,0,1
-US396890A,1889-01-29,And eyeleting machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US397434A,1889-02-05,For jewelry,"['ADP', 'NOUN']",[],0,0,2,0,1
-US397570A,1889-02-12,Under-arm pad,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US397645A,1889-02-12,For railway gabs,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US398111A,1889-02-19,And frank,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US398241A,1889-02-19,of gohlis,"['ADP', 'NOUN']",[],0,0,2,0,1
-US398365A,1889-02-19,To the,"['ADP', 'PRON']",[],0,0,2,0,1
-US398418A,1889-02-26,And the racine hardware manufacturing,"['CCONJ', 'DET', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US398577A,1889-02-26,And watson p,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,0,1
-US398897A,1889-03-05,And henry g,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,0,1
-US398993A,1889-03-05,And planing machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US399042A,1889-03-05,And richard a,"['CCONJ', 'VERB', 'PRON']",['PERSON'],0,1,3,0,1
-US399303A,1889-03-12,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
-US399473A,1889-03-12,And measure,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US399785A,1889-03-19,Of pro,"['ADP', 'ADJ']",[],0,0,2,0,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts
+US300024A,1884-06-10,Of john smalley,"['ADP', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['of', 'john', 'smalley']",0,1
+US300123A,1884-06-10,And chaeles john,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,"['and', 'chaeles', 'john']",0,1
+US300648A,1884-06-17,And hermann a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'hermann', 'a']",0,1
+US300684A,1884-06-17,And james c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,"['and', 'james', 'c']",0,1
+US300833A,1884-06-24,And gustavus g,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'gustavus', 'g']",0,1
+US301186A,1884-07-01,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'isaac', 'l']",0,1
+US301538A,1884-07-08,And john fawcett,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'fawcett']",0,1
+US301607A,1884-07-08,And feank h,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,"['and', 'feank', 'h']",0,1
+US301651A,1884-07-08,And joseph j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'joseph', 'j']",0,1
+US302096A,1884-07-15,And franklin j,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,"['and', 'franklin', 'j']",0,1
+US303266A,1884-08-12,And joseph h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'joseph', 'h']",0,1
+US303626A,1884-08-19,And james h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'james', 'h']",0,1
+US304078A,1884-08-26,And william b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'b']",0,1
+US304215A,1884-08-26,And jay p,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'jay', 'p']",0,1
+US304680A,1884-09-02,And enoch j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'enoch', 'j']",0,1
+US304681A,1884-09-02,And enoch j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'enoch', 'j']",0,1
+US304989A,1884-09-09,And flora b,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'flora', 'b']",0,1
+US305356A,1884-09-16,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'isaac', 'l']",0,1
+US305633A,1884-09-23,And campbell p,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,"['and', 'campbell', 'p']",0,1
+US305650A,1884-09-23,And julius f,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'julius', 'f']",0,1
+US306011A,1884-09-30,And john i,"['CCONJ', 'PROPN', 'PRON']",['PERSON'],1,1,3,"['and', 'john', 'i']",0,1
+US306317A,1884-10-07,And oeein claeiv,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'oeein', 'claeiv']",0,1
+US306404A,1884-10-14,of ihtts vi lli,"['ADP', 'PROPN', 'PROPN', 'PROPN']","['NORP', 'PERSON']",1,1,4,"['of', 'ihtts', 'vi', 'lli']",0,1
+US307729A,1884-11-04,And james w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'james', 'w']",0,1
+US307760A,1884-11-11,And henry van hoeven,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,"['and', 'henry', 'van', 'hoeven']",0,1
+US308405A,1884-11-25,And thomas egles,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'thomas', 'egles']",0,1
+US308549A,1884-11-25,And charles wilson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'charles', 'wilson']",0,1
+US308571A,1884-11-25,And john h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'h']",0,1
+US309239A,1884-12-16,And thomas b,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'thomas', 'b']",0,1
+US309584A,1884-12-23,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'isaac', 'l']",0,1
+US309586A,1884-12-23,And cheistian f,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,"['and', 'cheistian', 'f']",0,1
+US309758A,1884-12-23,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'isaac', 'l']",0,1
+US309811A,1884-12-23,And john n,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'n']",0,1
+US310056A,1884-12-30,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'isaac', 'l']",0,1
+US310538A,1885-01-06,And albert e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'albert', 'e']",0,1
+US310681A,1885-01-13,And george weber,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'george', 'weber']",0,1
+US310796A,1885-01-13,And george w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'george', 'w']",0,1
+US310862A,1885-01-13,And robert william henry,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,"['and', 'robert', 'william', 'henry']",0,1
+US311175A,1885-01-27,And joseph l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'joseph', 'l']",0,1
+US311490A,1885-02-03,And william l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'l']",0,1
+US311491A,1885-02-03,And william l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'l']",0,1
+US311855A,1885-02-03,And andrew runstetler,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'andrew', 'runstetler']",0,1
+US312688A,1885-02-24,And james b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'james', 'b']",0,1
+US312954A,1885-02-24,And everett eaedon,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'everett', 'eaedon']",0,1
+US313158A,1885-03-03,And john thomson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'thomson']",0,1
+US313532A,1885-03-10,And charles s,"['CCONJ', 'PROPN', 'PART']",['PERSON'],1,1,3,"['and', 'charles', 's']",0,1
+US313829A,1885-03-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US314115A,1885-03-17,And pateick kenny,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'pateick', 'kenny']",0,1
+US314374A,1885-03-24,And william j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'j']",0,1
+US315049A,1885-04-07,And henby b,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'henby', 'b']",0,1
+US315089A,1885-04-07,And william w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'w']",0,1
+US315122A,1885-04-07,And joseph t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'joseph', 't']",0,1
+US315495A,1885-04-14,And william f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'f']",0,1
+US315532A,1885-04-14,And william fbecii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'fbecii']",0,1
+US316353A,1885-04-21,And joseph f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'joseph', 'f']",0,1
+US317425A,1885-05-05,And george yule,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'george', 'yule']",0,1
+US318225A,1885-05-19,And thomas sault,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'thomas', 'sault']",0,1
+US318632A,1885-05-19,of zstew yoek,"['ADP', 'ADJ', 'PROPN']",[],1,0,3,"['of', 'zstew', 'yoek']",0,1
+US318666A,1885-05-19,And alfred j,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,"['and', 'alfred', 'j']",0,1
+US319614A,1885-06-09,And joseph b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'joseph', 'b']",0,1
+US319779A,1885-06-09,And william e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'e']",0,1
+US320390A,1885-06-16,And thomas seenen,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'thomas', 'seenen']",0,1
+US320501A,1885-06-23,And thomas joseph,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'thomas', 'joseph']",0,1
+US321578A,1885-07-07,And elisha s,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'elisha', 's']",0,1
+US322844A,1885-07-21,And john w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'w']",0,1
+US323235A,1885-07-28,And john n,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'n']",0,1
+US323296A,1885-07-28,And george yule,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'george', 'yule']",0,1
+US323317A,1885-07-28,And lyman smith,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'lyman', 'smith']",0,1
+US323896A,1885-08-04,By k grier moore,"['ADP', 'PROPN', 'ADJ', 'NOUN']",['PERSON'],1,1,4,"['by', 'k', 'grier', 'moore']",0,1
+US325096A,1885-08-25,And john coffin,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'john', 'coffin']",0,1
+US325787A,1885-09-08,And anthony fries,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'anthony', 'fries']",0,1
+US326041A,1885-09-08,To  franklin,"['ADP', 'SPACE', 'PROPN']",[],1,0,3,"['to', 'franklin']",0,1
+US326218A,1885-09-15,And samuel t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'samuel', 't']",0,1
+US326580A,1885-09-22,And john d,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'd']",0,1
+US327725A,1885-10-06,For layiig o ut patterns,"['ADP', 'PROPN', 'NOUN', 'ADJ', 'NOUN']",[],1,0,5,"['for', 'layiig', 'o', 'ut', 'patterns']",0,1
+US328243A,1885-10-13,And john n,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'n']",0,1
+US329160A,1885-10-27,And benjamin f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'benjamin', 'f']",0,1
+US329906A,1885-11-10,And thomas s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'thomas', 's']",0,1
+US330190A,1885-11-10,And henry beitz,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'beitz']",0,1
+US330318A,1885-11-10,And warren k,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'warren', 'k']",0,1
+US330321A,1885-11-10,And feancis g,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'feancis', 'g']",0,1
+US330974A,1885-11-24,And abraham l,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'abraham', 'l']",0,1
+US331761A,1885-12-08,And christian c,"['CCONJ', 'PROPN', 'AUX']",['NORP'],1,0,3,"['and', 'christian', 'c']",0,1
+US332110A,1885-12-08,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'george', 'm']",0,1
+US332161A,1885-12-08,And edward lapham,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'edward', 'lapham']",0,1
+US333105A,1885-12-29,And michael zieb,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'michael', 'zieb']",0,1
+US333591A,1886-01-05,And william e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'e']",0,1
+US335017A,1886-01-26,And henry w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'w']",0,1
+US335218A,1886-02-02,And frank b,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'frank', 'b']",0,1
+US335573A,1886-02-09,And john j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'j']",0,1
+US335951A,1886-02-09,And lawson g,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'lawson', 'g']",0,1
+US336718A,1886-02-23,And francis hyde,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'francis', 'hyde']",0,1
+US336785A,1886-02-23,By marriage now sarah,"['ADP', 'NOUN', 'ADV', 'PROPN']",[],1,0,4,"['by', 'marriage', 'now', 'sarah']",0,1
+US336912A,1886-03-02,And gomee jones,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'gomee', 'jones']",0,1
+US338435A,1886-03-23,And joseph u,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'joseph', 'u']",0,1
+US339348A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'l']",0,1
+US339349A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'l']",0,1
+US339350A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'l']",0,1
+US339351A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'l']",0,1
+US339352A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'l']",0,1
+US339353A,1886-04-06,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'l']",0,1
+US339354A,1886-04-06,And heney l,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,"['and', 'heney', 'l']",0,1
+US339519A,1886-04-06,And john d,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'd']",0,1
+US339839A,1886-04-13,And henry e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'e']",0,1
+US340042A,1886-04-13,And geoege edwin haeeis,"['CCONJ', 'NOUN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,"['and', 'geoege', 'edwin', 'haeeis']",0,1
+US341485A,1886-05-11,Under braider for sewing-m ach ines,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'PROPN', 'PROPN', 'PROPN']",[],1,0,8,"['under', 'braider', 'for', 'sewing-m', 'ach', 'ines']",0,1
+US342549A,1886-05-25,And william j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'j']",0,1
+US342692A,1886-05-25,And allan mason,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'allan', 'mason']",0,1
+US342801A,1886-06-01,And david e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'david', 'e']",0,1
+US342920A,1886-06-01,And hoeace w,"['CCONJ', 'VERB', 'PROPN']",[],1,0,3,"['and', 'hoeace', 'w']",0,1
+US342942A,1886-06-01,And james w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'james', 'w']",0,1
+US343512A,1886-06-08,And john n,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'n']",0,1
+US343558A,1886-06-08,And john b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'b']",0,1
+US344028A,1886-06-22,And albert moeley,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'albert', 'moeley']",0,1
+US344205A,1886-06-22,And frederick m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'frederick', 'm']",0,1
+US344464A,1886-06-29,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'george', 'm']",0,1
+US344465A,1886-06-29,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'george', 'm']",0,1
+US344523A,1886-06-29,And john hurtin king,"['CCONJ', 'PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,4,"['and', 'john', 'hurtin', 'king']",0,1
+US344603A,1886-06-29,And william e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'e']",0,1
+US344951A,1886-07-06,And nelson w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'nelson', 'w']",0,1
+US345601A,1886-07-13,And david c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,"['and', 'david', 'c']",0,1
+US347046A,1886-08-10,To george h,"['ADP', 'VERB', 'PROPN']",[],1,0,3,"['to', 'george', 'h']",0,1
+US347207A,1886-08-10,And joseph kil,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'joseph', 'kil']",0,1
+US349106A,1886-09-14,And david h,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'david', 'h']",0,1
+US349351A,1886-09-21,And orville s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'orville', 's']",0,1
+US349650A,1886-09-21,And james ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'james', 'ii']",0,1
+US349767A,1886-09-28,And dennis j,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'dennis', 'j']",0,1
+US349964A,1886-09-28,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'h']",0,1
+US349965A,1886-09-28,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'h']",0,1
+US350266A,1886-10-05,And thomas m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'thomas', 'm']",0,1
+US350900A,1886-10-12,Ry james speatt,"['ADP', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['ry', 'james', 'speatt']",0,1
+US351989A,1886-11-02,And john t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'john', 't']",0,1
+US352384A,1886-11-09,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'h']",0,1
+US352497A,1886-11-09,And john s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'john', 's']",0,1
+US352781A,1886-11-16,And harris filson,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'harris', 'filson']",0,1
+US352826A,1886-11-16,And john m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'john', 'm']",0,1
+US353356A,1886-11-30,And thomas bedstead,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'thomas', 'bedstead']",0,1
+US353714A,1886-12-07,And james c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,"['and', 'james', 'c']",0,1
+US353778A,1886-12-07,And george dickman,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'george', 'dickman']",0,1
+US353911A,1886-12-07,And john wagner,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'john', 'wagner']",0,1
+US354638A,1886-12-21,And albert e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'albert', 'e']",0,1
+US354694A,1886-12-21,And paul e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'paul', 'e']",0,1
+US355633A,1887-01-04,And benjamin w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'benjamin', 'w']",0,1
+US355634A,1887-01-04,And benjamin w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'benjamin', 'w']",0,1
+US356189A,1887-01-18,And william hanson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'hanson']",0,1
+US356204A,1887-01-18,And john b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'b']",0,1
+US356720A,1887-01-25,And william m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'william', 'm']",0,1
+US357116A,1887-02-01,And alice w,"['CCONJ', 'VERB', 'PROPN']",['PERSON'],1,1,3,"['and', 'alice', 'w']",0,1
+US357515A,1887-02-08,And patrick eeillt,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'patrick', 'eeillt']",0,1
+US357535A,1887-02-08,And david p,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'david', 'p']",0,1
+US357642A,1887-02-15,of hanover square,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,"['of', 'hanover', 'square']",0,1
+US357730A,1887-02-15,And john l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'l']",0,1
+US358459A,1887-03-01,And john c,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'john', 'c']",0,1
+US358471A,1887-03-01,And lee hutchins,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'lee', 'hutchins']",0,1
+US358856A,1887-03-08,And henry hebeeling,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'henry', 'hebeeling']",0,1
+US358921A,1887-03-08,And fbedbick peteb eos,"['CCONJ', 'ADJ', 'PROPN', 'PROPN']",['ORG'],1,0,4,"['and', 'fbedbick', 'peteb', 'eos']",0,1
+US360026A,1887-03-29,And peter english,"['CCONJ', 'PROPN', 'PROPN']",['LANGUAGE'],1,0,3,"['and', 'peter', 'english']",0,1
+US360496A,1887-04-05,And john h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'h']",0,1
+US361845A,1887-04-26,And luthee k,"['CCONJ', 'NOUN', 'PROPN']",[],1,0,3,"['and', 'luthee', 'k']",0,1
+US361846A,1887-04-26,And luther k,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'luther', 'k']",0,1
+US362597A,1887-05-10,And thomas p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'thomas', 'p']",0,1
+US362729A,1887-05-10,And samuel tiiomp,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'samuel', 'tiiomp']",0,1
+US362842A,1887-05-10,And james w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'james', 'w']",0,1
+US362945A,1887-05-17,And outtina button holes,"['CCONJ', 'PROPN', 'NOUN', 'VERB']",[],1,0,4,"['and', 'outtina', 'button', 'holes']",0,1
+US362964A,1887-05-17,And henry kirk,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'henry', 'kirk']",0,1
+US363113A,1887-05-17,And john j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'j']",0,1
+US363295A,1887-05-17,Wilhblm lichtenberg and joseph baloun,"['ADP', 'NOUN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,5,"['wilhblm', 'lichtenberg', 'and', 'joseph', 'baloun']",0,1
+US363323A,1887-05-17,And albert ball,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'albert', 'ball']",0,1
+US363574A,1887-05-24,And thomas j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'thomas', 'j']",0,1
+US363696A,1887-05-24,And samuel m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'samuel', 'm']",0,1
+US363874A,1887-05-31,And george place,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'george', 'place']",0,1
+US364073A,1887-05-31,And john f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'john', 'f']",0,1
+US364261A,1887-06-07,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'h']",0,1
+US364541A,1887-06-07,And easmus peteesen,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'easmus', 'peteesen']",0,1
+US365353A,1887-06-21,And albert l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'albert', 'l']",0,1
+US365874A,1887-07-05,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'kent']",0,1
+US365875A,1887-07-05,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'kent']",0,1
+US365876A,1887-07-05,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'kent']",0,1
+US365877A,1887-07-05,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'kent']",0,1
+US366054A,1887-07-05,And galen b,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'galen', 'b']",0,1
+US366113A,1887-07-05,And james jamieson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'james', 'jamieson']",0,1
+US366147A,1887-07-05,And stanley w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'stanley', 'w']",0,1
+US366606A,1887-07-12,And henry m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'henry', 'm']",0,1
+US366722A,1887-07-19,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'h']",0,1
+US367554A,1887-08-02,And francis w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'francis', 'w']",0,1
+US367665A,1887-08-02,And christopher j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'christopher', 'j']",0,1
+US367951A,1887-08-09,And hoeatio thomas,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,"['and', 'hoeatio', 'thomas']",0,1
+US367984A,1887-08-09,And ahira tyrrell,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'ahira', 'tyrrell']",0,1
+US368565A,1887-08-23,And campbell p,"['CCONJ', 'PROPN', 'NOUN']",['ORG'],1,0,3,"['and', 'campbell', 'p']",0,1
+US368658A,1887-08-23,And jacob o,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'jacob', 'o']",0,1
+US368889A,1887-08-23,And harry k,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'harry', 'k']",0,1
+US369697A,1887-09-13,And henry f,"['CCONJ', 'PROPN', 'X']",['PERSON'],1,1,3,"['and', 'henry', 'f']",0,1
+US369779A,1887-09-13,of kingston,"['ADP', 'PROPN']",[],1,0,3,"['of', 'kingston']",0,1
+US369849A,1887-09-13,And john p,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'john', 'p']",0,1
+US370258A,1887-09-20,And francis w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'francis', 'w']",0,1
+US370301A,1887-09-20,And james m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'james', 'm']",0,1
+US370589A,1887-09-27,And frederick m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'frederick', 'm']",0,1
+US370637A,1887-09-27,And john bobinson,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'bobinson']",0,1
+US371150A,1887-10-04,And philip e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'philip', 'e']",0,1
+US371530A,1887-10-11,And edward h,"['CCONJ', 'NOUN', 'PROPN']",['PERSON'],1,1,3,"['and', 'edward', 'h']",0,1
+US371797A,1887-10-18,And william j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'j']",0,1
+US371882A,1887-10-18,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'h']",0,1
+US372306A,1887-11-01,And eollee goastee,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'eollee', 'goastee']",0,1
+US372308A,1887-11-01,And john goedon,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'goedon']",0,1
+US372421A,1887-11-01,And walter t,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'walter', 't']",0,1
+US372542A,1887-11-01,And john e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'e']",0,1
+US374029A,1887-11-29,And charles s,"['CCONJ', 'PROPN', 'PART']",['PERSON'],1,1,3,"['and', 'charles', 's']",0,1
+US374630A,1887-12-13,And peancis gleason,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'peancis', 'gleason']",0,1
+US374669A,1887-12-13,Of joseph feeeman,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,"['of', 'joseph', 'feeeman']",0,1
+US375033A,1887-12-20,And joseph w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'joseph', 'w']",0,1
+US375264A,1887-12-20,And william m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'william', 'm']",0,1
+US376780A,1888-01-24,And john waldron,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'waldron']",0,1
+US376896A,1888-01-24,And heney j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'heney', 'j']",0,1
+US377083A,1888-01-31,And henry b,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'b']",0,1
+US377644A,1888-02-07,And john austin  jmocul,"['CCONJ', 'PROPN', 'PROPN', 'SPACE', 'PROPN']",['PERSON'],1,1,5,"['and', 'john', 'austin', 'jmocul']",0,1
+US377819A,1888-02-14,And the orford copper com,"['CCONJ', 'DET', 'PROPN', 'NOUN', 'NOUN']",[],1,0,5,"['and', 'the', 'orford', 'copper', 'com']",0,1
+US378402A,1888-02-21,And andeew-w,"['CCONJ', 'PROPN', 'PUNCT', 'PROPN']",[],1,0,4,"['and', 'andeew-w']",0,1
+US378628A,1888-02-28,And david r,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'david', 'r']",0,1
+US379084A,1888-03-06,And louis gabdnee bostedo,"['CCONJ', 'PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,4,"['and', 'louis', 'gabdnee', 'bostedo']",0,1
+US379896A,1888-03-20,And henry williams,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'williams']",0,1
+US380347A,1888-04-03,And john w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'w']",0,1
+US380822A,1888-04-10,And william h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'h']",0,1
+US381163A,1888-04-17,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US381425A,1888-04-17,And feank eosewatee,"['CCONJ', 'PROPN', 'VERB']",['ORG'],1,0,3,"['and', 'feank', 'eosewatee']",0,1
+US381579A,1888-04-17,And henry w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'w']",0,1
+US381862A,1888-04-24,And william heokeet,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'william', 'heokeet']",0,1
+US382423A,1888-05-08,And louis wahl,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'louis', 'wahl']",0,1
+US383167A,1888-05-22,And john seymour,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'john', 'seymour']",0,1
+US383454A,1888-05-29,And milan o,"['CCONJ', 'PROPN', 'NOUN']",['GPE'],1,0,3,"['and', 'milan', 'o']",0,1
+US384276A,1888-06-12,And william f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'f']",0,1
+US384312A,1888-06-12,And roderick s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'roderick', 's']",0,1
+US384942A,1888-06-19,And edward h,"['CCONJ', 'NOUN', 'PROPN']",['PERSON'],1,1,3,"['and', 'edward', 'h']",0,1
+US385103A,1888-06-26,And samuel moran,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'samuel', 'moran']",0,1
+US385164A,1888-06-26,And william c,"['CCONJ', 'PROPN', 'AUX']",['PERSON'],1,1,3,"['and', 'william', 'c']",0,1
+US385974A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US385975A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US385976A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US385977A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US385978A,1888-07-10,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US386479A,1888-07-24,And frank m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'frank', 'm']",0,1
+US387083A,1888-07-31,And george c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,"['and', 'george', 'c']",0,1
+US387137A,1888-07-31,And william ore,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'william', 'ore']",0,1
+US387358A,1888-08-07,And albert w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'albert', 'w']",0,1
+US387578A,1888-08-07,And george c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,"['and', 'george', 'c']",0,1
+US388166A,1888-08-21,And james wood carver,"['CCONJ', 'PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,4,"['and', 'james', 'wood', 'carver']",0,1
+US388413A,1888-08-28,And harris p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'harris', 'p']",0,1
+US388584A,1888-08-28,And wilson w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'wilson', 'w']",0,1
+US388653A,1888-08-28,of cedae hill,"['ADP', 'PROPN', 'NOUN']",[],1,0,3,"['of', 'cedae', 'hill']",0,1
+US388812A,1888-09-04,And louis pfingst,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'louis', 'pfingst']",0,1
+US389762A,1888-09-18,And eli eidg,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'eli', 'eidg']",0,1
+US389875A,1888-09-25,Of one-half to john needham longden,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'ADJ']","['CARDINAL', 'PERSON']",1,1,8,"['of', 'one-half', 'to', 'john', 'needham', 'longden']",0,1
+US390330A,1888-10-02,And john e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'e']",0,1
+US390408A,1888-10-02,And herbert l,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'herbert', 'l']",0,1
+US390969A,1888-10-09,And thomas claek,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'thomas', 'claek']",0,1
+US391206A,1888-10-16,And isaiah f,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'isaiah', 'f']",0,1
+US391301A,1888-10-16,And william j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'j']",0,1
+US391364A,1888-10-16,And clorista e,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'clorista', 'e']",0,1
+US391782A,1888-10-30,And jacob keitch,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'jacob', 'keitch']",0,1
+US392425A,1888-11-06,And john j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'j']",0,1
+US392698A,1888-11-13,And albert l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'albert', 'l']",0,1
+US392996A,1888-11-20,And george w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'george', 'w']",0,1
+US393073A,1888-11-20,And thomas j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'thomas', 'j']",0,1
+US393202A,1888-11-20,And andeew wiggin,"['CCONJ', 'PROPN', 'VERB']",['NORP'],1,0,3,"['and', 'andeew', 'wiggin']",0,1
+US393570A,1888-11-27,And james v,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'james', 'v']",0,1
+US393921A,1888-12-04,And thomas p,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'thomas', 'p']",0,1
+US394230A,1888-12-11,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US394448A,1888-12-11,And john bancroft,"['CCONJ', 'PROPN', 'ADP']",['PERSON'],1,1,3,"['and', 'john', 'bancroft']",0,1
+US394539A,1888-12-11,And frank ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'frank', 'ii']",0,1
+US394665A,1888-12-18,And william kent,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'kent']",0,1
+US394834A,1888-12-18,And john parker,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'parker']",0,1
+US394914A,1888-12-18,And henry l,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'henry', 'l']",0,1
+US395602A,1889-01-01,And charles s,"['CCONJ', 'PROPN', 'PART']",['PERSON'],1,1,3,"['and', 'charles', 's']",0,1
+US395788A,1889-01-08,And edwin norton,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'edwin', 'norton']",0,1
+US396037A,1889-01-08,And joseph schmitt,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'joseph', 'schmitt']",0,1
+US396402A,1889-01-22,And george edward,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'george', 'edward']",0,1
+US396478A,1889-01-22,And samuel w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'samuel', 'w']",0,1
+US396688A,1889-01-22,And william w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'w']",0,1
+US396806A,1889-01-29,And charles ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'charles', 'ii']",0,1
+US396966A,1889-01-29,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'george', 'm']",0,1
+US396967A,1889-01-29,And george m,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'george', 'm']",0,1
+US397275A,1889-02-05,And thomas ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'thomas', 'ii']",0,1
+US397522A,1889-02-12,And august giese,"['CCONJ', 'PROPN', 'NOUN']",['DATE'],1,0,3,"['and', 'august', 'giese']",0,1
+US398164A,1889-02-19,And hugh j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'hugh', 'j']",0,1
+US398417A,1889-02-26,In vein t dr,"['ADP', 'PROPN', 'PROPN', 'PROPN']",[],1,0,4,"['in', 'vein', 't', 'dr']",0,1
+US398482A,1889-02-26,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US398512A,1889-02-26,And john h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'h']",0,1
+US398628A,1889-02-26,And hugh j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'hugh', 'j']",0,1
+US398677A,1889-02-26,And joseph g,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'joseph', 'g']",0,1
+US398687A,1889-02-26,And lofis pfingst,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'lofis', 'pfingst']",0,1
+US398782A,1889-02-26,And the iiitson motor,"['CCONJ', 'DET', 'PROPN', 'NOUN']",[],1,0,4,"['and', 'the', 'iiitson', 'motor']",0,1
+US399205A,1889-03-05,And charles ii,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'charles', 'ii']",0,1
+US399331A,1889-03-12,And james c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,"['and', 'james', 'c']",0,1
+US399633A,1889-03-12,And francis g,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'francis', 'g']",0,1
+US399702A,1889-03-19,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",0,1
+US399746A,1889-03-19,And francis h,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'francis', 'h']",0,1
+US399758A,1889-03-19,And amos h,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'amos', 'h']",0,1
+US399849A,1889-03-19,And paul e,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'paul', 'e']",0,1
+US399870A,1889-03-19,And francis m,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'francis', 'm']",0,1
+US300183A,1884-06-10,And peed cheisten,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'peed', 'cheisten']",0,1
+US300193A,1884-06-10,And emil m,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,"['and', 'emil', 'm']",0,1
+US300194A,1884-06-10,And emil m,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,"['and', 'emil', 'm']",0,1
+US300861A,1884-06-24,And sol,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'sol']",0,1
+US300890A,1884-06-24,Of-paris,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,['of-paris'],0,1
+US300963A,1884-06-24,And chaeles,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'chaeles']",0,1
+US301456A,1884-07-01,And  sewing machine com,"['CCONJ', 'SPACE', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['and', 'sewing', 'machine', 'com']",0,1
+US301457A,1884-07-01,in patten,"['ADP', 'NOUN']",[],0,0,2,"['in', 'patten']",0,1
+US301529A,1884-07-08,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US301700A,1884-07-08,Of oiste-half to,"['ADP', 'VERB', 'PUNCT', 'NOUN', 'PART']",[],0,0,5,"['of', 'oiste-half', 'to']",0,1
+US301801A,1884-07-08,And forming the heads and faces,"['CCONJ', 'VERB', 'DET', 'NOUN', 'CCONJ', 'VERB']",[],0,0,6,"['and', 'forming', 'the', 'heads', 'and', 'faces']",0,1
+US301802A,1884-07-08,of mannheim,"['ADP', 'NOUN']",[],0,0,2,"['of', 'mannheim']",0,1
+US301931A,1884-07-15,Or cooling pad,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['or', 'cooling', 'pad']",0,1
+US302011A,1884-07-15,To bacco-resw eater,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['to', 'bacco-resw', 'eater']",0,1
+US302013A,1884-07-15,And chaeles,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'chaeles']",0,1
+US302151A,1884-07-15,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US302165A,1884-07-15,And dressing- machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'dressing-', 'machine']",0,1
+US302193A,1884-07-15,Or forming fibrous pulp barrels of,"['CCONJ', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,6,"['or', 'forming', 'fibrous', 'pulp', 'barrels', 'of']",0,1
+US302528A,1884-07-22,And geoege yule,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'geoege', 'yule']",0,1
+US302607A,1884-07-29,And benjamin,"['CCONJ', 'ADJ']",[],0,0,2,"['and', 'benjamin']",0,1
+US302631A,1884-07-29,And slubbing frame,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'slubbing', 'frame']",0,1
+US302665A,1884-07-29,And aethue a,"['CCONJ', 'NOUN', 'PRON']",[],0,0,3,"['and', 'aethue', 'a']",0,1
+US302749A,1884-07-29,Heeby a,"['ADP', 'PRON']",['NORP'],0,0,2,"['heeby', 'a']",0,1
+US303371A,1884-08-12,Of baltimoeb,"['ADP', 'NOUN']",[],0,0,2,"['of', 'baltimoeb']",0,1
+US303419A,1884-08-12,To him,"['ADP', 'PRON']",[],0,0,2,"['to', 'him']",0,1
+US303586A,1884-08-12,And smelting ores,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'smelting', 'ores']",0,1
+US304470A,1884-02-12,By mua,"['ADP', 'NOUN']",[],0,0,2,"['by', 'mua']",0,1
+US305249A,1884-09-16,And albeet h,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'albeet', 'h']",0,1
+US305311A,1884-09-16,And florentine a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'florentine', 'a']",0,1
+US305632A,1884-09-23,And alfeed s,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'alfeed', 's']",0,1
+US305848A,1884-09-30,of quebec,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'quebec']",0,1
+US306131A,1884-10-07,For machines,"['ADP', 'NOUN']",[],0,0,2,"['for', 'machines']",0,1
+US306467A,1884-10-14,Or water pump,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['or', 'water', 'pump']",0,1
+US306580A,1884-10-14,And excavating- machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'excavating-', 'machine']",0,1
+US307107A,1884-10-28,And unloading,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'unloading']",0,1
+US307108A,1884-10-28,And husking machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'husking', 'machine']",0,1
+US307149A,1884-10-28,And albeet j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'albeet', 'j']",0,1
+US307727A,1884-11-04,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US307969A,1884-11-11,And heney a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'heney', 'a']",0,1
+US308021A,1884-11-11,Of pro,"['ADP', 'ADJ']",[],0,0,2,"['of', 'pro']",0,1
+US308103A,1884-11-18,And geobge p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'geobge', 'p']",0,1
+US308311A,1884-11-18,And chaeles,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'chaeles']",0,1
+US308425A,1884-11-25,Of new yojrk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'yojrk']",0,1
+US308838A,1884-12-02,To wilson w,"['ADP', 'NOUN', 'ADP']",['PERSON'],0,1,3,"['to', 'wilson', 'w']",0,1
+US308931A,1884-12-09,And harry,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'harry']",0,1
+US309126A,1884-12-09,And daniel,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'daniel']",0,1
+US309160A,1884-12-09,And bror f,"['CCONJ', 'NOUN', 'X']",[],0,0,3,"['and', 'bror', 'f']",0,1
+US309181A,1884-12-09,And chaeles langbein,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'chaeles', 'langbein']",0,1
+US309195A,1884-12-16,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US309912A,1884-12-30,And winton c,"['CCONJ', 'NOUN', 'AUX']",['ORG'],0,0,3,"['and', 'winton', 'c']",0,1
+US310093A,1884-12-30,And ridging machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'ridging', 'machine']",0,1
+US310340A,1885-01-06,Inside stay for shoes,"['ADP', 'VERB', 'ADP', 'NOUN']",[],0,0,4,"['inside', 'stay', 'for', 'shoes']",0,1
+US310540A,1885-01-06,And albeet e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'albeet', 'e']",0,1
+US310631A,1885-01-13,Sh ing ling-bracket,"['ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['sh', 'ing', 'ling-bracket']",0,1
+US310646A,1885-01-13,And oebin claek,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'oebin', 'claek']",0,1
+US310880A,1885-01-20,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,"['and', 'charles', 'f']",0,1
+US311053A,1885-01-20,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US311062A,1885-01-20,And thoma,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'thoma']",0,1
+US311192A,1885-01-27,And charles,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'charles']",0,1
+US311424A,1885-01-27,And eobeet,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'eobeet']",0,1
+US311477A,1885-02-03,And james a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'james', 'a']",0,1
+US311773A,1885-02-03,And automatically,"['CCONJ', 'ADV']",[],0,0,2,"['and', 'automatically']",0,1
+US311813A,1885-02-03,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,"['and', 'charles', 'f']",0,1
+US311814A,1885-02-03,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,"['and', 'charles', 'f']",0,1
+US311972A,1885-02-10,And wick kaising lamp,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,"['and', 'wick', 'kaising', 'lamp']",0,1
+US312274A,1885-02-17,And unloading tramways,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'unloading', 'tramways']",0,1
+US312448A,1885-02-17,And filling machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'filling', 'machine']",0,1
+US312491A,1885-02-17,And otto miller,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,"['and', 'otto', 'miller']",0,1
+US313869A,1885-03-17,And winding yaen oe theead upon bobbins,"['CCONJ', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'SCONJ', 'NOUN']",[],0,0,7,"['and', 'winding', 'yaen', 'oe', 'theead', 'upon', 'bobbins']",0,1
+US313980A,1885-03-17,For pistons,"['ADP', 'NOUN']",[],0,0,2,"['for', 'pistons']",0,1
+US314085A,1885-03-17,And tapping- apparatus,"['CCONJ', 'ADP', 'NOUN']",[],0,0,3,"['and', 'tapping-', 'apparatus']",0,1
+US314439A,1885-03-24,And cleaning machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'cleaning', 'machine']",0,1
+US315451A,1885-04-07,And geoege yule,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'geoege', 'yule']",0,1
+US315452A,1885-04-07,And geobge yule,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,"['and', 'geobge', 'yule']",0,1
+US315569A,1885-04-14,Until their burial,"['ADP', 'PRON', 'NOUN']",[],0,0,3,"['until', 'their', 'burial']",0,1
+US315912A,1885-04-14,And drying the sedimentary,"['CCONJ', 'VERB', 'DET', 'ADJ']",[],0,0,4,"['and', 'drying', 'the', 'sedimentary']",0,1
+US316064A,1885-04-21,And heney w,"['CCONJ', 'NOUN', 'X']",['ORG'],0,0,3,"['and', 'heney', 'w']",0,1
+US316400A,1885-04-21,And claeence vose,"['CCONJ', 'NOUN', 'ADV']",[],0,0,3,"['and', 'claeence', 'vose']",0,1
+US316406A,1885-04-21,And peeparim starch,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'peeparim', 'starch']",0,1
+US316416A,1885-04-21,of newpoet,"['ADP', 'ADJ']",[],0,0,2,"['of', 'newpoet']",0,1
+US316585A,1885-04-28,Edmund tweedy,"['ADP', 'NOUN']",[],0,0,2,"['edmund', 'tweedy']",0,1
+US316899A,1885-04-28,To colts,"['ADP', 'NOUN']",[],0,0,2,"['to', 'colts']",0,1
+US317115A,1885-05-05,And spinning hemp,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'spinning', 'hemp']",0,1
+US317117A,1885-05-05,And spinning hemp,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'spinning', 'hemp']",0,1
+US317125A,1885-05-05,Of sam,"['ADP', 'NOUN']",[],0,0,2,"['of', 'sam']",0,1
+US317348A,1885-05-05,Of peo,"['ADP', 'NOUN']",[],0,0,2,"['of', 'peo']",0,1
+US317432A,1885-05-05,And recording device,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'recording', 'device']",0,1
+US317730A,1885-05-12,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,"['and', 'charles', 'f']",0,1
+US317797A,1885-05-12,Inside blind,"['ADP', 'ADJ']",[],0,0,2,"['inside', 'blind']",0,1
+US317798A,1885-05-12,Inside blind,"['ADP', 'ADJ']",[],0,0,2,"['inside', 'blind']",0,1
+US317922A,1885-05-12,And eoss c,"['CCONJ', 'NOUN', 'AUX']",[],0,0,3,"['and', 'eoss', 'c']",0,1
+US317930A,1885-05-12,And trimming fabrics,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'trimming', 'fabrics']",0,1
+US318221A,1885-05-19,And flanging machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'flanging', 'machine']",0,1
+US318405A,1885-05-19,And twisting- machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'twisting-', 'machine']",0,1
+US319403A,1885-06-02,Of baltimore,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'baltimore']",0,1
+US319648A,1885-06-09,For rollers of rolling mills,"['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,"['for', 'rollers', 'of', 'rolling', 'mills']",0,1
+US319747A,1885-06-09,And cueling- hats,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'cueling-', 'hats']",0,1
+US319909A,1885-06-09,And oleanina grain,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'oleanina', 'grain']",0,1
+US320115A,1885-06-16,And geoege yule,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'geoege', 'yule']",0,1
+US320344A,1885-06-16,And toussaint it vat,"['CCONJ', 'VERB', 'PRON', 'VERB']",[],0,0,4,"['and', 'toussaint', 'it', 'vat']",0,1
+US320601A,1885-06-23,of beswick,"['ADP', 'NOUN']",[],0,0,2,"['of', 'beswick']",0,1
+US320786A,1885-06-23,Inside shutter,"['ADP', 'NOUN']",[],0,0,2,"['inside', 'shutter']",0,1
+US321043A,1885-06-30,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'yoek']",0,1
+US321089A,1885-06-30,And agitating apparatus foe plant washes,"['CCONJ', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'VERB']",[],0,0,6,"['and', 'agitating', 'apparatus', 'foe', 'plant', 'washes']",0,1
+US321277A,1885-06-30,And henby a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'henby', 'a']",0,1
+US321393A,1885-06-30,And masking cloth,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'masking', 'cloth']",0,1
+US321683A,1885-07-07,And folding machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'folding', 'machine']",0,1
+US321851A,1885-07-07,And cleaning- cotton and other fibers,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,"['and', 'cleaning-', 'cotton', 'and', 'other', 'fibers']",0,1
+US322026A,1885-07-14,Of pro,"['ADP', 'ADJ']",[],0,0,2,"['of', 'pro']",0,1
+US322323A,1885-07-14,And track sweeping attachment foe railway oaks,"['CCONJ', 'VERB', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'VERB']",[],0,0,7,"['and', 'track', 'sweeping', 'attachment', 'foe', 'railway', 'oaks']",0,1
+US322693A,1885-07-21,And edward a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'edward', 'a']",0,1
+US323089A,1885-07-28,And wolcott a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'wolcott', 'a']",0,1
+US323090A,1885-07-28,And wolcott a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'wolcott', 'a']",0,1
+US323091A,1885-07-28,And wol,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'wol']",0,1
+US323544A,1885-08-04,And ruffling fabrics,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'ruffling', 'fabrics']",0,1
+US323932A,1885-08-11,And eichaed,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'eichaed']",0,1
+US325114A,1885-08-25,Ux eansom,"['ADP', 'VERB']",[],0,0,2,"['ux', 'eansom']",0,1
+US325211A,1885-08-25,And ferdinand s,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'ferdinand', 's']",0,1
+US325310A,1885-09-01,And displaying vegetables,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'displaying', 'vegetables']",0,1
+US325360A,1885-09-01,And leioestee allen,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'leioestee', 'allen']",0,1
+US325408A,1885-09-01,And bichard b,"['CCONJ', 'NOUN', 'X']",[],0,0,3,"['and', 'bichard', 'b']",0,1
+US325584A,1885-09-01,And gus,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'gus']",0,1
+US325744A,1885-09-08,And george a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'george', 'a']",0,1
+US325752A,1885-09-08,Of same plage,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'plage']",0,1
+US325766A,1885-09-08,And eeinhold boek,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,"['and', 'eeinhold', 'boek']",0,1
+US325901A,1885-09-08,To himself,"['ADP', 'PRON']",[],0,0,2,"['to', 'himself']",0,1
+US326293A,1885-09-15,And maeshall c,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'maeshall', 'c']",0,1
+US326386A,1885-09-15,And eobeet e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'eobeet', 'e']",0,1
+US326391A,1885-09-15,And twisting machines,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'twisting', 'machines']",0,1
+US327122A,1885-09-29,And geoe,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'geoe']",0,1
+US327123A,1885-09-29,And geobge yule,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,"['and', 'geobge', 'yule']",0,1
+US328073A,1885-10-13,And polly a,"['CCONJ', 'ADV', 'PRON']",[],0,0,3,"['and', 'polly', 'a']",0,1
+US328192A,1885-10-13,of bbooklyn,"['ADP', 'X']",[],0,0,2,"['of', 'bbooklyn']",0,1
+US328582A,1885-10-20,And drawing hemp,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'drawing', 'hemp']",0,1
+US328994A,1885-10-27,wy man,"['CCONJ', 'NOUN']",[],0,0,3,"['wy', 'man']",0,1
+US329139A,1885-10-27,And charles a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'charles', 'a']",0,1
+US329370A,1885-10-27,And asa,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'asa']",0,1
+US330303A,1885-11-10,And angus campbell,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'angus', 'campbell']",0,1
+US330413A,1885-11-17,And geoege w,"['CCONJ', 'NOUN', 'ADP']",[],0,0,3,"['and', 'geoege', 'w']",0,1
+US330441A,1885-11-17,And geoege yule,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'geoege', 'yule']",0,1
+US330780A,1885-11-17,And petee,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'petee']",0,1
+US330798A,1885-11-17,And pembroke s,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'pembroke', 's']",0,1
+US330951A,1885-11-24,And marcus,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'marcus']",0,1
+US332407A,1885-12-15,And skip,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'skip']",0,1
+US333014A,1885-12-22,And seven-sixteenths,"['CCONJ', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,"['and', 'seven-sixteenths']",0,1
+US333451A,1885-12-29,Of keokuk,"['ADP', 'NOUN']",['CARDINAL'],0,0,2,"['of', 'keokuk']",0,1
+US333655A,1886-01-05,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'philadelphia']",0,1
+US333731A,1886-01-05,On and treatment of vegetable fibrous substances,"['ADP', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN']",[],0,0,7,"['on', 'and', 'treatment', 'of', 'vegetable', 'fibrous', 'substances']",0,1
+US333788A,1886-01-05,of guatemala,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'guatemala']",0,1
+US334321A,1886-01-12,And marcus,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'marcus']",0,1
+US334379A,1886-01-12,And heman d,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'heman', 'd']",0,1
+US335016A,1886-01-26,And chaeles d,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'chaeles', 'd']",0,1
+US335152A,1886-02-02,And aaeon e,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'aaeon', 'e']",0,1
+US335245A,1886-02-02,Of woecesteb,"['ADP', 'NOUN']",[],0,0,2,"['of', 'woecesteb']",0,1
+US335371A,1886-02-02,qnp a tl,"['ADP', 'DET', 'NOUN']",[],0,0,3,"['qnp', 'a', 'tl']",0,1
+US335415A,1886-02-02,And chaeles w,"['CCONJ', 'VERB', 'X']",[],0,0,3,"['and', 'chaeles', 'w']",0,1
+US335429A,1886-02-02,And trimming machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'trimming', 'machine']",0,1
+US335522A,1886-02-02,And seven-sixteenths to,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,"['and', 'seven-sixteenths', 'to']",0,1
+US335631A,1886-02-09,of poet chester,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,"['of', 'poet', 'chester']",0,1
+US335636A,1886-02-09,And beaming machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'beaming', 'machine']",0,1
+US336518A,1886-02-16,And the ameri,"['CCONJ', 'DET', 'NOUN']",[],0,0,3,"['and', 'the', 'ameri']",0,1
+US336734A,1886-02-23,And ernest g,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'ernest', 'g']",0,1
+US336905A,1886-03-02,And chaeles g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'chaeles', 'g']",0,1
+US336990A,1886-03-02,For machinery,"['ADP', 'NOUN']",[],0,0,2,"['for', 'machinery']",0,1
+US337195A,1886-03-02,For attaching buttons to garments,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['for', 'attaching', 'buttons', 'to', 'garments']",0,1
+US337254A,1886-03-02,And sigmund berg,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,"['and', 'sigmund', 'berg']",0,1
+US337500A,1886-03-09,And egbert buddy,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,"['and', 'egbert', 'buddy']",0,1
+US338364A,1886-03-23,On-tyne,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,['on-tyne'],0,1
+US338642A,1886-03-23,And daniel,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'daniel']",0,1
+US338849A,1886-03-30,Wilhblm loeenz,"['ADP', 'NOUN']",[],0,0,2,"['wilhblm', 'loeenz']",0,1
+US339246A,1886-04-06,And setting mechanism,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'setting', 'mechanism']",0,1
+US339310A,1886-04-06,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,"['of', 'one-half', 'to']",0,1
+US339679A,1886-04-13,And inseeting staples in music eollees,"['CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,6,"['and', 'inseeting', 'staples', 'in', 'music', 'eollees']",0,1
+US340197A,1886-04-20,And spooling wire steands,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,"['and', 'spooling', 'wire', 'steands']",0,1
+US340402A,1886-04-20,of newaek,"['ADP', 'NOUN']",[],0,0,2,"['of', 'newaek']",0,1
+US340709A,1886-04-27,And ezra t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'ezra', 't']",0,1
+US340785A,1886-04-27,Under guide for printing-machines,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['under', 'guide', 'for', 'printing-machines']",0,1
+US340905A,1886-04-27,And aechie,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'aechie']",0,1
+US341309A,1886-05-04,And pembroke s,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'pembroke', 's']",0,1
+US341353A,1886-05-04,And deawing sheet metal,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,"['and', 'deawing', 'sheet', 'metal']",0,1
+US341361A,1886-05-04,And greasing machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'greasing', 'machine']",0,1
+US341398A,1886-05-04,And looking mechanism,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'looking', 'mechanism']",0,1
+US341450A,1886-05-11,And controlling system for electric clocks,"['CCONJ', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,"['and', 'controlling', 'system', 'for', 'electric', 'clocks']",0,1
+US341497A,1886-05-11,And augustus,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'augustus']",0,1
+US341541A,1886-05-11,Inside blind,"['ADP', 'ADJ']",[],0,0,2,"['inside', 'blind']",0,1
+US341727A,1886-05-11,And floe a b,"['CCONJ', 'VERB', 'DET', 'NOUN']",['PERSON'],0,1,4,"['and', 'floe', 'a', 'b']",0,1
+US342490A,1886-05-25,And fred g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'fred', 'g']",0,1
+US342525A,1886-05-25,And adaline s,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,"['and', 'adaline', 's']",0,1
+US343087A,1886-06-01,For electric lights,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['for', 'electric', 'lights']",0,1
+US343773A,1886-06-15,And chaeles n,"['CCONJ', 'VERB', 'ADV']",[],0,0,3,"['and', 'chaeles', 'n']",0,1
+US344214A,1886-06-22,And rolla butterfield,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'rolla', 'butterfield']",0,1
+US344462A,1886-06-29,And geoege m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'geoege', 'm']",0,1
+US344463A,1886-06-29,And geoegb m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'geoegb', 'm']",0,1
+US344609A,1886-06-29,And charles g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'charles', 'g']",0,1
+US344785A,1886-06-29,And william a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'william', 'a']",0,1
+US344813A,1886-07-06,And haydbn h,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'haydbn', 'h']",0,1
+US344819A,1886-07-06,And cutting wire,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'cutting', 'wire']",0,1
+US344942A,1886-07-06,And peedeeic e,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'peedeeic', 'e']",0,1
+US345502A,1886-07-13,And bpheaim c,"['CCONJ', 'VERB', 'AUX']",[],0,0,3,"['and', 'bpheaim', 'c']",0,1
+US345506A,1886-07-13,And frank,"['CCONJ', 'ADJ']",[],0,0,2,"['and', 'frank']",0,1
+US345757A,1886-07-20,And chaeles peattsman bowden,"['CCONJ', 'VERB', 'NOUN', 'ADJ']",[],0,0,4,"['and', 'chaeles', 'peattsman', 'bowden']",0,1
+US346204A,1886-07-27,And egbert e,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'egbert', 'e']",0,1
+US346514A,1886-08-03,Ob mixing- machine,"['ADP', 'NOUN', 'NOUN']",['ORG'],0,0,3,"['ob', 'mixing-', 'machine']",0,1
+US346548A,1886-08-03,Or of one-third to f,"['CCONJ', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,7,"['or', 'of', 'one-third', 'to', 'f']",0,1
+US346603A,1886-08-03,And henry,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'henry']",0,1
+US346693A,1886-08-03,And winding machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'winding', 'machine']",0,1
+US347910A,1886-08-24,And vaenum t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'vaenum', 't']",0,1
+US347948A,1886-08-24,And hardening metal surfaces,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,"['and', 'hardening', 'metal', 'surfaces']",0,1
+US348058A,1886-08-24,And irving hale,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'irving', 'hale']",0,1
+US348165A,1886-08-24,And frank a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'frank', 'a']",0,1
+US348574A,1886-09-07,And geoege f,"['CCONJ', 'VERB', 'X']",[],0,0,3,"['and', 'geoege', 'f']",0,1
+US348590A,1886-09-07,And frank e,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,"['and', 'frank', 'e']",0,1
+US348808A,1886-09-07,To white,"['ADP', 'ADJ']",[],0,0,2,"['to', 'white']",0,1
+US349029A,1886-09-14,And chaeles platt,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'chaeles', 'platt']",0,1
+US349418A,1886-09-21,And grindin,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'grindin']",0,1
+US350198A,1886-10-05,And washing,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'washing']",0,1
+US350453A,1886-10-05,On buttons,"['ADP', 'NOUN']",[],0,0,2,"['on', 'buttons']",0,1
+US350572A,1886-10-12,Spokefor vehicle-wheels,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['spokefor', 'vehicle-wheels']",0,1
+US350716A,1886-10-12,And randolph m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'randolph', 'm']",0,1
+US350809A,1886-10-12,And thomas a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'thomas', 'a']",0,1
+US350890A,1886-10-12,And curtis tilton,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'curtis', 'tilton']",0,1
+US351757A,1886-11-02,By direct,"['ADP', 'ADJ']",[],0,0,2,"['by', 'direct']",0,1
+US351850A,1886-11-02,Up coal,"['ADP', 'NOUN']",[],0,0,2,"['up', 'coal']",0,1
+US351933A,1886-11-02,And edward blakeney,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'edward', 'blakeney']",0,1
+US352235A,1886-11-09,And chaeles d,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'chaeles', 'd']",0,1
+US352340A,1886-11-09,And magnus kohler,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'magnus', 'kohler']",0,1
+US352393A,1886-11-09,Under-garment,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,['under-garment'],0,1
+US352569A,1886-11-16,And maeion s,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'maeion', 's']",0,1
+US353039A,1886-11-23,And austin cuetin,"['CCONJ', 'NOUN', 'NOUN']",['PERSON'],0,1,3,"['and', 'austin', 'cuetin']",0,1
+US353337A,1886-11-30,en holm,"['ADP', 'NOUN']",[],0,0,2,"['en', 'holm']",0,1
+US353654A,1886-12-07,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US353963A,1886-12-07,Under-garment,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,['under-garment'],0,1
+US354396A,1886-12-14,And frederick a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'frederick', 'a']",0,1
+US354465A,1886-12-14,Conkad a,"['ADP', 'PRON']",[],0,0,2,"['conkad', 'a']",0,1
+US354477A,1886-12-14,And frank a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'frank', 'a']",0,1
+US354588A,1886-12-21,w wheeler,"['ADP', 'NOUN']",[],0,0,3,"['w', 'wheeler']",0,1
+US355045A,1886-12-28,Inside window-blind,"['ADP', 'NOUN', 'PUNCT', 'ADJ']",[],0,0,4,"['inside', 'window-blind']",0,1
+US355076A,1886-12-28,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['per', 'mutation-lock']",0,1
+US355136A,1886-12-28,Or severing device,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['or', 'severing', 'device']",0,1
+US355168A,1886-12-28,Inside blind,"['ADP', 'ADJ']",[],0,0,2,"['inside', 'blind']",0,1
+US355288A,1886-12-28,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,"['of', 'one-half', 'to']",0,1
+US355331A,1887-01-04,And adolph ohl,"['CCONJ', 'VERB', 'ADP']",[],0,0,3,"['and', 'adolph', 'ohl']",0,1
+US355461A,1883-12-17,And alfred,"['CCONJ', 'ADJ']",[],0,0,2,"['and', 'alfred']",0,1
+US355635A,1887-01-04,And theodore -s,"['CCONJ', 'VERB', 'PUNCT']",[],0,0,3,"['and', 'theodore', '-s']",0,1
+US355640A,1887-01-04,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US355823A,1887-01-11,And the fales,"['CCONJ', 'DET', 'NOUN']",[],0,0,3,"['and', 'the', 'fales']",0,1
+US355918A,1887-01-11,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US356332A,1887-01-18,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'yoek']",0,1
+US356333A,1887-01-18,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'yoek']",0,1
+US356577A,1887-01-25,And geoegb n,"['CCONJ', 'NOUN', 'X']",[],0,0,3,"['and', 'geoegb', 'n']",0,1
+US357091A,1887-02-01,And eudolph w,"['CCONJ', 'ADV', 'X']",[],0,0,3,"['and', 'eudolph', 'w']",0,1
+US357139A,1887-02-01,And pro,"['CCONJ', 'ADJ']",[],0,0,2,"['and', 'pro']",0,1
+US357302A,1887-02-08,Of making the same,"['ADP', 'VERB', 'DET', 'ADJ']",[],0,0,4,"['of', 'making', 'the', 'same']",0,1
+US357514A,1887-02-08,And splitting collets,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'splitting', 'collets']",0,1
+US357551A,1887-02-08,And deliveet mechanism,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'deliveet', 'mechanism']",0,1
+US358399A,1887-02-22,And sechter,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'sechter']",0,1
+US358841A,1887-03-08,And aaeon shelby,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'aaeon', 'shelby']",0,1
+US359350A,1887-03-15,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['per', 'mutation-lock']",0,1
+US359536A,1887-03-15,And geoege h,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'geoege', 'h']",0,1
+US359812A,1887-03-22,And holding electeio wiees,"['CCONJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,4,"['and', 'holding', 'electeio', 'wiees']",0,1
+US359874A,1887-03-22,And egbert m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'egbert', 'm']",0,1
+US359958A,1887-03-22,And stephen p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'stephen', 'p']",0,1
+US360161A,1887-03-29,And patrick j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'patrick', 'j']",0,1
+US360482A,1887-04-05,And haetley,"['CCONJ', 'NOUN']",['GPE'],0,0,2,"['and', 'haetley']",0,1
+US360718A,1887-04-05,Of one,"['ADP', 'NUM']",['CARDINAL'],0,0,2,"['of', 'one']",0,1
+US360786A,1887-04-05,And egbert h,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,"['and', 'egbert', 'h']",0,1
+US360830A,1887-04-05,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US361402A,1887-04-19,And edgar s,"['CCONJ', 'VERB', 'VERB']",['PERSON'],0,1,3,"['and', 'edgar', 's']",0,1
+US361438A,1887-04-19,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US361680A,1887-04-26,And geokge a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'geokge', 'a']",0,1
+US362002A,1887-04-26,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,"['of', 'one-half', 'to']",0,1
+US362006A,1887-04-26,And feank a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'feank', 'a']",0,1
+US362026A,1887-04-26,To the,"['ADP', 'PRON']",[],0,0,2,"['to', 'the']",0,1
+US362267A,1887-05-03,And partially shaping cigar fillers,"['CCONJ', 'ADV', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,"['and', 'partially', 'shaping', 'cigar', 'fillers']",0,1
+US362560A,1887-05-10,On-the-main,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,['on-the-main'],0,1
+US362667A,1887-05-10,On-the-main,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,['on-the-main'],0,1
+US363577A,1887-05-24,And adolphe decortjs,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'adolphe', 'decortjs']",0,1
+US363625A,1887-05-24,And heney c,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'heney', 'c']",0,1
+US363633A,1887-05-24,For casks,"['ADP', 'NOUN']",[],0,0,2,"['for', 'casks']",0,1
+US364019A,1887-05-31,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US364154A,1887-05-31,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US364729A,1887-06-14,Of one-half,"['ADP', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,"['of', 'one-half']",0,1
+US364962A,1887-06-14,Ob sceew threading eods,"['ADP', 'ADJ', 'NOUN', 'NOUN']",['ORG'],0,0,4,"['ob', 'sceew', 'threading', 'eods']",0,1
+US365186A,1887-06-21,Than barnes,"['ADP', 'NOUN']",[],0,0,2,"['than', 'barnes']",0,1
+US365468A,1887-06-28,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['per', 'mutation-lock']",0,1
+US365796A,1887-07-05,And winding paper,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'winding', 'paper']",0,1
+US365899A,1887-07-05,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US365929A,1887-07-05,And alexander,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'alexander']",0,1
+US366389A,1887-07-12,And recording cash received,"['CCONJ', 'VERB', 'NOUN', 'VERB']",[],0,0,4,"['and', 'recording', 'cash', 'received']",0,1
+US366454A,1887-07-12,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'yoek']",0,1
+US366482A,1887-07-12,And eichaed a,"['CCONJ', 'VERB', 'PRON']",['ORG'],0,0,3,"['and', 'eichaed', 'a']",0,1
+US366634A,1887-07-12,And charles,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'charles']",0,1
+US366684A,1887-07-19,And haeet m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'haeet', 'm']",0,1
+US366746A,1887-07-19,And the sutherland coeeu,"['CCONJ', 'DET', 'NOUN', 'VERB']",[],0,0,4,"['and', 'the', 'sutherland', 'coeeu']",0,1
+US367002A,1887-07-19,And isidore,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'isidore']",0,1
+US368103A,1887-08-09,of gallarate,"['ADP', 'NOUN']",[],0,0,2,"['of', 'gallarate']",0,1
+US368414A,1887-08-16,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['per', 'mutation-lock']",0,1
+US368500A,1887-08-16,And edward m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'edward', 'm']",0,1
+US368512A,1887-08-16,And chaeles,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'chaeles']",0,1
+US369252A,1887-08-30,And bukniseing,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'bukniseing']",0,1
+US370086A,1887-09-20,And geoege j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'geoege', 'j']",0,1
+US370282A,1887-09-20,And tempering metals,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'tempering', 'metals']",0,1
+US370296A,1887-09-20,w weinig,"['ADP', 'NOUN']",[],0,0,2,"['w', 'weinig']",0,1
+US370317A,1887-09-20,And stephen p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'stephen', 'p']",0,1
+US370640A,1887-09-27,of lowell,"['ADP', 'NOUN']",[],0,0,2,"['of', 'lowell']",0,1
+US370781A,1887-10-04,Under-garment,"['ADP', 'PUNCT', 'NOUN']",[],0,0,3,['under-garment'],0,1
+US370891A,1887-10-04,And eleazee,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'eleazee']",0,1
+US371116A,1887-10-04,And charles c,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,"['and', 'charles', 'c']",0,1
+US371181A,1887-10-11,Of beaver palls,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,"['of', 'beaver', 'palls']",0,1
+US371957A,1887-10-25,Wilhblm loeenz,"['ADP', 'NOUN']",[],0,0,2,"['wilhblm', 'loeenz']",0,1
+US372025A,1887-10-25,And hie am a,"['CCONJ', 'INTJ', 'AUX', 'PRON']",[],0,0,4,"['and', 'hie', 'am', 'a']",0,1
+US372156A,1887-10-25,To the laning feinting,"['ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,4,"['to', 'the', 'laning', 'feinting']",0,1
+US372187A,1887-10-25,And distributing- machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'distributing-', 'machine']",0,1
+US372392A,1887-11-01,And ed,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'ed']",0,1
+US372394A,1887-11-01,And the bower city machine com,"['CCONJ', 'DET', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['and', 'the', 'bower', 'city', 'machine', 'com']",0,1
+US372581A,1887-11-01,And ed,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'ed']",0,1
+US372961A,1887-11-08,And frank sickels,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'frank', 'sickels']",0,1
+US373075A,1887-11-15,And cleaning cotton,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'cleaning', 'cotton']",0,1
+US373585A,1887-11-22,And fbank bate,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'fbank', 'bate']",0,1
+US373665A,1887-11-22,Inside blind,"['ADP', 'ADJ']",[],0,0,2,"['inside', 'blind']",0,1
+US374022A,1887-11-29,Of peo,"['ADP', 'NOUN']",[],0,0,2,"['of', 'peo']",0,1
+US374223A,1887-12-06,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,"['of', 'one-half', 'to']",0,1
+US374285A,1887-12-06,And said eichaed d,"['CCONJ', 'VERB', 'VERB', 'NOUN']",['PERSON'],0,1,4,"['and', 'said', 'eichaed', 'd']",0,1
+US374607A,1887-12-13,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US374779A,1887-12-13,And haeey e,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'haeey', 'e']",0,1
+US375440A,1887-12-27,And frank conrick,"['CCONJ', 'ADJ', 'VERB']",['PERSON'],0,1,3,"['and', 'frank', 'conrick']",0,1
+US375848A,1888-01-03,On-the-main,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,['on-the-main'],0,1
+US375878A,1888-01-03,Or other can,"['CCONJ', 'ADJ', 'AUX']",[],0,0,3,"['or', 'other', 'can']",0,1
+US376095A,1888-01-10,Or oscillating filter,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['or', 'oscillating', 'filter']",0,1
+US376457A,1888-01-17,Of pro,"['ADP', 'ADJ']",[],0,0,2,"['of', 'pro']",0,1
+US376641A,1888-01-17,And cutting fabrics,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'cutting', 'fabrics']",0,1
+US377051A,1888-01-31,And noeman m,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'noeman', 'm']",0,1
+US377379A,1888-02-07,girard,['ADP'],[],0,0,2,['girard'],0,1
+US377591A,1888-02-07,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US377788A,1888-02-14,trayee,['ADP'],[],0,0,2,['trayee'],0,1
+US377871A,1888-02-14,And traveler for spinning machines,"['CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,"['and', 'traveler', 'for', 'spinning', 'machines']",0,1
+US378522A,1888-02-28,For sand-paper,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['for', 'sand-paper']",0,1
+US378552A,1888-02-28,Re lay-mag net,"['ADP', 'ADV', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,5,"['re', 'lay-mag', 'net']",0,1
+US378620A,1888-02-28,In vent or,"['ADP', 'NOUN', 'CCONJ']",[],0,0,3,"['in', 'vent', 'or']",0,1
+US378803A,1888-02-28,Wilhblm oesteelein,"['ADP', 'NOUN']",[],0,0,2,"['wilhblm', 'oesteelein']",0,1
+US379136A,1888-03-06,On-trent,"['ADP', 'PUNCT', 'ADJ']",[],0,0,3,['on-trent'],0,1
+US379722A,1888-03-20,And excavating machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'excavating', 'machine']",0,1
+US380274A,1888-03-27,And edwakd hill,"['CCONJ', 'NOUN', 'NOUN']",['FAC'],0,0,3,"['and', 'edwakd', 'hill']",0,1
+US380823A,1888-04-10,And edwabd,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'edwabd']",0,1
+US380830A,1888-04-10,Oscae a,"['ADP', 'PRON']",[],0,0,2,"['oscae', 'a']",0,1
+US381300A,1888-04-17,Of peo,"['ADP', 'NOUN']",[],0,0,2,"['of', 'peo']",0,1
+US381479A,1888-04-17,And edmund l,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'edmund', 'l']",0,1
+US382111A,1888-05-01,Edmund k,"['ADP', 'X']",[],0,0,2,"['edmund', 'k']",0,1
+US382443A,1888-05-08,To the,"['ADP', 'PRON']",[],0,0,2,"['to', 'the']",0,1
+US383562A,1888-05-29,of new yoek,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'yoek']",0,1
+US383686A,1888-05-29,Wilhblm bansen,"['ADP', 'NOUN']",[],0,0,2,"['wilhblm', 'bansen']",0,1
+US383916A,1888-06-05,And levi w,"['CCONJ', 'ADV', 'X']",[],0,0,3,"['and', 'levi', 'w']",0,1
+US383934A,1888-06-05,To the,"['ADP', 'PRON']",[],0,0,2,"['to', 'the']",0,1
+US383953A,1888-06-05,And fbank,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'fbank']",0,1
+US383975A,1888-06-05,And albeet back,"['CCONJ', 'VERB', 'ADP']",[],0,0,3,"['and', 'albeet', 'back']",0,1
+US383990A,1888-06-05,And aaeon,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'aaeon']",0,1
+US384382A,1888-06-12,To the adams,"['ADP', 'DET', 'NOUN']",[],0,0,3,"['to', 'the', 'adams']",0,1
+US384830A,1888-06-19,And ezra t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'ezra', 't']",0,1
+US384868A,1888-06-19,of guatemala,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'guatemala']",0,1
+US384948A,1888-06-19,By mesne,"['ADP', 'NOUN']",[],0,0,2,"['by', 'mesne']",0,1
+US385113A,1888-06-26,of kupfebhammee,"['ADP', 'NOUN']",['ORG'],0,0,2,"['of', 'kupfebhammee']",0,1
+US385385A,1888-07-03,Of electrically welding chains and links,"['ADP', 'ADV', 'VERB', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,"['of', 'electrically', 'welding', 'chains', 'and', 'links']",0,1
+US385413A,1888-07-03,And lighting,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'lighting']",0,1
+US385457A,1888-07-03,Alfoed caeeoll hall,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,"['alfoed', 'caeeoll', 'hall']",0,1
+US385574A,1888-07-03,Of peo,"['ADP', 'NOUN']",[],0,0,2,"['of', 'peo']",0,1
+US385752A,1888-07-10,And geoege w,"['CCONJ', 'NOUN', 'ADP']",[],0,0,3,"['and', 'geoege', 'w']",0,1
+US385781A,1888-07-10,Oscae a,"['ADP', 'PRON']",[],0,0,2,"['oscae', 'a']",0,1
+US385846A,1888-07-10,And prank,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'prank']",0,1
+US385984A,1888-07-10,Of same place,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'same', 'place']",0,1
+US386036A,1888-07-10,And theodore,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'theodore']",0,1
+US386088A,1888-07-10,By electricity,"['ADP', 'NOUN']",[],0,0,2,"['by', 'electricity']",0,1
+US386164A,1888-07-17,Of pro,"['ADP', 'ADJ']",[],0,0,2,"['of', 'pro']",0,1
+US386472A,1888-07-24,For pattern chains of looms,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['for', 'pattern', 'chains', 'of', 'looms']",0,1
+US386628A,1888-07-24,And charles c,"['CCONJ', 'VERB', 'VERB']",[],0,0,3,"['and', 'charles', 'c']",0,1
+US387357A,1888-08-07,And aliseut w,"['CCONJ', 'NOUN', 'ADP']",['PERSON'],0,1,3,"['and', 'aliseut', 'w']",0,1
+US387470A,1888-08-07,w eeden,"['ADP', 'NOUN']",[],0,0,2,"['w', 'eeden']",0,1
+US387789A,1888-08-14,Per mutation-lock,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['per', 'mutation-lock']",0,1
+US387810A,1888-08-14,Of one-half,"['ADP', 'NUM', 'PUNCT', 'NOUN']",['CARDINAL'],0,0,4,"['of', 'one-half']",0,1
+US388042A,1888-08-21,Of johnstown,"['ADP', 'ADJ']",['GPE'],0,0,2,"['of', 'johnstown']",0,1
+US388184A,1888-08-21,Bael a,"['ADP', 'PRON']",[],0,0,2,"['bael', 'a']",0,1
+US388546A,1888-08-28,To the,"['ADP', 'PRON']",[],0,0,2,"['to', 'the']",0,1
+US389426A,1888-09-11,And william- p,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'william-', 'p']",0,1
+US389533A,1888-09-11,For uniting knit fabrics,"['ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,4,"['for', 'uniting', 'knit', 'fabrics']",0,1
+US389647A,1888-09-18,And justus a,"['CCONJ', 'ADP', 'PRON']",[],0,0,3,"['and', 'justus', 'a']",0,1
+US389974A,1888-09-25,And alfred,"['CCONJ', 'ADJ']",[],0,0,2,"['and', 'alfred']",0,1
+US390308A,1888-10-02,And frank h,"['CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,3,"['and', 'frank', 'h']",0,1
+US390434A,1888-10-02,And geoege,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'geoege']",0,1
+US390469A,1888-10-02,And ciiaeles f,"['CCONJ', 'VERB', 'X']",[],0,0,3,"['and', 'ciiaeles', 'f']",0,1
+US390511A,1888-10-02,To building,"['ADP', 'VERB']",[],0,0,2,"['to', 'building']",0,1
+US390955A,1888-10-09,Of one-half to,"['ADP', 'NUM', 'PUNCT', 'NOUN', 'PART']",['CARDINAL'],0,0,5,"['of', 'one-half', 'to']",0,1
+US391082A,1888-10-16,And milton,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'milton']",0,1
+US391169A,1888-10-16,And geoege t,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'geoege', 't']",0,1
+US391270A,1888-10-16,And alfred pfannkuciie,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'alfred', 'pfannkuciie']",0,1
+US391275A,1888-10-16,Of peo,"['ADP', 'NOUN']",[],0,0,2,"['of', 'peo']",0,1
+US391442A,1888-10-23,w welburn,"['ADP', 'NOUN']",[],0,0,2,"['w', 'welburn']",0,1
+US392101A,1888-10-30,Or cleansing tin or terne plates,"['CCONJ', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,6,"['or', 'cleansing', 'tin', 'or', 'terne', 'plates']",0,1
+US392189A,1888-11-06,And elias s,"['CCONJ', 'NOUN', 'PART']",[],0,0,3,"['and', 'elias', 's']",0,1
+US393347A,1888-11-27,And frank leseure,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'frank', 'leseure']",0,1
+US393475A,1888-11-27,And william a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'william', 'a']",0,1
+US393617A,1888-11-27,And victor,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'victor']",0,1
+US393867A,1888-12-04,On glass,"['ADP', 'NOUN']",[],0,0,2,"['on', 'glass']",0,1
+US393952A,1888-12-04,And alvinus b,"['CCONJ', 'NOUN', 'X']",[],0,0,3,"['and', 'alvinus', 'b']",0,1
+US394131A,1888-12-04,Of bostox,"['ADP', 'NOUN']",['ORG'],0,0,2,"['of', 'bostox']",0,1
+US395455A,1889-01-01,And edward petten,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'edward', 'petten']",0,1
+US396051A,1889-01-08,Of flatonia,"['ADP', 'NOUN']",[],0,0,2,"['of', 'flatonia']",0,1
+US396064A,1889-01-15,Inside calipers or gage,"['ADP', 'NOUN', 'CCONJ', 'VERB']",[],0,0,4,"['inside', 'calipers', 'or', 'gage']",0,1
+US396890A,1889-01-29,And eyeleting machine,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'eyeleting', 'machine']",0,1
+US397434A,1889-02-05,For jewelry,"['ADP', 'NOUN']",[],0,0,2,"['for', 'jewelry']",0,1
+US397570A,1889-02-12,Under-arm pad,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['under-arm', 'pad']",0,1
+US397645A,1889-02-12,For railway gabs,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,"['for', 'railway', 'gabs']",0,1
+US398111A,1889-02-19,And frank,"['CCONJ', 'ADJ']",[],0,0,2,"['and', 'frank']",0,1
+US398241A,1889-02-19,of gohlis,"['ADP', 'NOUN']",[],0,0,2,"['of', 'gohlis']",0,1
+US398365A,1889-02-19,To the,"['ADP', 'PRON']",[],0,0,2,"['to', 'the']",0,1
+US398418A,1889-02-26,And the racine hardware manufacturing,"['CCONJ', 'DET', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['and', 'the', 'racine', 'hardware', 'manufacturing']",0,1
+US398577A,1889-02-26,And watson p,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,"['and', 'watson', 'p']",0,1
+US398897A,1889-03-05,And henry g,"['CCONJ', 'VERB', 'NOUN']",['PERSON'],0,1,3,"['and', 'henry', 'g']",0,1
+US398993A,1889-03-05,And planing machine,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'planing', 'machine']",0,1
+US399042A,1889-03-05,And richard a,"['CCONJ', 'VERB', 'PRON']",['PERSON'],0,1,3,"['and', 'richard', 'a']",0,1
+US399303A,1889-03-12,of rochester,"['ADP', 'ADJ']",[],0,0,2,"['of', 'rochester']",0,1
+US399473A,1889-03-12,And measure,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'measure']",0,1
+US399785A,1889-03-19,Of pro,"['ADP', 'ADJ']",[],0,0,2,"['of', 'pro']",0,1

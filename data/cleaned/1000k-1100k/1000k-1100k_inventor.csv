@@ -1,15 +1,14 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len
-US1009475A,1911-11-21,Otto b,"['PROPN', 'X']",['PERSON'],1,1,2
-US1019244A,1912-03-05,Emil gathmann,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1024618A,1912-04-30,Howard,['PROPN'],['PERSON'],1,1,2
-US1025642A,1911-09-09,L.,['PROPN'],['PERSON'],1,1,2
-US1026423A,1912-05-14,frederick andrewsx,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1034213A,1912-07-30,dickinson,['NOUN'],['PERSON'],0,1,1
-US1036376A,1912-08-20,Giuseppe testa,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1041155A,1912-10-15,Carl patfxi,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1041374A,1912-10-15,thompson,['NOUN'],['PERSON'],0,1,1
-US1043889A,1912-11-12,William h,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1045957A,1912-12-03,William dicks,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1048695A,1912-12-31,Aaron c,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US1066569A,1913-07-08,Johm mce,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1073720A,1913-09-23,trewhella,['NOUN'],['PERSON'],0,1,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,is_inventor
+US1019244A,1912-03-05,Emil gathmann,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['emil', 'gathmann']",1
+US1024618A,1912-04-30,Howard,['PROPN'],['PERSON'],1,1,2,['howard'],1
+US1025642A,1911-09-09,L.,['PROPN'],['PERSON'],1,1,2,['l.'],1
+US1026423A,1912-05-14,frederick andrewsx,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['frederick', 'andrewsx']",1
+US1034213A,1912-07-30,dickinson,['NOUN'],['PERSON'],0,1,1,['dickinson'],1
+US1036376A,1912-08-20,Giuseppe testa,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['giuseppe', 'testa']",1
+US1041155A,1912-10-15,Carl patfxi,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['carl', 'patfxi']",1
+US1041374A,1912-10-15,thompson,['NOUN'],['PERSON'],0,1,1,['thompson'],1
+US1043889A,1912-11-12,William h,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['william', 'h']",1
+US1045957A,1912-12-03,William dicks,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['william', 'dicks']",1
+US1048695A,1912-12-31,Aaron c,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['aaron', 'c']",1
+US1066569A,1913-07-08,Johm mce,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['johm', 'mce']",1
+US1073720A,1913-09-23,trewhella,['NOUN'],['PERSON'],0,1,1,['trewhella'],1

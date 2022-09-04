@@ -1,120 +1,122 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US3609578A,1970-03-18,Oscillator having feedback amplitude control and switchable output phase shifter,"['ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'NOUN', 'PROPN']",[],1,0,11,0,1
-US3616509A,1970-02-12,In-line unit carrier loader,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'PROPN']",[],1,0,7,0,1
-US3629095A,1967-06-29,In or relating to vacuum apparatus,"['ADP', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'PROPN']",[],1,0,7,0,1
-US3646601A,1969-10-22,Off-angle balance correction method and apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'PROPN']",[],1,0,9,0,1
-US3655059A,1970-05-14,In-line fuel flow restricting and filter assembly,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'CCONJ', 'NOUN', 'PROPN']",[],1,0,10,0,1
-US3668159A,1970-12-23,In situ process for trans-isomerization and conjugation of resins containing fatty acid esters,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADJ', 'PROPN', 'NOUN']",[],1,0,16,0,1
-US3673430A,1971-08-23,Cos/mos phase comparator for monolithic integration,"['ADP', 'SYM', 'PROPN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],1,0,9,0,1
-US3676759A,1969-09-26,On-off motor control push button switch for photographic apparatus,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'NOUN', 'PROPN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],1,0,12,0,1
-US3682040A,1969-10-08,En bloc fire control group for a pistol,"['ADP', 'PROPN', 'PROPN', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN']",[],1,0,9,0,1
-US3698681A,1970-12-15,On-off clamp for i. v. systems,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'PROPN']",['ORG'],1,0,9,0,1
-US3600698A,1969-01-23,Amplifier provided with automatic level control,"['ADP', 'VERB', 'ADP', 'ADJ', 'NOUN', 'NOUN']",['PERSON'],0,1,7,0,1
-US3601129A,1969-02-18,Pacifier,['ADP'],[],0,0,2,0,1
-US3601193A,1968-04-02,In situ retorting of oil shale,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US3601523A,1970-06-19,Through hole connectors,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US3601983A,1968-11-08,By-pass valves for gas turbines,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3603487A,1969-11-17,In-line sealant dispenser,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3604843A,1969-05-08,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
-US3604912A,1968-08-21,In-line partial derivative multiplier for computer circuits,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'NOUN']",[],0,0,10,0,1
-US3605808A,1969-06-23,In-line externally adjustable flow control and needle valve assembly,"['ADP', 'PUNCT', 'NOUN', 'ADV', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,12,0,1
-US3606041A,1969-07-02,Off-vehicle-mounted door actuating mechanism,"['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'VERB', 'NOUN']",[],0,0,9,0,1
-US3608637A,1969-11-12,In situ combustion production method,"['ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3609203A,1969-10-06,Partamento musical instrument having a single tone and envelope control,"['ADP', 'ADJ', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,11,0,1
-US3612260A,1970-05-20,Over-the-shoulder garment carrier,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3612599A,1969-07-16,Over-the-highway truck cab,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3614700A,1969-04-25,On-the-line distribution cutout switch,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB']",[],0,0,9,0,1
-US3615050A,1970-04-20,After-hour bank depository,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3615235A,1967-10-09,Through-flow reactor,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3616753A,1969-05-22,Out of line fuze mechanism,"['ADP', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3617084A,1969-05-07,And-operated shovel for picking up refuse,"['CCONJ', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'VERB', 'ADP', 'VERB']",[],0,0,9,0,1
-US3617099A,1968-11-12,Antispin device for motor vehicles,"['ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3617300A,1967-12-28,In situ conversion of starch,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
-US3618262A,1970-03-13,By-passing door closer,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADV']",[],0,0,6,0,1
-US3618995A,1970-06-10,Over center rubber hood hook,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3620048A,1968-09-27,Weft supplying device for a warp knitting machine,"['ADP', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN']",['ORG'],0,0,9,0,1
-US3621176A,1970-02-16,Weld reducing method and apparatus,"['ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,0,1
-US3621575A,1970-02-16,In-situ denture and method of formation,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,0,1
-US3622862A,1970-10-22,By-pass connection of static converters,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,8,0,1
-US3623153A,1968-12-26,On-circuit buzzer device with bucking for automobiles coil cancel,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'VERB']",[],0,0,12,0,1
-US3625053A,1970-01-14,On-board aircraft transducer,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3626924A,1969-08-12,Down draft space heater,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3627112A,1970-07-30,In-line vibratory feeder assembly,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US3628002A,1967-11-21,On-machine inspection systems,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3631017A,1969-01-31,After-treating polyethylene in a shearing unit,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3633003A,1970-02-11,Off-leveling computer,"['ADP', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
-US3633093A,1970-07-01,Amplifier overload protection circuit,"['ADP', 'NOUN', 'NOUN', 'NOUN']",['PERSON'],0,1,5,0,1
-US3633673A,1970-06-18,Through-tubing cementing method,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3637013A,1970-03-02,In situ combustion process using time-dependent shear-thinning liquid barrier,"['ADP', 'ADJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'VERB', 'ADJ', 'NOUN']",[],0,0,14,0,1
-US3637018A,1969-12-29,In situ recovery of oil from tar sands using water-external micellar dispersions,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'ADJ', 'ADJ', 'NOUN']",[],0,0,15,0,1
-US3637884A,1970-05-08,Hf alkylation of naphthalene,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,0,1
-US3638026A,1970-06-29,Or photovoltaic device,"['CCONJ', 'VERB', 'NOUN']",[],0,0,4,0,1
-US3640579A,1970-04-28,In situ pressure leaching method,"['ADP', 'ADJ', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,0,1
-US3641397A,1970-04-08,Off-delay solid-state timer systems,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3641451A,1970-02-24,Amplifier protection circuit,"['ADP', 'NOUN', 'NOUN']",['PERSON'],0,1,4,0,1
-US3641901A,1966-11-10,Behind-the-lens leaf shutter mechanism for use with a single-lens reflex camera,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'ADJ', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,18,0,1
-US3644135A,1968-10-18,In-situ carbiding of pyrolyzed composites,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,8,0,1
-US3646397A,1970-04-13,Amplifier protection circuit responsive to temperature and overcurrent,"['ADP', 'NOUN', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",['PERSON'],0,1,9,0,1
-US3648074A,1970-05-04,On-off controller with solid-state differential circuit,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,11,0,1
-US3648431A,1969-05-05,In-line banding apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3648771A,1969-12-29,In situ recovery of oil from tar sands using oil-external micellar dispersions,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'ADJ', 'ADJ', 'NOUN']",[],0,0,15,0,1
-US3649833A,1970-04-16,In situ fluorometer using a synchronous detector,"['ADP', 'ADJ', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN']",[],0,0,8,0,1
-US3650633A,1970-11-30,In-line centrifugal fan,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US3651440A,1969-05-05,Over voltage arrester,"['ADP', 'NOUN', 'ADV']",[],0,0,4,0,1
-US3652184A,1969-05-17,After-guide-blading of an axial compressor,"['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",[],0,0,10,0,1
-US3652701A,1970-05-25,In situ preparation of clathrating solids,"['ADP', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,7,0,1
-US3652866A,1970-09-14,In-phase monitor for determining in-phase condition of two separate alternating current sources,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'VERB', 'ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NUM', 'ADJ', 'VERB', 'ADJ', 'NOUN']",['CARDINAL'],0,0,17,0,1
-US3653267A,1969-05-07,In a hydrostatically supported gyroscope a flexible tube pump providing fluid circulation to hydrostatic bearings of the gyroscope,"['ADP', 'DET', 'ADV', 'VERB', 'NOUN', 'DET', 'ADJ', 'NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN']",[],0,0,19,0,1
-US3653455A,1969-08-01,Off-road vehicle wheel suspension,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US3654639A,1970-09-22,"Above ground pool units with foldable side panel, deck and fence","['ADP', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,13,0,1
-US3654640A,1970-12-24,Above ground swimming pool construction,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3658129A,1970-09-01,In situ gelation of polymers during waterflooding,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'VERB']",[],0,0,8,0,1
-US3658260A,1969-11-19,On-stream ore liberation detection system,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3658415A,1970-09-14,Off axis low volume microform projector,"['ADP', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US3659133A,1969-10-15,In-line type triple electron gun assembly,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3659218A,1969-08-28,Amplifier having improved load protective circuit,"['ADP', 'AUX', 'VERB', 'NOUN', 'ADJ', 'NOUN']",['PERSON'],0,1,7,0,1
-US3660308A,1970-03-12,In situ regeneration and resulfiding of a platinum- and sulfur-containing catalyst in a hydrocarbon conversion plant containing metallic sulfide scale,"['ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'NOUN']",[],0,0,23,0,1
-US3661423A,1970-02-12,In situ process for recovery of carbonaceous materials from subterranean deposits,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,12,0,1
-US3662558A,1969-11-03,In-ground storage arrangement for liquefied gases,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,9,0,1
-US3662828A,1970-09-11,Through tubing well cleanout method using foam,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,8,0,1
-US3664277A,1970-07-31,On-site incinerator,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3664802A,1971-03-11,On-site purification of problem petrolic liquid fuels,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",[],0,0,10,0,1
-US3664922A,1969-12-18,In-service inspection of reactor vessel welds,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'VERB']",[],0,0,9,0,1
-US3665416A,1969-10-09,On-line real time data processing system,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3665524A,1971-03-03,Above-the-ground swimming pool,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3666342A,1970-04-09,Over-center locking device,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3666648A,1969-11-05,In-situ reclamation of master patterns for printing microcircuit images on reversely sensitized material,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'ADV', 'ADJ', 'NOUN']",[],0,0,16,0,1
-US3667539A,1971-05-24,On-off time proportioning summer-winter thermostat and control system employing same,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'VERB', 'ADJ']",['DATE'],0,0,15,0,1
-US3669314A,1970-09-11,Under dash hot and cold drink dispenser,"['ADP', 'NOUN', 'ADJ', 'CCONJ', 'ADJ', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3669876A,1970-12-18,Hf extraction and asphaltene cracking process,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,0,1
-US3669974A,1971-03-25,"N,n1-disubstituted benzamidines","['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,7,0,1
-US3670246A,1970-03-16,Under-voltage monitoring device having time delay means for regulated power supplies,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,14,0,1
-US3670488A,1970-08-28,In-line friction twister and method of twisting,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB']",[],0,0,10,0,1
-US3671939A,1970-10-15,Per-cycle basis frequency signal receiver,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3673804A,1970-02-13,Off-shore fire and pollution control system,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3673809A,1970-02-10,In-line multistage cryogenic apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",[],0,0,7,0,1
-US3673965A,1969-09-08,Over-shot wad for shotshells,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'VERB']",[],0,0,7,0,1
-US3674368A,1970-05-11,Out of contact optical alignment and exposure apparatus,"['ADP', 'ADP', 'NOUN', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3675431A,1970-05-26,Off-shore storage tanks,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3675849A,1970-04-06,In-plant cleaning system,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3678294A,1969-11-11,Amplifier stage circuit for a logarithmic amplifier,"['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'ADJ', 'ADP']",['PERSON'],0,1,8,0,1
-US3678977A,1970-03-18,Over arm carrying bag,"['ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,5,0,1
-US3679372A,1969-04-09,Off-gas burner system,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3679964A,1971-10-04,Over-current detector,"['ADP', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US3680020A,1969-03-31,For the thermostatic regulation of room temperatures,"['ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3680320A,1970-12-11,"Off-shore transportation, industrial and urban complex","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'ADJ', 'CCONJ', 'ADJ', 'ADJ']",[],0,0,10,0,1
-US3681717A,1970-02-24,Hf cable,"['ADP', 'NOUN']",[],0,0,3,0,1
-US3682243A,1968-10-07,Under water wells,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US3686503A,1970-05-18,In-situ assaying for uranium in rock formations,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,10,0,1
-US3688610A,1970-08-13,Over-running clutch driving tool,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,0,1
-US3688870A,1971-08-26,Through-flow aspirator muffler,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3690105A,1971-04-08,After burning device for internal combustion engines,"['ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3692110A,1969-12-31,In situ retorting and hydrogenation of oil shale,"['ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3693562A,1970-10-23,Off-the-arm sewing machine and cutting assembly,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,11,0,1
-US3695256A,1970-11-16,Over-a-door support for cervical traction apparatus,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,11,0,1
-US3695787A,1970-06-04,Through running and pressure pump,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB']",[],0,0,6,0,1
-US3697849A,1970-01-24,On-off servomechanism controlled by a wheatstone bridge,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,10,0,1
-US3697879A,1971-08-31,On-off pulse time control,"['ADP', 'PUNCT', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US3698780A,1969-11-10,Under-cabinet radio,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3699209A,1971-02-26,Hf removal system,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US3699257A,1969-05-08,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts
+US3609578A,1970-03-18,Oscillator having feedback amplitude control and switchable output phase shifter,"['ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'NOUN', 'PROPN']",[],1,0,11,"['oscillator', 'having', 'feedback', 'amplitude', 'control', 'and', 'switchable', 'output', 'phase', 'shifter']",0,1
+US3616509A,1970-02-12,In-line unit carrier loader,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'PROPN']",[],1,0,7,"['in-line', 'unit', 'carrier', 'loader']",0,1
+US3629095A,1967-06-29,In or relating to vacuum apparatus,"['ADP', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'PROPN']",[],1,0,7,"['in', 'or', 'relating', 'to', 'vacuum', 'apparatus']",0,1
+US3646601A,1969-10-22,Off-angle balance correction method and apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'PROPN']",[],1,0,9,"['off-angle', 'balance', 'correction', 'method', 'and', 'apparatus']",0,1
+US3655059A,1970-05-14,In-line fuel flow restricting and filter assembly,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'CCONJ', 'NOUN', 'PROPN']",[],1,0,10,"['in-line', 'fuel', 'flow', 'restricting', 'and', 'filter', 'assembly']",0,1
+US3668159A,1970-12-23,In situ process for trans-isomerization and conjugation of resins containing fatty acid esters,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADJ', 'PROPN', 'NOUN']",[],1,0,16,"['in', 'situ', 'process', 'for', 'trans-isomerization', 'and', 'conjugation', 'of', 'resins', 'containing', 'fatty', 'acid', 'esters']",0,1
+US3673430A,1971-08-23,Cos/mos phase comparator for monolithic integration,"['ADP', 'SYM', 'PROPN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],1,0,9,"['cos/mos', 'phase', 'comparator', 'for', 'monolithic', 'integration']",0,1
+US3676759A,1969-09-26,On-off motor control push button switch for photographic apparatus,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'NOUN', 'PROPN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],1,0,12,"['on-off', 'motor', 'control', 'push', 'button', 'switch', 'for', 'photographic', 'apparatus']",0,1
+US3682040A,1969-10-08,En bloc fire control group for a pistol,"['ADP', 'PROPN', 'PROPN', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN']",[],1,0,9,"['en', 'bloc', 'fire', 'control', 'group', 'for', 'a', 'pistol']",0,1
+US3698681A,1970-12-15,On-off clamp for i. v. systems,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'PROPN']",['ORG'],1,0,9,"['on-off', 'clamp', 'for', 'i.', 'v.', 'systems']",0,1
+US3600698A,1969-01-23,Amplifier provided with automatic level control,"['ADP', 'VERB', 'ADP', 'ADJ', 'NOUN', 'NOUN']",['PERSON'],0,1,7,"['amplifier', 'provided', 'with', 'automatic', 'level', 'control']",0,1
+US3601129A,1969-02-18,Pacifier,['ADP'],[],0,0,2,['pacifier'],0,1
+US3601193A,1968-04-02,In situ retorting of oil shale,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,"['in', 'situ', 'retorting', 'of', 'oil', 'shale']",0,1
+US3601523A,1970-06-19,Through hole connectors,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['through', 'hole', 'connectors']",0,1
+US3601983A,1968-11-08,By-pass valves for gas turbines,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,"['by-pass', 'valves', 'for', 'gas', 'turbines']",0,1
+US3603487A,1969-11-17,In-line sealant dispenser,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['in-line', 'sealant', 'dispenser']",0,1
+US3604843A,1969-05-08,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,"['amplifier', 'circuits']",0,1
+US3604912A,1968-08-21,In-line partial derivative multiplier for computer circuits,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'NOUN']",[],0,0,10,"['in-line', 'partial', 'derivative', 'multiplier', 'for', 'computer', 'circuits']",0,1
+US3605808A,1969-06-23,In-line externally adjustable flow control and needle valve assembly,"['ADP', 'PUNCT', 'NOUN', 'ADV', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,12,"['in-line', 'externally', 'adjustable', 'flow', 'control', 'and', 'needle', 'valve', 'assembly']",0,1
+US3606041A,1969-07-02,Off-vehicle-mounted door actuating mechanism,"['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'VERB', 'NOUN']",[],0,0,9,"['off-vehicle-mounted', 'door', 'actuating', 'mechanism']",0,1
+US3608637A,1969-11-12,In situ combustion production method,"['ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['in', 'situ', 'combustion', 'production', 'method']",0,1
+US3609203A,1969-10-06,Partamento musical instrument having a single tone and envelope control,"['ADP', 'ADJ', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,11,"['partamento', 'musical', 'instrument', 'having', 'a', 'single', 'tone', 'and', 'envelope', 'control']",0,1
+US3612260A,1970-05-20,Over-the-shoulder garment carrier,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['over-the-shoulder', 'garment', 'carrier']",0,1
+US3612599A,1969-07-16,Over-the-highway truck cab,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['over-the-highway', 'truck', 'cab']",0,1
+US3614700A,1969-04-25,On-the-line distribution cutout switch,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB']",[],0,0,9,"['on-the-line', 'distribution', 'cutout', 'switch']",0,1
+US3615050A,1970-04-20,After-hour bank depository,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['after-hour', 'bank', 'depository']",0,1
+US3615235A,1967-10-09,Through-flow reactor,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['through-flow', 'reactor']",0,1
+US3616753A,1969-05-22,Out of line fuze mechanism,"['ADP', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['out', 'of', 'line', 'fuze', 'mechanism']",0,1
+US3617084A,1969-05-07,And-operated shovel for picking up refuse,"['CCONJ', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'VERB', 'ADP', 'VERB']",[],0,0,9,"['and-operated', 'shovel', 'for', 'picking', 'up', 'refuse']",0,1
+US3617099A,1968-11-12,Antispin device for motor vehicles,"['ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['antispin', 'device', 'for', 'motor', 'vehicles']",0,1
+US3617300A,1967-12-28,In situ conversion of starch,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['in', 'situ', 'conversion', 'of', 'starch']",0,1
+US3618262A,1970-03-13,By-passing door closer,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADV']",[],0,0,6,"['by-passing', 'door', 'closer']",0,1
+US3618995A,1970-06-10,Over center rubber hood hook,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['over', 'center', 'rubber', 'hood', 'hook']",0,1
+US3620048A,1968-09-27,Weft supplying device for a warp knitting machine,"['ADP', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN']",['ORG'],0,0,9,"['weft', 'supplying', 'device', 'for', 'a', 'warp', 'knitting', 'machine']",0,1
+US3621176A,1970-02-16,Weld reducing method and apparatus,"['ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,"['weld', 'reducing', 'method', 'and', 'apparatus']",0,1
+US3621575A,1970-02-16,In-situ denture and method of formation,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,"['in-situ', 'denture', 'and', 'method', 'of', 'formation']",0,1
+US3622862A,1970-10-22,By-pass connection of static converters,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,8,"['by-pass', 'connection', 'of', 'static', 'converters']",0,1
+US3623153A,1968-12-26,On-circuit buzzer device with bucking for automobiles coil cancel,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'VERB']",[],0,0,12,"['on-circuit', 'buzzer', 'device', 'with', 'bucking', 'for', 'automobiles', 'coil', 'cancel']",0,1
+US3625053A,1970-01-14,On-board aircraft transducer,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['on-board', 'aircraft', 'transducer']",0,1
+US3626924A,1969-08-12,Down draft space heater,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['down', 'draft', 'space', 'heater']",0,1
+US3627112A,1970-07-30,In-line vibratory feeder assembly,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN']",[],0,0,7,"['in-line', 'vibratory', 'feeder', 'assembly']",0,1
+US3628002A,1967-11-21,On-machine inspection systems,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['on-machine', 'inspection', 'systems']",0,1
+US3631017A,1969-01-31,After-treating polyethylene in a shearing unit,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,9,"['after-treating', 'polyethylene', 'in', 'a', 'shearing', 'unit']",0,1
+US3633003A,1970-02-11,Off-leveling computer,"['ADP', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,"['off-leveling', 'computer']",0,1
+US3633093A,1970-07-01,Amplifier overload protection circuit,"['ADP', 'NOUN', 'NOUN', 'NOUN']",['PERSON'],0,1,5,"['amplifier', 'overload', 'protection', 'circuit']",0,1
+US3633673A,1970-06-18,Through-tubing cementing method,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['through-tubing', 'cementing', 'method']",0,1
+US3637013A,1970-03-02,In situ combustion process using time-dependent shear-thinning liquid barrier,"['ADP', 'ADJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'VERB', 'ADJ', 'NOUN']",[],0,0,14,"['in', 'situ', 'combustion', 'process', 'using', 'time-dependent', 'shear-thinning', 'liquid', 'barrier']",0,1
+US3637018A,1969-12-29,In situ recovery of oil from tar sands using water-external micellar dispersions,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'ADJ', 'ADJ', 'NOUN']",[],0,0,15,"['in', 'situ', 'recovery', 'of', 'oil', 'from', 'tar', 'sands', 'using', 'water-external', 'micellar', 'dispersions']",0,1
+US3637884A,1970-05-08,Hf alkylation of naphthalene,"['ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['hf', 'alkylation', 'of', 'naphthalene']",0,1
+US3638026A,1970-06-29,Or photovoltaic device,"['CCONJ', 'VERB', 'NOUN']",[],0,0,4,"['or', 'photovoltaic', 'device']",0,1
+US3640579A,1970-04-28,In situ pressure leaching method,"['ADP', 'ADJ', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,"['in', 'situ', 'pressure', 'leaching', 'method']",0,1
+US3641397A,1970-04-08,Off-delay solid-state timer systems,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,"['off-delay', 'solid-state', 'timer', 'systems']",0,1
+US3641451A,1970-02-24,Amplifier protection circuit,"['ADP', 'NOUN', 'NOUN']",['PERSON'],0,1,4,"['amplifier', 'protection', 'circuit']",0,1
+US3641901A,1966-11-10,Behind-the-lens leaf shutter mechanism for use with a single-lens reflex camera,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'ADJ', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,18,"['behind-the-lens', 'leaf', 'shutter', 'mechanism', 'for', 'use', 'with', 'a', 'single-lens', 'reflex', 'camera']",0,1
+US3644135A,1968-10-18,In-situ carbiding of pyrolyzed composites,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,8,"['in-situ', 'carbiding', 'of', 'pyrolyzed', 'composites']",0,1
+US3646397A,1970-04-13,Amplifier protection circuit responsive to temperature and overcurrent,"['ADP', 'NOUN', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",['PERSON'],0,1,9,"['amplifier', 'protection', 'circuit', 'responsive', 'to', 'temperature', 'and', 'overcurrent']",0,1
+US3648074A,1970-05-04,On-off controller with solid-state differential circuit,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,11,"['on-off', 'controller', 'with', 'solid-state', 'differential', 'circuit']",0,1
+US3648431A,1969-05-05,In-line banding apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['in-line', 'banding', 'apparatus']",0,1
+US3648771A,1969-12-29,In situ recovery of oil from tar sands using oil-external micellar dispersions,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'ADJ', 'ADJ', 'NOUN']",[],0,0,15,"['in', 'situ', 'recovery', 'of', 'oil', 'from', 'tar', 'sands', 'using', 'oil-external', 'micellar', 'dispersions']",0,1
+US3649833A,1970-04-16,In situ fluorometer using a synchronous detector,"['ADP', 'ADJ', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN']",[],0,0,8,"['in', 'situ', 'fluorometer', 'using', 'a', 'synchronous', 'detector']",0,1
+US3650633A,1970-11-30,In-line centrifugal fan,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,6,"['in-line', 'centrifugal', 'fan']",0,1
+US3651440A,1969-05-05,Over voltage arrester,"['ADP', 'NOUN', 'ADV']",[],0,0,4,"['over', 'voltage', 'arrester']",0,1
+US3652184A,1969-05-17,After-guide-blading of an axial compressor,"['ADP', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN']",[],0,0,10,"['after-guide-blading', 'of', 'an', 'axial', 'compressor']",0,1
+US3652701A,1970-05-25,In situ preparation of clathrating solids,"['ADP', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,7,"['in', 'situ', 'preparation', 'of', 'clathrating', 'solids']",0,1
+US3652866A,1970-09-14,In-phase monitor for determining in-phase condition of two separate alternating current sources,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'VERB', 'ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NUM', 'ADJ', 'VERB', 'ADJ', 'NOUN']",['CARDINAL'],0,0,17,"['in-phase', 'monitor', 'for', 'determining', 'in-phase', 'condition', 'of', 'two', 'separate', 'alternating', 'current', 'sources']",0,1
+US3653267A,1969-05-07,In a hydrostatically supported gyroscope a flexible tube pump providing fluid circulation to hydrostatic bearings of the gyroscope,"['ADP', 'DET', 'ADV', 'VERB', 'NOUN', 'DET', 'ADJ', 'NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN']",[],0,0,19,"['in', 'a', 'hydrostatically', 'supported', 'gyroscope', 'a', 'flexible', 'tube', 'pump', 'providing', 'fluid', 'circulation', 'to', 'hydrostatic', 'bearings', 'of', 'the', 'gyroscope']",0,1
+US3653455A,1969-08-01,Off-road vehicle wheel suspension,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,"['off-road', 'vehicle', 'wheel', 'suspension']",0,1
+US3654639A,1970-09-22,"Above ground pool units with foldable side panel, deck and fence","['ADP', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,13,"['above', 'ground', 'pool', 'units', 'with', 'foldable', 'side', 'panel,', 'deck', 'and', 'fence']",0,1
+US3654640A,1970-12-24,Above ground swimming pool construction,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['above', 'ground', 'swimming', 'pool', 'construction']",0,1
+US3658129A,1970-09-01,In situ gelation of polymers during waterflooding,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'VERB']",[],0,0,8,"['in', 'situ', 'gelation', 'of', 'polymers', 'during', 'waterflooding']",0,1
+US3658260A,1969-11-19,On-stream ore liberation detection system,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['on-stream', 'ore', 'liberation', 'detection', 'system']",0,1
+US3658415A,1970-09-14,Off axis low volume microform projector,"['ADP', 'ADJ', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,"['off', 'axis', 'low', 'volume', 'microform', 'projector']",0,1
+US3659133A,1969-10-15,In-line type triple electron gun assembly,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,"['in-line', 'type', 'triple', 'electron', 'gun', 'assembly']",0,1
+US3659218A,1969-08-28,Amplifier having improved load protective circuit,"['ADP', 'AUX', 'VERB', 'NOUN', 'ADJ', 'NOUN']",['PERSON'],0,1,7,"['amplifier', 'having', 'improved', 'load', 'protective', 'circuit']",0,1
+US3660308A,1970-03-12,In situ regeneration and resulfiding of a platinum- and sulfur-containing catalyst in a hydrocarbon conversion plant containing metallic sulfide scale,"['ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'NOUN']",[],0,0,23,"['in', 'situ', 'regeneration', 'and', 'resulfiding', 'of', 'a', 'platinum-', 'and', 'sulfur-containing', 'catalyst', 'in', 'a', 'hydrocarbon', 'conversion', 'plant', 'containing', 'metallic', 'sulfide', 'scale']",0,1
+US3661423A,1970-02-12,In situ process for recovery of carbonaceous materials from subterranean deposits,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,12,"['in', 'situ', 'process', 'for', 'recovery', 'of', 'carbonaceous', 'materials', 'from', 'subterranean', 'deposits']",0,1
+US3662558A,1969-11-03,In-ground storage arrangement for liquefied gases,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,9,"['in-ground', 'storage', 'arrangement', 'for', 'liquefied', 'gases']",0,1
+US3662828A,1970-09-11,Through tubing well cleanout method using foam,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,8,"['through', 'tubing', 'well', 'cleanout', 'method', 'using', 'foam']",0,1
+US3664277A,1970-07-31,On-site incinerator,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['on-site', 'incinerator']",0,1
+US3664802A,1971-03-11,On-site purification of problem petrolic liquid fuels,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'ADJ', 'NOUN']",[],0,0,10,"['on-site', 'purification', 'of', 'problem', 'petrolic', 'liquid', 'fuels']",0,1
+US3664922A,1969-12-18,In-service inspection of reactor vessel welds,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'VERB']",[],0,0,9,"['in-service', 'inspection', 'of', 'reactor', 'vessel', 'welds']",0,1
+US3665416A,1969-10-09,On-line real time data processing system,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,"['on-line', 'real', 'time', 'data', 'processing', 'system']",0,1
+US3665524A,1971-03-03,Above-the-ground swimming pool,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['above-the-ground', 'swimming', 'pool']",0,1
+US3666342A,1970-04-09,Over-center locking device,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['over-center', 'locking', 'device']",0,1
+US3666648A,1969-11-05,In-situ reclamation of master patterns for printing microcircuit images on reversely sensitized material,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'ADV', 'ADJ', 'NOUN']",[],0,0,16,"['in-situ', 'reclamation', 'of', 'master', 'patterns', 'for', 'printing', 'microcircuit', 'images', 'on', 'reversely', 'sensitized', 'material']",0,1
+US3667539A,1971-05-24,On-off time proportioning summer-winter thermostat and control system employing same,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'VERB', 'ADJ']",['DATE'],0,0,15,"['on-off', 'time', 'proportioning', 'summer-winter', 'thermostat', 'and', 'control', 'system', 'employing', 'same']",0,1
+US3669314A,1970-09-11,Under dash hot and cold drink dispenser,"['ADP', 'NOUN', 'ADJ', 'CCONJ', 'ADJ', 'NOUN', 'NOUN']",[],0,0,8,"['under', 'dash', 'hot', 'and', 'cold', 'drink', 'dispenser']",0,1
+US3669876A,1970-12-18,Hf extraction and asphaltene cracking process,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,"['hf', 'extraction', 'and', 'asphaltene', 'cracking', 'process']",0,1
+US3669974A,1971-03-25,"N,n1-disubstituted benzamidines","['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,7,"['n,n1-disubstituted', 'benzamidines']",0,1
+US3670246A,1970-03-16,Under-voltage monitoring device having time delay means for regulated power supplies,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,14,"['under-voltage', 'monitoring', 'device', 'having', 'time', 'delay', 'means', 'for', 'regulated', 'power', 'supplies']",0,1
+US3670488A,1970-08-28,In-line friction twister and method of twisting,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB']",[],0,0,10,"['in-line', 'friction', 'twister', 'and', 'method', 'of', 'twisting']",0,1
+US3671939A,1970-10-15,Per-cycle basis frequency signal receiver,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['per-cycle', 'basis', 'frequency', 'signal', 'receiver']",0,1
+US3673804A,1970-02-13,Off-shore fire and pollution control system,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,"['off-shore', 'fire', 'and', 'pollution', 'control', 'system']",0,1
+US3673809A,1970-02-10,In-line multistage cryogenic apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",[],0,0,7,"['in-line', 'multistage', 'cryogenic', 'apparatus']",0,1
+US3673965A,1969-09-08,Over-shot wad for shotshells,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'VERB']",[],0,0,7,"['over-shot', 'wad', 'for', 'shotshells']",0,1
+US3674368A,1970-05-11,Out of contact optical alignment and exposure apparatus,"['ADP', 'ADP', 'NOUN', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,9,"['out', 'of', 'contact', 'optical', 'alignment', 'and', 'exposure', 'apparatus']",0,1
+US3675431A,1970-05-26,Off-shore storage tanks,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['off-shore', 'storage', 'tanks']",0,1
+US3675849A,1970-04-06,In-plant cleaning system,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['in-plant', 'cleaning', 'system']",0,1
+US3678294A,1969-11-11,Amplifier stage circuit for a logarithmic amplifier,"['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'ADJ', 'ADP']",['PERSON'],0,1,8,"['amplifier', 'stage', 'circuit', 'for', 'a', 'logarithmic', 'amplifier']",0,1
+US3678977A,1970-03-18,Over arm carrying bag,"['ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,5,"['over', 'arm', 'carrying', 'bag']",0,1
+US3679372A,1969-04-09,Off-gas burner system,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['off-gas', 'burner', 'system']",0,1
+US3679964A,1971-10-04,Over-current detector,"['ADP', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,5,"['over-current', 'detector']",0,1
+US3680020A,1969-03-31,For the thermostatic regulation of room temperatures,"['ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,"['for', 'the', 'thermostatic', 'regulation', 'of', 'room', 'temperatures']",0,1
+US3680320A,1970-12-11,"Off-shore transportation, industrial and urban complex","['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'ADJ', 'CCONJ', 'ADJ', 'ADJ']",[],0,0,10,"['off-shore', 'transportation,', 'industrial', 'and', 'urban', 'complex']",0,1
+US3681717A,1970-02-24,Hf cable,"['ADP', 'NOUN']",[],0,0,3,"['hf', 'cable']",0,1
+US3682243A,1968-10-07,Under water wells,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['under', 'water', 'wells']",0,1
+US3686503A,1970-05-18,In-situ assaying for uranium in rock formations,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,10,"['in-situ', 'assaying', 'for', 'uranium', 'in', 'rock', 'formations']",0,1
+US3688610A,1970-08-13,Over-running clutch driving tool,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,"['over-running', 'clutch', 'driving', 'tool']",0,1
+US3688870A,1971-08-26,Through-flow aspirator muffler,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['through-flow', 'aspirator', 'muffler']",0,1
+US3690105A,1971-04-08,After burning device for internal combustion engines,"['ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,8,"['after', 'burning', 'device', 'for', 'internal', 'combustion', 'engines']",0,1
+US3692110A,1969-12-31,In situ retorting and hydrogenation of oil shale,"['ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,9,"['in', 'situ', 'retorting', 'and', 'hydrogenation', 'of', 'oil', 'shale']",0,1
+US3693562A,1970-10-23,Off-the-arm sewing machine and cutting assembly,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,11,"['off-the-arm', 'sewing', 'machine', 'and', 'cutting', 'assembly']",0,1
+US3695256A,1970-11-16,Over-a-door support for cervical traction apparatus,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,11,"['over-a-door', 'support', 'for', 'cervical', 'traction', 'apparatus']",0,1
+US3695787A,1970-06-04,Through running and pressure pump,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB']",[],0,0,6,"['through', 'running', 'and', 'pressure', 'pump']",0,1
+US3697849A,1970-01-24,On-off servomechanism controlled by a wheatstone bridge,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,10,"['on-off', 'servomechanism', 'controlled', 'by', 'a', 'wheatstone', 'bridge']",0,1
+US3697879A,1971-08-31,On-off pulse time control,"['ADP', 'PUNCT', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,7,"['on-off', 'pulse', 'time', 'control']",0,1
+US3698780A,1969-11-10,Under-cabinet radio,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['under-cabinet', 'radio']",0,1
+US3699209A,1971-02-26,Hf removal system,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['hf', 'removal', 'system']",0,1
+US3699257A,1969-05-08,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,"['amplifier', 'circuits']",0,1
+US3605027A,1969-02-19,Amplifier,['ADP'],['PERSON'],0,1,2,['amplifier'],0,1
+US3631357A,1969-03-10,Amplifier,['ADP'],['PERSON'],0,1,2,['amplifier'],0,1

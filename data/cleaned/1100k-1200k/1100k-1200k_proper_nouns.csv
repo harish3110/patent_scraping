@@ -1,588 +1,637 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len
-US1100135A,1914-06-16,Jamis jay,"['PROPN', 'PROPN']",[],1,0,2
-US1102601A,1914-07-07,Process,['PROPN'],[],1,0,1
-US1105816A,1914-08-04,miller,['PROPN'],['ORG'],1,0,1
-US1105817A,1914-08-04,monte,['PROPN'],[],1,0,1
-US1105821A,1914-08-04,Sdgae h,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1105823A,1914-08-04,Lloyd c,"['PROPN', 'VERB']",[],1,0,2
-US1105824A,1914-08-04,Aoftav,['PROPN'],[],1,0,1
-US1105826A,1914-08-04,norton,['PROPN'],['ORG'],1,0,1
-US1105844A,1914-08-04,Jahbr,['PROPN'],[],1,0,1
-US1105848A,1914-08-04,Projectile,['PROPN'],[],1,0,1
-US1113093A,1914-10-06,bible,['PROPN'],[],1,0,1
-US1114364A,1914-10-20,Hugo junkers,"['PROPN', 'NOUN']",['EVENT'],1,0,2
-US1117608A,1914-11-17,Govebnob fob,"['PROPN', 'ADV']",[],1,0,2
-US1117613A,1914-11-17,Iiaii ul,"['PROPN', 'INTJ']",['GPE'],1,0,2
-US1121337A,1914-12-15,dusha,['PROPN'],[],1,0,1
-US1127576A,1915-02-09,Louis,['PROPN'],[],1,0,1
-US1137674A,1915-04-27,smith,['PROPN'],[],1,0,1
-US1139096A,1913-12-20,Underreamer,['PROPN'],[],1,0,2
-US1144890A,1915-06-29,Sylvania,['PROPN'],['ORG'],1,0,1
-US1149847A,1915-08-10,Marsh,['PROPN'],[],1,0,1
-US1149851A,1915-08-10,Planoaraph,['PROPN'],[],1,0,1
-US1155399A,1915-10-05,Barrette,['PROPN'],[],1,0,2
-US1155999A,1915-10-05,Planooraph co,"['PROPN', 'VERB']",[],1,0,2
-US1157030A,1915-10-19,cetakioka l,"['PROPN', 'NOUN']",[],1,0,2
-US1162868A,1915-12-07,mckay,['PROPN'],[],1,0,1
-US1166236A,1915-12-28,mihelcich,['PROPN'],[],1,0,1
-US1171791A,1915-04-14,Turbine,['PROPN'],[],1,0,2
-US1177751A,1916-04-04,williamson,['PROPN'],[],1,0,1
-US1187996A,1916-06-20,Carbureter,['PROPN'],['ORG'],1,0,1
-US1193003A,1916-08-01,Upper cut,"['PROPN', 'VERB']",[],1,0,2
-US1193010A,1916-08-01,Henby gibbs,"['PROPN', 'VERB']",[],1,0,2
-US1193012A,1916-08-01,goodson,['PROPN'],['ORG'],1,0,1
-US1193017A,1916-08-01,Chusetts,['PROPN'],['NORP'],1,0,1
-US1193033A,1916-08-01,llewellyn,['PROPN'],[],1,0,1
-US1193040A,1916-08-01,Quoit,['PROPN'],['GPE'],1,0,1
-US1193041A,1916-08-01,Chelli,['PROPN'],[],1,0,1
-US1193046A,1916-08-01,Irving i,"['PROPN', 'PRON']",['ORG'],1,0,2
-US1193048A,1916-08-01,Collar,['PROPN'],[],1,0,1
-US1193053A,1916-08-01,Fflachlsfe,['PROPN'],[],1,0,1
-US1193057A,1916-08-01,Apparatus fob,"['PROPN', 'VERB']",[],1,0,2
-US1193071A,1916-08-01,of bristol,"['ADP', 'PROPN']",['ORG'],1,0,2
-US1193076A,1916-08-01,Ltjdwig schon,"['PROPN', 'VERB']",['GPE'],1,0,2
-US1193082A,1916-08-01,Meyer,['PROPN'],[],1,0,1
-US1193093A,1916-08-01,Berger,['PROPN'],[],1,0,1
-US1193095A,1916-08-01,Hubbard c,"['PROPN', 'VERB']",[],1,0,2
-US1193098A,1916-08-01,Xelsoh a,"['PROPN', 'PRON']",[],1,0,2
-US1193116A,1916-08-01,Seatj,['PROPN'],['ORG'],1,0,1
-US1193120A,1916-08-01,Fukmace,['PROPN'],[],1,0,1
-US1193125A,1916-08-01,copley,['PROPN'],[],1,0,1
-US1193131A,1916-08-01,esola,['PROPN'],[],1,0,1
-US1193132A,1916-08-01,Charles e,"['PROPN', 'NOUN']",[],1,0,2
-US1193139A,1916-08-01,harden,['PROPN'],[],1,0,1
-US1193143A,1916-08-01,Appabatus,['PROPN'],[],1,0,1
-US1193152A,1916-08-01,jekkijjs,['PROPN'],['ORG'],1,0,1
-US1193155A,1916-08-01,Gottlieb klenk,"['PROPN', 'VERB']",['ORG'],1,0,2
-US1193161A,1916-08-01,Fornia,['PROPN'],['GPE'],1,0,1
-US1193177A,1916-08-01,morgan,['PROPN'],[],1,0,1
-US1193182A,1916-08-01,Rlchpikdson,['PROPN'],[],1,0,1
-US1193205A,1916-08-01,tichenor,['PROPN'],[],1,0,1
-US1193209A,1916-08-01,Hausen,['PROPN'],['GPE'],1,0,1
-US1193217A,1916-08-01,Charles g,"['PROPN', 'NOUN']",[],1,0,2
-US1193220A,1916-08-01,Festus s,"['PROPN', 'PART']",[],1,0,2
-US1193224A,1916-08-01,Julius begtrup,"['PROPN', 'NOUN']",[],1,0,2
-US1193236A,1916-08-01,Samuel ghinbt,"['PROPN', 'ADV']",[],1,0,2
-US1193245A,1916-08-01,Cobbab jdkessleb,"['PROPN', 'ADV']",['ORG'],1,0,2
-US1193246A,1916-08-01,dronsfield,['PROPN'],[],1,0,1
-US1193250A,1916-08-01,Geosge f,"['PROPN', 'NOUN']",[],1,0,2
-US1193261A,1916-08-01,Johw e,"['PROPN', 'NOUN']",[],1,0,2
-US1193262A,1916-08-01,herbert,['PROPN'],[],1,0,2
-US1193271A,1916-08-01,kuntz,['PROPN'],[],1,0,1
-US1193275A,1916-08-01,Knecht,['PROPN'],['ORG'],1,0,1
-US1193279A,1916-08-01,Louis ltjmiebe,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US1193282A,1916-08-01,mcgee,['PROPN'],['GPE'],1,0,1
-US1193290A,1916-08-01,Luebicatoe,['PROPN'],[],1,0,1
-US1193294A,1916-08-01,Fatiieb,['PROPN'],[],1,0,1
-US1193299A,1916-08-01,Weench attachment,"['PROPN', 'NOUN']",[],1,0,2
-US1193301A,1916-08-01,robinson,['PROPN'],[],1,0,2
-US1193306A,1916-08-01,Jan smoter,"['PROPN', 'NOUN']",[],1,0,2
-US1193313A,1916-08-01,townseno,['PROPN'],[],1,0,1
-US1193314A,1916-08-01,Hgssgs,['PROPN'],['ORG'],1,0,1
-US1193326A,1916-08-01,Lesteb westcott,"['PROPN', 'NOUN']",[],1,0,2
-US1193330A,1916-08-01,Toria,['PROPN'],[],1,0,1
-US1193336A,1916-08-01,Jeeome u,"['PROPN', 'NOUN']",[],1,0,2
-US1193337A,1916-08-01,Thomas j,"['PROPN', 'PROPN']",[],1,0,2
-US1193342A,1916-08-01,Vania,['PROPN'],['GPE'],1,0,1
-US1193343A,1916-08-01,Vania,['PROPN'],['GPE'],1,0,1
-US1193345A,1916-08-01,Vania,['PROPN'],['GPE'],1,0,1
-US1193346A,1916-08-01,Vanla,['PROPN'],[],1,0,1
-US1193353A,1916-08-01,Cooking utensil,"['VERB', 'PROPN']",['GPE'],1,0,2
-US1193358A,1916-08-01,Pbnter,['PROPN'],[],1,0,1
-US1193360A,1916-08-01,Lyscabt cobetwell,"['PROPN', 'VERB']",[],1,0,2
-US1193362A,1916-08-01,District of,"['PROPN', 'ADP']",[],1,0,2
-US1193372A,1916-08-01,Unberreamer,['PROPN'],[],1,0,1
-US1193376A,1916-08-01,Holtz,['PROPN'],[],1,0,1
-US1193379A,1916-08-01,Renewed jan,"['PROPN', 'PROPN']",[],1,0,2
-US1193381A,1916-08-01,gebmany,['PROPN'],[],1,0,1
-US1193385A,1916-08-01,hieatzman,['PROPN'],[],1,0,1
-US1193396A,1916-08-01,Headlight,['PROPN'],[],1,0,1
-US1193398A,1916-08-01,Assigwor,['PROPN'],[],1,0,1
-US1193400A,1916-08-01,laudiero,['PROPN'],[],1,0,1
-US1193401A,1916-08-01,Marie latjenroth,"['PROPN', 'NOUN']",[],1,0,2
-US1193407A,1916-08-01,mitchell,['PROPN'],[],1,0,1
-US1193418A,1916-08-01,Haktna w,"['VERB', 'PROPN']",[],1,0,2
-US1193421A,1916-08-01,Edith x,"['PROPN', 'PUNCT']",[],1,0,2
-US1193425A,1916-08-01,robinson,['PROPN'],[],1,0,2
-US1193426A,1916-08-01,rollinson,['PROPN'],['ORG'],1,0,2
-US1193432A,1916-08-01,Augustus j,"['PROPN', 'PROPN']",[],1,0,2
-US1193436A,1916-08-01,Anchor,['PROPN'],['NORP'],1,0,1
-US1193437A,1916-08-01,of chableston,"['ADP', 'PROPN']",[],1,0,2
-US1193438A,1916-08-01,smith,['PROPN'],[],1,0,1
-US1193444A,1916-08-01,of anaheim,"['ADP', 'PROPN']",['ORG'],1,0,2
-US1193447A,1916-08-01,Chipmtan j,"['PROPN', 'NOUN']",[],1,0,2
-US1193460A,1916-08-01,of cincinnati,"['ADP', 'PROPN']",[],1,0,2
-US1193466A,1916-08-01,Bobebt c,"['PROPN', 'AUX']",[],1,0,2
-US1193475A,1916-08-01,smith,['PROPN'],[],1,0,1
-US1193489A,1916-08-01,welch,['PROPN'],[],1,0,1
-US1193493A,1916-08-01,Walter m,"['PROPN', 'VERB']",[],1,0,2
-US1193508A,1916-08-08,buttrick,['PROPN'],['GPE'],1,0,1
-US1193520A,1916-08-08,crownfield,['PROPN'],[],1,0,1
-US1193532A,1916-08-08,Peter frantz,"['PROPN', 'VERB']",[],1,0,2
-US1193534A,1916-08-08,fbiedman,['PROPN'],[],1,0,2
-US1193537A,1916-08-08,Emile girardeatj,"['PROPN', 'PRON']",[],1,0,2
-US1193547A,1916-08-08,David b,"['PROPN', 'PROPN']",[],1,0,2
-US1193562A,1916-08-08,Hortson,['PROPN'],[],1,0,1
-US1193568A,1916-08-08,Assiawob,['PROPN'],[],1,0,1
-US1193573A,1916-08-08,Johk b,"['PROPN', 'PROPN']",[],1,0,2
-US1193574A,1916-08-08,luellen,['PROPN'],[],1,0,1
-US1193577A,1916-08-08,mcgowan,['PROPN'],[],1,0,1
-US1193587A,1916-08-08,miller,['PROPN'],['ORG'],1,0,1
-US1193589A,1916-08-08,Sebkot itackeb,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1193592A,1916-08-08,Container,['PROPN'],[],1,0,1
-US1193602A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1
-US1193605A,1916-08-08,Bismarck wm,"['PROPN', 'X']",[],1,0,2
-US1193606A,1916-08-08,Klatt,['PROPN'],['ORG'],1,0,1
-US1193608A,1916-08-08,Insole,['PROPN'],['ORG'],1,0,1
-US1193613A,1916-08-08,Feida,['PROPN'],['GPE'],1,0,1
-US1193616A,1916-08-08,Adrian j,"['PROPN', 'NOUN']",['NORP'],1,0,2
-US1193617A,1916-08-08,rosenfeld,['PROPN'],[],1,0,1
-US1193621A,1916-08-08,scott,['PROPN'],[],1,0,1
-US1193632A,1916-08-08,Cooker,['PROPN'],[],1,0,1
-US1193633A,1916-08-08,thomson,['PROPN'],[],1,0,1
-US1193637A,1916-08-08,van inwagen,"['PROPN', 'NOUN']",[],1,0,2
-US1193656A,1916-08-08,yeager,['PROPN'],[],1,0,1
-US1193673A,1916-08-08,Batjve,['PROPN'],[],1,0,1
-US1193680A,1916-08-08,Charles h,"['PROPN', 'NOUN']",[],1,0,2
-US1193687A,1916-08-08,Hiram holden,"['PROPN', 'VERB']",[],1,0,2
-US1193689A,1916-08-08,Of cleveland,"['ADP', 'PROPN']",['GPE'],1,0,2
-US1193692A,1916-08-08,Receptacle,['PROPN'],['PRODUCT'],1,0,1
-US1193693A,1916-08-08,Postal,['PROPN'],[],1,0,1
-US1193700A,1916-08-08,Geobge keith,"['PROPN', 'PROPN']",[],1,0,2
-US1193701A,1916-08-08,kermode,['PROPN'],[],1,0,1
-US1193706A,1916-08-08,Beet j,"['PROPN', 'PROPN']",[],1,0,2
-US1193722A,1916-08-08,siebert,['PROPN'],[],1,0,2
-US1193725A,1916-08-08,smith,['PROPN'],[],1,0,1
-US1193727A,1916-08-08,oe minneapolis,"['INTJ', 'PROPN']",['GPE'],1,0,2
-US1193744A,1916-08-08,Wilkinson,['PROPN'],[],1,0,1
-US1193748A,1916-08-08,Lillian b,"['ADJ', 'PROPN']",['NORP'],1,0,2
-US1193758A,1916-08-08,Adelbeet e,"['PROPN', 'NOUN']",[],1,0,2
-US1193763A,1916-08-08,Hesfflalst clabke,"['PROPN', 'PROPN']",[],1,0,2
-US1193764A,1916-08-08,David conlabt,"['PROPN', 'PROPN']",[],1,0,2
-US1193765A,1916-08-08,Vehicle,['PROPN'],[],1,0,1
-US1193786A,1916-08-08,holliday,['PROPN'],[],1,0,1
-US1193794A,1916-08-08,Adalbert kolb,"['PROPN', 'PROPN']",[],1,0,2
-US1193795A,1916-08-08,Adalbert kolb,"['PROPN', 'PROPN']",[],1,0,2
-US1193805A,1916-08-08,Toy wheel,"['PROPN', 'NOUN']",[],1,0,2
-US1193808A,1916-08-08,Canada,['PROPN'],['GPE'],1,0,1
-US1193812A,1916-08-08,Eoney,['PROPN'],['GPE'],1,0,1
-US1193829A,1916-08-08,Btjdolf schtjle,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US1193834A,1916-08-08,Jesse c,"['PROPN', 'AUX']",[],1,0,2
-US1193836A,1916-08-08,Edwin e,"['PROPN', 'NOUN']",[],1,0,2
-US1193837A,1916-08-08,Oscab a,"['PROPN', 'PRON']",[],1,0,2
-US1193839A,1916-08-08,Lewis p,"['PROPN', 'NOUN']",[],1,0,2
-US1193840A,1916-08-08,stahle,['PROPN'],[],1,0,1
-US1193842A,1916-08-08,stephan,['PROPN'],[],1,0,1
-US1193843A,1916-08-08,Amekictjs e,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1193844A,1916-08-08,Pbeheater,['PROPN'],[],1,0,1
-US1193854A,1916-08-08,Eoldiitg- chair,"['PROPN', 'NOUN']",[],1,0,2
-US1193863A,1916-08-08,braen,['PROPN'],[],1,0,1
-US1193876A,1916-08-08,Bernakd b,"['PROPN', 'NOUN']",[],1,0,2
-US1193880A,1916-08-08,Carbureter,['PROPN'],['ORG'],1,0,1
-US1193882A,1916-08-08,Emil edwin,"['PROPN', 'PROPN']",[],1,0,2
-US1193884A,1916-08-08,Yictor j,"['PROPN', 'NOUN']",[],1,0,2
-US1193885A,1916-08-08,Collar,['PROPN'],[],1,0,1
-US1193887A,1916-08-08,kreebubg,['PROPN'],[],1,0,1
-US1193897A,1916-08-08,holbech,['PROPN'],['ORG'],1,0,1
-US1193909A,1916-08-08,mckechnie,['PROPN'],[],1,0,1
-US1193910A,1916-08-08,mcnutt,['PROPN'],[],1,0,1
-US1193917A,1916-08-08,Henby v,"['PROPN', 'NOUN']",[],1,0,2
-US1193922A,1916-08-08,quinn,['PROPN'],[],1,0,1
-US1193923A,1916-08-08,Chaeles j,"['PROPN', 'NOUN']",[],1,0,2
-US1193928A,1916-08-08,Frederick j,"['PROPN', 'PROPN']",[],1,0,2
-US1193929A,1916-08-08,Frederick j,"['PROPN', 'PROPN']",[],1,0,2
-US1193931A,1916-08-08,schumann,['PROPN'],[],1,0,1
-US1193935A,1916-08-08,Brown,['PROPN'],[],1,0,1
-US1193942A,1916-08-08,Williai j,"['PROPN', 'PROPN']",['GPE'],1,0,2
-US1193966A,1916-08-08,andebsen,['PROPN'],[],1,0,1
-US1193976A,1916-08-08,alvah e,"['PROPN', 'NOUN']",[],1,0,2
-US1193983A,1916-08-08,Istez,['PROPN'],[],1,0,1
-US1193984A,1916-08-08,Hugo bbiukhaus,"['PROPN', 'NOUN']",['EVENT'],1,0,2
-US1193986A,1916-08-08,bungay,['PROPN'],[],1,0,1
-US1193987A,1916-08-08,Scott k,"['PROPN', 'X']",['ORG'],1,0,2
-US1193988A,1916-08-08,Scott k,"['PROPN', 'X']",['ORG'],1,0,2
-US1193997A,1916-08-08,Tello,['PROPN'],[],1,0,1
-US1193999A,1916-08-08,dixon,['PROPN'],[],1,0,1
-US1194001A,1916-08-08,Samuel ehtbikeu,"['PROPN', 'VERB']",[],1,0,2
-US1194004A,1916-08-08,of cleveland,"['ADP', 'PROPN']",['GPE'],1,0,2
-US1194011A,1916-08-08,Dampeb,['PROPN'],[],1,0,1
-US1194024A,1916-08-08,Thomas,['PROPN'],[],1,0,2
-US1194032A,1916-08-08,Jacob b,"['PROPN', 'NOUN']",[],1,0,2
-US1194037A,1916-08-08,kropp,['PROPN'],['ORG'],1,0,1
-US1194038A,1916-08-08,krummel,['PROPN'],[],1,0,1
-US1194039A,1916-08-08,krummel,['PROPN'],[],1,0,1
-US1194042A,1916-08-08,Axel f,"['PROPN', 'X']",['ORG'],1,0,2
-US1194047A,1916-08-08,lyhch,['PROPN'],[],1,0,1
-US1194048A,1916-08-08,Lewis a,"['PROPN', 'PRON']",[],1,0,2
-US1194049A,1916-08-08,Scrapeb,['PROPN'],[],1,0,1
-US1194070A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1
-US1194074A,1916-08-08,Jossph sohcagliohb,"['PROPN', 'VERB']",['ORG'],1,0,2
-US1194082A,1916-08-08,Jacob silbermaw,"['PROPN', 'VERB']",[],1,0,2
-US1194083A,1916-08-08,Philip simpson,"['PROPN', 'NOUN']",[],1,0,2
-US1194084A,1916-08-08,Benjamin ii,"['PROPN', 'PROPN']",[],1,0,2
-US1194086A,1916-08-08,of chicago,"['ADP', 'PROPN']",['GPE'],1,0,2
-US1194102A,1916-08-08,Skate,['PROPN'],[],1,0,1
-US1194103A,1916-08-08,Alfred f,"['PROPN', 'PROPN']",[],1,0,2
-US1194104A,1916-08-08,whalley,['PROPN'],[],1,0,1
-US1194106A,1916-08-08,white,['PROPN'],[],1,0,2
-US1194125A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1
-US1194130A,1916-08-08,briot,['PROPN'],[],1,0,1
-US1194137A,1916-08-08,Uiktetee sta,"['PROPN', 'NOUN']",[],1,0,2
-US1194144A,1916-08-08,Moses g,"['PROPN', 'NOUN']",[],1,0,2
-US1194146A,1916-08-08,Stttffiitckbox,['PROPN'],[],1,0,1
-US1194155A,1916-08-08,Vania,['PROPN'],['GPE'],1,0,1
-US1194160A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1
-US1194164A,1916-08-08,Erank e,"['PROPN', 'NOUN']",[],1,0,2
-US1194176A,1916-08-08,healy,['PROPN'],['GPE'],1,0,1
-US1194178A,1916-08-08,hebwig,['PROPN'],[],1,0,1
-US1194184A,1916-08-08,Ijktteb sta,"['PROPN', 'NOUN']",[],1,0,2
-US1194193A,1916-08-08,Philip ix,"['PROPN', 'ADV']",[],1,0,2
-US1194195A,1916-08-08,Vania,['PROPN'],['GPE'],1,0,1
-US1194196A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1
-US1194202A,1916-08-08,ivucgahan,['PROPN'],[],1,0,1
-US1194206A,1916-08-08,Wendyl medlock,"['PROPN', 'NOUN']",[],1,0,2
-US1194211A,1916-08-08,Vania,['PROPN'],['GPE'],1,0,1
-US1194216A,1916-08-08,Amelia morse,"['PROPN', 'VERB']",['ORG'],1,0,2
-US1194234A,1916-08-08,Alfred m,"['PROPN', 'VERB']",[],1,0,2
-US1194235A,1916-08-08,Gambrel,['PROPN'],[],1,0,1
-US1194249A,1916-08-08,smith,['PROPN'],[],1,0,1
-US1194260A,1916-08-08,Fktyit- gatherer,"['PROPN', 'NOUN']",[],1,0,2
-US1194263A,1916-08-08,Hews hsst,"['PROPN', 'NOUN']",[],1,0,2
-US1194266A,1916-08-08,alvord,['PROPN'],[],1,0,1
-US1194270A,1916-08-08,blake,['PROPN'],[],1,0,1
-US1194281A,1916-08-08,Samuel e,"['PROPN', 'NOUN']",[],1,0,2
-US1194291A,1916-08-08,Cooking utensil,"['VERB', 'PROPN']",['GPE'],1,0,2
-US1194292A,1916-08-08,Hottser,['PROPN'],[],1,0,1
-US1194293A,1916-08-08,Howard r,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194297A,1916-08-08,Cakbtjbetek,['PROPN'],[],1,0,1
-US1194306A,1916-08-08,Ginia,['PROPN'],['GPE'],1,0,1
-US1194307A,1916-08-08,Ginia,['PROPN'],['GPE'],1,0,1
-US1194309A,1916-08-08,George c,"['PROPN', 'AUX']",[],1,0,2
-US1194313A,1916-08-08,payne,['PROPN'],[],1,0,1
-US1194318A,1916-08-08,Nutcracker,['PROPN'],['ORG'],1,0,1
-US1194333A,1916-08-08,los angeles,"['PROPN', 'PROPN']",['GPE'],1,0,2
-US1194338A,1916-08-08,mahon,['PROPN'],[],1,0,1
-US1194350A,1916-08-15,Asszotor,['PROPN'],[],1,0,1
-US1194352A,1916-08-15,bradley,['PROPN'],[],1,0,1
-US1194355A,1916-08-15,Grout mixer,"['PROPN', 'NOUN']",[],1,0,2
-US1194358A,1916-08-15,Vania,['PROPN'],['GPE'],1,0,1
-US1194372A,1916-08-15,eischeb,['PROPN'],[],1,0,1
-US1194373A,1916-08-15,Forge,['PROPN'],[],1,0,1
-US1194384A,1916-08-15,Crutch,['PROPN'],[],1,0,1
-US1194390A,1916-08-15,Mouhtihg fob,"['PROPN', 'VERB']",[],1,0,2
-US1194391A,1916-08-15,Earldley c,"['PROPN', 'AUX']",[],1,0,2
-US1194392A,1916-08-15,Collendeb,['PROPN'],[],1,0,1
-US1194393A,1916-08-15,Morton l,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194394A,1916-08-15,l keyes,"['PROPN', 'NOUN']",[],1,0,2
-US1194397A,1916-08-15,l langenheim,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194408A,1916-08-15,Richabd b,"['PROPN', 'PROPN']",[],1,0,2
-US1194414A,1916-08-15,olson,['PROPN'],[],1,0,1
-US1194417A,1916-08-15,Valteb,['PROPN'],[],1,0,2
-US1194420A,1916-08-15,petermann,['PROPN'],[],1,0,1
-US1194433A,1916-08-15,Samuel,['PROPN'],[],1,0,2
-US1194434A,1916-08-15,James g,"['PROPN', 'PROPN']",[],1,0,2
-US1194450A,1916-08-15,Ferdinand wesel,"['PROPN', 'NOUN']",[],1,0,2
-US1194454A,1916-08-15,Carbureter,['PROPN'],['ORG'],1,0,1
-US1194457A,1916-08-15,willis,['PROPN'],[],1,0,1
-US1194459A,1916-08-15,Shank b,"['PROPN', 'X']",['ORG'],1,0,2
-US1194463A,1916-08-15,bache,['PROPN'],[],1,0,1
-US1194465A,1916-08-15,Harry p,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194466A,1916-08-15,Joseph bebg,"['PROPN', 'PROPN']",[],1,0,2
-US1194508A,1916-08-15,Assigwob,['PROPN'],[],1,0,1
-US1194515A,1916-08-15,Oscar l,"['PROPN', 'PROPN']",['ORG'],1,0,2
-US1194516A,1916-08-15,Gscae,['PROPN'],[],1,0,1
-US1194520A,1916-08-15,l lewis,"['PROPN', 'NOUN']",[],1,0,2
-US1194526A,1916-08-15,Claude l,"['PROPN', 'PROPN']",['ORG'],1,0,2
-US1194530A,1916-08-15,Carbureter,['PROPN'],['ORG'],1,0,1
-US1194531A,1916-08-15,oe boston,"['PROPN', 'PROPN']",['GPE'],1,0,2
-US1194533A,1916-08-15,Cohsad e,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194545A,1916-08-15,Horace w,"['PROPN', 'PROPN']",[],1,0,2
-US1194550A,1916-08-15,Alois schopper,"['PROPN', 'NOUN']",[],1,0,2
-US1194561A,1916-08-15,Giovanni sfica,"['PROPN', 'VERB']",['NORP'],1,0,2
-US1194562A,1916-08-15,spi ess,"['PROPN', 'INTJ']",[],1,0,2
-US1194567A,1916-08-15,Peter stoltz,"['PROPN', 'PROPN']",[],1,0,2
-US1194575A,1916-08-15,Cleveland,['PROPN'],['GPE'],1,0,1
-US1194581A,1916-08-15,Lewis e,"['PROPN', 'NOUN']",[],1,0,2
-US1194582A,1916-08-15,Lewis e,"['PROPN', 'NOUN']",[],1,0,2
-US1194590A,1916-08-15,Wilson r,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194592A,1916-08-15,Nutcracker,['PROPN'],['ORG'],1,0,1
-US1194594A,1916-08-15,briggs,['PROPN'],[],1,0,1
-US1194600A,1916-08-15,Signal box,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194606A,1916-08-15,Elektrisk kvaelstofaktieselskab,"['PROPN', 'PROPN']",[],1,0,2
-US1194617A,1916-08-15,Necticut,['PROPN'],[],1,0,1
-US1194623A,1916-08-15,hanrahan,['PROPN'],[],1,0,1
-US1194629A,1916-08-15,Charles h,"['PROPN', 'NOUN']",[],1,0,2
-US1194631A,1916-08-15,Arthur j,"['PROPN', 'PROPN']",['ORG'],1,0,2
-US1194635A,1916-08-15,johnsoh,['PROPN'],[],1,0,1
-US1194638A,1916-08-15,atent ofeic,"['PROPN', 'VERB']",[],1,0,2
-US1194641A,1916-08-15,Vania,['PROPN'],['GPE'],1,0,1
-US1194643A,1916-08-15,Gendobf,['PROPN'],[],1,0,1
-US1194645A,1916-08-15,lincoln,['PROPN'],['ORG'],1,0,1
-US1194646A,1916-08-15,linden,['PROPN'],[],1,0,1
-US1194647A,1916-08-15,lipsius,['PROPN'],[],1,0,1
-US1194648A,1916-08-15,Fbancis e,"['PROPN', 'NOUN']",[],1,0,2
-US1194650A,1916-08-15,Guy mckay,"['PROPN', 'NOUN']",[],1,0,2
-US1194667A,1916-08-15,Morris rosenthal,"['PROPN', 'VERB']",[],1,0,2
-US1194673A,1916-08-15,Assiotok,['PROPN'],['GPE'],1,0,1
-US1194685A,1916-08-15,Edwin walker,"['PROPN', 'NOUN']",[],1,0,2
-US1194709A,1916-08-15,Ndbris pelebs,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194718A,1916-08-15,crist,['PROPN'],[],1,0,2
-US1194721A,1916-08-15,dabeah,['PROPN'],[],1,0,1
-US1194730A,1916-08-15,glover,['PROPN'],[],1,0,2
-US1194738A,1916-08-15,Benjamin holt,"['PROPN', 'VERB']",[],1,0,2
-US1194755A,1916-08-15,Alfred j,"['PROPN', 'PROPN']",[],1,0,2
-US1194760A,1916-08-15,Gabbiel mabtiktez,"['PROPN', 'NOUN']",[],1,0,2
-US1194767A,1916-08-15,Daniel c,"['PROPN', 'VERB']",[],1,0,2
-US1194776A,1916-08-15,oldfield,['PROPN'],[],1,0,1
-US1194778A,1916-08-15,paquil,['PROPN'],['ORG'],1,0,1
-US1194791A,1916-08-15,stimpson,['PROPN'],[],1,0,1
-US1194807A,1916-08-15,of birmingham,"['ADP', 'PROPN']",[],1,0,2
-US1194811A,1916-08-15,billin gs,"['PROPN', 'PROPN']",['GPE'],1,0,2
-US1194814A,1916-08-15,Thomas j,"['PROPN', 'PROPN']",[],1,0,2
-US1194816A,1916-08-15,Mabio camagki,"['PROPN', 'VERB']",['GPE'],1,0,2
-US1194819A,1916-08-15,Charles a,"['PROPN', 'PRON']",[],1,0,2
-US1194824A,1916-08-15,Ethaw i,"['PROPN', 'PRON']",[],1,0,2
-US1194829A,1916-08-15,Thomas j,"['PROPN', 'PROPN']",[],1,0,2
-US1194831A,1916-08-15,fisher,['PROPN'],[],1,0,1
-US1194832A,1916-08-15,Canada,['PROPN'],['GPE'],1,0,1
-US1194836A,1916-08-15,Otto c,"['PROPN', 'AUX']",[],1,0,2
-US1194839A,1916-08-15,Akthub heinemann,"['PROPN', 'PROPN']",['ORG'],1,0,2
-US1194841A,1916-08-15,Paul e,"['PROPN', 'NOUN']",[],1,0,2
-US1194843A,1916-08-15,Jacob a,"['PROPN', 'PRON']",[],1,0,2
-US1194844A,1916-08-15,kalinowska,['PROPN'],['ORG'],1,0,1
-US1194849A,1916-08-15,Appabatus fob,"['PROPN', 'ADV']",[],1,0,2
-US1194867A,1916-08-15,Jacob e,"['PROPN', 'NOUN']",[],1,0,2
-US1194882A,1916-08-15,Joseph sachs,"['PROPN', 'VERB']",[],1,0,2
-US1194886A,1916-08-15,simon,['PROPN'],[],1,0,1
-US1194889A,1916-08-15,sperry,['PROPN'],['ORG'],1,0,1
-US1194891A,1916-08-15,Winton l,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194892A,1916-08-15,Winton l,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1194893A,1916-08-15,Derrick,['PROPN'],[],1,0,1
-US1194907A,1916-08-15,Charles h,"['PROPN', 'NOUN']",[],1,0,2
-US1194924A,1916-08-15,Shovel,['PROPN'],[],1,0,1
-US1194932A,1916-08-15,baker,['PROPN'],[],1,0,1
-US1194939A,1916-08-15,bishop,['PROPN'],[],1,0,1
-US1194941A,1916-08-15,bosco,['PROPN'],[],1,0,1
-US1194942A,1916-08-15,Agricultueal implement,"['PROPN', 'VERB']",[],1,0,2
-US1194946A,1916-08-15,K buchanan,"['PROPN', 'PROPN']",[],1,0,2
-US1194951A,1916-08-15,buetis,['PROPN'],[],1,0,1
-US1194955A,1916-08-15,cashmore,['PROPN'],[],1,0,1
-US1194957A,1916-08-15,Insulator,['PROPN'],[],1,0,1
-US1194978A,1916-08-15,Charles p,"['PROPN', 'NOUN']",[],1,0,2
-US1194986A,1916-08-15,Daniel t,"['PROPN', 'NOUN']",[],1,0,2
-US1194994A,1916-08-15,gramm,['PROPN'],[],1,0,1
-US1195006A,1916-08-15,hanson,['PROPN'],[],1,0,1
-US1195010A,1916-08-15,Toria,['PROPN'],[],1,0,1
-US1195011A,1916-08-15,healy,['PROPN'],['GPE'],1,0,1
-US1195015A,1916-08-15,Steel debkick,"['PROPN', 'PROPN']",[],1,0,2
-US1195017A,1916-08-15,Tatuttq t,"['PROPN', 'NOUN']",[],1,0,2
-US1195054A,1916-08-15,mcleod,['PROPN'],[],1,0,1
-US1195061A,1916-08-15,Bobebt e,"['PROPN', 'NOUN']",[],1,0,2
-US1195066A,1916-08-15,Traction whxel,"['PROPN', 'VERB']",[],1,0,2
-US1195074A,1916-08-15,Tjlrich ohlsen,"['PROPN', 'VERB']",[],1,0,2
-US1195077A,1916-08-15,Rhythmometeb,['PROPN'],[],1,0,1
-US1195088A,1916-08-15,reese,['PROPN'],['NORP'],1,0,1
-US1195091A,1916-08-15,Effie s,"['PROPN', 'PART']",['ORG'],1,0,2
-US1195092A,1916-08-15,Morris rosenwasser,"['PROPN', 'NOUN']",[],1,0,2
-US1195100A,1916-08-15,Anchor,['PROPN'],['NORP'],1,0,1
-US1195103A,1916-08-15,Jesse g,"['PROPN', 'NOUN']",[],1,0,2
-US1195115A,1916-08-15,smith,['PROPN'],[],1,0,1
-US1195119A,1916-08-15,Vania,['PROPN'],['GPE'],1,0,1
-US1195125A,1916-08-15,Ebwest winne,"['PROPN', 'PROPN']",[],1,0,2
-US1195132A,1916-08-15,of stockholm,"['ADP', 'PROPN']",['GPE'],1,0,2
-US1195133A,1916-08-15,stockholm,['PROPN'],['GPE'],1,0,1
-US1195142A,1916-08-15,kleckler,['PROPN'],[],1,0,1
-US1195145A,1916-08-15,Tijvglt,['PROPN'],[],1,0,1
-US1195157A,1916-08-15,Philip a,"['PROPN', 'PRON']",[],1,0,2
-US1195159A,1916-08-15,london,['PROPN'],['GPE'],1,0,1
-US1195160A,1916-08-15,london,['PROPN'],['GPE'],1,0,1
-US1195169A,1916-08-22,Masvin e,"['PROPN', 'NOUN']",[],1,0,2
-US1195177A,1916-08-22,Geron,['PROPN'],[],1,0,1
-US1195180A,1916-08-22,Vehicle sigkai,"['PROPN', 'VERB']",[],1,0,2
-US1195190A,1916-08-22,Duster,['PROPN'],[],1,0,1
-US1195194A,1916-08-22,Geobge h,"['PROPN', 'VERB']",[],1,0,2
-US1195196A,1916-08-22,Enstein,['PROPN'],['ORG'],1,0,1
-US1195201A,1916-08-22,garrett,['PROPN'],[],1,0,1
-US1195202A,1916-08-22,Orlando miller,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US1195203A,1916-08-22,gillett,['PROPN'],[],1,0,1
-US1195206A,1916-08-22,goodspeed,['PROPN'],[],1,0,1
-US1195213A,1916-08-22,hall wood,"['PROPN', 'NOUN']",[],1,0,2
-US1195214A,1916-08-22,Oscar d,"['PROPN', 'PROPN']",[],1,0,2
-US1195217A,1916-08-22,Ellswoeth a,"['PROPN', 'PRON']",[],1,0,2
-US1195221A,1916-08-22,Method,['PROPN'],[],1,0,2
-US1195232A,1916-08-22,Dayton,['PROPN'],['ORG'],1,0,1
-US1195234A,1916-08-22,kramer,['PROPN'],[],1,0,1
-US1195244A,1916-08-22,Nathan lidzbabsky,"['PROPN', 'PROPN']",[],1,0,2
-US1195255A,1916-08-22,wewtoh,['PROPN'],[],1,0,1
-US1195263A,1916-08-22,Vania,['PROPN'],['GPE'],1,0,1
-US1195268A,1916-08-22,Charles c,"['PROPN', 'VERB']",[],1,0,2
-US1195273A,1916-08-22,Kinkted statei,"['PROPN', 'NOUN']",[],1,0,2
-US1195275A,1916-08-22,schmidt,['PROPN'],[],1,0,1
-US1195283A,1916-08-22,Teanspoet,['PROPN'],[],1,0,1
-US1195295A,1916-08-22,turner,['PROPN'],[],1,0,1
-US1195299A,1916-08-22,wachtek,['PROPN'],[],1,0,1
-US1195305A,1916-08-22,Pfstoh constkttctioet,"['PROPN', 'VERB']",[],1,0,2
-US1195309A,1916-08-22,Filing- cabinet,"['PROPN', 'NOUN']",[],1,0,2
-US1195310A,1916-08-22,white,['PROPN'],[],1,0,2
-US1195311A,1916-08-22,Johw f,"['PROPN', 'PROPN']",[],1,0,2
-US1195319A,1916-08-22,Carrier,['PROPN'],[],1,0,1
-US1195323A,1916-08-22,allan,['PROPN'],[],1,0,1
-US1195328A,1916-08-22,Maiee,['PROPN'],[],1,0,1
-US1195331A,1916-08-22,blake,['PROPN'],[],1,0,1
-US1195332A,1916-08-22,Conveyeb fob,"['PROPN', 'VERB']",[],1,0,2
-US1195345A,1916-08-22,ferney,['PROPN'],[],1,0,1
-US1195346A,1916-08-22,ferney,['PROPN'],[],1,0,1
-US1195351A,1916-08-22,Geobge glatjdel,"['PROPN', 'VERB']",[],1,0,2
-US1195356A,1916-08-22,Duster,['PROPN'],[],1,0,1
-US1195360A,1916-08-22,renewed jan,"['VERB', 'PROPN']",[],1,0,2
-US1195361A,1916-08-22,Headlight,['PROPN'],[],1,0,1
-US1195370A,1916-08-22,larsen,['PROPN'],[],1,0,1
-US1195384A,1916-08-22,mottlau,['PROPN'],[],1,0,1
-US1195388A,1916-08-22,Tbiple valve,"['PROPN', 'VERB']",[],1,0,2
-US1195390A,1916-08-22,newmann,['PROPN'],[],1,0,1
-US1195392A,1916-08-22,Walter e,"['PROPN', 'NOUN']",[],1,0,2
-US1195395A,1916-08-22,preston,['PROPN'],[],1,0,1
-US1195403A,1916-08-22,sfrhaap,['PROPN'],[],1,0,1
-US1195412A,1916-08-22,stimson,['PROPN'],[],1,0,1
-US1195421A,1916-08-22,Geokgb d,"['PROPN', 'PROPN']",[],1,0,2
-US1195422A,1916-08-22,van note,"['PROPN', 'NOUN']",[],1,0,2
-US1195423A,1916-08-22,Wedge,['PROPN'],[],1,0,1
-US1195424A,1916-08-22,Vania,['PROPN'],['GPE'],1,0,1
-US1195425A,1916-08-22,Vania,['PROPN'],['GPE'],1,0,1
-US1195434A,1916-08-22,bason,['PROPN'],[],1,0,1
-US1195458A,1916-08-22,Currycomb,['PROPN'],[],1,0,1
-US1195459A,1916-08-22,Fedekico giolitti,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US1195460A,1916-08-22,Jacob e,"['PROPN', 'NOUN']",[],1,0,2
-US1195474A,1916-08-22,of detroit,"['ADP', 'PROPN']",['GPE'],1,0,2
-US1195476A,1916-08-22,juarez,['PROPN'],[],1,0,1
-US1195479A,1916-08-22,Feeder fob,"['PROPN', 'VERB']",[],1,0,2
-US1195485A,1916-08-22,Charles v,"['PROPN', 'NOUN']",[],1,0,2
-US1195487A,1916-08-22,Guste maignen,"['PROPN', 'NOUN']",[],1,0,2
-US1195490A,1916-08-22,Joseph a,"['PROPN', 'PRON']",[],1,0,2
-US1195491A,1916-08-22,Sidney mason,"['PROPN', 'PROPN']",[],1,0,2
-US1195493A,1916-08-22,Geobge a,"['PROPN', 'PRON']",[],1,0,2
-US1195503A,1916-08-22,Bcesge assigmtkents,"['PROPN', 'NOUN']",[],1,0,2
-US1195506A,1916-08-22,sanborn,['PROPN'],[],1,0,2
-US1195507A,1916-08-22,Cooker,['PROPN'],[],1,0,1
-US1195513A,1916-08-22,Hokace a,"['PROPN', 'PRON']",['ORG'],1,0,2
-US1195515A,1916-08-22,Bottlingrmachiste,['PROPN'],[],1,0,1
-US1195518A,1916-08-22,Sylvania,['PROPN'],['ORG'],1,0,1
-US1195529A,1916-08-22,street,['PROPN'],[],1,0,2
-US1195530A,1916-08-22,street,['PROPN'],[],1,0,2
-US1195536A,1916-08-22,Fobnia,['PROPN'],['GPE'],1,0,1
-US1195538A,1916-08-22,Darius t,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1195540A,1916-08-22,warner,['PROPN'],['ORG'],1,0,1
-US1195543A,1916-08-22,wicker,['PROPN'],[],1,0,1
-US1195551A,1916-08-22,Nister,['PROPN'],[],1,0,1
-US1195552A,1916-08-22,Islazjd,['PROPN'],[],1,0,1
-US1195554A,1916-08-22,buurdinx,['PROPN'],[],1,0,1
-US1195567A,1916-08-22,draughon,['PROPN'],[],1,0,1
-US1195570A,1916-08-22,Alva j,"['PROPN', 'NOUN']",[],1,0,2
-US1195579A,1916-08-22,Gardner b,"['NOUN', 'PROPN']",[],1,0,2
-US1195605A,1916-08-22,Tameis powfeb,"['PROPN', 'NOUN']",[],1,0,2
-US1195606A,1916-08-22,Odddddddddc,['PROPN'],[],1,0,1
-US1195612A,1916-08-22,August schrader,"['PROPN', 'NOUN']",['DATE'],1,0,2
-US1195613A,1916-08-22,Samuel segal,"['PROPN', 'NOUN']",[],1,0,2
-US1195618A,1916-08-22,Charles smallwood,"['PROPN', 'NOUN']",[],1,0,2
-US1195624A,1916-08-22,Psopelleb,['PROPN'],[],1,0,1
-US1195638A,1916-08-22,Ztjleime b,"['PROPN', 'NOUN']",[],1,0,2
-US1195644A,1916-08-22,beard,['PROPN'],[],1,0,1
-US1195660A,1916-08-22,Rheostat,['PROPN'],[],1,0,1
-US1195664A,1916-08-22,Buckle,['PROPN'],[],1,0,1
-US1195677A,1916-08-22,Aiibbecht heil,"['PROPN', 'NOUN']",[],1,0,2
-US1195694A,1916-08-22,lewis,['PROPN'],[],1,0,1
-US1195695A,1916-08-22,lewis,['PROPN'],[],1,0,1
-US1195699A,1916-08-22,Tetjck,['PROPN'],['GPE'],1,0,1
-US1195708A,1916-08-22,Rison,['PROPN'],[],1,0,1
-US1195715A,1916-08-22,Eabl f,"['PROPN', 'PROPN']",[],1,0,2
-US1195718A,1916-08-22,pembroke,['PROPN'],[],1,0,1
-US1195720A,1916-08-22,Leon pilaski,"['PROPN', 'VERB']",[],1,0,2
-US1195723A,1916-01-22,pratt,['PROPN'],[],1,0,1
-US1195737A,1916-08-22,Apparatus for,"['PROPN', 'ADP']",[],1,0,2
-US1195745A,1916-08-22,Benjamin snydeb,"['PROPN', 'VERB']",[],1,0,2
-US1195750A,1916-08-22,Reuben n,"['PROPN', 'ADV']",['NORP'],1,0,2
-US1195752A,1916-08-22,Nandez vega,"['PROPN', 'PROPN']",[],1,0,2
-US1195764A,1916-08-22,of paris,"['ADP', 'PROPN']",['GPE'],1,0,2
-US1195767A,1916-08-22,berger,['PROPN'],[],1,0,1
-US1195769A,1916-08-22,betts,['PROPN'],[],1,0,1
-US1195778A,1916-08-22,Chusetts,['PROPN'],['NORP'],1,0,1
-US1195784A,1916-08-22,Edgae l,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1195789A,1916-08-22,Alexandee dombrowsky,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1195791A,1916-08-22,Leahdeb ditncajst,"['PROPN', 'ADV']",[],1,0,2
-US1195798A,1916-08-22,ennis,['PROPN'],[],1,0,1
-US1195800A,1916-08-22,fisher,['PROPN'],[],1,0,1
-US1195808A,1916-08-22,Mato gbgich,"['PROPN', 'PROPN']",[],1,0,2
-US1195815A,1916-08-22,hightoweb,['PROPN'],[],1,0,1
-US1195825A,1916-08-22,Moccasijj,['PROPN'],['NORP'],1,0,1
-US1195829A,1916-08-22,mcdermott,['PROPN'],[],1,0,1
-US1195836A,1916-08-22,Goheky,['PROPN'],['ORG'],1,0,1
-US1195838A,1916-08-22,Grain- valve,"['PROPN', 'VERB']",[],1,0,2
-US1195843A,1916-08-22,Kamekxchi murakami,"['PROPN', 'NOUN']",['GPE'],1,0,2
-US1195847A,1916-08-22,Caul nobby,"['PROPN', 'PROPN']",[],1,0,2
-US1195850A,1916-08-22,paige,['PROPN'],[],1,0,1
-US1195865A,1916-08-22,Necticut,['PROPN'],[],1,0,1
-US1195868A,1916-08-22,Walter e,"['PROPN', 'NOUN']",[],1,0,2
-US1195872A,1916-08-22,thomson,['PROPN'],[],1,0,1
-US1195879A,1916-08-22,Consin,['PROPN'],['GPE'],1,0,1
-US1195897A,1916-08-22,Jesse e,"['PROPN', 'X']",[],1,0,2
-US1195912A,1916-08-22,Nvjljll,['PROPN'],[],1,0,1
-US1195913A,1916-08-22,cubbt,['PROPN'],[],1,0,1
-US1195914A,1916-08-22,Bkoodek,['PROPN'],['ORG'],1,0,1
-US1195923A,1916-08-22,Schaft,['PROPN'],[],1,0,1
-US1195929A,1916-08-22,Geoese l,"['PROPN', 'NOUN']",[],1,0,2
-US1195933A,1916-08-22,Wagoner,['PROPN'],[],1,0,1
-US1195938A,1916-08-22,Toy cane,"['PROPN', 'NOUN']",[],1,0,2
-US1195945A,1916-08-22,mitchell,['PROPN'],[],1,0,1
-US1195950A,1916-08-22,mart b,"['PROPN', 'PROPN']",[],1,0,2
-US1195976A,1916-08-29,chesebro,['PROPN'],[],1,0,1
-US1195977A,1916-08-29,Merrill e,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1195978A,1916-08-29,Harry p,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1195984A,1916-08-29,Alexander feleki,"['PROPN', 'PROPN']",['GPE'],1,0,2
-US1195986A,1916-08-29,Eison,['PROPN'],['GPE'],1,0,1
-US1195995A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1195997A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1195998A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1195999A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1196000A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2
-US1196017A,1916-08-29,Cultivator,['PROPN'],[],1,0,1
-US1196020A,1916-08-29,Evapobato,['PROPN'],[],1,0,1
-US1196031A,1916-08-29,barton,['PROPN'],[],1,0,1
-US1196033A,1916-08-29,schmuck,['PROPN'],[],1,0,1
-US1196039A,1916-08-29,Logan smith,"['PROPN', 'PROPN']",[],1,0,2
-US1196040A,1913-02-25,smith,['PROPN'],[],1,0,1
-US1196041A,1916-08-29,smith,['PROPN'],[],1,0,1
-US1196042A,1916-08-29,smith,['PROPN'],[],1,0,1
-US1196049A,1916-08-29,von rauschenplat,"['PROPN', 'PROPN']",[],1,0,2
-US1196062A,1916-08-29,wolgott,['PROPN'],[],1,0,1
-US1196064A,1916-08-29,Vaktia,['PROPN'],[],1,0,1
-US1196068A,1916-08-29,baker,['PROPN'],[],1,0,1
-US1196071A,1916-08-29,Vania,['PROPN'],['GPE'],1,0,1
-US1196072A,1916-08-29,Sylvania,['PROPN'],['ORG'],1,0,1
-US1196073A,1916-08-29,Birmingham,['PROPN'],['GPE'],1,0,1
-US1196080A,1916-08-29,Johh g,"['PROPN', 'NOUN']",[],1,0,2
-US1196082A,1916-08-29,Edwabd w,"['NOUN', 'PROPN']",[],1,0,2
-US1196093A,1916-08-29,Geoeges eiltz,"['NOUN', 'PROPN']",[],1,0,2
-US1196100A,1916-08-29,galitzki,['PROPN'],[],1,0,1
-US1196101A,1916-08-29,Ttntthttrt,['PROPN'],['GPE'],1,0,1
-US1196109A,1916-08-29,healey,['PROPN'],[],1,0,2
-US1196118A,1916-08-29,Vania,['PROPN'],['GPE'],1,0,1
-US1196119A,1916-08-29,krupp,['PROPN'],[],1,0,1
-US1196127A,1916-08-29,geemany,['PROPN'],[],1,0,1
-US1196128A,1916-08-29,Jstet,['PROPN'],[],1,0,1
-US1196134A,1916-08-29,monroe,['PROPN'],[],1,0,1
-US1196135A,1916-08-29,morgan,['PROPN'],[],1,0,1
-US1196149A,1916-08-29,Botaet valve,"['PROPN', 'VERB']",[],1,0,2
-US1196154A,1916-08-29,Emanuel rosenberg,"['PROPN', 'PROPN']",[],1,0,2
-US1196157A,1916-08-29,Albeht c,"['PROPN', 'AUX']",['ORG'],1,0,2
-US1196162A,1916-08-29,Speedometer,['PROPN'],[],1,0,1
-US1196171A,1916-08-29,Bergee,['PROPN'],[],1,0,1
-US1196174A,1916-08-29,tayloe,['PROPN'],[],1,0,1
-US1196183A,1916-08-29,Fornia,['PROPN'],['GPE'],1,0,1
-US1196188A,1916-08-29,wahlberg,['PROPN'],[],1,0,1
-US1196198A,1916-08-29,Geobge d,"['PROPN', 'PROPN']",[],1,0,2
-US1196199A,1916-08-29,Fornia,['PROPN'],['GPE'],1,0,1
-US1196200A,1916-08-29,Cartkxdge,['PROPN'],[],1,0,1
-US1196204A,1916-08-29,Collar,['PROPN'],[],1,0,1
-US1196205A,1916-08-29,petek buoakbookfl,"['PROPN', 'PROPN']",[],1,0,2
-US1199517A,1916-09-26,Thomas j,"['PROPN', 'PROPN']",[],1,0,2
-US1199851A,1916-10-03,wooisey,['PROPN'],['GPE'],1,0,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens
+US1100135A,1914-06-16,Jamis jay,"['PROPN', 'PROPN']",[],1,0,2,"['jamis', 'jay']"
+US1102601A,1914-07-07,Process,['PROPN'],[],1,0,1,['process']
+US1105816A,1914-08-04,miller,['PROPN'],['ORG'],1,0,1,['miller']
+US1105817A,1914-08-04,monte,['PROPN'],[],1,0,1,['monte']
+US1105821A,1914-08-04,Sdgae h,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['sdgae', 'h']"
+US1105823A,1914-08-04,Lloyd c,"['PROPN', 'VERB']",[],1,0,2,"['lloyd', 'c']"
+US1105824A,1914-08-04,Aoftav,['PROPN'],[],1,0,1,['aoftav']
+US1105826A,1914-08-04,norton,['PROPN'],['ORG'],1,0,1,['norton']
+US1105844A,1914-08-04,Jahbr,['PROPN'],[],1,0,1,['jahbr']
+US1105848A,1914-08-04,Projectile,['PROPN'],[],1,0,1,['projectile']
+US1113093A,1914-10-06,bible,['PROPN'],[],1,0,1,['bible']
+US1114364A,1914-10-20,Hugo junkers,"['PROPN', 'NOUN']",['EVENT'],1,0,2,"['hugo', 'junkers']"
+US1117608A,1914-11-17,Govebnob fob,"['PROPN', 'ADV']",[],1,0,2,"['govebnob', 'fob']"
+US1117613A,1914-11-17,Iiaii ul,"['PROPN', 'INTJ']",['GPE'],1,0,2,"['iiaii', 'ul']"
+US1121337A,1914-12-15,dusha,['PROPN'],[],1,0,1,['dusha']
+US1127576A,1915-02-09,Louis,['PROPN'],[],1,0,1,['louis']
+US1137674A,1915-04-27,smith,['PROPN'],[],1,0,1,['smith']
+US1139096A,1913-12-20,Underreamer,['PROPN'],[],1,0,2,['underreamer']
+US1144890A,1915-06-29,Sylvania,['PROPN'],['ORG'],1,0,1,['sylvania']
+US1149847A,1915-08-10,Marsh,['PROPN'],[],1,0,1,['marsh']
+US1149851A,1915-08-10,Planoaraph,['PROPN'],[],1,0,1,['planoaraph']
+US1155399A,1915-10-05,Barrette,['PROPN'],[],1,0,2,['barrette']
+US1155999A,1915-10-05,Planooraph co,"['PROPN', 'VERB']",[],1,0,2,"['planooraph', 'co']"
+US1157030A,1915-10-19,cetakioka l,"['PROPN', 'NOUN']",[],1,0,2,"['cetakioka', 'l']"
+US1162868A,1915-12-07,mckay,['PROPN'],[],1,0,1,['mckay']
+US1166236A,1915-12-28,mihelcich,['PROPN'],[],1,0,1,['mihelcich']
+US1171791A,1915-04-14,Turbine,['PROPN'],[],1,0,2,['turbine']
+US1177751A,1916-04-04,williamson,['PROPN'],[],1,0,1,['williamson']
+US1187996A,1916-06-20,Carbureter,['PROPN'],['ORG'],1,0,1,['carbureter']
+US1193003A,1916-08-01,Upper cut,"['PROPN', 'VERB']",[],1,0,2,"['upper', 'cut']"
+US1193010A,1916-08-01,Henby gibbs,"['PROPN', 'VERB']",[],1,0,2,"['henby', 'gibbs']"
+US1193012A,1916-08-01,goodson,['PROPN'],['ORG'],1,0,1,['goodson']
+US1193017A,1916-08-01,Chusetts,['PROPN'],['NORP'],1,0,1,['chusetts']
+US1193033A,1916-08-01,llewellyn,['PROPN'],[],1,0,1,['llewellyn']
+US1193040A,1916-08-01,Quoit,['PROPN'],['GPE'],1,0,1,['quoit']
+US1193041A,1916-08-01,Chelli,['PROPN'],[],1,0,1,['chelli']
+US1193046A,1916-08-01,Irving i,"['PROPN', 'PRON']",['ORG'],1,0,2,"['irving', 'i']"
+US1193048A,1916-08-01,Collar,['PROPN'],[],1,0,1,['collar']
+US1193053A,1916-08-01,Fflachlsfe,['PROPN'],[],1,0,1,['fflachlsfe']
+US1193057A,1916-08-01,Apparatus fob,"['PROPN', 'VERB']",[],1,0,2,"['apparatus', 'fob']"
+US1193071A,1916-08-01,of bristol,"['ADP', 'PROPN']",['ORG'],1,0,2,"['of', 'bristol']"
+US1193076A,1916-08-01,Ltjdwig schon,"['PROPN', 'VERB']",['GPE'],1,0,2,"['ltjdwig', 'schon']"
+US1193082A,1916-08-01,Meyer,['PROPN'],[],1,0,1,['meyer']
+US1193093A,1916-08-01,Berger,['PROPN'],[],1,0,1,['berger']
+US1193095A,1916-08-01,Hubbard c,"['PROPN', 'VERB']",[],1,0,2,"['hubbard', 'c']"
+US1193098A,1916-08-01,Xelsoh a,"['PROPN', 'PRON']",[],1,0,2,"['xelsoh', 'a']"
+US1193116A,1916-08-01,Seatj,['PROPN'],['ORG'],1,0,1,['seatj']
+US1193120A,1916-08-01,Fukmace,['PROPN'],[],1,0,1,['fukmace']
+US1193125A,1916-08-01,copley,['PROPN'],[],1,0,1,['copley']
+US1193131A,1916-08-01,esola,['PROPN'],[],1,0,1,['esola']
+US1193132A,1916-08-01,Charles e,"['PROPN', 'NOUN']",[],1,0,2,"['charles', 'e']"
+US1193139A,1916-08-01,harden,['PROPN'],[],1,0,1,['harden']
+US1193143A,1916-08-01,Appabatus,['PROPN'],[],1,0,1,['appabatus']
+US1193152A,1916-08-01,jekkijjs,['PROPN'],['ORG'],1,0,1,['jekkijjs']
+US1193155A,1916-08-01,Gottlieb klenk,"['PROPN', 'VERB']",['ORG'],1,0,2,"['gottlieb', 'klenk']"
+US1193161A,1916-08-01,Fornia,['PROPN'],['GPE'],1,0,1,['fornia']
+US1193177A,1916-08-01,morgan,['PROPN'],[],1,0,1,['morgan']
+US1193182A,1916-08-01,Rlchpikdson,['PROPN'],[],1,0,1,['rlchpikdson']
+US1193205A,1916-08-01,tichenor,['PROPN'],[],1,0,1,['tichenor']
+US1193209A,1916-08-01,Hausen,['PROPN'],['GPE'],1,0,1,['hausen']
+US1193217A,1916-08-01,Charles g,"['PROPN', 'NOUN']",[],1,0,2,"['charles', 'g']"
+US1193220A,1916-08-01,Festus s,"['PROPN', 'PART']",[],1,0,2,"['festus', 's']"
+US1193224A,1916-08-01,Julius begtrup,"['PROPN', 'NOUN']",[],1,0,2,"['julius', 'begtrup']"
+US1193236A,1916-08-01,Samuel ghinbt,"['PROPN', 'ADV']",[],1,0,2,"['samuel', 'ghinbt']"
+US1193245A,1916-08-01,Cobbab jdkessleb,"['PROPN', 'ADV']",['ORG'],1,0,2,"['cobbab', 'jdkessleb']"
+US1193246A,1916-08-01,dronsfield,['PROPN'],[],1,0,1,['dronsfield']
+US1193250A,1916-08-01,Geosge f,"['PROPN', 'NOUN']",[],1,0,2,"['geosge', 'f']"
+US1193261A,1916-08-01,Johw e,"['PROPN', 'NOUN']",[],1,0,2,"['johw', 'e']"
+US1193262A,1916-08-01,herbert,['PROPN'],[],1,0,2,['herbert']
+US1193271A,1916-08-01,kuntz,['PROPN'],[],1,0,1,['kuntz']
+US1193275A,1916-08-01,Knecht,['PROPN'],['ORG'],1,0,1,['knecht']
+US1193279A,1916-08-01,Louis ltjmiebe,"['PROPN', 'NOUN']",['GPE'],1,0,2,"['louis', 'ltjmiebe']"
+US1193282A,1916-08-01,mcgee,['PROPN'],['GPE'],1,0,1,['mcgee']
+US1193290A,1916-08-01,Luebicatoe,['PROPN'],[],1,0,1,['luebicatoe']
+US1193294A,1916-08-01,Fatiieb,['PROPN'],[],1,0,1,['fatiieb']
+US1193299A,1916-08-01,Weench attachment,"['PROPN', 'NOUN']",[],1,0,2,"['weench', 'attachment']"
+US1193301A,1916-08-01,robinson,['PROPN'],[],1,0,2,['robinson']
+US1193306A,1916-08-01,Jan smoter,"['PROPN', 'NOUN']",[],1,0,2,"['jan', 'smoter']"
+US1193313A,1916-08-01,townseno,['PROPN'],[],1,0,1,['townseno']
+US1193314A,1916-08-01,Hgssgs,['PROPN'],['ORG'],1,0,1,['hgssgs']
+US1193326A,1916-08-01,Lesteb westcott,"['PROPN', 'NOUN']",[],1,0,2,"['lesteb', 'westcott']"
+US1193330A,1916-08-01,Toria,['PROPN'],[],1,0,1,['toria']
+US1193336A,1916-08-01,Jeeome u,"['PROPN', 'NOUN']",[],1,0,2,"['jeeome', 'u']"
+US1193337A,1916-08-01,Thomas j,"['PROPN', 'PROPN']",[],1,0,2,"['thomas', 'j']"
+US1193342A,1916-08-01,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1193343A,1916-08-01,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1193345A,1916-08-01,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1193346A,1916-08-01,Vanla,['PROPN'],[],1,0,1,['vanla']
+US1193353A,1916-08-01,Cooking utensil,"['VERB', 'PROPN']",['GPE'],1,0,2,"['cooking', 'utensil']"
+US1193358A,1916-08-01,Pbnter,['PROPN'],[],1,0,1,['pbnter']
+US1193360A,1916-08-01,Lyscabt cobetwell,"['PROPN', 'VERB']",[],1,0,2,"['lyscabt', 'cobetwell']"
+US1193362A,1916-08-01,District of,"['PROPN', 'ADP']",[],1,0,2,"['district', 'of']"
+US1193372A,1916-08-01,Unberreamer,['PROPN'],[],1,0,1,['unberreamer']
+US1193376A,1916-08-01,Holtz,['PROPN'],[],1,0,1,['holtz']
+US1193379A,1916-08-01,Renewed jan,"['PROPN', 'PROPN']",[],1,0,2,"['renewed', 'jan']"
+US1193381A,1916-08-01,gebmany,['PROPN'],[],1,0,1,['gebmany']
+US1193385A,1916-08-01,hieatzman,['PROPN'],[],1,0,1,['hieatzman']
+US1193396A,1916-08-01,Headlight,['PROPN'],[],1,0,1,['headlight']
+US1193398A,1916-08-01,Assigwor,['PROPN'],[],1,0,1,['assigwor']
+US1193400A,1916-08-01,laudiero,['PROPN'],[],1,0,1,['laudiero']
+US1193401A,1916-08-01,Marie latjenroth,"['PROPN', 'NOUN']",[],1,0,2,"['marie', 'latjenroth']"
+US1193407A,1916-08-01,mitchell,['PROPN'],[],1,0,1,['mitchell']
+US1193418A,1916-08-01,Haktna w,"['VERB', 'PROPN']",[],1,0,2,"['haktna', 'w']"
+US1193421A,1916-08-01,Edith x,"['PROPN', 'PUNCT']",[],1,0,2,"['edith', 'x']"
+US1193425A,1916-08-01,robinson,['PROPN'],[],1,0,2,['robinson']
+US1193426A,1916-08-01,rollinson,['PROPN'],['ORG'],1,0,2,['rollinson']
+US1193432A,1916-08-01,Augustus j,"['PROPN', 'PROPN']",[],1,0,2,"['augustus', 'j']"
+US1193436A,1916-08-01,Anchor,['PROPN'],['NORP'],1,0,1,['anchor']
+US1193437A,1916-08-01,of chableston,"['ADP', 'PROPN']",[],1,0,2,"['of', 'chableston']"
+US1193438A,1916-08-01,smith,['PROPN'],[],1,0,1,['smith']
+US1193444A,1916-08-01,of anaheim,"['ADP', 'PROPN']",['ORG'],1,0,2,"['of', 'anaheim']"
+US1193447A,1916-08-01,Chipmtan j,"['PROPN', 'NOUN']",[],1,0,2,"['chipmtan', 'j']"
+US1193460A,1916-08-01,of cincinnati,"['ADP', 'PROPN']",[],1,0,2,"['of', 'cincinnati']"
+US1193466A,1916-08-01,Bobebt c,"['PROPN', 'AUX']",[],1,0,2,"['bobebt', 'c']"
+US1193475A,1916-08-01,smith,['PROPN'],[],1,0,1,['smith']
+US1193489A,1916-08-01,welch,['PROPN'],[],1,0,1,['welch']
+US1193493A,1916-08-01,Walter m,"['PROPN', 'VERB']",[],1,0,2,"['walter', 'm']"
+US1193508A,1916-08-08,buttrick,['PROPN'],['GPE'],1,0,1,['buttrick']
+US1193520A,1916-08-08,crownfield,['PROPN'],[],1,0,1,['crownfield']
+US1193532A,1916-08-08,Peter frantz,"['PROPN', 'VERB']",[],1,0,2,"['peter', 'frantz']"
+US1193534A,1916-08-08,fbiedman,['PROPN'],[],1,0,2,['fbiedman']
+US1193537A,1916-08-08,Emile girardeatj,"['PROPN', 'PRON']",[],1,0,2,"['emile', 'girardeatj']"
+US1193547A,1916-08-08,David b,"['PROPN', 'PROPN']",[],1,0,2,"['david', 'b']"
+US1193562A,1916-08-08,Hortson,['PROPN'],[],1,0,1,['hortson']
+US1193568A,1916-08-08,Assiawob,['PROPN'],[],1,0,1,['assiawob']
+US1193573A,1916-08-08,Johk b,"['PROPN', 'PROPN']",[],1,0,2,"['johk', 'b']"
+US1193574A,1916-08-08,luellen,['PROPN'],[],1,0,1,['luellen']
+US1193577A,1916-08-08,mcgowan,['PROPN'],[],1,0,1,['mcgowan']
+US1193587A,1916-08-08,miller,['PROPN'],['ORG'],1,0,1,['miller']
+US1193589A,1916-08-08,Sebkot itackeb,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['sebkot', 'itackeb']"
+US1193592A,1916-08-08,Container,['PROPN'],[],1,0,1,['container']
+US1193602A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1,['sylvania']
+US1193605A,1916-08-08,Bismarck wm,"['PROPN', 'X']",[],1,0,2,"['bismarck', 'wm']"
+US1193606A,1916-08-08,Klatt,['PROPN'],['ORG'],1,0,1,['klatt']
+US1193608A,1916-08-08,Insole,['PROPN'],['ORG'],1,0,1,['insole']
+US1193613A,1916-08-08,Feida,['PROPN'],['GPE'],1,0,1,['feida']
+US1193616A,1916-08-08,Adrian j,"['PROPN', 'NOUN']",['NORP'],1,0,2,"['adrian', 'j']"
+US1193617A,1916-08-08,rosenfeld,['PROPN'],[],1,0,1,['rosenfeld']
+US1193621A,1916-08-08,scott,['PROPN'],[],1,0,1,['scott']
+US1193632A,1916-08-08,Cooker,['PROPN'],[],1,0,1,['cooker']
+US1193633A,1916-08-08,thomson,['PROPN'],[],1,0,1,['thomson']
+US1193637A,1916-08-08,van inwagen,"['PROPN', 'NOUN']",[],1,0,2,"['van', 'inwagen']"
+US1193656A,1916-08-08,yeager,['PROPN'],[],1,0,1,['yeager']
+US1193673A,1916-08-08,Batjve,['PROPN'],[],1,0,1,['batjve']
+US1193680A,1916-08-08,Charles h,"['PROPN', 'NOUN']",[],1,0,2,"['charles', 'h']"
+US1193687A,1916-08-08,Hiram holden,"['PROPN', 'VERB']",[],1,0,2,"['hiram', 'holden']"
+US1193689A,1916-08-08,Of cleveland,"['ADP', 'PROPN']",['GPE'],1,0,2,"['of', 'cleveland']"
+US1193692A,1916-08-08,Receptacle,['PROPN'],['PRODUCT'],1,0,1,['receptacle']
+US1193693A,1916-08-08,Postal,['PROPN'],[],1,0,1,['postal']
+US1193700A,1916-08-08,Geobge keith,"['PROPN', 'PROPN']",[],1,0,2,"['geobge', 'keith']"
+US1193701A,1916-08-08,kermode,['PROPN'],[],1,0,1,['kermode']
+US1193706A,1916-08-08,Beet j,"['PROPN', 'PROPN']",[],1,0,2,"['beet', 'j']"
+US1193722A,1916-08-08,siebert,['PROPN'],[],1,0,2,['siebert']
+US1193725A,1916-08-08,smith,['PROPN'],[],1,0,1,['smith']
+US1193727A,1916-08-08,oe minneapolis,"['INTJ', 'PROPN']",['GPE'],1,0,2,"['oe', 'minneapolis']"
+US1193744A,1916-08-08,Wilkinson,['PROPN'],[],1,0,1,['wilkinson']
+US1193748A,1916-08-08,Lillian b,"['ADJ', 'PROPN']",['NORP'],1,0,2,"['lillian', 'b']"
+US1193758A,1916-08-08,Adelbeet e,"['PROPN', 'NOUN']",[],1,0,2,"['adelbeet', 'e']"
+US1193763A,1916-08-08,Hesfflalst clabke,"['PROPN', 'PROPN']",[],1,0,2,"['hesfflalst', 'clabke']"
+US1193764A,1916-08-08,David conlabt,"['PROPN', 'PROPN']",[],1,0,2,"['david', 'conlabt']"
+US1193765A,1916-08-08,Vehicle,['PROPN'],[],1,0,1,['vehicle']
+US1193786A,1916-08-08,holliday,['PROPN'],[],1,0,1,['holliday']
+US1193794A,1916-08-08,Adalbert kolb,"['PROPN', 'PROPN']",[],1,0,2,"['adalbert', 'kolb']"
+US1193795A,1916-08-08,Adalbert kolb,"['PROPN', 'PROPN']",[],1,0,2,"['adalbert', 'kolb']"
+US1193805A,1916-08-08,Toy wheel,"['PROPN', 'NOUN']",[],1,0,2,"['toy', 'wheel']"
+US1193808A,1916-08-08,Canada,['PROPN'],['GPE'],1,0,1,['canada']
+US1193812A,1916-08-08,Eoney,['PROPN'],['GPE'],1,0,1,['eoney']
+US1193829A,1916-08-08,Btjdolf schtjle,"['PROPN', 'NOUN']",['GPE'],1,0,2,"['btjdolf', 'schtjle']"
+US1193834A,1916-08-08,Jesse c,"['PROPN', 'AUX']",[],1,0,2,"['jesse', 'c']"
+US1193836A,1916-08-08,Edwin e,"['PROPN', 'NOUN']",[],1,0,2,"['edwin', 'e']"
+US1193837A,1916-08-08,Oscab a,"['PROPN', 'PRON']",[],1,0,2,"['oscab', 'a']"
+US1193839A,1916-08-08,Lewis p,"['PROPN', 'NOUN']",[],1,0,2,"['lewis', 'p']"
+US1193840A,1916-08-08,stahle,['PROPN'],[],1,0,1,['stahle']
+US1193842A,1916-08-08,stephan,['PROPN'],[],1,0,1,['stephan']
+US1193843A,1916-08-08,Amekictjs e,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['amekictjs', 'e']"
+US1193844A,1916-08-08,Pbeheater,['PROPN'],[],1,0,1,['pbeheater']
+US1193854A,1916-08-08,Eoldiitg- chair,"['PROPN', 'NOUN']",[],1,0,2,"['eoldiitg-', 'chair']"
+US1193863A,1916-08-08,braen,['PROPN'],[],1,0,1,['braen']
+US1193876A,1916-08-08,Bernakd b,"['PROPN', 'NOUN']",[],1,0,2,"['bernakd', 'b']"
+US1193880A,1916-08-08,Carbureter,['PROPN'],['ORG'],1,0,1,['carbureter']
+US1193882A,1916-08-08,Emil edwin,"['PROPN', 'PROPN']",[],1,0,2,"['emil', 'edwin']"
+US1193884A,1916-08-08,Yictor j,"['PROPN', 'NOUN']",[],1,0,2,"['yictor', 'j']"
+US1193885A,1916-08-08,Collar,['PROPN'],[],1,0,1,['collar']
+US1193887A,1916-08-08,kreebubg,['PROPN'],[],1,0,1,['kreebubg']
+US1193897A,1916-08-08,holbech,['PROPN'],['ORG'],1,0,1,['holbech']
+US1193909A,1916-08-08,mckechnie,['PROPN'],[],1,0,1,['mckechnie']
+US1193910A,1916-08-08,mcnutt,['PROPN'],[],1,0,1,['mcnutt']
+US1193917A,1916-08-08,Henby v,"['PROPN', 'NOUN']",[],1,0,2,"['henby', 'v']"
+US1193922A,1916-08-08,quinn,['PROPN'],[],1,0,1,['quinn']
+US1193923A,1916-08-08,Chaeles j,"['PROPN', 'NOUN']",[],1,0,2,"['chaeles', 'j']"
+US1193928A,1916-08-08,Frederick j,"['PROPN', 'PROPN']",[],1,0,2,"['frederick', 'j']"
+US1193929A,1916-08-08,Frederick j,"['PROPN', 'PROPN']",[],1,0,2,"['frederick', 'j']"
+US1193931A,1916-08-08,schumann,['PROPN'],[],1,0,1,['schumann']
+US1193935A,1916-08-08,Brown,['PROPN'],[],1,0,1,['brown']
+US1193942A,1916-08-08,Williai j,"['PROPN', 'PROPN']",['GPE'],1,0,2,"['williai', 'j']"
+US1193966A,1916-08-08,andebsen,['PROPN'],[],1,0,1,['andebsen']
+US1193976A,1916-08-08,alvah e,"['PROPN', 'NOUN']",[],1,0,2,"['alvah', 'e']"
+US1193983A,1916-08-08,Istez,['PROPN'],[],1,0,1,['istez']
+US1193984A,1916-08-08,Hugo bbiukhaus,"['PROPN', 'NOUN']",['EVENT'],1,0,2,"['hugo', 'bbiukhaus']"
+US1193986A,1916-08-08,bungay,['PROPN'],[],1,0,1,['bungay']
+US1193987A,1916-08-08,Scott k,"['PROPN', 'X']",['ORG'],1,0,2,"['scott', 'k']"
+US1193988A,1916-08-08,Scott k,"['PROPN', 'X']",['ORG'],1,0,2,"['scott', 'k']"
+US1193997A,1916-08-08,Tello,['PROPN'],[],1,0,1,['tello']
+US1193999A,1916-08-08,dixon,['PROPN'],[],1,0,1,['dixon']
+US1194001A,1916-08-08,Samuel ehtbikeu,"['PROPN', 'VERB']",[],1,0,2,"['samuel', 'ehtbikeu']"
+US1194004A,1916-08-08,of cleveland,"['ADP', 'PROPN']",['GPE'],1,0,2,"['of', 'cleveland']"
+US1194011A,1916-08-08,Dampeb,['PROPN'],[],1,0,1,['dampeb']
+US1194024A,1916-08-08,Thomas,['PROPN'],[],1,0,2,['thomas']
+US1194032A,1916-08-08,Jacob b,"['PROPN', 'NOUN']",[],1,0,2,"['jacob', 'b']"
+US1194037A,1916-08-08,kropp,['PROPN'],['ORG'],1,0,1,['kropp']
+US1194038A,1916-08-08,krummel,['PROPN'],[],1,0,1,['krummel']
+US1194039A,1916-08-08,krummel,['PROPN'],[],1,0,1,['krummel']
+US1194042A,1916-08-08,Axel f,"['PROPN', 'X']",['ORG'],1,0,2,"['axel', 'f']"
+US1194047A,1916-08-08,lyhch,['PROPN'],[],1,0,1,['lyhch']
+US1194048A,1916-08-08,Lewis a,"['PROPN', 'PRON']",[],1,0,2,"['lewis', 'a']"
+US1194049A,1916-08-08,Scrapeb,['PROPN'],[],1,0,1,['scrapeb']
+US1194070A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1,['sylvania']
+US1194074A,1916-08-08,Jossph sohcagliohb,"['PROPN', 'VERB']",['ORG'],1,0,2,"['jossph', 'sohcagliohb']"
+US1194082A,1916-08-08,Jacob silbermaw,"['PROPN', 'VERB']",[],1,0,2,"['jacob', 'silbermaw']"
+US1194083A,1916-08-08,Philip simpson,"['PROPN', 'NOUN']",[],1,0,2,"['philip', 'simpson']"
+US1194084A,1916-08-08,Benjamin ii,"['PROPN', 'PROPN']",[],1,0,2,"['benjamin', 'ii']"
+US1194086A,1916-08-08,of chicago,"['ADP', 'PROPN']",['GPE'],1,0,2,"['of', 'chicago']"
+US1194102A,1916-08-08,Skate,['PROPN'],[],1,0,1,['skate']
+US1194103A,1916-08-08,Alfred f,"['PROPN', 'PROPN']",[],1,0,2,"['alfred', 'f']"
+US1194104A,1916-08-08,whalley,['PROPN'],[],1,0,1,['whalley']
+US1194106A,1916-08-08,white,['PROPN'],[],1,0,2,['white']
+US1194125A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1,['sylvania']
+US1194130A,1916-08-08,briot,['PROPN'],[],1,0,1,['briot']
+US1194137A,1916-08-08,Uiktetee sta,"['PROPN', 'NOUN']",[],1,0,2,"['uiktetee', 'sta']"
+US1194144A,1916-08-08,Moses g,"['PROPN', 'NOUN']",[],1,0,2,"['moses', 'g']"
+US1194146A,1916-08-08,Stttffiitckbox,['PROPN'],[],1,0,1,['stttffiitckbox']
+US1194155A,1916-08-08,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1194160A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1,['sylvania']
+US1194164A,1916-08-08,Erank e,"['PROPN', 'NOUN']",[],1,0,2,"['erank', 'e']"
+US1194176A,1916-08-08,healy,['PROPN'],['GPE'],1,0,1,['healy']
+US1194178A,1916-08-08,hebwig,['PROPN'],[],1,0,1,['hebwig']
+US1194184A,1916-08-08,Ijktteb sta,"['PROPN', 'NOUN']",[],1,0,2,"['ijktteb', 'sta']"
+US1194193A,1916-08-08,Philip ix,"['PROPN', 'ADV']",[],1,0,2,"['philip', 'ix']"
+US1194195A,1916-08-08,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1194196A,1916-08-08,Sylvania,['PROPN'],['ORG'],1,0,1,['sylvania']
+US1194202A,1916-08-08,ivucgahan,['PROPN'],[],1,0,1,['ivucgahan']
+US1194206A,1916-08-08,Wendyl medlock,"['PROPN', 'NOUN']",[],1,0,2,"['wendyl', 'medlock']"
+US1194211A,1916-08-08,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1194216A,1916-08-08,Amelia morse,"['PROPN', 'VERB']",['ORG'],1,0,2,"['amelia', 'morse']"
+US1194234A,1916-08-08,Alfred m,"['PROPN', 'VERB']",[],1,0,2,"['alfred', 'm']"
+US1194235A,1916-08-08,Gambrel,['PROPN'],[],1,0,1,['gambrel']
+US1194249A,1916-08-08,smith,['PROPN'],[],1,0,1,['smith']
+US1194260A,1916-08-08,Fktyit- gatherer,"['PROPN', 'NOUN']",[],1,0,2,"['fktyit-', 'gatherer']"
+US1194263A,1916-08-08,Hews hsst,"['PROPN', 'NOUN']",[],1,0,2,"['hews', 'hsst']"
+US1194266A,1916-08-08,alvord,['PROPN'],[],1,0,1,['alvord']
+US1194270A,1916-08-08,blake,['PROPN'],[],1,0,1,['blake']
+US1194281A,1916-08-08,Samuel e,"['PROPN', 'NOUN']",[],1,0,2,"['samuel', 'e']"
+US1194291A,1916-08-08,Cooking utensil,"['VERB', 'PROPN']",['GPE'],1,0,2,"['cooking', 'utensil']"
+US1194292A,1916-08-08,Hottser,['PROPN'],[],1,0,1,['hottser']
+US1194293A,1916-08-08,Howard r,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['howard', 'r']"
+US1194297A,1916-08-08,Cakbtjbetek,['PROPN'],[],1,0,1,['cakbtjbetek']
+US1194306A,1916-08-08,Ginia,['PROPN'],['GPE'],1,0,1,['ginia']
+US1194307A,1916-08-08,Ginia,['PROPN'],['GPE'],1,0,1,['ginia']
+US1194309A,1916-08-08,George c,"['PROPN', 'AUX']",[],1,0,2,"['george', 'c']"
+US1194313A,1916-08-08,payne,['PROPN'],[],1,0,1,['payne']
+US1194318A,1916-08-08,Nutcracker,['PROPN'],['ORG'],1,0,1,['nutcracker']
+US1194333A,1916-08-08,los angeles,"['PROPN', 'PROPN']",['GPE'],1,0,2,"['los', 'angeles']"
+US1194338A,1916-08-08,mahon,['PROPN'],[],1,0,1,['mahon']
+US1194350A,1916-08-15,Asszotor,['PROPN'],[],1,0,1,['asszotor']
+US1194352A,1916-08-15,bradley,['PROPN'],[],1,0,1,['bradley']
+US1194355A,1916-08-15,Grout mixer,"['PROPN', 'NOUN']",[],1,0,2,"['grout', 'mixer']"
+US1194358A,1916-08-15,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1194372A,1916-08-15,eischeb,['PROPN'],[],1,0,1,['eischeb']
+US1194373A,1916-08-15,Forge,['PROPN'],[],1,0,1,['forge']
+US1194384A,1916-08-15,Crutch,['PROPN'],[],1,0,1,['crutch']
+US1194390A,1916-08-15,Mouhtihg fob,"['PROPN', 'VERB']",[],1,0,2,"['mouhtihg', 'fob']"
+US1194391A,1916-08-15,Earldley c,"['PROPN', 'AUX']",[],1,0,2,"['earldley', 'c']"
+US1194392A,1916-08-15,Collendeb,['PROPN'],[],1,0,1,['collendeb']
+US1194393A,1916-08-15,Morton l,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['morton', 'l']"
+US1194394A,1916-08-15,l keyes,"['PROPN', 'NOUN']",[],1,0,2,"['l', 'keyes']"
+US1194397A,1916-08-15,l langenheim,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['l', 'langenheim']"
+US1194408A,1916-08-15,Richabd b,"['PROPN', 'PROPN']",[],1,0,2,"['richabd', 'b']"
+US1194414A,1916-08-15,olson,['PROPN'],[],1,0,1,['olson']
+US1194417A,1916-08-15,Valteb,['PROPN'],[],1,0,2,['valteb']
+US1194420A,1916-08-15,petermann,['PROPN'],[],1,0,1,['petermann']
+US1194433A,1916-08-15,Samuel,['PROPN'],[],1,0,2,['samuel']
+US1194434A,1916-08-15,James g,"['PROPN', 'PROPN']",[],1,0,2,"['james', 'g']"
+US1194450A,1916-08-15,Ferdinand wesel,"['PROPN', 'NOUN']",[],1,0,2,"['ferdinand', 'wesel']"
+US1194454A,1916-08-15,Carbureter,['PROPN'],['ORG'],1,0,1,['carbureter']
+US1194457A,1916-08-15,willis,['PROPN'],[],1,0,1,['willis']
+US1194459A,1916-08-15,Shank b,"['PROPN', 'X']",['ORG'],1,0,2,"['shank', 'b']"
+US1194463A,1916-08-15,bache,['PROPN'],[],1,0,1,['bache']
+US1194465A,1916-08-15,Harry p,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['harry', 'p']"
+US1194466A,1916-08-15,Joseph bebg,"['PROPN', 'PROPN']",[],1,0,2,"['joseph', 'bebg']"
+US1194508A,1916-08-15,Assigwob,['PROPN'],[],1,0,1,['assigwob']
+US1194515A,1916-08-15,Oscar l,"['PROPN', 'PROPN']",['ORG'],1,0,2,"['oscar', 'l']"
+US1194516A,1916-08-15,Gscae,['PROPN'],[],1,0,1,['gscae']
+US1194520A,1916-08-15,l lewis,"['PROPN', 'NOUN']",[],1,0,2,"['l', 'lewis']"
+US1194526A,1916-08-15,Claude l,"['PROPN', 'PROPN']",['ORG'],1,0,2,"['claude', 'l']"
+US1194530A,1916-08-15,Carbureter,['PROPN'],['ORG'],1,0,1,['carbureter']
+US1194531A,1916-08-15,oe boston,"['PROPN', 'PROPN']",['GPE'],1,0,2,"['oe', 'boston']"
+US1194533A,1916-08-15,Cohsad e,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['cohsad', 'e']"
+US1194545A,1916-08-15,Horace w,"['PROPN', 'PROPN']",[],1,0,2,"['horace', 'w']"
+US1194550A,1916-08-15,Alois schopper,"['PROPN', 'NOUN']",[],1,0,2,"['alois', 'schopper']"
+US1194561A,1916-08-15,Giovanni sfica,"['PROPN', 'VERB']",['NORP'],1,0,2,"['giovanni', 'sfica']"
+US1194562A,1916-08-15,spi ess,"['PROPN', 'INTJ']",[],1,0,2,"['spi', 'ess']"
+US1194567A,1916-08-15,Peter stoltz,"['PROPN', 'PROPN']",[],1,0,2,"['peter', 'stoltz']"
+US1194575A,1916-08-15,Cleveland,['PROPN'],['GPE'],1,0,1,['cleveland']
+US1194581A,1916-08-15,Lewis e,"['PROPN', 'NOUN']",[],1,0,2,"['lewis', 'e']"
+US1194582A,1916-08-15,Lewis e,"['PROPN', 'NOUN']",[],1,0,2,"['lewis', 'e']"
+US1194590A,1916-08-15,Wilson r,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['wilson', 'r']"
+US1194592A,1916-08-15,Nutcracker,['PROPN'],['ORG'],1,0,1,['nutcracker']
+US1194594A,1916-08-15,briggs,['PROPN'],[],1,0,1,['briggs']
+US1194600A,1916-08-15,Signal box,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['signal', 'box']"
+US1194606A,1916-08-15,Elektrisk kvaelstofaktieselskab,"['PROPN', 'PROPN']",[],1,0,2,"['elektrisk', 'kvaelstofaktieselskab']"
+US1194617A,1916-08-15,Necticut,['PROPN'],[],1,0,1,['necticut']
+US1194623A,1916-08-15,hanrahan,['PROPN'],[],1,0,1,['hanrahan']
+US1194629A,1916-08-15,Charles h,"['PROPN', 'NOUN']",[],1,0,2,"['charles', 'h']"
+US1194631A,1916-08-15,Arthur j,"['PROPN', 'PROPN']",['ORG'],1,0,2,"['arthur', 'j']"
+US1194635A,1916-08-15,johnsoh,['PROPN'],[],1,0,1,['johnsoh']
+US1194638A,1916-08-15,atent ofeic,"['PROPN', 'VERB']",[],1,0,2,"['atent', 'ofeic']"
+US1194641A,1916-08-15,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1194643A,1916-08-15,Gendobf,['PROPN'],[],1,0,1,['gendobf']
+US1194645A,1916-08-15,lincoln,['PROPN'],['ORG'],1,0,1,['lincoln']
+US1194646A,1916-08-15,linden,['PROPN'],[],1,0,1,['linden']
+US1194647A,1916-08-15,lipsius,['PROPN'],[],1,0,1,['lipsius']
+US1194648A,1916-08-15,Fbancis e,"['PROPN', 'NOUN']",[],1,0,2,"['fbancis', 'e']"
+US1194650A,1916-08-15,Guy mckay,"['PROPN', 'NOUN']",[],1,0,2,"['guy', 'mckay']"
+US1194667A,1916-08-15,Morris rosenthal,"['PROPN', 'VERB']",[],1,0,2,"['morris', 'rosenthal']"
+US1194673A,1916-08-15,Assiotok,['PROPN'],['GPE'],1,0,1,['assiotok']
+US1194685A,1916-08-15,Edwin walker,"['PROPN', 'NOUN']",[],1,0,2,"['edwin', 'walker']"
+US1194709A,1916-08-15,Ndbris pelebs,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['ndbris', 'pelebs']"
+US1194718A,1916-08-15,crist,['PROPN'],[],1,0,2,['crist']
+US1194721A,1916-08-15,dabeah,['PROPN'],[],1,0,1,['dabeah']
+US1194730A,1916-08-15,glover,['PROPN'],[],1,0,2,['glover']
+US1194738A,1916-08-15,Benjamin holt,"['PROPN', 'VERB']",[],1,0,2,"['benjamin', 'holt']"
+US1194755A,1916-08-15,Alfred j,"['PROPN', 'PROPN']",[],1,0,2,"['alfred', 'j']"
+US1194760A,1916-08-15,Gabbiel mabtiktez,"['PROPN', 'NOUN']",[],1,0,2,"['gabbiel', 'mabtiktez']"
+US1194767A,1916-08-15,Daniel c,"['PROPN', 'VERB']",[],1,0,2,"['daniel', 'c']"
+US1194776A,1916-08-15,oldfield,['PROPN'],[],1,0,1,['oldfield']
+US1194778A,1916-08-15,paquil,['PROPN'],['ORG'],1,0,1,['paquil']
+US1194791A,1916-08-15,stimpson,['PROPN'],[],1,0,1,['stimpson']
+US1194807A,1916-08-15,of birmingham,"['ADP', 'PROPN']",[],1,0,2,"['of', 'birmingham']"
+US1194811A,1916-08-15,billin gs,"['PROPN', 'PROPN']",['GPE'],1,0,2,"['billin', 'gs']"
+US1194814A,1916-08-15,Thomas j,"['PROPN', 'PROPN']",[],1,0,2,"['thomas', 'j']"
+US1194816A,1916-08-15,Mabio camagki,"['PROPN', 'VERB']",['GPE'],1,0,2,"['mabio', 'camagki']"
+US1194819A,1916-08-15,Charles a,"['PROPN', 'PRON']",[],1,0,2,"['charles', 'a']"
+US1194824A,1916-08-15,Ethaw i,"['PROPN', 'PRON']",[],1,0,2,"['ethaw', 'i']"
+US1194829A,1916-08-15,Thomas j,"['PROPN', 'PROPN']",[],1,0,2,"['thomas', 'j']"
+US1194831A,1916-08-15,fisher,['PROPN'],[],1,0,1,['fisher']
+US1194832A,1916-08-15,Canada,['PROPN'],['GPE'],1,0,1,['canada']
+US1194836A,1916-08-15,Otto c,"['PROPN', 'AUX']",[],1,0,2,"['otto', 'c']"
+US1194839A,1916-08-15,Akthub heinemann,"['PROPN', 'PROPN']",['ORG'],1,0,2,"['akthub', 'heinemann']"
+US1194841A,1916-08-15,Paul e,"['PROPN', 'NOUN']",[],1,0,2,"['paul', 'e']"
+US1194843A,1916-08-15,Jacob a,"['PROPN', 'PRON']",[],1,0,2,"['jacob', 'a']"
+US1194844A,1916-08-15,kalinowska,['PROPN'],['ORG'],1,0,1,['kalinowska']
+US1194849A,1916-08-15,Appabatus fob,"['PROPN', 'ADV']",[],1,0,2,"['appabatus', 'fob']"
+US1194867A,1916-08-15,Jacob e,"['PROPN', 'NOUN']",[],1,0,2,"['jacob', 'e']"
+US1194882A,1916-08-15,Joseph sachs,"['PROPN', 'VERB']",[],1,0,2,"['joseph', 'sachs']"
+US1194886A,1916-08-15,simon,['PROPN'],[],1,0,1,['simon']
+US1194889A,1916-08-15,sperry,['PROPN'],['ORG'],1,0,1,['sperry']
+US1194891A,1916-08-15,Winton l,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['winton', 'l']"
+US1194892A,1916-08-15,Winton l,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['winton', 'l']"
+US1194893A,1916-08-15,Derrick,['PROPN'],[],1,0,1,['derrick']
+US1194907A,1916-08-15,Charles h,"['PROPN', 'NOUN']",[],1,0,2,"['charles', 'h']"
+US1194924A,1916-08-15,Shovel,['PROPN'],[],1,0,1,['shovel']
+US1194932A,1916-08-15,baker,['PROPN'],[],1,0,1,['baker']
+US1194939A,1916-08-15,bishop,['PROPN'],[],1,0,1,['bishop']
+US1194941A,1916-08-15,bosco,['PROPN'],[],1,0,1,['bosco']
+US1194942A,1916-08-15,Agricultueal implement,"['PROPN', 'VERB']",[],1,0,2,"['agricultueal', 'implement']"
+US1194946A,1916-08-15,K buchanan,"['PROPN', 'PROPN']",[],1,0,2,"['k', 'buchanan']"
+US1194951A,1916-08-15,buetis,['PROPN'],[],1,0,1,['buetis']
+US1194955A,1916-08-15,cashmore,['PROPN'],[],1,0,1,['cashmore']
+US1194957A,1916-08-15,Insulator,['PROPN'],[],1,0,1,['insulator']
+US1194978A,1916-08-15,Charles p,"['PROPN', 'NOUN']",[],1,0,2,"['charles', 'p']"
+US1194986A,1916-08-15,Daniel t,"['PROPN', 'NOUN']",[],1,0,2,"['daniel', 't']"
+US1194994A,1916-08-15,gramm,['PROPN'],[],1,0,1,['gramm']
+US1195006A,1916-08-15,hanson,['PROPN'],[],1,0,1,['hanson']
+US1195010A,1916-08-15,Toria,['PROPN'],[],1,0,1,['toria']
+US1195011A,1916-08-15,healy,['PROPN'],['GPE'],1,0,1,['healy']
+US1195015A,1916-08-15,Steel debkick,"['PROPN', 'PROPN']",[],1,0,2,"['steel', 'debkick']"
+US1195017A,1916-08-15,Tatuttq t,"['PROPN', 'NOUN']",[],1,0,2,"['tatuttq', 't']"
+US1195054A,1916-08-15,mcleod,['PROPN'],[],1,0,1,['mcleod']
+US1195061A,1916-08-15,Bobebt e,"['PROPN', 'NOUN']",[],1,0,2,"['bobebt', 'e']"
+US1195066A,1916-08-15,Traction whxel,"['PROPN', 'VERB']",[],1,0,2,"['traction', 'whxel']"
+US1195074A,1916-08-15,Tjlrich ohlsen,"['PROPN', 'VERB']",[],1,0,2,"['tjlrich', 'ohlsen']"
+US1195077A,1916-08-15,Rhythmometeb,['PROPN'],[],1,0,1,['rhythmometeb']
+US1195088A,1916-08-15,reese,['PROPN'],['NORP'],1,0,1,['reese']
+US1195091A,1916-08-15,Effie s,"['PROPN', 'PART']",['ORG'],1,0,2,"['effie', 's']"
+US1195092A,1916-08-15,Morris rosenwasser,"['PROPN', 'NOUN']",[],1,0,2,"['morris', 'rosenwasser']"
+US1195100A,1916-08-15,Anchor,['PROPN'],['NORP'],1,0,1,['anchor']
+US1195103A,1916-08-15,Jesse g,"['PROPN', 'NOUN']",[],1,0,2,"['jesse', 'g']"
+US1195115A,1916-08-15,smith,['PROPN'],[],1,0,1,['smith']
+US1195119A,1916-08-15,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1195125A,1916-08-15,Ebwest winne,"['PROPN', 'PROPN']",[],1,0,2,"['ebwest', 'winne']"
+US1195132A,1916-08-15,of stockholm,"['ADP', 'PROPN']",['GPE'],1,0,2,"['of', 'stockholm']"
+US1195133A,1916-08-15,stockholm,['PROPN'],['GPE'],1,0,1,['stockholm']
+US1195142A,1916-08-15,kleckler,['PROPN'],[],1,0,1,['kleckler']
+US1195145A,1916-08-15,Tijvglt,['PROPN'],[],1,0,1,['tijvglt']
+US1195157A,1916-08-15,Philip a,"['PROPN', 'PRON']",[],1,0,2,"['philip', 'a']"
+US1195159A,1916-08-15,london,['PROPN'],['GPE'],1,0,1,['london']
+US1195160A,1916-08-15,london,['PROPN'],['GPE'],1,0,1,['london']
+US1195169A,1916-08-22,Masvin e,"['PROPN', 'NOUN']",[],1,0,2,"['masvin', 'e']"
+US1195177A,1916-08-22,Geron,['PROPN'],[],1,0,1,['geron']
+US1195180A,1916-08-22,Vehicle sigkai,"['PROPN', 'VERB']",[],1,0,2,"['vehicle', 'sigkai']"
+US1195190A,1916-08-22,Duster,['PROPN'],[],1,0,1,['duster']
+US1195194A,1916-08-22,Geobge h,"['PROPN', 'VERB']",[],1,0,2,"['geobge', 'h']"
+US1195196A,1916-08-22,Enstein,['PROPN'],['ORG'],1,0,1,['enstein']
+US1195201A,1916-08-22,garrett,['PROPN'],[],1,0,1,['garrett']
+US1195202A,1916-08-22,Orlando miller,"['PROPN', 'NOUN']",['GPE'],1,0,2,"['orlando', 'miller']"
+US1195203A,1916-08-22,gillett,['PROPN'],[],1,0,1,['gillett']
+US1195206A,1916-08-22,goodspeed,['PROPN'],[],1,0,1,['goodspeed']
+US1195213A,1916-08-22,hall wood,"['PROPN', 'NOUN']",[],1,0,2,"['hall', 'wood']"
+US1195214A,1916-08-22,Oscar d,"['PROPN', 'PROPN']",[],1,0,2,"['oscar', 'd']"
+US1195217A,1916-08-22,Ellswoeth a,"['PROPN', 'PRON']",[],1,0,2,"['ellswoeth', 'a']"
+US1195221A,1916-08-22,Method,['PROPN'],[],1,0,2,['method']
+US1195232A,1916-08-22,Dayton,['PROPN'],['ORG'],1,0,1,['dayton']
+US1195234A,1916-08-22,kramer,['PROPN'],[],1,0,1,['kramer']
+US1195244A,1916-08-22,Nathan lidzbabsky,"['PROPN', 'PROPN']",[],1,0,2,"['nathan', 'lidzbabsky']"
+US1195255A,1916-08-22,wewtoh,['PROPN'],[],1,0,1,['wewtoh']
+US1195263A,1916-08-22,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1195268A,1916-08-22,Charles c,"['PROPN', 'VERB']",[],1,0,2,"['charles', 'c']"
+US1195273A,1916-08-22,Kinkted statei,"['PROPN', 'NOUN']",[],1,0,2,"['kinkted', 'statei']"
+US1195275A,1916-08-22,schmidt,['PROPN'],[],1,0,1,['schmidt']
+US1195283A,1916-08-22,Teanspoet,['PROPN'],[],1,0,1,['teanspoet']
+US1195295A,1916-08-22,turner,['PROPN'],[],1,0,1,['turner']
+US1195299A,1916-08-22,wachtek,['PROPN'],[],1,0,1,['wachtek']
+US1195305A,1916-08-22,Pfstoh constkttctioet,"['PROPN', 'VERB']",[],1,0,2,"['pfstoh', 'constkttctioet']"
+US1195309A,1916-08-22,Filing- cabinet,"['PROPN', 'NOUN']",[],1,0,2,"['filing-', 'cabinet']"
+US1195310A,1916-08-22,white,['PROPN'],[],1,0,2,['white']
+US1195311A,1916-08-22,Johw f,"['PROPN', 'PROPN']",[],1,0,2,"['johw', 'f']"
+US1195319A,1916-08-22,Carrier,['PROPN'],[],1,0,1,['carrier']
+US1195323A,1916-08-22,allan,['PROPN'],[],1,0,1,['allan']
+US1195328A,1916-08-22,Maiee,['PROPN'],[],1,0,1,['maiee']
+US1195331A,1916-08-22,blake,['PROPN'],[],1,0,1,['blake']
+US1195332A,1916-08-22,Conveyeb fob,"['PROPN', 'VERB']",[],1,0,2,"['conveyeb', 'fob']"
+US1195345A,1916-08-22,ferney,['PROPN'],[],1,0,1,['ferney']
+US1195346A,1916-08-22,ferney,['PROPN'],[],1,0,1,['ferney']
+US1195351A,1916-08-22,Geobge glatjdel,"['PROPN', 'VERB']",[],1,0,2,"['geobge', 'glatjdel']"
+US1195356A,1916-08-22,Duster,['PROPN'],[],1,0,1,['duster']
+US1195360A,1916-08-22,renewed jan,"['VERB', 'PROPN']",[],1,0,2,"['renewed', 'jan']"
+US1195361A,1916-08-22,Headlight,['PROPN'],[],1,0,1,['headlight']
+US1195370A,1916-08-22,larsen,['PROPN'],[],1,0,1,['larsen']
+US1195384A,1916-08-22,mottlau,['PROPN'],[],1,0,1,['mottlau']
+US1195388A,1916-08-22,Tbiple valve,"['PROPN', 'VERB']",[],1,0,2,"['tbiple', 'valve']"
+US1195390A,1916-08-22,newmann,['PROPN'],[],1,0,1,['newmann']
+US1195392A,1916-08-22,Walter e,"['PROPN', 'NOUN']",[],1,0,2,"['walter', 'e']"
+US1195395A,1916-08-22,preston,['PROPN'],[],1,0,1,['preston']
+US1195403A,1916-08-22,sfrhaap,['PROPN'],[],1,0,1,['sfrhaap']
+US1195412A,1916-08-22,stimson,['PROPN'],[],1,0,1,['stimson']
+US1195421A,1916-08-22,Geokgb d,"['PROPN', 'PROPN']",[],1,0,2,"['geokgb', 'd']"
+US1195422A,1916-08-22,van note,"['PROPN', 'NOUN']",[],1,0,2,"['van', 'note']"
+US1195423A,1916-08-22,Wedge,['PROPN'],[],1,0,1,['wedge']
+US1195424A,1916-08-22,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1195425A,1916-08-22,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1195434A,1916-08-22,bason,['PROPN'],[],1,0,1,['bason']
+US1195458A,1916-08-22,Currycomb,['PROPN'],[],1,0,1,['currycomb']
+US1195459A,1916-08-22,Fedekico giolitti,"['PROPN', 'NOUN']",['GPE'],1,0,2,"['fedekico', 'giolitti']"
+US1195460A,1916-08-22,Jacob e,"['PROPN', 'NOUN']",[],1,0,2,"['jacob', 'e']"
+US1195474A,1916-08-22,of detroit,"['ADP', 'PROPN']",['GPE'],1,0,2,"['of', 'detroit']"
+US1195476A,1916-08-22,juarez,['PROPN'],[],1,0,1,['juarez']
+US1195479A,1916-08-22,Feeder fob,"['PROPN', 'VERB']",[],1,0,2,"['feeder', 'fob']"
+US1195485A,1916-08-22,Charles v,"['PROPN', 'NOUN']",[],1,0,2,"['charles', 'v']"
+US1195487A,1916-08-22,Guste maignen,"['PROPN', 'NOUN']",[],1,0,2,"['guste', 'maignen']"
+US1195490A,1916-08-22,Joseph a,"['PROPN', 'PRON']",[],1,0,2,"['joseph', 'a']"
+US1195491A,1916-08-22,Sidney mason,"['PROPN', 'PROPN']",[],1,0,2,"['sidney', 'mason']"
+US1195493A,1916-08-22,Geobge a,"['PROPN', 'PRON']",[],1,0,2,"['geobge', 'a']"
+US1195503A,1916-08-22,Bcesge assigmtkents,"['PROPN', 'NOUN']",[],1,0,2,"['bcesge', 'assigmtkents']"
+US1195506A,1916-08-22,sanborn,['PROPN'],[],1,0,2,['sanborn']
+US1195507A,1916-08-22,Cooker,['PROPN'],[],1,0,1,['cooker']
+US1195513A,1916-08-22,Hokace a,"['PROPN', 'PRON']",['ORG'],1,0,2,"['hokace', 'a']"
+US1195515A,1916-08-22,Bottlingrmachiste,['PROPN'],[],1,0,1,['bottlingrmachiste']
+US1195518A,1916-08-22,Sylvania,['PROPN'],['ORG'],1,0,1,['sylvania']
+US1195529A,1916-08-22,street,['PROPN'],[],1,0,2,['street']
+US1195530A,1916-08-22,street,['PROPN'],[],1,0,2,['street']
+US1195536A,1916-08-22,Fobnia,['PROPN'],['GPE'],1,0,1,['fobnia']
+US1195538A,1916-08-22,Darius t,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['darius', 't']"
+US1195540A,1916-08-22,warner,['PROPN'],['ORG'],1,0,1,['warner']
+US1195543A,1916-08-22,wicker,['PROPN'],[],1,0,1,['wicker']
+US1195551A,1916-08-22,Nister,['PROPN'],[],1,0,1,['nister']
+US1195552A,1916-08-22,Islazjd,['PROPN'],[],1,0,1,['islazjd']
+US1195554A,1916-08-22,buurdinx,['PROPN'],[],1,0,1,['buurdinx']
+US1195567A,1916-08-22,draughon,['PROPN'],[],1,0,1,['draughon']
+US1195570A,1916-08-22,Alva j,"['PROPN', 'NOUN']",[],1,0,2,"['alva', 'j']"
+US1195579A,1916-08-22,Gardner b,"['NOUN', 'PROPN']",[],1,0,2,"['gardner', 'b']"
+US1195605A,1916-08-22,Tameis powfeb,"['PROPN', 'NOUN']",[],1,0,2,"['tameis', 'powfeb']"
+US1195606A,1916-08-22,Odddddddddc,['PROPN'],[],1,0,1,['odddddddddc']
+US1195612A,1916-08-22,August schrader,"['PROPN', 'NOUN']",['DATE'],1,0,2,"['august', 'schrader']"
+US1195613A,1916-08-22,Samuel segal,"['PROPN', 'NOUN']",[],1,0,2,"['samuel', 'segal']"
+US1195618A,1916-08-22,Charles smallwood,"['PROPN', 'NOUN']",[],1,0,2,"['charles', 'smallwood']"
+US1195624A,1916-08-22,Psopelleb,['PROPN'],[],1,0,1,['psopelleb']
+US1195638A,1916-08-22,Ztjleime b,"['PROPN', 'NOUN']",[],1,0,2,"['ztjleime', 'b']"
+US1195644A,1916-08-22,beard,['PROPN'],[],1,0,1,['beard']
+US1195660A,1916-08-22,Rheostat,['PROPN'],[],1,0,1,['rheostat']
+US1195664A,1916-08-22,Buckle,['PROPN'],[],1,0,1,['buckle']
+US1195677A,1916-08-22,Aiibbecht heil,"['PROPN', 'NOUN']",[],1,0,2,"['aiibbecht', 'heil']"
+US1195694A,1916-08-22,lewis,['PROPN'],[],1,0,1,['lewis']
+US1195695A,1916-08-22,lewis,['PROPN'],[],1,0,1,['lewis']
+US1195699A,1916-08-22,Tetjck,['PROPN'],['GPE'],1,0,1,['tetjck']
+US1195708A,1916-08-22,Rison,['PROPN'],[],1,0,1,['rison']
+US1195715A,1916-08-22,Eabl f,"['PROPN', 'PROPN']",[],1,0,2,"['eabl', 'f']"
+US1195718A,1916-08-22,pembroke,['PROPN'],[],1,0,1,['pembroke']
+US1195720A,1916-08-22,Leon pilaski,"['PROPN', 'VERB']",[],1,0,2,"['leon', 'pilaski']"
+US1195723A,1916-01-22,pratt,['PROPN'],[],1,0,1,['pratt']
+US1195737A,1916-08-22,Apparatus for,"['PROPN', 'ADP']",[],1,0,2,"['apparatus', 'for']"
+US1195745A,1916-08-22,Benjamin snydeb,"['PROPN', 'VERB']",[],1,0,2,"['benjamin', 'snydeb']"
+US1195750A,1916-08-22,Reuben n,"['PROPN', 'ADV']",['NORP'],1,0,2,"['reuben', 'n']"
+US1195752A,1916-08-22,Nandez vega,"['PROPN', 'PROPN']",[],1,0,2,"['nandez', 'vega']"
+US1195764A,1916-08-22,of paris,"['ADP', 'PROPN']",['GPE'],1,0,2,"['of', 'paris']"
+US1195767A,1916-08-22,berger,['PROPN'],[],1,0,1,['berger']
+US1195769A,1916-08-22,betts,['PROPN'],[],1,0,1,['betts']
+US1195778A,1916-08-22,Chusetts,['PROPN'],['NORP'],1,0,1,['chusetts']
+US1195784A,1916-08-22,Edgae l,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['edgae', 'l']"
+US1195789A,1916-08-22,Alexandee dombrowsky,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['alexandee', 'dombrowsky']"
+US1195791A,1916-08-22,Leahdeb ditncajst,"['PROPN', 'ADV']",[],1,0,2,"['leahdeb', 'ditncajst']"
+US1195798A,1916-08-22,ennis,['PROPN'],[],1,0,1,['ennis']
+US1195800A,1916-08-22,fisher,['PROPN'],[],1,0,1,['fisher']
+US1195808A,1916-08-22,Mato gbgich,"['PROPN', 'PROPN']",[],1,0,2,"['mato', 'gbgich']"
+US1195815A,1916-08-22,hightoweb,['PROPN'],[],1,0,1,['hightoweb']
+US1195825A,1916-08-22,Moccasijj,['PROPN'],['NORP'],1,0,1,['moccasijj']
+US1195829A,1916-08-22,mcdermott,['PROPN'],[],1,0,1,['mcdermott']
+US1195836A,1916-08-22,Goheky,['PROPN'],['ORG'],1,0,1,['goheky']
+US1195838A,1916-08-22,Grain- valve,"['PROPN', 'VERB']",[],1,0,2,"['grain-', 'valve']"
+US1195843A,1916-08-22,Kamekxchi murakami,"['PROPN', 'NOUN']",['GPE'],1,0,2,"['kamekxchi', 'murakami']"
+US1195847A,1916-08-22,Caul nobby,"['PROPN', 'PROPN']",[],1,0,2,"['caul', 'nobby']"
+US1195850A,1916-08-22,paige,['PROPN'],[],1,0,1,['paige']
+US1195865A,1916-08-22,Necticut,['PROPN'],[],1,0,1,['necticut']
+US1195868A,1916-08-22,Walter e,"['PROPN', 'NOUN']",[],1,0,2,"['walter', 'e']"
+US1195872A,1916-08-22,thomson,['PROPN'],[],1,0,1,['thomson']
+US1195879A,1916-08-22,Consin,['PROPN'],['GPE'],1,0,1,['consin']
+US1195897A,1916-08-22,Jesse e,"['PROPN', 'X']",[],1,0,2,"['jesse', 'e']"
+US1195912A,1916-08-22,Nvjljll,['PROPN'],[],1,0,1,['nvjljll']
+US1195913A,1916-08-22,cubbt,['PROPN'],[],1,0,1,['cubbt']
+US1195914A,1916-08-22,Bkoodek,['PROPN'],['ORG'],1,0,1,['bkoodek']
+US1195923A,1916-08-22,Schaft,['PROPN'],[],1,0,1,['schaft']
+US1195929A,1916-08-22,Geoese l,"['PROPN', 'NOUN']",[],1,0,2,"['geoese', 'l']"
+US1195933A,1916-08-22,Wagoner,['PROPN'],[],1,0,1,['wagoner']
+US1195938A,1916-08-22,Toy cane,"['PROPN', 'NOUN']",[],1,0,2,"['toy', 'cane']"
+US1195945A,1916-08-22,mitchell,['PROPN'],[],1,0,1,['mitchell']
+US1195950A,1916-08-22,mart b,"['PROPN', 'PROPN']",[],1,0,2,"['mart', 'b']"
+US1195976A,1916-08-29,chesebro,['PROPN'],[],1,0,1,['chesebro']
+US1195977A,1916-08-29,Merrill e,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['merrill', 'e']"
+US1195978A,1916-08-29,Harry p,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['harry', 'p']"
+US1195984A,1916-08-29,Alexander feleki,"['PROPN', 'PROPN']",['GPE'],1,0,2,"['alexander', 'feleki']"
+US1195986A,1916-08-29,Eison,['PROPN'],['GPE'],1,0,1,['eison']
+US1195995A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['meredith', 'leitch']"
+US1195997A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['meredith', 'leitch']"
+US1195998A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['meredith', 'leitch']"
+US1195999A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['meredith', 'leitch']"
+US1196000A,1916-08-29,Meredith leitch,"['PROPN', 'NOUN']",['ORG'],1,0,2,"['meredith', 'leitch']"
+US1196017A,1916-08-29,Cultivator,['PROPN'],[],1,0,1,['cultivator']
+US1196020A,1916-08-29,Evapobato,['PROPN'],[],1,0,1,['evapobato']
+US1196031A,1916-08-29,barton,['PROPN'],[],1,0,1,['barton']
+US1196033A,1916-08-29,schmuck,['PROPN'],[],1,0,1,['schmuck']
+US1196039A,1916-08-29,Logan smith,"['PROPN', 'PROPN']",[],1,0,2,"['logan', 'smith']"
+US1196040A,1913-02-25,smith,['PROPN'],[],1,0,1,['smith']
+US1196041A,1916-08-29,smith,['PROPN'],[],1,0,1,['smith']
+US1196042A,1916-08-29,smith,['PROPN'],[],1,0,1,['smith']
+US1196049A,1916-08-29,von rauschenplat,"['PROPN', 'PROPN']",[],1,0,2,"['von', 'rauschenplat']"
+US1196062A,1916-08-29,wolgott,['PROPN'],[],1,0,1,['wolgott']
+US1196064A,1916-08-29,Vaktia,['PROPN'],[],1,0,1,['vaktia']
+US1196068A,1916-08-29,baker,['PROPN'],[],1,0,1,['baker']
+US1196071A,1916-08-29,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1196072A,1916-08-29,Sylvania,['PROPN'],['ORG'],1,0,1,['sylvania']
+US1196073A,1916-08-29,Birmingham,['PROPN'],['GPE'],1,0,1,['birmingham']
+US1196080A,1916-08-29,Johh g,"['PROPN', 'NOUN']",[],1,0,2,"['johh', 'g']"
+US1196082A,1916-08-29,Edwabd w,"['NOUN', 'PROPN']",[],1,0,2,"['edwabd', 'w']"
+US1196093A,1916-08-29,Geoeges eiltz,"['NOUN', 'PROPN']",[],1,0,2,"['geoeges', 'eiltz']"
+US1196100A,1916-08-29,galitzki,['PROPN'],[],1,0,1,['galitzki']
+US1196101A,1916-08-29,Ttntthttrt,['PROPN'],['GPE'],1,0,1,['ttntthttrt']
+US1196109A,1916-08-29,healey,['PROPN'],[],1,0,2,['healey']
+US1196118A,1916-08-29,Vania,['PROPN'],['GPE'],1,0,1,['vania']
+US1196119A,1916-08-29,krupp,['PROPN'],[],1,0,1,['krupp']
+US1196127A,1916-08-29,geemany,['PROPN'],[],1,0,1,['geemany']
+US1196128A,1916-08-29,Jstet,['PROPN'],[],1,0,1,['jstet']
+US1196134A,1916-08-29,monroe,['PROPN'],[],1,0,1,['monroe']
+US1196135A,1916-08-29,morgan,['PROPN'],[],1,0,1,['morgan']
+US1196149A,1916-08-29,Botaet valve,"['PROPN', 'VERB']",[],1,0,2,"['botaet', 'valve']"
+US1196154A,1916-08-29,Emanuel rosenberg,"['PROPN', 'PROPN']",[],1,0,2,"['emanuel', 'rosenberg']"
+US1196157A,1916-08-29,Albeht c,"['PROPN', 'AUX']",['ORG'],1,0,2,"['albeht', 'c']"
+US1196162A,1916-08-29,Speedometer,['PROPN'],[],1,0,1,['speedometer']
+US1196171A,1916-08-29,Bergee,['PROPN'],[],1,0,1,['bergee']
+US1196174A,1916-08-29,tayloe,['PROPN'],[],1,0,1,['tayloe']
+US1196183A,1916-08-29,Fornia,['PROPN'],['GPE'],1,0,1,['fornia']
+US1196188A,1916-08-29,wahlberg,['PROPN'],[],1,0,1,['wahlberg']
+US1196198A,1916-08-29,Geobge d,"['PROPN', 'PROPN']",[],1,0,2,"['geobge', 'd']"
+US1196199A,1916-08-29,Fornia,['PROPN'],['GPE'],1,0,1,['fornia']
+US1196200A,1916-08-29,Cartkxdge,['PROPN'],[],1,0,1,['cartkxdge']
+US1196204A,1916-08-29,Collar,['PROPN'],[],1,0,1,['collar']
+US1196205A,1916-08-29,petek buoakbookfl,"['PROPN', 'PROPN']",[],1,0,2,"['petek', 'buoakbookfl']"
+US1199517A,1916-09-26,Thomas j,"['PROPN', 'PROPN']",[],1,0,2,"['thomas', 'j']"
+US1199851A,1916-10-03,wooisey,['PROPN'],['GPE'],1,0,1,['wooisey']
+US1193141A,1916-08-01,Chuck,['PROPN'],['PERSON'],1,1,1,['chuck']
+US1193167A,1916-08-01,martin,['PROPN'],['PERSON'],1,1,1,['martin']
+US1193169A,1916-08-01,martin,['PROPN'],['PERSON'],1,1,1,['martin']
+US1193178A,1916-08-01,Harry s,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['harry', 's']"
+US1193208A,1916-08-01,carl w,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['carl', 'w']"
+US1193211A,1916-08-01,webster,['PROPN'],['PERSON'],1,1,1,['webster']
+US1193229A,1916-08-01,boyer,['PROPN'],['PERSON'],1,1,1,['boyer']
+US1193310A,1916-08-01,Windmill,['PROPN'],['PERSON'],1,1,1,['windmill']
+US1193406A,1916-08-01,martin,['PROPN'],['PERSON'],1,1,1,['martin']
+US1193412A,1916-08-01,nelson,['PROPN'],['PERSON'],1,1,1,['nelson']
+US1193413A,1916-08-01,nelson,['PROPN'],['PERSON'],1,1,1,['nelson']
+US1193479A,1916-08-01,Otto g,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['otto', 'g']"
+US1193483A,1916-08-01,Levin s,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['levin', 's']"
+US1193515A,1916-08-08,Frank e,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['frank', 'e']"
+US1193647A,1916-08-08,Frank g,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['frank', 'g']"
+US1193799A,1916-08-08,Walter s,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['walter', 's']"
+US1193824A,1916-08-08,Walter s,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['walter', 's']"
+US1193925A,1916-08-08,Earl w,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['earl', 'w']"
+US1194140A,1916-08-08,Lewis w,"['PROPN', 'X']",['PERSON'],1,1,2,"['lewis', 'w']"
+US1194166A,1916-08-08,Henry l,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['henry', 'l']"
+US1194339A,1916-08-08,martin,['PROPN'],['PERSON'],1,1,1,['martin']
+US1194558A,1916-08-15,Jean v,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['jean', 'v']"
+US1194664A,1916-08-15,Frank e,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['frank', 'e']"
+US1194680A,1916-08-15,Baker,['PROPN'],['PERSON'],1,1,1,['baker']
+US1194682A,1916-08-15,Lander,['PROPN'],['PERSON'],1,1,1,['lander']
+US1194833A,1916-08-15,Harry g,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['harry', 'g']"
+US1195033A,1916-08-15,la moy,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['la', 'moy']"
+US1195059A,1916-08-15,martin,['PROPN'],['PERSON'],1,1,1,['martin']
+US1195096A,1916-08-15,Ralph v,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['ralph', 'v']"
+US1195152A,1916-08-15,Alfalfa extract,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['alfalfa', 'extract']"
+US1195165A,1916-08-15,Frank e,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['frank', 'e']"
+US1195212A,1916-08-22,Warren p,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['warren', 'p']"
+US1195354A,1916-08-22,Ralph k,"['PROPN', 'X']",['PERSON'],1,1,2,"['ralph', 'k']"
+US1195380A,1916-08-22,Henry miller,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['henry', 'miller']"
+US1195438A,1916-08-22,burton,['PROPN'],['PERSON'],1,1,1,['burton']
+US1195449A,1916-08-22,Solenoid,['PROPN'],['PERSON'],1,1,1,['solenoid']
+US1195519A,1916-08-22,Henry m,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['henry', 'm']"
+US1195742A,1916-08-22,schimmel,['PROPN'],['PERSON'],1,1,2,['schimmel']
+US1195762A,1916-08-22,Harry d,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['harry', 'd']"
+US1195777A,1916-08-22,burton,['PROPN'],['PERSON'],1,1,1,['burton']
+US1195845A,1916-08-22,Harry w,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['harry', 'w']"
+US1195901A,1916-08-22,Chuck,['PROPN'],['PERSON'],1,1,1,['chuck']
+US1196013A,1916-08-29,Carl p,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['carl', 'p']"
+US1196076A,1916-08-29,Stein,['PROPN'],['PERSON'],1,1,1,['stein']
+US1196085A,1916-08-29,Henry t,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['henry', 't']"
+US1196124A,1916-08-29,Walter,['PROPN'],['PERSON'],1,1,2,['walter']
+US1196140A,1916-08-29,nelson,['PROPN'],['PERSON'],1,1,1,['nelson']
+US1196186A,1916-08-29,Burgh,['PROPN'],['PERSON'],1,1,1,['burgh']
+US1196193A,1916-08-29,Lee west,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['lee', 'west']"

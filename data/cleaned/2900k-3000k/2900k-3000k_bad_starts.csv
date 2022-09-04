@@ -1,78 +1,84 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US2907775A,1958-07-21,"N, n'-bis(dialkoxyphosphinothioyl)-p-benzoquinone diimine compounds","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'PROPN', 'NOUN', 'VERB']",[],1,0,8,0,1
-US2950475A,1947-11-14,Off-center cursor for ppi,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'PROPN']",[],1,0,7,0,1
-US2952450A,1959-04-30,In situ exploitation of lignite using steam,"['ADP', 'ADJ', 'NOUN', 'ADP', 'PROPN', 'VERB', 'NOUN']",[],1,0,8,0,1
-US2900688A,1958-06-26,In-line coupler,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2901072A,1956-06-01,Over-running clutch couplings or the like,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'ADJ']",[],0,0,9,0,1
-US2904919A,1957-09-25,Under ice towing and launching device,"['ADP', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,7,0,1
-US2905023A,1956-11-13,In-line reversing mechanism,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US2905876A,1957-04-08,On-and-off velocity servosystem,"['ADP', 'PUNCT', 'CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US2905877A,1956-05-04,On-off servosystem with proportional control features,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'VERB']",[],0,0,9,0,1
-US2907437A,1954-02-11,At-will end-of-line or complete justifying typewriter,"['ADP', 'PUNCT', 'AUX', 'VERB', 'PUNCT', 'ADP', 'PUNCT', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'NOUN']",[],0,0,13,0,1
-US2909359A,1954-11-12,Off-shore drilling,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2909694A,1957-02-26,Over-voltage protective device,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US2909900A,1954-01-06,Off-shore working assembly,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US2911206A,1957-03-08,In situ retorting of oil shale,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US2913184A,1956-07-17,On-off humidifying systems,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US2913369A,1955-07-05,Fungicide,['ADP'],[],0,0,2,0,1
-US2915063A,1957-12-23,In-dwelling cannula,"['ADP', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
-US2916092A,1957-05-20,By-pass liner hanging apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,0,1
-US2916587A,1957-08-14,In-line fuse,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2919926A,1958-05-29,Over-wheel stabilizers for vehicles,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,1
-US2921247A,1958-11-03,On-off and proportional control transistor servosystem,"['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US2921634A,1957-11-12,On and off tool,"['ADP', 'CCONJ', 'ADP', 'NOUN']",[],0,0,5,0,1
-US2925833A,1957-06-15,Weft inserting nozzle for looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",['ORG'],0,0,6,0,1
-US2926413A,1955-01-11,Inside mold part for cast concrete,"['ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,0,1
-US2930598A,1957-08-26,In situ combustion of carbonaceous deposits,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,0,1
-US2930780A,1955-02-22,Polypeptide formation using pentamethyl guanidine as catalyst,"['ADP', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,0,1
-US2933876A,1957-08-08,Down corn lifter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US2935199A,1958-01-24,Under gravel filter device,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2938547A,1956-03-20,Weft holding means for weaving looms with continuous weft feed,"['ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,11,0,1
-US2940017A,1957-04-04,In-flight test system and assembly,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,8,0,1
-US2942433A,1956-03-07,By-pass control in air conditioning systems,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US2943491A,1955-03-29,Under drive balancing machine,"['ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,5,0,1
-US2945085A,1958-09-15,Through-wall divided connector,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,0,1
-US2946605A,1956-03-22,In-flight aircraft refueling apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US2947139A,1957-08-29,By-pass turbojet,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2953491A,1957-11-21,Fungicide,['ADP'],[],0,0,2,0,1
-US2954218A,1956-12-17,In situ roasting and leaching of uranium ores,"['ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,9,0,1
-US2955114A,1958-03-12,Nor-piperidyl glycolate esters,"['CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US2957358A,1958-07-14,Over center lever assist mechanism,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US2957855A,1960-10-25,From hydrocar,"['ADP', 'NOUN']",[],0,0,2,0,1
-US2958380A,1957-06-17,In-situ combustion process for the production of oil,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,11,0,1
-US2958519A,1958-06-23,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2959231A,1957-05-22,In row-straddle row cultivator,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US2963617A,1958-02-04,Over-voltage protective device,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US2964028A,1959-05-20,Over-speed air shut-off valves for internal combustion engines,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,13,0,1
-US2965174A,1958-01-27,Off-shore well installation and method,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB']",[],0,0,8,0,1
-US2966652A,1957-03-12,Through clip connector for printed circuit board,"['ADP', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US2967052A,1958-03-31,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2970247A,1958-07-23,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
-US2970253A,1957-09-13,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
-US2971806A,1957-07-18,In-and-out pager cabinet,"['ADP', 'PUNCT', 'CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US2972723A,1957-05-02,Through type transformer,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US2973171A,1957-01-15,In-flight connection for aircraft,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,0,1
-US2975355A,1958-03-20,By-pass circuit for contact converters,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US2976663A,1956-04-19,Under tree hoe mower,"['ADP', 'NOUN', 'NOUN', 'VERB']",[],0,0,5,0,1
-US2977074A,1956-03-15,Over-run spring type barriers,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'NOUN']",['DATE'],0,0,7,0,1
-US2978046A,1958-06-02,Off-bottom drill stem tester,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'ADJ']",[],0,0,7,0,1
-US2979915A,1957-01-09,Off season liquid chiller control device,"['ADP', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US2981350A,1958-07-25,In-hold cargo handling device,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US2983859A,1955-05-20,On-off control systems with fast time scale computer,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,11,0,1
-US2985255A,1959-09-08,After-burner for internal combustion engine exhaust gases,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,10,0,1
-US2986172A,1959-02-06,Weft detecting mechanism for looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
-US2987584A,1958-11-28,In-ear hearing aid,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,0,1
-US2987919A,1957-01-29,Over temperature control unit,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2988475A,1955-02-24,Fungicide,['ADP'],[],0,0,2,0,1
-US2989519A,1959-04-23,Bromide as bleaching catalyst,"['ADP', 'ADP', 'VERB', 'NOUN']",[],0,0,5,0,1
-US2990233A,1956-12-31,After-glow suppressing cellulose derivatives,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US2990890A,1959-07-17,In row cultivator,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US2992397A,1959-03-02,Oscillator having output means to selectively provide for crystal calibration and impedance matching,"['ADP', 'VERB', 'NOUN', 'VERB', 'PART', 'ADV', 'VERB', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB']",[],0,0,14,0,1
-US2993129A,1958-02-19,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
-US2994374A,1961-08-01,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US2994376A,1957-12-27,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2994377A,1958-03-24,In situ combustion in carbonaceous strata,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,0,1
-US2995973A,1959-10-23,In-line spectrometer,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US2997530A,1958-04-21,Through terminal and mounting for sheet elements,"['ADP', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US2997721A,1959-06-08,Over-head service and cleaning apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US2999539A,1957-11-07,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts
+US2907775A,1958-07-21,"N, n'-bis(dialkoxyphosphinothioyl)-p-benzoquinone diimine compounds","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'PROPN', 'NOUN', 'VERB']",[],1,0,8,"['n,', ""n'-bis(dialkoxyphosphinothioyl)-p-benzoquinone"", 'diimine', 'compounds']",0,1
+US2950475A,1947-11-14,Off-center cursor for ppi,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'PROPN']",[],1,0,7,"['off-center', 'cursor', 'for', 'ppi']",0,1
+US2952450A,1959-04-30,In situ exploitation of lignite using steam,"['ADP', 'ADJ', 'NOUN', 'ADP', 'PROPN', 'VERB', 'NOUN']",[],1,0,8,"['in', 'situ', 'exploitation', 'of', 'lignite', 'using', 'steam']",0,1
+US2900688A,1958-06-26,In-line coupler,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['in-line', 'coupler']",0,1
+US2901072A,1956-06-01,Over-running clutch couplings or the like,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'ADJ']",[],0,0,9,"['over-running', 'clutch', 'couplings', 'or', 'the', 'like']",0,1
+US2904919A,1957-09-25,Under ice towing and launching device,"['ADP', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,7,"['under', 'ice', 'towing', 'and', 'launching', 'device']",0,1
+US2905023A,1956-11-13,In-line reversing mechanism,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['in-line', 'reversing', 'mechanism']",0,1
+US2905876A,1957-04-08,On-and-off velocity servosystem,"['ADP', 'PUNCT', 'CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['on-and-off', 'velocity', 'servosystem']",0,1
+US2905877A,1956-05-04,On-off servosystem with proportional control features,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'VERB']",[],0,0,9,"['on-off', 'servosystem', 'with', 'proportional', 'control', 'features']",0,1
+US2907437A,1954-02-11,At-will end-of-line or complete justifying typewriter,"['ADP', 'PUNCT', 'AUX', 'VERB', 'PUNCT', 'ADP', 'PUNCT', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'NOUN']",[],0,0,13,"['at-will', 'end-of-line', 'or', 'complete', 'justifying', 'typewriter']",0,1
+US2909359A,1954-11-12,Off-shore drilling,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['off-shore', 'drilling']",0,1
+US2909694A,1957-02-26,Over-voltage protective device,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,6,"['over-voltage', 'protective', 'device']",0,1
+US2909900A,1954-01-06,Off-shore working assembly,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['off-shore', 'working', 'assembly']",0,1
+US2911206A,1957-03-08,In situ retorting of oil shale,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,"['in', 'situ', 'retorting', 'of', 'oil', 'shale']",0,1
+US2913184A,1956-07-17,On-off humidifying systems,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['on-off', 'humidifying', 'systems']",0,1
+US2913369A,1955-07-05,Fungicide,['ADP'],[],0,0,2,['fungicide'],0,1
+US2915063A,1957-12-23,In-dwelling cannula,"['ADP', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,"['in-dwelling', 'cannula']",0,1
+US2916092A,1957-05-20,By-pass liner hanging apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,"['by-pass', 'liner', 'hanging', 'apparatus']",0,1
+US2916587A,1957-08-14,In-line fuse,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['in-line', 'fuse']",0,1
+US2919926A,1958-05-29,Over-wheel stabilizers for vehicles,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,"['over-wheel', 'stabilizers', 'for', 'vehicles']",0,1
+US2921247A,1958-11-03,On-off and proportional control transistor servosystem,"['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,"['on-off', 'and', 'proportional', 'control', 'transistor', 'servosystem']",0,1
+US2921634A,1957-11-12,On and off tool,"['ADP', 'CCONJ', 'ADP', 'NOUN']",[],0,0,5,"['on', 'and', 'off', 'tool']",0,1
+US2925833A,1957-06-15,Weft inserting nozzle for looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",['ORG'],0,0,6,"['weft', 'inserting', 'nozzle', 'for', 'looms']",0,1
+US2926413A,1955-01-11,Inside mold part for cast concrete,"['ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,"['inside', 'mold', 'part', 'for', 'cast', 'concrete']",0,1
+US2930598A,1957-08-26,In situ combustion of carbonaceous deposits,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,"['in', 'situ', 'combustion', 'of', 'carbonaceous', 'deposits']",0,1
+US2930780A,1955-02-22,Polypeptide formation using pentamethyl guanidine as catalyst,"['ADP', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['polypeptide', 'formation', 'using', 'pentamethyl', 'guanidine', 'as', 'catalyst']",0,1
+US2933876A,1957-08-08,Down corn lifter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['down', 'corn', 'lifter']",0,1
+US2935199A,1958-01-24,Under gravel filter device,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['under', 'gravel', 'filter', 'device']",0,1
+US2938547A,1956-03-20,Weft holding means for weaving looms with continuous weft feed,"['ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,11,"['weft', 'holding', 'means', 'for', 'weaving', 'looms', 'with', 'continuous', 'weft', 'feed']",0,1
+US2940017A,1957-04-04,In-flight test system and assembly,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,8,"['in-flight', 'test', 'system', 'and', 'assembly']",0,1
+US2942433A,1956-03-07,By-pass control in air conditioning systems,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,"['by-pass', 'control', 'in', 'air', 'conditioning', 'systems']",0,1
+US2943491A,1955-03-29,Under drive balancing machine,"['ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,5,"['under', 'drive', 'balancing', 'machine']",0,1
+US2945085A,1958-09-15,Through-wall divided connector,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,"['through-wall', 'divided', 'connector']",0,1
+US2946605A,1956-03-22,In-flight aircraft refueling apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,"['in-flight', 'aircraft', 'refueling', 'apparatus']",0,1
+US2947139A,1957-08-29,By-pass turbojet,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['by-pass', 'turbojet']",0,1
+US2953491A,1957-11-21,Fungicide,['ADP'],[],0,0,2,['fungicide'],0,1
+US2954218A,1956-12-17,In situ roasting and leaching of uranium ores,"['ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,9,"['in', 'situ', 'roasting', 'and', 'leaching', 'of', 'uranium', 'ores']",0,1
+US2955114A,1958-03-12,Nor-piperidyl glycolate esters,"['CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['nor-piperidyl', 'glycolate', 'esters']",0,1
+US2957358A,1958-07-14,Over center lever assist mechanism,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['over', 'center', 'lever', 'assist', 'mechanism']",0,1
+US2957855A,1960-10-25,From hydrocar,"['ADP', 'NOUN']",[],0,0,2,"['from', 'hydrocar']",0,1
+US2958380A,1957-06-17,In-situ combustion process for the production of oil,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,11,"['in-situ', 'combustion', 'process', 'for', 'the', 'production', 'of', 'oil']",0,1
+US2958519A,1958-06-23,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'process']",0,1
+US2959231A,1957-05-22,In row-straddle row cultivator,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,"['in', 'row-straddle', 'row', 'cultivator']",0,1
+US2963617A,1958-02-04,Over-voltage protective device,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,6,"['over-voltage', 'protective', 'device']",0,1
+US2964028A,1959-05-20,Over-speed air shut-off valves for internal combustion engines,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,13,"['over-speed', 'air', 'shut-off', 'valves', 'for', 'internal', 'combustion', 'engines']",0,1
+US2965174A,1958-01-27,Off-shore well installation and method,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB']",[],0,0,8,"['off-shore', 'well', 'installation', 'and', 'method']",0,1
+US2966652A,1957-03-12,Through clip connector for printed circuit board,"['ADP', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,8,"['through', 'clip', 'connector', 'for', 'printed', 'circuit', 'board']",0,1
+US2967052A,1958-03-31,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'process']",0,1
+US2970247A,1958-07-23,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,"['amplifier', 'circuits']",0,1
+US2970253A,1957-09-13,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,"['amplifier', 'circuits']",0,1
+US2971806A,1957-07-18,In-and-out pager cabinet,"['ADP', 'PUNCT', 'CCONJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['in-and-out', 'pager', 'cabinet']",0,1
+US2972723A,1957-05-02,Through type transformer,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['through', 'type', 'transformer']",0,1
+US2973171A,1957-01-15,In-flight connection for aircraft,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,"['in-flight', 'connection', 'for', 'aircraft']",0,1
+US2975355A,1958-03-20,By-pass circuit for contact converters,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,"['by-pass', 'circuit', 'for', 'contact', 'converters']",0,1
+US2976663A,1956-04-19,Under tree hoe mower,"['ADP', 'NOUN', 'NOUN', 'VERB']",[],0,0,5,"['under', 'tree', 'hoe', 'mower']",0,1
+US2977074A,1956-03-15,Over-run spring type barriers,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'NOUN']",['DATE'],0,0,7,"['over-run', 'spring', 'type', 'barriers']",0,1
+US2978046A,1958-06-02,Off-bottom drill stem tester,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'ADJ']",[],0,0,7,"['off-bottom', 'drill', 'stem', 'tester']",0,1
+US2979915A,1957-01-09,Off season liquid chiller control device,"['ADP', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,"['off', 'season', 'liquid', 'chiller', 'control', 'device']",0,1
+US2981350A,1958-07-25,In-hold cargo handling device,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,"['in-hold', 'cargo', 'handling', 'device']",0,1
+US2983859A,1955-05-20,On-off control systems with fast time scale computer,"['ADP', 'PUNCT', 'ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,11,"['on-off', 'control', 'systems', 'with', 'fast', 'time', 'scale', 'computer']",0,1
+US2985255A,1959-09-08,After-burner for internal combustion engine exhaust gases,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,10,"['after-burner', 'for', 'internal', 'combustion', 'engine', 'exhaust', 'gases']",0,1
+US2986172A,1959-02-06,Weft detecting mechanism for looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['weft', 'detecting', 'mechanism', 'for', 'looms']",0,1
+US2987584A,1958-11-28,In-ear hearing aid,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,"['in-ear', 'hearing', 'aid']",0,1
+US2987919A,1957-01-29,Over temperature control unit,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['over', 'temperature', 'control', 'unit']",0,1
+US2988475A,1955-02-24,Fungicide,['ADP'],[],0,0,2,['fungicide'],0,1
+US2989519A,1959-04-23,Bromide as bleaching catalyst,"['ADP', 'ADP', 'VERB', 'NOUN']",[],0,0,5,"['bromide', 'as', 'bleaching', 'catalyst']",0,1
+US2990233A,1956-12-31,After-glow suppressing cellulose derivatives,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN', 'NOUN']",[],0,0,7,"['after-glow', 'suppressing', 'cellulose', 'derivatives']",0,1
+US2990890A,1959-07-17,In row cultivator,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['in', 'row', 'cultivator']",0,1
+US2992397A,1959-03-02,Oscillator having output means to selectively provide for crystal calibration and impedance matching,"['ADP', 'VERB', 'NOUN', 'VERB', 'PART', 'ADV', 'VERB', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB']",[],0,0,14,"['oscillator', 'having', 'output', 'means', 'to', 'selectively', 'provide', 'for', 'crystal', 'calibration', 'and', 'impedance', 'matching']",0,1
+US2993129A,1958-02-19,Amplifier circuits,"['ADP', 'NOUN']",['PERSON'],0,1,3,"['amplifier', 'circuits']",0,1
+US2994374A,1961-08-01,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['in', 'situ', 'combustion', 'process']",0,1
+US2994376A,1957-12-27,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'process']",0,1
+US2994377A,1958-03-24,In situ combustion in carbonaceous strata,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,"['in', 'situ', 'combustion', 'in', 'carbonaceous', 'strata']",0,1
+US2995973A,1959-10-23,In-line spectrometer,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['in-line', 'spectrometer']",0,1
+US2997530A,1958-04-21,Through terminal and mounting for sheet elements,"['ADP', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,"['through', 'terminal', 'and', 'mounting', 'for', 'sheet', 'elements']",0,1
+US2997721A,1959-06-08,Over-head service and cleaning apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,8,"['over-head', 'service', 'and', 'cleaning', 'apparatus']",0,1
+US2999539A,1957-11-07,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'process']",0,1
+US2917698A,1957-09-23,Amplifier,['ADP'],['PERSON'],0,1,2,['amplifier'],0,1
+US2919411A,1957-11-01,Amplifier,['ADP'],['PERSON'],0,1,2,['amplifier'],0,1
+US2939087A,1959-09-21,Amplifier,['ADP'],['PERSON'],0,1,2,['amplifier'],0,1
+US2957121A,1958-07-29,Amplifier,['ADP'],['PERSON'],0,1,2,['amplifier'],0,1
+US2979668A,1957-09-16,Amplifier,['ADP'],['PERSON'],0,1,2,['amplifier'],0,1
+US2995653A,1959-07-16,Amplifier,['ADP'],['PERSON'],0,1,2,['amplifier'],0,1

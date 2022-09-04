@@ -1,20 +1,17 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len
-US804291A,1905-11-14,Albert o,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US810799A,1906-01-23,Joseph w,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US814459A,1906-03-06,Erwin keamer,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US814475A,1906-03-06,Leslie d,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US814479A,1906-03-06,John w,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US814490A,1906-03-06,Ludwig weiss,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US818899A,1906-04-24,martin,['PROPN'],['PERSON'],1,1,1
-US821187A,1906-05-22,peters,['NOUN'],['PERSON'],0,1,1
-US827589A,1906-07-31,warren,['PROPN'],['PERSON'],1,1,2
-US833390A,1906-10-16,howard b,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US847668A,1907-03-19,Albert lang,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US848039A,1907-03-26,Fkkpekick w,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US849414A,1907-04-09,emil tmueller,"['X', 'NOUN']",['PERSON'],0,1,2
-US867932A,1907-10-08,John weeks,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US867935A,1907-10-08,George s,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US876718A,1908-01-14,Otto kampfe,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US895477A,1908-08-11,Karl lexdrich,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US897240A,1908-08-25,Harry g,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US899959A,1908-09-29,Thomas b,"['PROPN', 'PROPN']",['PERSON'],1,1,2
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,is_inventor
+US804291A,1905-11-14,Albert o,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['albert', 'o']",1
+US810799A,1906-01-23,Joseph w,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['joseph', 'w']",1
+US814459A,1906-03-06,Erwin keamer,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['erwin', 'keamer']",1
+US814475A,1906-03-06,Leslie d,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['leslie', 'd']",1
+US814479A,1906-03-06,John w,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['john', 'w']",1
+US814490A,1906-03-06,Ludwig weiss,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['ludwig', 'weiss']",1
+US821187A,1906-05-22,peters,['NOUN'],['PERSON'],0,1,1,['peters'],1
+US833390A,1906-10-16,howard b,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['howard', 'b']",1
+US847668A,1907-03-19,Albert lang,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['albert', 'lang']",1
+US848039A,1907-03-26,Fkkpekick w,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['fkkpekick', 'w']",1
+US849414A,1907-04-09,emil tmueller,"['X', 'NOUN']",['PERSON'],0,1,2,"['emil', 'tmueller']",1
+US867932A,1907-10-08,John weeks,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['john', 'weeks']",1
+US867935A,1907-10-08,George s,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['george', 's']",1
+US876718A,1908-01-14,Otto kampfe,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['otto', 'kampfe']",1
+US895477A,1908-08-11,Karl lexdrich,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['karl', 'lexdrich']",1
+US899959A,1908-09-29,Thomas b,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['thomas', 'b']",1

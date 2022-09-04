@@ -1,71 +1,71 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts,misspelt_words,misspelt
-US1016339A,1911-11-01,Cooking utensil,"['VERB', 'PROPN']",[],1,0,3,0,0,set(),0
-US1022551A,1912-04-09,Herbert hat hewitt,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3,0,0,set(),0
-US1024633A,1912-04-30,Orchard heater and vaporizer,"['PROPN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,5,0,0,set(),0
-US1031900A,1911-12-23,Manufacture of hollow bodies from quartz,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'PROPN']",[],1,0,7,0,0,set(),0
-US1033472A,1910-02-02,Apparatus for operating alarms or other device,"['PROPN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,8,0,0,set(),0
-US1034267A,1912-07-30,Apparatus for distillation,"['PROPN', 'ADP', 'NOUN']",[],1,0,3,0,0,set(),0
-US1040759A,1912-02-12,Apparatus for grinding and polishing rolls,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],1,0,7,0,0,set(),0
-US1041375A,1912-10-15,Angel es,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,3,0,0,set(),0
-US1045139A,1911-09-06,Process of making chlorinated hydrocarbons,"['PROPN', 'ADP', 'VERB', 'VERB', 'NOUN']",[],1,0,6,0,0,set(),0
-US1061174A,1913-05-06,department of commerce,"['PROPN', 'ADP', 'PROPN']",['ORG'],1,0,3,0,0,set(),0
-US1069959A,1912-08-07,Process of obtaining thorium,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,0,0,set(),0
-US1008613A,1911-11-14,Process of conditioning textile material,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
-US1009529A,1911-11-21,Vehicle wheel,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1011518A,1911-04-19,Car truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1012609A,1911-07-21,Veneer taping machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,0,set(),0
-US1013454A,1910-07-22,Grease gun,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1015038A,1910-09-30,Tire,['NOUN'],[],0,0,2,0,0,set(),0
-US1018129A,1909-09-15,Pump,['VERB'],[],0,0,2,0,0,set(),0
-US1020758A,1911-11-18,Liquid soap fountain,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,0,set(),0
-US1024609A,1912-04-30,Fire bucket,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1024610A,1912-04-30,Rail joint,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1024615A,1912-04-30,Socket joint,"['NOUN', 'PUNCT', 'ADJ']",[],0,0,3,0,0,set(),0
-US1024620A,1912-04-30,Locomotive engine,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
-US1024626A,1912-04-30,Convertible steam car heater,"['ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
-US1024627A,1912-04-30,Hose coupling,"['NOUN', 'PUNCT', 'NOUN']",['PERSON'],0,1,3,0,0,set(),0
-US1024628A,1912-04-30,Buffing machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1024632A,1912-04-30,Cigar molding machine,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",['PERSON'],0,1,4,0,0,set(),0
-US1025067A,1910-11-09,Fluid pump,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1027969A,1912-05-28,Sad iron,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1032920A,1912-01-11,Cylinder door lock,"['NOUN', 'NOUN', 'PUNCT', 'VERB']",[],0,0,5,0,0,set(),0
-US1033524A,1912-01-12,Photographic shutter,"['ADJ', 'NOUN']",[],0,0,3,0,0,set(),0
-US1034804A,1912-01-26,Lookout telescope,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1034894A,1910-12-31,Air pump,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1036221A,1910-04-14,Stake pocket,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1036615A,1912-08-27,Liquid fuel burner,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
-US1036768A,1912-01-15,Car truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1037799A,1909-12-17,Releasing mechanism for boring tools,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,0,set(),0
-US1037843A,1911-10-30,Saw guard,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1040692A,1908-10-09,Automatic firearm,"['ADJ', 'NOUN']",[],0,0,3,0,0,set(),0
-US1044549A,1912-03-23,Electric battery,"['ADJ', 'NOUN']",[],0,0,3,0,0,set(),0
-US1045150A,1912-11-26,Motor wheel,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1048377A,1911-12-23,Shade holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1049854A,1913-01-07,Luminous or flaming,"['ADJ', 'CCONJ', 'VERB']",[],0,0,3,0,0,set(),0
-US1050600A,1913-01-14,Water jacket,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1052948A,1912-04-18,Safety device for hoisting apparatus,"['NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,0,0,set(),0
-US1054885A,1910-12-06,Disk gang plow,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,0,set(),0
-US1056872A,1913-03-25,Mechanical movement,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
-US1056945A,1913-03-25,Oil can,"['NOUN', 'PUNCT', 'AUX']",[],0,0,3,0,0,set(),0
-US1060396A,1913-04-29,Motive works,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
-US1061142A,1909-10-21,Fluid propulsion,"['ADJ', 'NOUN']",[],0,0,3,0,0,set(),0
-US1063458A,1913-06-03,Aerial transportation system,"['ADJ', 'NOUN', 'NOUN']",[],0,0,3,0,0,set(),0
-US1064546A,1913-06-10,Self locking,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1065479A,1905-06-17,Propelling means for vessels,"['VERB', 'VERB', 'ADP', 'NOUN']",[],0,0,5,0,0,set(),0
-US1070570A,1912-04-11,Vehicle wheel,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1072676A,1911-10-18,Looping device for rolling mills,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,0,0,set(),0
-US1072690A,1913-09-09,Garment stretcher,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1072691A,1913-09-09,Wood planing  machine,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,0,0,set(),0
-US1072694A,1913-09-09,Lasting machine speed controlling mechanism,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,7,0,0,set(),0
-US1074965A,1912-08-16,Extractor and capsule syringe,"['NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,5,0,0,set(),0
-US1075754A,1913-10-14,Wind shield,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1079787A,1911-12-18,Process of treating metals .,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT']",[],0,0,6,0,0,set(),0
-US1080713A,1913-12-09,Strain insulator,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1080720A,1913-08-23,Resilient vehicle wheel,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,0,0,set(),0
-US1082367A,1913-12-23,?,['PUNCT'],[],0,0,2,0,0,set(),0
-US1085275A,1913-01-18,Expansion joint cushion,"['NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,5,0,0,set(),0
-US1089424A,1914-03-10,Whip holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,0,0,set(),0
-US1091294A,1913-08-01,Draw string,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,0,0,set(),0
-US1091295A,1914-03-24,Spark plug and air compressor,"['NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,8,0,0,set(),0
-US1094114A,1914-04-21,Metallurgical process,"['ADJ', 'NOUN']",[],0,0,2,0,0,set(),0
-US1099238A,1914-06-09,Controlling mechanism foe hydraulic motors,"['VERB', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",[],0,0,5,0,0,set(),0
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts,misspelt_words,misspelt
+US1016339A,1911-11-01,Cooking utensil,"['VERB', 'PROPN']",[],1,0,3,"['cooking', 'utensil']",0,0,set(),0
+US1022551A,1912-04-09,Herbert hat hewitt,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3,"['herbert', 'hat', 'hewitt']",0,0,set(),0
+US1024633A,1912-04-30,Orchard heater and vaporizer,"['PROPN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,5,"['orchard-heater', 'and', 'vaporizer']",0,0,set(),0
+US1031900A,1911-12-23,Manufacture of hollow bodies from quartz,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'PROPN']",[],1,0,7,"['manufacture', 'of', 'hollow', 'bodies', 'from', 'quartz']",0,0,set(),0
+US1033472A,1910-02-02,Apparatus for operating alarms or other device,"['PROPN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,8,"['apparatus', 'for', 'operating', 'alarms', 'or', 'other', 'device']",0,0,set(),0
+US1034267A,1912-07-30,Apparatus for distillation,"['PROPN', 'ADP', 'NOUN']",[],1,0,3,"['apparatus', 'for', 'distillation']",0,0,set(),0
+US1040759A,1912-02-12,Apparatus for grinding and polishing rolls,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],1,0,7,"['apparatus', 'for', 'grinding', 'and', 'polishing', 'rolls']",0,0,set(),0
+US1041375A,1912-10-15,Angel es,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,3,['angel-es'],0,0,set(),0
+US1045139A,1911-09-06,Process of making chlorinated hydrocarbons,"['PROPN', 'ADP', 'VERB', 'VERB', 'NOUN']",[],1,0,6,"['process', 'of', 'making', 'chlorinated', 'hydrocarbons']",0,0,set(),0
+US1061174A,1913-05-06,department of commerce,"['PROPN', 'ADP', 'PROPN']",['ORG'],1,0,3,"['department', 'of', 'commerce']",0,0,set(),0
+US1069959A,1912-08-07,Process of obtaining thorium,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,"['process', 'of', 'obtaining', 'thorium']",0,0,set(),0
+US1008613A,1911-11-14,Process of conditioning textile material,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,"['process', 'of', 'conditioning', 'textile', 'material']",0,0,set(),0
+US1009529A,1911-11-21,Vehicle wheel,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['vehicle-wheel'],0,0,set(),0
+US1011518A,1911-04-19,Car truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['car-truck'],0,0,set(),0
+US1012609A,1911-07-21,Veneer taping machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,"['veneer-taping', 'machine']",0,0,set(),0
+US1013454A,1910-07-22,Grease gun,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['grease-gun'],0,0,set(),0
+US1015038A,1910-09-30,Tire,['NOUN'],[],0,0,2,['tire'],0,0,set(),0
+US1018129A,1909-09-15,Pump,['VERB'],[],0,0,2,['pump'],0,0,set(),0
+US1020758A,1911-11-18,Liquid soap fountain,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['liquid-soap', 'fountain']",0,0,set(),0
+US1024609A,1912-04-30,Fire bucket,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['fire-bucket'],0,0,set(),0
+US1024610A,1912-04-30,Rail joint,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['rail-joint'],0,0,set(),0
+US1024615A,1912-04-30,Socket joint,"['NOUN', 'PUNCT', 'ADJ']",[],0,0,3,['socket-joint'],0,0,set(),0
+US1024620A,1912-04-30,Locomotive engine,"['ADJ', 'NOUN']",[],0,0,2,"['locomotive', 'engine']",0,0,set(),0
+US1024626A,1912-04-30,Convertible steam car heater,"['ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['convertible', 'steam', 'car', 'heater']",0,0,set(),0
+US1024627A,1912-04-30,Hose coupling,"['NOUN', 'PUNCT', 'NOUN']",['PERSON'],0,1,3,['hose-coupling'],0,0,set(),0
+US1024628A,1912-04-30,Buffing machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['buffing-machine'],0,0,set(),0
+US1024632A,1912-04-30,Cigar molding machine,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",['PERSON'],0,1,4,"['cigar-molding', 'machine']",0,0,set(),0
+US1025067A,1910-11-09,Fluid pump,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['fluid-pump'],0,0,set(),0
+US1027969A,1912-05-28,Sad iron,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,['sad-iron'],0,0,set(),0
+US1032920A,1912-01-11,Cylinder door lock,"['NOUN', 'NOUN', 'PUNCT', 'VERB']",[],0,0,5,"['cylinder', 'door-lock']",0,0,set(),0
+US1033524A,1912-01-12,Photographic shutter,"['ADJ', 'NOUN']",[],0,0,3,"['photographic', 'shutter']",0,0,set(),0
+US1034804A,1912-01-26,Lookout telescope,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['lookout-telescope'],0,0,set(),0
+US1034894A,1910-12-31,Air pump,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['air-pump'],0,0,set(),0
+US1036221A,1910-04-14,Stake pocket,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['stake-pocket'],0,0,set(),0
+US1036615A,1912-08-27,Liquid fuel burner,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['liquid-fuel', 'burner']",0,0,set(),0
+US1036768A,1912-01-15,Car truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['car-truck'],0,0,set(),0
+US1037799A,1909-12-17,Releasing mechanism for boring tools,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['releasing', 'mechanism', 'for', 'boring-tools']",0,0,set(),0
+US1037843A,1911-10-30,Saw guard,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['saw-guard'],0,0,set(),0
+US1040692A,1908-10-09,Automatic firearm,"['ADJ', 'NOUN']",[],0,0,3,"['automatic', 'firearm']",0,0,set(),0
+US1044549A,1912-03-23,Electric battery,"['ADJ', 'NOUN']",[],0,0,3,"['electric', 'battery']",0,0,set(),0
+US1045150A,1912-11-26,Motor wheel,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['motor-wheel'],0,0,set(),0
+US1048377A,1911-12-23,Shade holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['shade-holder'],0,0,set(),0
+US1049854A,1913-01-07,Luminous or flaming,"['ADJ', 'CCONJ', 'VERB']",[],0,0,3,"['luminous', 'or', 'flaming']",0,0,set(),0
+US1050600A,1913-01-14,Water jacket,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['water-jacket'],0,0,set(),0
+US1052948A,1912-04-18,Safety device for hoisting apparatus,"['NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['safety', 'device', 'for', 'hoisting', 'apparatus']",0,0,set(),0
+US1054885A,1910-12-06,Disk gang plow,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['disk', 'gang-plow']",0,0,set(),0
+US1056872A,1913-03-25,Mechanical movement,"['ADJ', 'NOUN']",[],0,0,2,"['mechanical', 'movement']",0,0,set(),0
+US1056945A,1913-03-25,Oil can,"['NOUN', 'PUNCT', 'AUX']",[],0,0,3,['oil-can'],0,0,set(),0
+US1060396A,1913-04-29,Motive works,"['ADJ', 'NOUN']",[],0,0,2,"['motive', 'works']",0,0,set(),0
+US1061142A,1909-10-21,Fluid propulsion,"['ADJ', 'NOUN']",[],0,0,3,"['fluid', 'propulsion']",0,0,set(),0
+US1063458A,1913-06-03,Aerial transportation system,"['ADJ', 'NOUN', 'NOUN']",[],0,0,3,"['aerial', 'transportation', 'system']",0,0,set(),0
+US1064546A,1913-06-10,Self locking,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['self-locking'],0,0,set(),0
+US1065479A,1905-06-17,Propelling means for vessels,"['VERB', 'VERB', 'ADP', 'NOUN']",[],0,0,5,"['propelling', 'means', 'for', 'vessels']",0,0,set(),0
+US1070570A,1912-04-11,Vehicle wheel,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['vehicle-wheel'],0,0,set(),0
+US1072676A,1911-10-18,Looping device for rolling mills,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['looping', 'device', 'for', 'rolling-mills']",0,0,set(),0
+US1072690A,1913-09-09,Garment stretcher,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['garment-stretcher'],0,0,set(),0
+US1072691A,1913-09-09,Wood planing  machine,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['wood-planing-', 'machine']",0,0,set(),0
+US1072694A,1913-09-09,Lasting machine speed controlling mechanism,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,7,"['lasting-machine', 'speed-controlling', 'mechanism']",0,0,set(),0
+US1074965A,1912-08-16,Extractor and capsule syringe,"['NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,5,"['extractor', 'and', 'capsule', 'syringe']",0,0,set(),0
+US1075754A,1913-10-14,Wind shield,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['wind-shield'],0,0,set(),0
+US1079787A,1911-12-18,Process of treating metals .,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT']",[],0,0,6,"['process', 'of', 'treating', 'metals', '.']",0,0,set(),0
+US1080713A,1913-12-09,Strain insulator,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['strain-insulator'],0,0,set(),0
+US1080720A,1913-08-23,Resilient vehicle wheel,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['resilient', 'vehicle-wheel']",0,0,set(),0
+US1082367A,1913-12-23,?,['PUNCT'],[],0,0,2,['?'],0,0,set(),0
+US1085275A,1913-01-18,Expansion joint cushion,"['NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,5,"['expansion-joint', 'cushion']",0,0,set(),0
+US1089424A,1914-03-10,Whip holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['whip-holder'],0,0,set(),0
+US1091294A,1913-08-01,Draw string,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,4,['draw-string'],0,0,set(),0
+US1091295A,1914-03-24,Spark plug and air compressor,"['NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,8,"['spark-plug', 'and', 'air-compressor']",0,0,set(),0
+US1094114A,1914-04-21,Metallurgical process,"['ADJ', 'NOUN']",[],0,0,2,"['metallurgical', 'process']",0,0,set(),0
+US1099238A,1914-06-09,Controlling mechanism foe hydraulic motors,"['VERB', 'NOUN', 'NOUN', 'ADJ', 'NOUN']",[],0,0,5,"['controlling', 'mechanism', 'foe', 'hydraulic', 'motors']",0,0,set(),0

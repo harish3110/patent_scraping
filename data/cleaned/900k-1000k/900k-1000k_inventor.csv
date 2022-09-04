@@ -1,19 +1,18 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len
-US907261A,1908-12-22,martin,['PROPN'],['PERSON'],1,1,1
-US907270A,1908-12-22,Btjrtnett mcintosh,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US907271A,1908-12-22,mointosh,['PROPN'],['PERSON'],1,1,1
-US907285A,1908-12-22,Lawbekoe g,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US918200A,1909-04-13,James roche,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US925916A,1909-06-22,Joseph j,"['PROPN', 'PROPN']",['PERSON'],1,1,2
-US925917A,1909-06-22,Fijlip kacer,"['NOUN', 'VERB']",['PERSON'],0,1,2
-US925935A,1909-06-22,William c,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US925943A,1909-06-22,William m,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US945420A,1910-01-04,Moeeis bosenwasseb,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US967694A,1910-08-16,Frank weisnek,"['PROPN', 'ADJ']",['PERSON'],1,1,2
-US967921A,1910-08-23,Joseph f,"['PROPN', 'X']",['PERSON'],1,1,2
-US970734A,1910-09-20,Alexander mclennan,"['PROPN', 'VERB']",['PERSON'],1,1,2
-US970735A,1910-09-20,William b,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US971606A,1910-10-04,Hans j,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US983572A,1911-02-07,Max schubert,"['PROPN', 'NOUN']",['PERSON'],1,1,2
-US984241A,1911-02-14,william a,"['PROPN', 'PRON']",['PERSON'],1,1,2
-US998870A,1911-07-25,Andrew chjiistiaitsow,"['PROPN', 'NOUN']",['PERSON'],1,1,2
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,is_inventor
+US907270A,1908-12-22,Btjrtnett mcintosh,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['btjrtnett', 'mcintosh']",1
+US907271A,1908-12-22,mointosh,['PROPN'],['PERSON'],1,1,1,['mointosh'],1
+US907285A,1908-12-22,Lawbekoe g,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['lawbekoe', 'g']",1
+US918200A,1909-04-13,James roche,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['james', 'roche']",1
+US925916A,1909-06-22,Joseph j,"['PROPN', 'PROPN']",['PERSON'],1,1,2,"['joseph', 'j']",1
+US925917A,1909-06-22,Fijlip kacer,"['NOUN', 'VERB']",['PERSON'],0,1,2,"['fijlip', 'kacer']",1
+US925935A,1909-06-22,William c,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['william', 'c']",1
+US925943A,1909-06-22,William m,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['william', 'm']",1
+US945420A,1910-01-04,Moeeis bosenwasseb,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['moeeis', 'bosenwasseb']",1
+US967694A,1910-08-16,Frank weisnek,"['PROPN', 'ADJ']",['PERSON'],1,1,2,"['frank', 'weisnek']",1
+US967921A,1910-08-23,Joseph f,"['PROPN', 'X']",['PERSON'],1,1,2,"['joseph', 'f']",1
+US970734A,1910-09-20,Alexander mclennan,"['PROPN', 'VERB']",['PERSON'],1,1,2,"['alexander', 'mclennan']",1
+US970735A,1910-09-20,William b,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['william', 'b']",1
+US971606A,1910-10-04,Hans j,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['hans', 'j']",1
+US983572A,1911-02-07,Max schubert,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['max', 'schubert']",1
+US984241A,1911-02-14,william a,"['PROPN', 'PRON']",['PERSON'],1,1,2,"['william', 'a']",1
+US998870A,1911-07-25,Andrew chjiistiaitsow,"['PROPN', 'NOUN']",['PERSON'],1,1,2,"['andrew', 'chjiistiaitsow']",1

@@ -1,19 +1,19 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US902097A,1908-10-27,And richard berniiard,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US900576A,1906-01-15,Under-water exhaust for launches.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,8,0,1
-US905110A,1908-08-10,Inside-caliper gage.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,0,1
-US916095A,1908-03-24,Down rain-spout.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,6,0,1
-US921583A,1908-06-16,By-pass valve for locomotives.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,8,0,1
-US925783A,1907-12-02,Under-pan for automobiles.,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,7,0,1
-US927834A,1908-04-07,Off-bearing attachment for brick-presses.,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,10,0,1
-US931087A,1909-07-08,Kneading machinery.,"['ADP', 'NOUN', 'PUNCT']",[],0,0,4,0,1
-US939086A,1908-12-17,By-product retort coke-oven.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT']",[],0,0,9,0,1
-US940291A,1909-06-24,Under-water exhaust-outlet for internal-combustion engines.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,13,0,1
-US950251A,1907-09-05,Below-surface hoist.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,0,1
-US961385A,1909-10-21,Amid of beta-beta-methylpropylpropionic acid.,"['ADP', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,10,0,1
-US973411A,1910-08-30,Off-bearing attachment for brick-presses.,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,10,0,1
-US973993A,1909-09-24,Under bit and reamer.,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],0,0,6,0,1
-US977976A,1910-08-12,Under-water exhaust and muffler.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],0,0,8,0,1
-US981546A,1909-05-20,Under-water vehicle.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,0,1
-US990369A,1910-04-15,Under-water ash-ejector.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,8,0,1
-US999536A,1911-02-23,By-pass valve.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,0,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts
+US902097A,1908-10-27,And richard berniiard,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'richard', 'berniiard']",0,1
+US900576A,1906-01-15,Under-water exhaust for launches.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,8,"['under-water', 'exhaust', 'for', 'launches.']",0,1
+US905110A,1908-08-10,Inside-caliper gage.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,"['inside-caliper', 'gage.']",0,1
+US916095A,1908-03-24,Down rain-spout.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,6,"['down', 'rain-spout.']",0,1
+US921583A,1908-06-16,By-pass valve for locomotives.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,8,"['by-pass', 'valve', 'for', 'locomotives.']",0,1
+US925783A,1907-12-02,Under-pan for automobiles.,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,7,"['under-pan', 'for', 'automobiles.']",0,1
+US927834A,1908-04-07,Off-bearing attachment for brick-presses.,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,10,"['off-bearing', 'attachment', 'for', 'brick-presses.']",0,1
+US931087A,1909-07-08,Kneading machinery.,"['ADP', 'NOUN', 'PUNCT']",[],0,0,4,"['kneading', 'machinery.']",0,1
+US939086A,1908-12-17,By-product retort coke-oven.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT']",[],0,0,9,"['by-product', 'retort', 'coke-oven.']",0,1
+US940291A,1909-06-24,Under-water exhaust-outlet for internal-combustion engines.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,13,"['under-water', 'exhaust-outlet', 'for', 'internal-combustion', 'engines.']",0,1
+US950251A,1907-09-05,Below-surface hoist.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,"['below-surface', 'hoist.']",0,1
+US961385A,1909-10-21,Amid of beta-beta-methylpropylpropionic acid.,"['ADP', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,10,"['amid', 'of', 'beta-beta-methylpropylpropionic', 'acid.']",0,1
+US973411A,1910-08-30,Off-bearing attachment for brick-presses.,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,10,"['off-bearing', 'attachment', 'for', 'brick-presses.']",0,1
+US973993A,1909-09-24,Under bit and reamer.,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],0,0,6,"['under', 'bit', 'and', 'reamer.']",0,1
+US977976A,1910-08-12,Under-water exhaust and muffler.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],0,0,8,"['under-water', 'exhaust', 'and', 'muffler.']",0,1
+US981546A,1909-05-20,Under-water vehicle.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,"['under-water', 'vehicle.']",0,1
+US990369A,1910-04-15,Under-water ash-ejector.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,8,"['under-water', 'ash-ejector.']",0,1
+US999536A,1911-02-23,By-pass valve.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,"['by-pass', 'valve.']",0,1

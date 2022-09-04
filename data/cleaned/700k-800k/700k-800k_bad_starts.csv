@@ -1,75 +1,75 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US748694A,1904-01-05,And john c,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,0,1
-US748968A,1904-01-05,And harry l,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,0,1
-US749311A,1904-01-12,And andrew tromblee,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US749322A,1904-01-12,And lamar l,"['CCONJ', 'PROPN', 'X']",['PERSON'],1,1,3,0,1
-US749856A,1904-01-19,And william bourke,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US750099A,1904-01-19,And philip s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US750879A,1904-02-02,And george w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US750949A,1904-02-02,And john rex allen,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,0,1
-US751482A,1904-02-09,And john p,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US752015A,1904-02-09,And otto lan,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,0,1
-US752182A,1904-02-16,And thomas d,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US752220A,1904-02-16,And richard f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US752330A,1904-02-16,And james h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US752480A,1904-02-16,And charles s,"['CCONJ', 'PROPN', 'PART']",['PERSON'],1,1,3,0,1
-US752849A,1904-02-23,And harry maynard,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US770359A,1904-09-20,And raymond andlauer,"['CCONJ', 'PROPN', 'ADV']",['PERSON'],1,1,3,0,1
-US704678A,1901-11-25,By-pass stop-cock for multiple-light gaseliers.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT']",[],0,0,13,0,1
-US723506A,1900-11-05,After-pressing device for presses.,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,8,0,1
-US725739A,1902-08-02,Inside pipe-clamp.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,6,0,1
-US726003A,1902-01-17,Inside micrometer.,"['ADP', 'NOUN', 'PUNCT']",[],0,0,4,0,1
-US733517A,1902-06-30,Inside grain-door.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,6,0,1
-US748766A,1904-01-05,Ie noh,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US748791A,1904-01-05,of oestrich,"['ADP', 'PRON']",[],0,0,2,0,1
-US748944A,1904-01-05,And measuring,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US748971A,1904-01-05,of sandusky,"['ADP', 'NOUN']",[],0,0,2,0,1
-US749059A,1904-01-05,And wilfeed w,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US749120A,1904-01-05,of winnipeg,"['ADP', 'NOUN']",[],0,0,2,0,1
-US749204A,1904-01-12,of hanau,"['ADP', 'ADJ']",[],0,0,2,0,1
-US749382A,1904-01-12,of pittsburg,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US749438A,1904-01-12,of southbridge,"['ADP', 'NOUN']",[],0,0,2,0,1
-US749496A,1904-01-12,And herbert stew,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US749663A,1904-01-12,of ogden,"['ADP', 'ADJ']",[],0,0,2,0,1
-US749689A,1904-01-12,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
-US749801A,1904-01-19,And roderick w,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
-US750182A,1904-01-19,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US750212A,1904-01-19,Tj out ott ott ott,"['ADP', 'ADV', 'INTJ', 'INTJ', 'INTJ']",[],0,0,5,0,1
-US750237A,1904-01-19,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
-US750498A,1904-01-26,And buffalo,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US750500A,1904-01-26,And buffalo,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US750549A,1904-01-26,And buffalo,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US750550A,1904-01-26,And buffalo,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US750591A,1904-01-26,To national,"['ADP', 'ADJ']",[],0,0,2,0,1
-US750760A,1904-01-26,And vancouver,"['CCONJ', 'VERB']",[],0,0,2,0,1
-US751048A,1904-02-02,And adoniram j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US751411A,1904-02-02,By gas,"['ADP', 'NOUN']",[],0,0,2,0,1
-US751462A,1904-02-09,of ashhuest,"['ADP', 'ADJ']",[],0,0,2,0,1
-US751508A,1904-02-09,And pierre,"['CCONJ', 'NOUN']",[],0,0,2,0,1
-US751602A,1904-02-09,And south bend,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,0,1
-US751806A,1904-02-09,of newcastle,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US751865A,1904-02-09,of geasse,"['ADP', 'NOUN']",[],0,0,2,0,1
-US751982A,1904-02-09,And courtland p,"['CCONJ', 'VERB', 'NOUN']",['GPE'],0,0,3,0,1
-US751993A,1904-02-09,And heney g,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US752111A,1904-02-16,And-fobty-nine two-hundeedths to gamaliel c,"['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'NUM', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN']",['CARDINAL'],0,0,11,0,1
-US752113A,1904-02-16,of meriden,"['ADP', 'ADJ']",[],0,0,2,0,1
-US752133A,1904-02-16,Of  jacksonville,"['ADP', 'SPACE', 'NOUN']",[],0,0,3,0,1
-US752440A,1904-02-16,Off-bearing mechanism for sawmills,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
-US752632A,1904-02-16,Edmund deeble tyler,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US752907A,1904-02-23,of sandycroft,"['ADP', 'ADJ']",[],0,0,2,0,1
-US753148A,1904-02-23,And egbert j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US753186A,1904-02-23,By mesne,"['ADP', 'NOUN']",[],0,0,2,0,1
-US753310A,1904-03-01,And dental,"['CCONJ', 'ADJ']",[],0,0,2,0,1
-US753380A,1904-03-01,And hoped ale,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US753392A,1904-03-01,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
-US753406A,1904-03-01,And edwaed l,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US753420A,1904-03-01,of halifax,"['ADP', 'NOUN']",[],0,0,2,0,1
-US753444A,1904-03-01,of medfoed,"['ADP', 'NOUN']",[],0,0,2,0,1
-US763070A,1904-01-21,Inside-threading tool.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,0,1
-US767144A,1904-08-09,And charles e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US770443A,1904-09-20,Of steubenville,"['ADP', 'NOUN']",[],0,0,2,0,1
-US771836A,1903-07-20,Off-bear table for sawmills.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,8,0,1
-US783575A,1904-07-06,Inside form for sewer-work.,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,8,0,1
-US783953A,1905-02-28,And blanche d,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US785289A,1904-04-28,Outside hanging scaffold.,"['ADP', 'VERB', 'NOUN', 'PUNCT']",[],0,0,5,0,1
-US799510A,1904-11-04,Ironwork structure.,"['ADP', 'NOUN', 'PUNCT']",[],0,0,4,0,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts
+US748694A,1904-01-05,And john c,"['CCONJ', 'PROPN', 'VERB']",[],1,0,3,"['and', 'john', 'c']",0,1
+US748968A,1904-01-05,And harry l,"['CCONJ', 'PROPN', 'PROPN']",['ORG'],1,0,3,"['and', 'harry', 'l']",0,1
+US749311A,1904-01-12,And andrew tromblee,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'andrew', 'tromblee']",0,1
+US749322A,1904-01-12,And lamar l,"['CCONJ', 'PROPN', 'X']",['PERSON'],1,1,3,"['and', 'lamar', 'l']",0,1
+US749856A,1904-01-19,And william bourke,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'william', 'bourke']",0,1
+US750099A,1904-01-19,And philip s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'philip', 's']",0,1
+US750879A,1904-02-02,And george w,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'george', 'w']",0,1
+US750949A,1904-02-02,And john rex allen,"['CCONJ', 'PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,4,"['and', 'john', 'rex', 'allen']",0,1
+US751482A,1904-02-09,And john p,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'john', 'p']",0,1
+US752015A,1904-02-09,And otto lan,"['CCONJ', 'ADJ', 'PROPN']",[],1,0,3,"['and', 'otto', 'lan']",0,1
+US752182A,1904-02-16,And thomas d,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'thomas', 'd']",0,1
+US752220A,1904-02-16,And richard f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'richard', 'f']",0,1
+US752330A,1904-02-16,And james h,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'james', 'h']",0,1
+US752480A,1904-02-16,And charles s,"['CCONJ', 'PROPN', 'PART']",['PERSON'],1,1,3,"['and', 'charles', 's']",0,1
+US752849A,1904-02-23,And harry maynard,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'harry', 'maynard']",0,1
+US770359A,1904-09-20,And raymond andlauer,"['CCONJ', 'PROPN', 'ADV']",['PERSON'],1,1,3,"['and', 'raymond', 'andlauer']",0,1
+US704678A,1901-11-25,By-pass stop-cock for multiple-light gaseliers.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT']",[],0,0,13,"['by-pass', 'stop-cock', 'for', 'multiple-light', 'gaseliers.']",0,1
+US723506A,1900-11-05,After-pressing device for presses.,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,8,"['after-pressing', 'device', 'for', 'presses.']",0,1
+US725739A,1902-08-02,Inside pipe-clamp.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,6,"['inside', 'pipe-clamp.']",0,1
+US726003A,1902-01-17,Inside micrometer.,"['ADP', 'NOUN', 'PUNCT']",[],0,0,4,"['inside', 'micrometer.']",0,1
+US733517A,1902-06-30,Inside grain-door.,"['ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,6,"['inside', 'grain-door.']",0,1
+US748766A,1904-01-05,Ie noh,"['CCONJ', 'VERB']",[],0,0,2,"['ie', 'noh']",0,1
+US748791A,1904-01-05,of oestrich,"['ADP', 'PRON']",[],0,0,2,"['of', 'oestrich']",0,1
+US748944A,1904-01-05,And measuring,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'measuring']",0,1
+US748971A,1904-01-05,of sandusky,"['ADP', 'NOUN']",[],0,0,2,"['of', 'sandusky']",0,1
+US749059A,1904-01-05,And wilfeed w,"['CCONJ', 'VERB', 'X']",[],0,0,3,"['and', 'wilfeed', 'w']",0,1
+US749120A,1904-01-05,of winnipeg,"['ADP', 'NOUN']",[],0,0,2,"['of', 'winnipeg']",0,1
+US749204A,1904-01-12,of hanau,"['ADP', 'ADJ']",[],0,0,2,"['of', 'hanau']",0,1
+US749382A,1904-01-12,of pittsburg,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'pittsburg']",0,1
+US749438A,1904-01-12,of southbridge,"['ADP', 'NOUN']",[],0,0,2,"['of', 'southbridge']",0,1
+US749496A,1904-01-12,And herbert stew,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'herbert', 'stew']",0,1
+US749663A,1904-01-12,of ogden,"['ADP', 'ADJ']",[],0,0,2,"['of', 'ogden']",0,1
+US749689A,1904-01-12,of rochester,"['ADP', 'ADJ']",[],0,0,2,"['of', 'rochester']",0,1
+US749801A,1904-01-19,And roderick w,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,"['and', 'roderick', 'w']",0,1
+US750182A,1904-01-19,of philadelphia,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'philadelphia']",0,1
+US750212A,1904-01-19,Tj out ott ott ott,"['ADP', 'ADV', 'INTJ', 'INTJ', 'INTJ']",[],0,0,5,"['tj', 'out', 'ott', 'ott', 'ott']",0,1
+US750237A,1904-01-19,of rochester,"['ADP', 'ADJ']",[],0,0,2,"['of', 'rochester']",0,1
+US750498A,1904-01-26,And buffalo,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'buffalo']",0,1
+US750500A,1904-01-26,And buffalo,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'buffalo']",0,1
+US750549A,1904-01-26,And buffalo,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'buffalo']",0,1
+US750550A,1904-01-26,And buffalo,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'buffalo']",0,1
+US750591A,1904-01-26,To national,"['ADP', 'ADJ']",[],0,0,2,"['to', 'national']",0,1
+US750760A,1904-01-26,And vancouver,"['CCONJ', 'VERB']",[],0,0,2,"['and', 'vancouver']",0,1
+US751048A,1904-02-02,And adoniram j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'adoniram', 'j']",0,1
+US751411A,1904-02-02,By gas,"['ADP', 'NOUN']",[],0,0,2,"['by', 'gas']",0,1
+US751462A,1904-02-09,of ashhuest,"['ADP', 'ADJ']",[],0,0,2,"['of', 'ashhuest']",0,1
+US751508A,1904-02-09,And pierre,"['CCONJ', 'NOUN']",[],0,0,2,"['and', 'pierre']",0,1
+US751602A,1904-02-09,And south bend,"['CCONJ', 'ADV', 'VERB']",[],0,0,3,"['and', 'south', 'bend']",0,1
+US751806A,1904-02-09,of newcastle,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'newcastle']",0,1
+US751865A,1904-02-09,of geasse,"['ADP', 'NOUN']",[],0,0,2,"['of', 'geasse']",0,1
+US751982A,1904-02-09,And courtland p,"['CCONJ', 'VERB', 'NOUN']",['GPE'],0,0,3,"['and', 'courtland', 'p']",0,1
+US751993A,1904-02-09,And heney g,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'heney', 'g']",0,1
+US752111A,1904-02-16,And-fobty-nine two-hundeedths to gamaliel c,"['CCONJ', 'PUNCT', 'NOUN', 'PUNCT', 'NUM', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN']",['CARDINAL'],0,0,11,"['and-fobty-nine', 'two-hundeedths', 'to', 'gamaliel', 'c']",0,1
+US752113A,1904-02-16,of meriden,"['ADP', 'ADJ']",[],0,0,2,"['of', 'meriden']",0,1
+US752133A,1904-02-16,Of  jacksonville,"['ADP', 'SPACE', 'NOUN']",[],0,0,3,"['of', 'jacksonville']",0,1
+US752440A,1904-02-16,Off-bearing mechanism for sawmills,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['off-bearing', 'mechanism', 'for', 'sawmills']",0,1
+US752632A,1904-02-16,Edmund deeble tyler,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['edmund', 'deeble', 'tyler']",0,1
+US752907A,1904-02-23,of sandycroft,"['ADP', 'ADJ']",[],0,0,2,"['of', 'sandycroft']",0,1
+US753148A,1904-02-23,And egbert j,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'egbert', 'j']",0,1
+US753186A,1904-02-23,By mesne,"['ADP', 'NOUN']",[],0,0,2,"['by', 'mesne']",0,1
+US753310A,1904-03-01,And dental,"['CCONJ', 'ADJ']",[],0,0,2,"['and', 'dental']",0,1
+US753380A,1904-03-01,And hoped ale,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'hoped', 'ale']",0,1
+US753392A,1904-03-01,And charles f,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,"['and', 'charles', 'f']",0,1
+US753406A,1904-03-01,And edwaed l,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'edwaed', 'l']",0,1
+US753420A,1904-03-01,of halifax,"['ADP', 'NOUN']",[],0,0,2,"['of', 'halifax']",0,1
+US753444A,1904-03-01,of medfoed,"['ADP', 'NOUN']",[],0,0,2,"['of', 'medfoed']",0,1
+US763070A,1904-01-21,Inside-threading tool.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,"['inside-threading', 'tool.']",0,1
+US767144A,1904-08-09,And charles e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'charles', 'e']",0,1
+US770443A,1904-09-20,Of steubenville,"['ADP', 'NOUN']",[],0,0,2,"['of', 'steubenville']",0,1
+US771836A,1903-07-20,Off-bear table for sawmills.,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,8,"['off-bear', 'table', 'for', 'sawmills.']",0,1
+US783575A,1904-07-06,Inside form for sewer-work.,"['ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,8,"['inside', 'form', 'for', 'sewer-work.']",0,1
+US783953A,1905-02-28,And blanche d,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'blanche', 'd']",0,1
+US785289A,1904-04-28,Outside hanging scaffold.,"['ADP', 'VERB', 'NOUN', 'PUNCT']",[],0,0,5,"['outside', 'hanging', 'scaffold.']",0,1
+US799510A,1904-11-04,Ironwork structure.,"['ADP', 'NOUN', 'PUNCT']",[],0,0,4,"['ironwork', 'structure.']",0,1

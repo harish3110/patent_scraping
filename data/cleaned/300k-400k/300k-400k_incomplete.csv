@@ -1,467 +1,468 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
-US301187A,1884-07-01,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,1
-US301338A,1884-07-01,Knockdown rattan chair,"['PROPN', 'ADJ', 'NOUN']",[],1,0,3,1
-US305474A,1884-09-23,Dough kneader and roller,"['PROPN', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,4,1
-US306627A,1884-10-14,John louis pigot leman,"['PROPN', 'PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,4,1
-US306733A,1884-10-21,Ludwig heinbich feiedbueg,"['PROPN', 'PROPN', 'VERB']",['PERSON'],1,1,3,1
-US309081A,1884-12-09,Assig-noe to,"['PROPN', 'PUNCT', 'PROPN', 'PART']",[],1,0,4,1
-US309441A,1884-12-16,James cato de castro,"['PROPN', 'PROPN', 'X', 'PROPN']",['PERSON'],1,1,4,1
-US311642A,1885-02-03,William-h,"['PROPN', 'PUNCT', 'PROPN']",['PERSON'],1,1,3,1
-US314707A,1885-03-31,Apparatus foe mafufacttteing lamp black,"['PROPN', 'NOUN', 'NOUN', 'NOUN', 'ADJ']",[],1,0,5,1
-US316265A,1885-04-21,John william helton,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3,1
-US316465A,1885-04-28,Method of purifying and odorizing natural gas,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'ADJ', 'NOUN']",[],1,0,7,1
-US317532A,1885-05-12,Geoege evelyh hall,"['PROPN', 'NOUN', 'PROPN']",[],1,0,3,1
-US317704A,1885-05-12,Edmond beale and andrew bangs,"['PROPN', 'NOUN', 'CCONJ', 'PROPN', 'NOUN']",[],1,0,5,1
-US318027A,1885-05-19,Traction elevated railway,"['PROPN', 'VERB', 'NOUN']",[],1,0,3,1
-US318968A,1885-06-02,Duplex-crank piston- pu m p,"['NOUN', 'PUNCT', 'NOUN', 'X', 'PROPN', 'VERB', 'NOUN']",[],1,0,7,1
-US319478A,1885-06-09,Potato-d,"['PROPN', 'PUNCT', 'PROPN']",[],1,0,3,1
-US323704A,1885-08-04,Sap-spile,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,1
-US327098A,1885-09-29,Mach ine for straightening railroad-rails,"['PROPN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,7,1
-US332527A,1885-12-15,Ash-pan,"['PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,3,1
-US336953A,1886-03-02,James scotland and frangois cordon,"['PROPN', 'PROPN', 'CCONJ', 'NOUN', 'PROPN']",['PERSON'],1,1,5,1
-US341838A,1886-05-11,Anti friotional chock oe leader foe eigkjim of vessels,"['ADJ', 'ADJ', 'NOUN', 'PROPN', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],1,0,9,1
-US341968A,1886-05-18,Joseph van euymbeke,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3,1
-US343129A,1886-06-01,Dynamo-electric machine,"['PROPN', 'PUNCT', 'ADJ', 'NOUN']",[],1,0,4,1
-US343455A,1886-06-08,And thomas c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,1
-US345003A,1886-07-06,Apparatus for waterproofing paper,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,1
-US345420A,1886-07-13,Assig-noe of one,"['PROPN', 'PUNCT', 'NUM', 'ADP', 'NUM']",['CARDINAL'],1,0,5,1
-US346415A,1886-07-27,Glove-stretcher,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,1
-US346862A,1886-08-03,Ors of one-half to paul bake well,"['NOUN', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'ADV']","['CARDINAL', 'PERSON']",1,1,9,1
-US348793A,1886-09-07,William stephen smith,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3,1
-US351299A,1886-10-19,Johanst peter adolf vollmar,"['PROPN', 'PROPN', 'PROPN', 'PROPN']",['ORG'],1,0,4,1
-US352697A,1886-11-16,Hose-nozzle holder,"['PROPN', 'PUNCT', 'NOUN', 'NOUN']",['PERSON'],1,1,4,1
-US353439A,1886-11-30,Half to archibald w,"['NOUN', 'PART', 'PROPN', 'PROPN']",[],1,0,4,1
-US362835A,1887-05-10,Itc ip a t,"['PROPN', 'VERB', 'DET', 'NOUN']",[],1,0,4,1
-US363297A,1887-05-17,Joseph winsor newton,"['PROPN', 'NOUN', 'PROPN']",['PERSON'],1,1,3,1
-US365860A,1887-07-05,William james pyle,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3,1
-US366363A,1887-07-12,Baker s oven,"['PROPN', 'PART', 'ADJ']",['PERSON'],1,1,3,1
-US367277A,1887-07-26,Bell x  co,"['PROPN', 'PROPN', 'SPACE', 'X']",[],1,0,4,1
-US367608A,1887-08-02,Feed-regulator for roller-m i lls an d purifiers,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'PROPN', 'PRON', 'VERB', 'DET', 'NOUN', 'NOUN']",[],1,0,12,1
-US368732A,1887-08-23,Henry clay peicb,"['PROPN', 'NOUN', 'PROPN']",['ORG'],1,0,3,1
-US370911A,1887-10-04,Beuno hugo webeb,"['PROPN', 'PROPN', 'VERB']",['FAC'],1,0,3,1
-US373957A,1887-11-29,Gib and key,"['PROPN', 'CCONJ', 'ADJ']",[],1,0,3,1
-US373958A,1887-11-29,Lamp for decorating and illuminating purposes,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],1,0,6,1
-US374860A,1887-12-13,Apparatus for measuring electric currents,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],1,0,5,1
-US374861A,1887-12-13,Appaeatus foe measuring electeiq cueeents,"['PROPN', 'AUX', 'VERB', 'NOUN', 'NOUN']",[],1,0,5,1
-US376689A,1888-01-17,Cigar-box,"['PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,3,1
-US377865A,1888-02-14,Spike-extractor,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,1
-US378058A,1888-02-14,Edgae peckham and emil la ass,"['PROPN', 'PROPN', 'CCONJ', 'VERB', 'ADV', 'NOUN']",['ORG'],1,0,6,1
-US379225A,1888-03-13,Tver johnson and andrew fyrberg,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'VERB']","['PERSON', 'PERSON']",1,1,5,1
-US379895A,1888-03-20,James heeva jones,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3,1
-US380133A,1888-03-27,Method of flush-nailing the heels of boots or shoes,"['PROPN', 'ADP', 'ADV', 'PUNCT', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,11,1
-US380767A,1888-04-10,Samuel garvin pillsbtjey,"['PROPN', 'PROPN', 'PROPN']",[],1,0,3,1
-US383502A,1888-05-29,Apparatus for lighting railway-cars by electricity,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],1,0,8,1
-US384786A,1888-06-19,Barrel-stave-cutting machine,"['PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],1,0,6,1
-US386757A,1888-07-24,Third to samuel w,"['ADV', 'ADP', 'PROPN', 'PROPN']","['ORDINAL', 'PERSON']",1,1,4,1
-US388352A,1888-08-21,Chaeles millbe foottit,"['PROPN', 'NOUN', 'NOUN']",[],1,0,3,1
-US390921A,1888-10-09,Carbon contact or com m utato r-brush,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,9,1
-US392443A,1888-11-06,Magneto-signaling apparatus,"['PROPN', 'PUNCT', 'VERB', 'NOUN']",[],1,0,4,1
-US392709A,1888-11-13,Elijah bruce atkinson,"['PROPN', 'PROPN', 'NOUN']",[],1,0,3,1
-US393193A,1888-11-20,Half to james aken,"['NOUN', 'ADP', 'PROPN', 'VERB']","['CARDINAL', 'PERSON']",1,1,4,1
-US393330A,1888-11-20,Half to john h,"['NOUN', 'ADP', 'PROPN', 'PROPN']","['CARDINAL', 'PERSON']",1,1,4,1
-US394806A,1888-12-18,Wardrobe-bedstead,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,1
-US399293A,1889-03-12,Knsfe-sharpener for double-pile-fabric looms,"['PROPN', 'PUNCT', 'PROPN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",['PERSON'],1,1,10,1
-US399496A,1889-03-12,Method of calcining rock,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,1
-US300396A,1884-06-17,Carpet-stretcher,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,1
-US300554A,1884-06-17,Process-kettle for cooking canned fruit,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'VERB', 'NOUN']",[],0,0,7,1
-US300842A,1884-06-24,Printing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US300976A,1884-06-24,Telephone-call annunciator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US301002A,1884-06-24,Support for shirt-neckbands,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,1
-US301191A,1884-07-01,System for conveying and utilizing gas under pressure,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,1
-US301311A,1884-07-01,Overshoe,['NOUN'],[],0,0,1,1
-US302000A,1884-07-15,Portable barn,"['ADJ', 'NOUN']",[],0,0,2,1
-US302074A,1884-07-15,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US302189A,1884-07-15,Perforating-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US302197A,1884-07-15,Nut-lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US302494A,1884-07-22,Stove-lid lifter,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US302727A,1884-07-29,Railway-truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US302770A,1884-07-29,Jar and bottle stopper fastener,"['NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,1
-US302846A,1884-07-29,Rectal,['ADJ'],[],0,0,1,1
-US302980A,1884-08-05,buell,['VERB'],['ORG'],0,0,1,1
-US303287A,1884-08-12,Ice-rubber,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US303334A,1884-08-12,Removable flooring for stalls,"['ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,1
-US303365A,1884-08-12,Mings,['NOUN'],[],0,0,1,1
-US303471A,1884-08-12,Tag-fastener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US303518A,1884-08-12,Draft-equalizer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US303522A,1884-08-12,Drop for store-service apparatus,"['VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,1
-US303581A,1884-08-12,Island,['NOUN'],[],0,0,1,1
-US303848A,1884-08-19,Pounce-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US304033A,1884-08-26,reynolds,['NOUN'],['ORG'],0,0,1,1
-US304034A,1884-08-26,Swftch-stand,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US304404A,1884-09-02,Flour-sifter,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US304493A,1884-09-02,Steam-engine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US304789A,1884-09-09,Metal column,"['NOUN', 'NOUN']",[],0,0,2,1
-US305082A,1884-09-16,Hitching-strap holder,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US305100A,1884-09-16,Chaeles mooee,"['NOUN', 'ADJ']",[],0,0,2,1
-US305105A,1884-09-16,o grady,"['X', 'X']",[],0,0,2,1
-US305244A,1884-09-16,Machine for drying,"['NOUN', 'ADP', 'VERB']",[],0,0,3,1
-US305338A,1884-09-16,Vehicle-spring,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US305384A,1884-09-16,Dumping cae,"['VERB', 'NOUN']",[],0,0,2,1
-US305385A,1884-09-16,Trunk,['NOUN'],[],0,0,1,1
-US305841A,1884-09-30,tapped,['VERB'],[],0,0,1,1
-US305975A,1884-09-30,Corn-harvester,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US306222A,1884-10-07,Railroad-gate,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US306381A,1884-10-14,Piano-truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US306492A,1884-10-14,Screw,['NOUN'],[],0,0,1,1
-US307146A,1884-10-28,Side bar or main rod for locomotives,"['NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,1
-US307148A,1884-10-28,Self-lubricating journal-box,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
-US307862A,1884-11-11,Dredths to fred w,"['NOUN', 'PART', 'VERB', 'X']",[],0,0,4,1
-US307886A,1884-11-11,Car-replacer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US308515A,1884-11-25,Trace-buckle,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US308855A,1884-12-02,Heater for steam-boilers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,1
-US309133A,1884-12-09,Bale-he band,"['NOUN', 'PUNCT', 'PRON', 'NOUN']",[],0,0,4,1
-US309536A,1884-12-23,Regulator for electric generators and motors,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,1
-US309922A,1884-12-30,bovee,['NOUN'],[],0,0,1,1
-US309937A,1884-12-30,Island,['NOUN'],[],0,0,1,1
-US310206A,1885-01-06,Package-wrapper,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US311313A,1885-01-27,Hot-air heating apparatus,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,1
-US311333A,1885-01-27,lattner,['NOUN'],[],0,0,1,1
-US311465A,1885-02-03,Lamp-filling attachment for oil-cans,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,1
-US311559A,1885-02-03,Machine for cutting sheets with oblique edges from webs of paper,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,11,1
-US311700A,1885-02-03,weyerbusch,['NOUN'],[],0,0,1,1
-US311890A,1885-02-10,Reversing-valve for steam-engines,"['VERB', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,1
-US312478A,1885-02-17,Kettle attachment,"['NOUN', 'NOUN']",[],0,0,2,1
-US312480A,1885-02-17,Eoad grading machine,"['NOUN', 'VERB', 'NOUN']",[],0,0,3,1
-US312923A,1885-02-24,Darning attachment for sewing-machines,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
-US313708A,1885-03-10,Weight-motor,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US314050A,1885-03-17,Double-foot plow-stock,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
-US314350A,1885-03-24,Foe meeting- kails of sashes,"['NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",['PERSON'],0,1,5,1
-US314538A,1885-03-24,Coffin,['NOUN'],[],0,0,1,1
-US314657A,1885-03-31,Ooooqoooo,['NOUN'],['ORG'],0,0,1,1
-US314685A,1885-03-31,Roving-can,"['NOUN', 'PUNCT', 'AUX']",[],0,0,3,1
-US315098A,1885-04-07,white,['ADJ'],[],0,0,1,1
-US315229A,1885-04-07,biack,['VERB'],[],0,0,1,1
-US315423A,1885-04-07,Hoisting single-tree,"['VERB', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,4,1
-US315682A,1885-04-14,Grain-measuring apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,1
-US315700A,1885-04-14,Machine,['NOUN'],[],0,0,1,1
-US315789A,1885-04-14,Curtain-fixture,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US315963A,1885-04-14,Fare register and recorder,"['NOUN', 'VERB', 'CCONJ', 'VERB']",[],0,0,4,1
-US316283A,1885-04-21,Door-closer,"['NOUN', 'PUNCT', 'ADJ']",[],0,0,3,1
-US316555A,1885-04-28,Window-bead fastener,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US316770A,1885-04-28,Piston-packing,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,1
-US317002A,1885-05-05,Hand bending-tool,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
-US317078A,1885-05-05,blackball,['NOUN'],[],0,0,1,1
-US317080A,1885-05-05,Attachment for dredge-pumps,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,1
-US317302A,1885-05-05,Subway or conduit for cable or electric railways,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,8,1
-US317529A,1885-05-12,Nail-plate feeder,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US317595A,1885-05-12,Clover-huller,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US318123A,1885-05-19,Stay for trunks,"['VERB', 'ADP', 'NOUN']",[],0,0,3,1
-US318523A,1885-05-19,Egg boiler and caster,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,4,1
-US318548A,1885-05-19,Eudolph d heueeuse,"['ADJ', 'NOUN', 'NOUN']",[],0,0,3,1
-US318551A,1885-05-19,eames,['VERB'],[],0,0,1,1
-US318733A,1885-05-19,Frame for eyeglasses and spectacles,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,5,1
-US319182A,1885-06-02,Machine for forming hollow ware froivj paper-pulp,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,1
-US319631A,1885-06-09,Hand-rake,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US320033A,1885-06-16,Sewing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US320114A,1885-06-16,Folding ladder,"['VERB', 'NOUN']",[],0,0,2,1
-US320815A,1885-06-23,Chimney-cowl,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US320858A,1885-06-23,Paving sidewalks,"['VERB', 'NOUN']",[],0,0,2,1
-US321845A,1885-07-07,paine,['NOUN'],[],0,0,1,1
-US321861A,1885-07-07,Collar-button,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US322057A,1885-07-14,Bicycle-stand,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US322571A,1885-07-21,Island,['NOUN'],[],0,0,1,1
-US322857A,1885-07-21,Feedeeic schaepee,"['ADJ', 'NOUN']",[],0,0,2,1
-US322858A,1885-07-21,Excavating-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US322935A,1885-07-28,Planing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US323631A,1885-08-04,Show-stand,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US323978A,1885-08-11,Press for setting lacing-hooks,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
-US324258A,1885-08-11,Cane-scraper,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US325350A,1885-09-01,Device for connecting picking-straps to the picking-sticks of looms,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,13,1
-US325580A,1885-09-01,Carriage-door,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US325682A,1885-09-08,Broom-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US325706A,1885-09-08,Gage and level indicating device for r ai lro a d-trac ks,"['NOUN', 'CCONJ', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",['ORG'],0,0,14,1
-US325921A,1885-09-08,Pen-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US326000A,1885-09-08,Lathe,['NOUN'],[],0,0,1,1
-US326124A,1885-09-15,kneeland,['VERB'],[],0,0,1,1
-US326246A,1885-09-15,richards,['NOUN'],[],0,0,1,1
-US326247A,1885-02-16,Exercising-machine,"['VERB', 'PUNCT', 'NOUN']",[],0,0,3,1
-US326277A,1885-09-15,Hanty,['NOUN'],[],0,0,1,1
-US326439A,1885-09-15,Protecting wells,"['VERB', 'NOUN']",[],0,0,2,1
-US326463A,1885-09-15,Machine for making toe-calks,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
-US326546A,1885-09-22,Trace and hame connection,"['NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,4,1
-US326658A,1885-09-22,Automatic brake for wagons and carriages,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,1
-US326944A,1885-09-29,Spring,['NOUN'],[],0,0,1,1
-US326990A,1885-09-29,Water-tube boiler,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US327217A,1885-09-29,Machine for making staples,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,1
-US327647A,1885-10-06,Vapor-burner stove,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US328140A,1885-10-13,Steam-generator,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US328291A,1885-10-13,Burial casket,"['ADJ', 'NOUN']",[],0,0,2,1
-US328607A,1885-10-20,Liquid for voltaic batteries,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,1
-US328740A,1885-10-20,Petee wiederer,"['NOUN', 'NOUN']",[],0,0,2,1
-US328788A,1885-10-20,Grain-drier,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US328865A,1885-10-20,Edwabd m,"['NOUN', 'VERB']",[],0,0,2,1
-US329168A,1885-10-27,Middlings purifier and separator,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",['PERSON'],0,1,4,1
-US329189A,1885-10-27,Non-interfering fire and police telegraph system,"['ADJ', 'ADJ', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,1
-US329982A,1885-11-10,Receiver for telephonic telegraphs,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,1
-US330241A,1885-11-10,Medicament-retainer for horses  feet,"['ADJ', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'SPACE', 'NOUN']",[],0,0,7,1
-US330460A,1885-11-17,Inokustation,['NOUN'],[],0,0,1,1
-US330489A,1885-11-17,htjssey,['ADJ'],[],0,0,1,1
-US330614A,1885-11-17,Machine for sawing stone,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,1
-US331237A,1885-11-24,paine,['NOUN'],[],0,0,1,1
-US331651A,1885-12-01,peahae,['NOUN'],[],0,0,1,1
-US331920A,1885-12-08,Machine for making,"['NOUN', 'ADP', 'VERB']",[],0,0,3,1
-US332034A,1885-12-08,Emery andrews,"['NOUN', 'NOUN']",[],0,0,2,1
-US332146A,1885-12-08,Pencil-sharpener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US332422A,1885-12-15,Filter,['NOUN'],[],0,0,1,1
-US332844A,1885-12-22,Scraper attachment for wheel-plows,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
-US333110A,1885-12-29,Edwaed clark,"['ADJ', 'NOUN']",['NORP'],0,0,2,1
-US333389A,1885-12-29,Grinding or crushing mill,"['VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,4,1
-US333805A,1886-01-05,Screw peopellee,"['NOUN', 'NOUN']",['DATE'],0,0,2,1
-US334031A,1886-01-12,Nut-lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US334101A,1886-01-12,Island,['NOUN'],[],0,0,1,1
-US334122A,1886-01-12,Machine for condensing warps for being dyed,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'AUX', 'VERB']",[],0,0,7,1
-US334247A,1886-01-12,leffingwell,['VERB'],[],0,0,1,1
-US334317A,1886-01-12,Electric lamp,"['ADJ', 'NOUN']",[],0,0,2,1
-US334397A,1886-01-12,Edwaed spaulding,"['VERB', 'VERB']",[],0,0,2,1
-US334428A,1886-01-19,Railroad track clearer,"['NOUN', 'NOUN', 'ADJ']",[],0,0,3,1
-US334430A,1886-01-19,Art of making butter,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,1
-US334483A,1886-01-19,Hand force-pump,"['NOUN', 'NOUN', 'PUNCT', 'VERB']",[],0,0,4,1
-US335094A,1886-01-26,Embroidering-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US335822A,1886-02-09,Box-fastening,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US336305A,1886-02-16,Baling-press,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,1
-US336511A,1886-02-16,Lumber-drier,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US336671A,1886-02-23,Meat-hook,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US336930A,1886-03-02,Washing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US336950A,1886-03-02,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US337154A,1886-03-02,Filtering device for feed-water pipes,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",['LOC'],0,0,7,1
-US337666A,1886-03-09,I i   x i i,"['PRON', 'PRON', 'SPACE', 'PUNCT', 'PRON', 'PRON']",[],0,0,6,1
-US337695A,1886-03-09,Sash-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US338033A,1886-03-16,Traveling-cap,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US338232A,1886-03-16,Convertible chair,"['ADJ', 'NOUN']",[],0,0,2,1
-US338458A,1886-03-23,Keying-clamp,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US338505A,1886-03-23,Safe-lock,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,1
-US338518A,1886-03-23,Electrical subway,"['ADJ', 'NOUN']",[],0,0,2,1
-US338735A,1886-03-30,Combined pool-rack and ball-spotter,"['VERB', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,1
-US338876A,1886-03-30,richter,['NOUN'],[],0,0,1,1
-US339101A,1886-03-30,Chaeles a,"['VERB', 'PRON']",[],0,0,2,1
-US339108A,1886-03-30,Draft-equalizer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US339575A,1886-04-06,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US340515A,1886-04-20,macombee,['NOUN'],[],0,0,1,1
-US340747A,1886-04-27,Pyrotechnic match,"['ADJ', 'NOUN']",[],0,0,2,1
-US340912A,1886-04-27,Circuit-breaker for telephone ljnes,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,1
-US340916A,1886-04-27,Hollow grate and feed-water heater,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,1
-US340936A,1886-04-27,Watch barbel,"['VERB', 'NOUN']",[],0,0,2,1
-US340999A,1886-05-04,graves,['NOUN'],[],0,0,1,1
-US341871A,1886-05-18,Rotary air-pump,"['ADJ', 'NOUN', 'PUNCT', 'VERB']",[],0,0,4,1
-US341947A,1886-05-18,Horse hay-rake,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
-US342203A,1886-05-18,Water-closet,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US342272A,1886-05-18,tyson,['INTJ'],[],0,0,1,1
-US342670A,1886-05-25,zellers,['NOUN'],[],0,0,1,1
-US343111A,1886-06-01,Setts,['NOUN'],['NORP'],0,0,1,1
-US343312A,1886-06-08,hawkins,['NOUN'],[],0,0,1,1
-US343484A,1886-06-08,Two-wheeled vehicle,"['NUM', 'PUNCT', 'ADJ', 'NOUN']",['CARDINAL'],0,0,4,1
-US343634A,1886-06-15,Clinometer,['NOUN'],[],0,0,1,1
-US343640A,1886-06-15,Printer s lead and rule cutter,"['NOUN', 'PART', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,1
-US344251A,1886-06-22,Shirt-waist,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US344950A,1886-07-06,Disk seeder and cultivator,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,4,1
-US345210A,1886-07-06,Planter and manure-distributer,"['NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,1
-US345571A,1886-07-13,chancellor,['NOUN'],[],0,0,2,1
-US345788A,1886-07-20,Remedy for hog and chicken cholera,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",['PERSON'],0,1,6,1
-US346183A,1886-07-27,waters,['NOUN'],[],0,0,2,1
-US346280A,1886-07-27,Bobebt h,"['NOUN', 'NOUN']",[],0,0,2,1
-US346773A,1886-08-03,Bath-pad,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US346975A,1886-08-10,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US346988A,1886-08-10,Target-trap,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US347174A,1886-08-10,Milk-can,"['NOUN', 'PUNCT', 'AUX']",[],0,0,3,1
-US347240A,1886-08-10,Prop-nut,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US347328A,1886-08-17,Portable furnace,"['ADJ', 'NOUN']",[],0,0,2,1
-US347345A,1886-08-17,Compounds,['NOUN'],[],0,0,1,1
-US347432A,1886-08-17,Filter,['NOUN'],[],0,0,1,1
-US347586A,1886-08-17,Water-closet-seat protector,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,1
-US347831A,1886-08-24,Razor-strop,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US347936A,1886-08-24,Oar truce,"['NOUN', 'NOUN']",[],0,0,2,1
-US348244A,1886-08-31,Chair,['NOUN'],[],0,0,1,1
-US348589A,1886-09-07,sloan,['ADJ'],[],0,0,1,1
-US349447A,1886-09-21,Railway-track system,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US349470A,1886-09-21,Pivot-cutting implement,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,1
-US349499A,1886-09-21,Ghaeles e,"['NOUN', 'NOUN']",[],0,0,2,1
-US349521A,1886-09-21,Automatic weighing mechanism for elevators,"['ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
-US349522A,1886-09-21,Cash-register,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US349648A,1886-09-21,Laundry dressing,"['NOUN', 'VERB']",['ORG'],0,0,2,1
-US349649A,1886-09-21,Self and dayid w,"['NOUN', 'CCONJ', 'VERB', 'ADP']",[],0,0,4,1
-US350422A,1886-10-05,Expansion-joint,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US350733A,1886-10-12,Potato-digger,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US351001A,1886-10-19,Anti-friction bearing for velocipedes,"['ADJ', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,1
-US351141A,1886-10-19,Teeeitoey,['NOUN'],['ORG'],0,0,1,1
-US351389A,1886-10-26,Arm-support for telephone-operators,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,1
-US351862A,1886-11-02,Funeral-advertising device or annunciator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,1
-US352099A,1886-11-02,Edwaed dayton bockwell,"['ADJ', 'NOUN', 'NOUN']",[],0,0,3,1
-US353107A,1886-11-23,Feedeeick a,"['VERB', 'PRON']",['ORG'],0,0,2,1
-US353254A,1886-11-23,Willaed a,"['VERB', 'PRON']",[],0,0,2,1
-US353271A,1886-11-23,solano,['INTJ'],[],0,0,1,1
-US353422A,1886-11-30,Heater,['NOUN'],[],0,0,1,1
-US353664A,1886-12-07,calyert,['NOUN'],[],0,0,1,1
-US353690A,1886-12-07,Harness-saddle,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US353833A,1886-12-07,Water-meter with revolving pistons,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,1
-US353846A,1886-12-07,Spirit-level,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US354374A,1886-12-14,Machine for uniting knit fabrics,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,5,1
-US355371A,1887-01-04,Teeeitoey,['NOUN'],['ORG'],0,0,1,1
-US355408A,1887-01-04,Lock-hinge,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US355654A,1887-01-04,Half to albert a,"['NOUN', 'PART', 'VERB', 'PRON']","['CARDINAL', 'PERSON']",0,1,4,1
-US355875A,1887-01-11,Theodoe kempf,"['NUM', 'VERB']",['CARDINAL'],0,0,2,1
-US355876A,1887-01-11,lesne-ub,"['NOUN', 'PUNCT', 'ADP']",[],0,0,3,1
-US356168A,1887-01-18,X c cigar-tip clipper,"['NOUN', 'X', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,1
-US356327A,1887-01-18,Pencil-drawer for school-desks,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,1
-US356763A,1887-02-01,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US356888A,1887-02-01,Expansible conductor-pipe,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
-US357495A,1887-02-08,Thrashing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US357579A,1887-02-15,Skate-roller,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US357654A,1887-02-15,Fender,['NOUN'],[],0,0,1,1
-US357704A,1887-02-15,Railroad-crossing,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US357835A,1887-02-15,Car-axle lubricator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US358103A,1887-02-22,Wilbbet e,"['ADJ', 'NOUN']",['GPE'],0,0,2,1
-US358460A,1887-03-01,Fence-making machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,1
-US358777A,1887-03-01,Htdeaulic motor,"['ADJ', 'NOUN']",[],0,0,2,1
-US359021A,1887-03-08,Mold for casting printers  leads and small furniture,"['NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,9,1
-US359061A,1887-03-08,Tea-kettle nozzle,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US359362A,1887-03-15,Caster-pod,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US359582A,1887-03-15,Eobeet j,"['VERB', 'NOUN']",[],0,0,2,1
-US359878A,1887-03-22,Advertising-card,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US360038A,1887-03-29,myers,['NOUN'],[],0,0,1,1
-US360254A,1887-03-29,Electric-arc lamp,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US360762A,1887-04-05,Half to j,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,1
-US360847A,1887-04-12,Portable boiler,"['ADJ', 'NOUN']",[],0,0,2,1
-US361870A,1887-04-26,Slicing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US362013A,1887-04-26,Shoe-clasp,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US362330A,1887-05-03,Hay-rake,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US362353A,1887-05-03,Horse-collar,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US362370A,1887-05-03,Machine,['NOUN'],[],0,0,1,1
-US362734A,1887-05-10,Burglar-proof safe,"['NOUN', 'PUNCT', 'ADJ', 'ADJ']",[],0,0,4,1
-US362757A,1887-05-10,Grain-drill,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US362815A,1887-05-10,budde,['ADJ'],[],0,0,1,1
-US363352A,1887-05-24,Connecting device for harness-straps for looms,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,1
-US363371A,1887-05-24,Seal-lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US363693A,1887-05-24,Hand-truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US363803A,1887-05-31,Door-hanger,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US363848A,1887-05-31,Game apparatus,"['NOUN', 'NOUN']",[],0,0,2,1
-US363961A,1887-05-31,Vignetter,['ADJ'],[],0,0,1,1
-US364024A,1887-05-31,Coal-conveyer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US365010A,1887-06-14,Horseshoe,['NOUN'],[],0,0,1,1
-US365210A,1887-06-21,Washing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US365519A,1887-06-28,Lime-distributer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US366131A,1887-07-05,Axle-lubricator,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,1
-US366151A,1887-07-05,Look hinge,"['VERB', 'ADJ']",[],0,0,2,1
-US366177A,1887-07-05,Automatic fire-extinguisher,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
-US366391A,1887-07-12,Heel-plate for rubbers,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,1
-US366393A,1887-07-12,Fire-kindling apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,1
-US367127A,1887-07-26,Oil-press mat,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US367540A,1887-08-02,Vehicle-top,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US367663A,1887-08-02,Electric programme-clock,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
-US367967A,1887-08-09,dwiaht,['VERB'],[],0,0,1,1
-US368110A,1887-08-09,Furniture-caster,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US368265A,1887-08-16,woods,['NOUN'],[],0,0,1,1
-US368294A,1887-08-16,Steam-actuated valve,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,1
-US368312A,1887-08-16,Island,['NOUN'],[],0,0,1,1
-US368528A,1887-08-16,Calculating-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US368836A,1887-08-23,Edwabd s,"['NOUN', 'PART']",[],0,0,2,1
-US368849A,1887-08-23,Mechanism for operating the valves of faucets,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,1
-US369246A,1887-08-30,Eyeleting-machine,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,1
-US369433A,1887-09-06,Carriage-jack,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US369839A,1887-09-13,Fracture apparatus,"['NOUN', 'NOUN']",[],0,0,2,1
-US369915A,1887-09-13,Lightning-conductor,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US369939A,1887-09-13,Machine for sizing and assorting oranges,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,6,1
-US370240A,1887-09-20,Camera-tripod,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US371851A,1887-10-18,Dust-collector,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US372084A,1887-10-25,Weather-strip for doors,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,5,1
-US372171A,1887-10-25,Loop for harness,"['VERB', 'ADP', 'NOUN']",[],0,0,3,1
-US372435A,1887-11-01,Isidoe sommeepield,"['NOUN', 'NOUN']",[],0,0,2,1
-US372499A,1887-11-01,Feed-water heater,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US372713A,1887-11-08,Utilizing exhaust-steam,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
-US372792A,1887-11-08,Splicing traction-cables,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
-US372948A,1887-11-08,Device for operating carriage-tops,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
-US372962A,1887-11-08,Combined lock and latch,"['VERB', 'NOUN', 'CCONJ', 'VERB']",[],0,0,4,1
-US373234A,1887-11-15,Tapered nail,"['ADJ', 'NOUN']",[],0,0,2,1
-US373965A,1887-11-29,Mechanism for coiling wire rods,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,1
-US374500A,1887-12-06,Flour-bolt,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US374582A,1887-12-13,Machine-belt fastener,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US374682A,1887-12-13,Cliffoed f,"['VERB', 'NOUN']",[],0,0,2,1
-US374869A,1887-12-13,g-odfrey,"['X', 'NOUN', 'NOUN']",[],0,0,3,1
-US374879A,1887-12-13,Means for separating oil and sediment from feed-water,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,1
-US375223A,1887-12-20,Wood-boring machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,1
-US375283A,1887-12-20,Attachment for plows,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,1
-US375425A,1887-12-27,And sylyanus d,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,1
-US375460A,1887-12-27,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US375597A,1887-12-27,billeter,['VERB'],[],0,0,1,1
-US375685A,1887-12-27,scbjbner,['NOUN'],[],0,0,1,1
-US375728A,1888-01-03,brissiut,['ADP'],[],0,0,1,1
-US376256A,1888-01-10,Chair,['NOUN'],[],0,0,1,1
-US377032A,1888-01-31,Paper-fastener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US377502A,1888-02-07,sellon,['ADJ'],[],0,0,1,1
-US377613A,1888-02-07,Nut-lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US378087A,1888-02-21,field,['NOUN'],[],0,0,1,1
-US378092A,1888-02-21,Spark-arrester,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,1
-US378094A,1888-02-21,Cuff-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US378132A,1888-02-21,Machine foe making beushes,"['NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,4,1
-US378158A,1888-02-21,Leather-splitting machine,"['NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,4,1
-US378159A,1888-02-21,Beading-cutter,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US378340A,1888-02-21,Exhaust apparatus for locomotsves,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,1
-US378715A,1888-02-28,Manufacture of artificial-stone blocks,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,1
-US378724A,1888-02-28,Regulating attachment for corn-planters,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
-US378753A,1888-02-28,Churn,['VERB'],[],0,0,1,1
-US378776A,1888-02-28,dittenhoefeb,['VERB'],[],0,0,1,1
-US378898A,1888-03-06,nally,['ADV'],[],0,0,1,1
-US378926A,1888-03-06,Car-truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US379380A,1888-03-13,Shutter-worker,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,1
-US380260A,1888-03-27,Hehey h,"['PRON', 'VERB']",[],0,0,2,1
-US380291A,1888-03-27,Trunk-top,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US380342A,1888-04-03,Traveling thrasher,"['VERB', 'NOUN']",[],0,0,2,1
-US380343A,1888-04-03,Geoege m,"['NOUN', 'VERB']",[],0,0,2,1
-US380619A,1888-04-03,Time closing-valve for water-closets,"['NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,1
-US380703A,1888-04-10,Rivet-extractor,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US380949A,1888-04-10,Clothes-drier,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US381458A,1888-04-17,Line peotector,"['NOUN', 'NOUN']",[],0,0,2,1
-US381778A,1888-04-24,Feeding device for sewing-machines,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,1
-US381980A,1888-05-01,hoyle,['NOUN'],[],0,0,1,1
-US382320A,1888-05-08,Can-soldering machine,"['AUX', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,4,1
-US382588A,1888-05-08,Anti-freezing device for water-pipes,"['ADJ', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,1
-US382677A,1888-05-15,Harvester and binder,"['NOUN', 'CCONJ', 'NOUN']",['PERSON'],0,1,3,1
-US383311A,1888-05-22,Coffin-fastener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US384329A,1888-06-12,millar,['ADJ'],[],0,0,1,1
-US384820A,1888-06-19,Road-cart,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US385269A,1888-06-26,jacobs,['NOUN'],[],0,0,1,1
-US385270A,1888-06-26,Tile and roofing plate,"['NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,4,1
-US385598A,1888-07-03,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US385833A,1888-07-10,Machine for determining and adjusting the balance of wheels or other bodies,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,12,1
-US386253A,1888-07-17,Fire-escape,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US386328A,1888-07-17,Screw elevator for curtains,"['NOUN', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,4,1
-US386616A,1888-07-24,Churn,['VERB'],[],0,0,1,1
-US387248A,1888-08-07,Harness-saddle,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US387342A,1888-08-07,coulter,['NOUN'],[],0,0,1,1
-US388247A,1888-08-21,Avell,['ADJ'],['ORG'],0,0,1,1
-US388278A,1888-08-21,Distilling apparatus,"['NOUN', 'NOUN']",['ORG'],0,0,2,1
-US389237A,1888-09-11,Button-attaching machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,1
-US389260A,1888-09-11,Island,['NOUN'],[],0,0,1,1
-US389705A,1888-09-18,Territory,['NOUN'],[],0,0,1,1
-US389767A,1888-09-18,Vehicle-top,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US390478A,1888-10-02,Flat-iron heater,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US390647A,1888-10-09,bueke,['VERB'],[],0,0,1,1
-US390757A,1888-10-09,Oil vaporizer and burner,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,4,1
-US390788A,1888-10-09,Aooing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US390931A,1888-10-09,Sharpen ing-machine,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
-US391498A,1888-10-23,Road-scraper,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US391504A,1888-10-23,bornand,['NOUN'],[],0,0,1,1
-US391675A,1888-10-23,Rack for exhibiting hose or other goods,"['VERB', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,7,1
-US391747A,1888-10-23,Writing-frame,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US392019A,1888-10-30,Pocket-book,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US392318A,1888-11-06,Island,['NOUN'],[],0,0,1,1
-US392467A,1888-11-06,Vehicle-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US393515A,1888-11-27,Railway-rail fastening,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US393557A,1888-11-27,Coupling for signal-rods,"['VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,1
-US394040A,1888-12-04,walsh,['NOUN'],[],0,0,1,1
-US394099A,1888-12-04,Letter-box,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US394184A,1888-12-11,Let-off motion for looms,"['VERB', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,1
-US394231A,1888-12-11,Button-setting machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,1
-US394501A,1888-12-11,nordbera,['NOUN'],[],0,0,1,1
-US394573A,1888-12-18,Steam-engine governor,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,1
-US395292A,1888-12-25,Plow-sharpener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US395481A,1889-01-01,beooks,['NOUN'],[],0,0,1,1
-US395689A,1889-01-08,boehncke,['NOUN'],[],0,0,1,1
-US396087A,1889-01-15,Stump-extractor,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US396281A,1889-01-15,Hand-loom,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US396443A,1889-01-22,Box for ice-cream,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,1
-US396674A,1889-01-22,Automatic selling-machine,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,1
-US397389A,1889-02-05,Implement-joint,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,1
-US397556A,1889-02-12,Dental engine,"['ADJ', 'NOUN']",[],0,0,2,1
-US397965A,1889-02-19,Electrical battery,"['ADJ', 'NOUN']",[],0,0,2,1
-US398251A,1889-02-19,haldy,['NOUN'],[],0,0,1,1
-US399801A,1889-03-19,Alternate-current inductor,"['NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,4,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings
+US301187A,1884-07-01,And isaac l,"['CCONJ', 'PROPN', 'X']",[],1,0,3,"['and', 'isaac', 'l']",1
+US301338A,1884-07-01,Knockdown rattan chair,"['PROPN', 'ADJ', 'NOUN']",[],1,0,3,"['knockdown', 'rattan', 'chair']",1
+US305474A,1884-09-23,Dough kneader and roller,"['PROPN', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,4,"['dough', 'kneader', 'and', 'roller']",1
+US306627A,1884-10-14,John louis pigot leman,"['PROPN', 'PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,4,"['john', 'louis', 'pigot', 'leman']",1
+US306733A,1884-10-21,Ludwig heinbich feiedbueg,"['PROPN', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['ludwig', 'heinbich', 'feiedbueg']",1
+US309081A,1884-12-09,Assig-noe to,"['PROPN', 'PUNCT', 'PROPN', 'PART']",[],1,0,4,"['assig-noe', 'to']",1
+US309441A,1884-12-16,James cato de castro,"['PROPN', 'PROPN', 'X', 'PROPN']",['PERSON'],1,1,4,"['james', 'cato', 'de', 'castro']",1
+US311642A,1885-02-03,William-h,"['PROPN', 'PUNCT', 'PROPN']",['PERSON'],1,1,3,['william-h'],1
+US314707A,1885-03-31,Apparatus foe mafufacttteing lamp black,"['PROPN', 'NOUN', 'NOUN', 'NOUN', 'ADJ']",[],1,0,5,"['apparatus', 'foe', 'mafufacttteing', 'lamp', 'black']",1
+US316265A,1885-04-21,John william helton,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['john', 'william', 'helton']",1
+US316465A,1885-04-28,Method of purifying and odorizing natural gas,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'ADJ', 'NOUN']",[],1,0,7,"['method', 'of', 'purifying', 'and', 'odorizing', 'natural', 'gas']",1
+US317532A,1885-05-12,Geoege evelyh hall,"['PROPN', 'NOUN', 'PROPN']",[],1,0,3,"['geoege', 'evelyh', 'hall']",1
+US317704A,1885-05-12,Edmond beale and andrew bangs,"['PROPN', 'NOUN', 'CCONJ', 'PROPN', 'NOUN']",[],1,0,5,"['edmond', 'beale', 'and', 'andrew', 'bangs']",1
+US318027A,1885-05-19,Traction elevated railway,"['PROPN', 'VERB', 'NOUN']",[],1,0,3,"['traction', 'elevated', 'railway']",1
+US318968A,1885-06-02,Duplex-crank piston- pu m p,"['NOUN', 'PUNCT', 'NOUN', 'X', 'PROPN', 'VERB', 'NOUN']",[],1,0,7,"['duplex-crank', 'piston-', 'pu', 'm', 'p']",1
+US319478A,1885-06-09,Potato-d,"['PROPN', 'PUNCT', 'PROPN']",[],1,0,3,['potato-d'],1
+US323704A,1885-08-04,Sap-spile,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['sap-spile'],1
+US327098A,1885-09-29,Mach ine for straightening railroad-rails,"['PROPN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,7,"['mach', 'ine', 'for', 'straightening', 'railroad-rails']",1
+US332527A,1885-12-15,Ash-pan,"['PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,3,['ash-pan'],1
+US336953A,1886-03-02,James scotland and frangois cordon,"['PROPN', 'PROPN', 'CCONJ', 'NOUN', 'PROPN']",['PERSON'],1,1,5,"['james', 'scotland', 'and', 'frangois', 'cordon']",1
+US341838A,1886-05-11,Anti friotional chock oe leader foe eigkjim of vessels,"['ADJ', 'ADJ', 'NOUN', 'PROPN', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],1,0,9,"['anti', 'friotional', 'chock', 'oe', 'leader', 'foe', 'eigkjim', 'of', 'vessels']",1
+US341968A,1886-05-18,Joseph van euymbeke,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['joseph', 'van', 'euymbeke']",1
+US343129A,1886-06-01,Dynamo-electric machine,"['PROPN', 'PUNCT', 'ADJ', 'NOUN']",[],1,0,4,"['dynamo-electric', 'machine']",1
+US343455A,1886-06-08,And thomas c,"['CCONJ', 'PROPN', 'AUX']",[],1,0,3,"['and', 'thomas', 'c']",1
+US345003A,1886-07-06,Apparatus for waterproofing paper,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,"['apparatus', 'for', 'waterproofing', 'paper']",1
+US345420A,1886-07-13,Assig-noe of one,"['PROPN', 'PUNCT', 'NUM', 'ADP', 'NUM']",['CARDINAL'],1,0,5,"['assig-noe', 'of', 'one']",1
+US346415A,1886-07-27,Glove-stretcher,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['glove-stretcher'],1
+US346862A,1886-08-03,Ors of one-half to paul bake well,"['NOUN', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'ADV']","['CARDINAL', 'PERSON']",1,1,9,"['ors', 'of', 'one-half', 'to', 'paul', 'bake', 'well']",1
+US348793A,1886-09-07,William stephen smith,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['william', 'stephen', 'smith']",1
+US351299A,1886-10-19,Johanst peter adolf vollmar,"['PROPN', 'PROPN', 'PROPN', 'PROPN']",['ORG'],1,0,4,"['johanst', 'peter', 'adolf', 'vollmar']",1
+US352697A,1886-11-16,Hose-nozzle holder,"['PROPN', 'PUNCT', 'NOUN', 'NOUN']",['PERSON'],1,1,4,"['hose-nozzle', 'holder']",1
+US353439A,1886-11-30,Half to archibald w,"['NOUN', 'PART', 'PROPN', 'PROPN']",[],1,0,4,"['half', 'to', 'archibald', 'w']",1
+US362835A,1887-05-10,Itc ip a t,"['PROPN', 'VERB', 'DET', 'NOUN']",[],1,0,4,"['itc', 'ip', 'a', 't']",1
+US363297A,1887-05-17,Joseph winsor newton,"['PROPN', 'NOUN', 'PROPN']",['PERSON'],1,1,3,"['joseph', 'winsor', 'newton']",1
+US365860A,1887-07-05,William james pyle,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['william', 'james', 'pyle']",1
+US366363A,1887-07-12,Baker s oven,"['PROPN', 'PART', 'ADJ']",['PERSON'],1,1,3,"['baker', 's', 'oven']",1
+US367277A,1887-07-26,Bell x  co,"['PROPN', 'PROPN', 'SPACE', 'X']",[],1,0,4,"['bell', 'x', 'co']",1
+US367608A,1887-08-02,Feed-regulator for roller-m i lls an d purifiers,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'PROPN', 'PRON', 'VERB', 'DET', 'NOUN', 'NOUN']",[],1,0,12,"['feed-regulator', 'for', 'roller-m', 'i', 'lls', 'an', 'd', 'purifiers']",1
+US368732A,1887-08-23,Henry clay peicb,"['PROPN', 'NOUN', 'PROPN']",['ORG'],1,0,3,"['henry', 'clay', 'peicb']",1
+US370911A,1887-10-04,Beuno hugo webeb,"['PROPN', 'PROPN', 'VERB']",['FAC'],1,0,3,"['beuno', 'hugo', 'webeb']",1
+US373957A,1887-11-29,Gib and key,"['PROPN', 'CCONJ', 'ADJ']",[],1,0,3,"['gib', 'and', 'key']",1
+US373958A,1887-11-29,Lamp for decorating and illuminating purposes,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],1,0,6,"['lamp', 'for', 'decorating', 'and', 'illuminating', 'purposes']",1
+US374860A,1887-12-13,Apparatus for measuring electric currents,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],1,0,5,"['apparatus', 'for', 'measuring', 'electric', 'currents']",1
+US374861A,1887-12-13,Appaeatus foe measuring electeiq cueeents,"['PROPN', 'AUX', 'VERB', 'NOUN', 'NOUN']",[],1,0,5,"['appaeatus', 'foe', 'measuring', 'electeiq', 'cueeents']",1
+US376689A,1888-01-17,Cigar-box,"['PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,3,['cigar-box'],1
+US377865A,1888-02-14,Spike-extractor,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['spike-extractor'],1
+US378058A,1888-02-14,Edgae peckham and emil la ass,"['PROPN', 'PROPN', 'CCONJ', 'VERB', 'ADV', 'NOUN']",['ORG'],1,0,6,"['edgae', 'peckham', 'and', 'emil', 'la', 'ass']",1
+US379225A,1888-03-13,Tver johnson and andrew fyrberg,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'VERB']","['PERSON', 'PERSON']",1,1,5,"['tver', 'johnson', 'and', 'andrew', 'fyrberg']",1
+US379895A,1888-03-20,James heeva jones,"['PROPN', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['james', 'heeva', 'jones']",1
+US380133A,1888-03-27,Method of flush-nailing the heels of boots or shoes,"['PROPN', 'ADP', 'ADV', 'PUNCT', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,11,"['method', 'of', 'flush-nailing', 'the', 'heels', 'of', 'boots', 'or', 'shoes']",1
+US380767A,1888-04-10,Samuel garvin pillsbtjey,"['PROPN', 'PROPN', 'PROPN']",[],1,0,3,"['samuel', 'garvin', 'pillsbtjey']",1
+US383502A,1888-05-29,Apparatus for lighting railway-cars by electricity,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],1,0,8,"['apparatus', 'for', 'lighting', 'railway-cars', 'by', 'electricity']",1
+US384786A,1888-06-19,Barrel-stave-cutting machine,"['PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],1,0,6,"['barrel-stave-cutting', 'machine']",1
+US386757A,1888-07-24,Third to samuel w,"['ADV', 'ADP', 'PROPN', 'PROPN']","['ORDINAL', 'PERSON']",1,1,4,"['third', 'to', 'samuel', 'w']",1
+US388352A,1888-08-21,Chaeles millbe foottit,"['PROPN', 'NOUN', 'NOUN']",[],1,0,3,"['chaeles', 'millbe', 'foottit']",1
+US390921A,1888-10-09,Carbon contact or com m utato r-brush,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,9,"['carbon', 'contact', 'or', 'com', 'm', 'utato', 'r-brush']",1
+US392443A,1888-11-06,Magneto-signaling apparatus,"['PROPN', 'PUNCT', 'VERB', 'NOUN']",[],1,0,4,"['magneto-signaling', 'apparatus']",1
+US392709A,1888-11-13,Elijah bruce atkinson,"['PROPN', 'PROPN', 'NOUN']",[],1,0,3,"['elijah', 'bruce', 'atkinson']",1
+US393193A,1888-11-20,Half to james aken,"['NOUN', 'ADP', 'PROPN', 'VERB']","['CARDINAL', 'PERSON']",1,1,4,"['half', 'to', 'james', 'aken']",1
+US393330A,1888-11-20,Half to john h,"['NOUN', 'ADP', 'PROPN', 'PROPN']","['CARDINAL', 'PERSON']",1,1,4,"['half', 'to', 'john', 'h']",1
+US394806A,1888-12-18,Wardrobe-bedstead,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['wardrobe-bedstead'],1
+US399293A,1889-03-12,Knsfe-sharpener for double-pile-fabric looms,"['PROPN', 'PUNCT', 'PROPN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",['PERSON'],1,1,10,"['knsfe-sharpener', 'for', 'double-pile-fabric', 'looms']",1
+US399496A,1889-03-12,Method of calcining rock,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,"['method', 'of', 'calcining', 'rock']",1
+US300396A,1884-06-17,Carpet-stretcher,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['carpet-stretcher'],1
+US300554A,1884-06-17,Process-kettle for cooking canned fruit,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'VERB', 'NOUN']",[],0,0,7,"['process-kettle', 'for', 'cooking', 'canned', 'fruit']",1
+US300842A,1884-06-24,Printing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['printing-machine'],1
+US300976A,1884-06-24,Telephone-call annunciator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['telephone-call', 'annunciator']",1
+US301002A,1884-06-24,Support for shirt-neckbands,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['support', 'for', 'shirt-neckbands']",1
+US301191A,1884-07-01,System for conveying and utilizing gas under pressure,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['system', 'for', 'conveying', 'and', 'utilizing', 'gas', 'under', 'pressure']",1
+US301311A,1884-07-01,Overshoe,['NOUN'],[],0,0,1,['overshoe'],1
+US302000A,1884-07-15,Portable barn,"['ADJ', 'NOUN']",[],0,0,2,"['portable', 'barn']",1
+US302074A,1884-07-15,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['car-coupling'],1
+US302189A,1884-07-15,Perforating-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['perforating-machine'],1
+US302197A,1884-07-15,Nut-lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['nut-lock'],1
+US302494A,1884-07-22,Stove-lid lifter,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['stove-lid', 'lifter']",1
+US302727A,1884-07-29,Railway-truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['railway-truck'],1
+US302770A,1884-07-29,Jar and bottle stopper fastener,"['NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['jar', 'and', 'bottle', 'stopper', 'fastener']",1
+US302846A,1884-07-29,Rectal,['ADJ'],[],0,0,1,['rectal'],1
+US302980A,1884-08-05,buell,['VERB'],['ORG'],0,0,1,['buell'],1
+US303287A,1884-08-12,Ice-rubber,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['ice-rubber'],1
+US303334A,1884-08-12,Removable flooring for stalls,"['ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,"['removable', 'flooring', 'for', 'stalls']",1
+US303365A,1884-08-12,Mings,['NOUN'],[],0,0,1,['mings'],1
+US303471A,1884-08-12,Tag-fastener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['tag-fastener'],1
+US303518A,1884-08-12,Draft-equalizer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['draft-equalizer'],1
+US303522A,1884-08-12,Drop for store-service apparatus,"['VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['drop', 'for', 'store-service', 'apparatus']",1
+US303581A,1884-08-12,Island,['NOUN'],[],0,0,1,['island'],1
+US303848A,1884-08-19,Pounce-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['pounce-holder'],1
+US304033A,1884-08-26,reynolds,['NOUN'],['ORG'],0,0,1,['reynolds'],1
+US304034A,1884-08-26,Swftch-stand,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['swftch-stand'],1
+US304404A,1884-09-02,Flour-sifter,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['flour-sifter'],1
+US304493A,1884-09-02,Steam-engine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['steam-engine'],1
+US304789A,1884-09-09,Metal column,"['NOUN', 'NOUN']",[],0,0,2,"['metal', 'column']",1
+US305082A,1884-09-16,Hitching-strap holder,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['hitching-strap', 'holder']",1
+US305100A,1884-09-16,Chaeles mooee,"['NOUN', 'ADJ']",[],0,0,2,"['chaeles', 'mooee']",1
+US305105A,1884-09-16,o grady,"['X', 'X']",[],0,0,2,"['o', 'grady']",1
+US305244A,1884-09-16,Machine for drying,"['NOUN', 'ADP', 'VERB']",[],0,0,3,"['machine', 'for', 'drying']",1
+US305338A,1884-09-16,Vehicle-spring,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['vehicle-spring'],1
+US305384A,1884-09-16,Dumping cae,"['VERB', 'NOUN']",[],0,0,2,"['dumping', 'cae']",1
+US305385A,1884-09-16,Trunk,['NOUN'],[],0,0,1,['trunk'],1
+US305841A,1884-09-30,tapped,['VERB'],[],0,0,1,['tapped'],1
+US305975A,1884-09-30,Corn-harvester,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['corn-harvester'],1
+US306222A,1884-10-07,Railroad-gate,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['railroad-gate'],1
+US306381A,1884-10-14,Piano-truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['piano-truck'],1
+US306492A,1884-10-14,Screw,['NOUN'],[],0,0,1,['screw'],1
+US307146A,1884-10-28,Side bar or main rod for locomotives,"['NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,"['side', 'bar', 'or', 'main', 'rod', 'for', 'locomotives']",1
+US307148A,1884-10-28,Self-lubricating journal-box,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['self-lubricating', 'journal-box']",1
+US307862A,1884-11-11,Dredths to fred w,"['NOUN', 'PART', 'VERB', 'X']",[],0,0,4,"['dredths', 'to', 'fred', 'w']",1
+US307886A,1884-11-11,Car-replacer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['car-replacer'],1
+US308515A,1884-11-25,Trace-buckle,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['trace-buckle'],1
+US308855A,1884-12-02,Heater for steam-boilers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['heater', 'for', 'steam-boilers']",1
+US309133A,1884-12-09,Bale-he band,"['NOUN', 'PUNCT', 'PRON', 'NOUN']",[],0,0,4,"['bale-he', 'band']",1
+US309536A,1884-12-23,Regulator for electric generators and motors,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,"['regulator', 'for', 'electric', 'generators', 'and', 'motors']",1
+US309922A,1884-12-30,bovee,['NOUN'],[],0,0,1,['bovee'],1
+US309937A,1884-12-30,Island,['NOUN'],[],0,0,1,['island'],1
+US310206A,1885-01-06,Package-wrapper,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['package-wrapper'],1
+US311313A,1885-01-27,Hot-air heating apparatus,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['hot-air', 'heating', 'apparatus']",1
+US311333A,1885-01-27,lattner,['NOUN'],[],0,0,1,['lattner'],1
+US311465A,1885-02-03,Lamp-filling attachment for oil-cans,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['lamp-filling', 'attachment', 'for', 'oil-cans']",1
+US311559A,1885-02-03,Machine for cutting sheets with oblique edges from webs of paper,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,11,"['machine', 'for', 'cutting', 'sheets', 'with', 'oblique', 'edges', 'from', 'webs', 'of', 'paper']",1
+US311700A,1885-02-03,weyerbusch,['NOUN'],[],0,0,1,['weyerbusch'],1
+US311890A,1885-02-10,Reversing-valve for steam-engines,"['VERB', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['reversing-valve', 'for', 'steam-engines']",1
+US312478A,1885-02-17,Kettle attachment,"['NOUN', 'NOUN']",[],0,0,2,"['kettle', 'attachment']",1
+US312480A,1885-02-17,Eoad grading machine,"['NOUN', 'VERB', 'NOUN']",[],0,0,3,"['eoad', 'grading', 'machine']",1
+US312923A,1885-02-24,Darning attachment for sewing-machines,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['darning', 'attachment', 'for', 'sewing-machines']",1
+US313708A,1885-03-10,Weight-motor,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['weight-motor'],1
+US314050A,1885-03-17,Double-foot plow-stock,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['double-foot', 'plow-stock']",1
+US314350A,1885-03-24,Foe meeting- kails of sashes,"['NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",['PERSON'],0,1,5,"['foe', 'meeting-', 'kails', 'of', 'sashes']",1
+US314538A,1885-03-24,Coffin,['NOUN'],[],0,0,1,['coffin'],1
+US314657A,1885-03-31,Ooooqoooo,['NOUN'],['ORG'],0,0,1,['ooooqoooo'],1
+US314685A,1885-03-31,Roving-can,"['NOUN', 'PUNCT', 'AUX']",[],0,0,3,['roving-can'],1
+US315098A,1885-04-07,white,['ADJ'],[],0,0,1,['white'],1
+US315229A,1885-04-07,biack,['VERB'],[],0,0,1,['biack'],1
+US315423A,1885-04-07,Hoisting single-tree,"['VERB', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,4,"['hoisting', 'single-tree']",1
+US315682A,1885-04-14,Grain-measuring apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['grain-measuring', 'apparatus']",1
+US315700A,1885-04-14,Machine,['NOUN'],[],0,0,1,['machine'],1
+US315789A,1885-04-14,Curtain-fixture,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['curtain-fixture'],1
+US315963A,1885-04-14,Fare register and recorder,"['NOUN', 'VERB', 'CCONJ', 'VERB']",[],0,0,4,"['fare', 'register', 'and', 'recorder']",1
+US316283A,1885-04-21,Door-closer,"['NOUN', 'PUNCT', 'ADJ']",[],0,0,3,['door-closer'],1
+US316555A,1885-04-28,Window-bead fastener,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['window-bead', 'fastener']",1
+US316770A,1885-04-28,Piston-packing,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['piston-packing'],1
+US317002A,1885-05-05,Hand bending-tool,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['hand', 'bending-tool']",1
+US317078A,1885-05-05,blackball,['NOUN'],[],0,0,1,['blackball'],1
+US317080A,1885-05-05,Attachment for dredge-pumps,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['attachment', 'for', 'dredge-pumps']",1
+US317302A,1885-05-05,Subway or conduit for cable or electric railways,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,8,"['subway', 'or', 'conduit', 'for', 'cable', 'or', 'electric', 'railways']",1
+US317529A,1885-05-12,Nail-plate feeder,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['nail-plate', 'feeder']",1
+US317595A,1885-05-12,Clover-huller,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['clover-huller'],1
+US318123A,1885-05-19,Stay for trunks,"['VERB', 'ADP', 'NOUN']",[],0,0,3,"['stay', 'for', 'trunks']",1
+US318523A,1885-05-19,Egg boiler and caster,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,4,"['egg', 'boiler', 'and', 'caster']",1
+US318548A,1885-05-19,Eudolph d heueeuse,"['ADJ', 'NOUN', 'NOUN']",[],0,0,3,"['eudolph', 'd', 'heueeuse']",1
+US318551A,1885-05-19,eames,['VERB'],[],0,0,1,['eames'],1
+US318733A,1885-05-19,Frame for eyeglasses and spectacles,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,5,"['frame', 'for', 'eyeglasses', 'and', 'spectacles']",1
+US319182A,1885-06-02,Machine for forming hollow ware froivj paper-pulp,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['machine', 'for', 'forming', 'hollow', 'ware', 'froivj', 'paper-pulp']",1
+US319631A,1885-06-09,Hand-rake,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['hand-rake'],1
+US320033A,1885-06-16,Sewing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['sewing-machine'],1
+US320114A,1885-06-16,Folding ladder,"['VERB', 'NOUN']",[],0,0,2,"['folding', 'ladder']",1
+US320815A,1885-06-23,Chimney-cowl,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['chimney-cowl'],1
+US320858A,1885-06-23,Paving sidewalks,"['VERB', 'NOUN']",[],0,0,2,"['paving', 'sidewalks']",1
+US321845A,1885-07-07,paine,['NOUN'],[],0,0,1,['paine'],1
+US321861A,1885-07-07,Collar-button,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['collar-button'],1
+US322057A,1885-07-14,Bicycle-stand,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['bicycle-stand'],1
+US322571A,1885-07-21,Island,['NOUN'],[],0,0,1,['island'],1
+US322857A,1885-07-21,Feedeeic schaepee,"['ADJ', 'NOUN']",[],0,0,2,"['feedeeic', 'schaepee']",1
+US322858A,1885-07-21,Excavating-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['excavating-machine'],1
+US322935A,1885-07-28,Planing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['planing-machine'],1
+US323631A,1885-08-04,Show-stand,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['show-stand'],1
+US323978A,1885-08-11,Press for setting lacing-hooks,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['press', 'for', 'setting', 'lacing-hooks']",1
+US324258A,1885-08-11,Cane-scraper,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['cane-scraper'],1
+US325350A,1885-09-01,Device for connecting picking-straps to the picking-sticks of looms,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,13,"['device', 'for', 'connecting', 'picking-straps', 'to', 'the', 'picking-sticks', 'of', 'looms']",1
+US325580A,1885-09-01,Carriage-door,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['carriage-door'],1
+US325682A,1885-09-08,Broom-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['broom-holder'],1
+US325706A,1885-09-08,Gage and level indicating device for r ai lro a d-trac ks,"['NOUN', 'CCONJ', 'NOUN', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",['ORG'],0,0,14,"['gage', 'and', 'level', 'indicating', 'device', 'for', 'r', 'ai', 'lro', 'a', 'd-trac', 'ks']",1
+US325921A,1885-09-08,Pen-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['pen-holder'],1
+US326000A,1885-09-08,Lathe,['NOUN'],[],0,0,1,['lathe'],1
+US326124A,1885-09-15,kneeland,['VERB'],[],0,0,1,['kneeland'],1
+US326246A,1885-09-15,richards,['NOUN'],[],0,0,1,['richards'],1
+US326247A,1885-02-16,Exercising-machine,"['VERB', 'PUNCT', 'NOUN']",[],0,0,3,['exercising-machine'],1
+US326277A,1885-09-15,Hanty,['NOUN'],[],0,0,1,['hanty'],1
+US326439A,1885-09-15,Protecting wells,"['VERB', 'NOUN']",[],0,0,2,"['protecting', 'wells']",1
+US326463A,1885-09-15,Machine for making toe-calks,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['machine', 'for', 'making', 'toe-calks']",1
+US326546A,1885-09-22,Trace and hame connection,"['NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,4,"['trace', 'and', 'hame', 'connection']",1
+US326658A,1885-09-22,Automatic brake for wagons and carriages,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,"['automatic', 'brake', 'for', 'wagons', 'and', 'carriages']",1
+US326944A,1885-09-29,Spring,['NOUN'],[],0,0,1,['spring'],1
+US326990A,1885-09-29,Water-tube boiler,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['water-tube', 'boiler']",1
+US327217A,1885-09-29,Machine for making staples,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'for', 'making', 'staples']",1
+US327647A,1885-10-06,Vapor-burner stove,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['vapor-burner', 'stove']",1
+US328140A,1885-10-13,Steam-generator,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['steam-generator'],1
+US328291A,1885-10-13,Burial casket,"['ADJ', 'NOUN']",[],0,0,2,"['burial', 'casket']",1
+US328607A,1885-10-20,Liquid for voltaic batteries,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['liquid', 'for', 'voltaic', 'batteries']",1
+US328740A,1885-10-20,Petee wiederer,"['NOUN', 'NOUN']",[],0,0,2,"['petee', 'wiederer']",1
+US328788A,1885-10-20,Grain-drier,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['grain-drier'],1
+US328865A,1885-10-20,Edwabd m,"['NOUN', 'VERB']",[],0,0,2,"['edwabd', 'm']",1
+US329168A,1885-10-27,Middlings purifier and separator,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",['PERSON'],0,1,4,"['middlings', 'purifier', 'and', 'separator']",1
+US329189A,1885-10-27,Non-interfering fire and police telegraph system,"['ADJ', 'ADJ', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['non-interfering', 'fire', 'and', 'police', 'telegraph', 'system']",1
+US329982A,1885-11-10,Receiver for telephonic telegraphs,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['receiver', 'for', 'telephonic', 'telegraphs']",1
+US330241A,1885-11-10,Medicament-retainer for horses  feet,"['ADJ', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'SPACE', 'NOUN']",[],0,0,7,"['medicament-retainer', 'for', 'horses', 'feet']",1
+US330460A,1885-11-17,Inokustation,['NOUN'],[],0,0,1,['inokustation'],1
+US330489A,1885-11-17,htjssey,['ADJ'],[],0,0,1,['htjssey'],1
+US330614A,1885-11-17,Machine for sawing stone,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'for', 'sawing', 'stone']",1
+US331237A,1885-11-24,paine,['NOUN'],[],0,0,1,['paine'],1
+US331651A,1885-12-01,peahae,['NOUN'],[],0,0,1,['peahae'],1
+US331920A,1885-12-08,Machine for making,"['NOUN', 'ADP', 'VERB']",[],0,0,3,"['machine', 'for', 'making']",1
+US332034A,1885-12-08,Emery andrews,"['NOUN', 'NOUN']",[],0,0,2,"['emery', 'andrews']",1
+US332146A,1885-12-08,Pencil-sharpener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['pencil-sharpener'],1
+US332422A,1885-12-15,Filter,['NOUN'],[],0,0,1,['filter'],1
+US332844A,1885-12-22,Scraper attachment for wheel-plows,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['scraper', 'attachment', 'for', 'wheel-plows']",1
+US333110A,1885-12-29,Edwaed clark,"['ADJ', 'NOUN']",['NORP'],0,0,2,"['edwaed', 'clark']",1
+US333389A,1885-12-29,Grinding or crushing mill,"['VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,4,"['grinding', 'or', 'crushing', 'mill']",1
+US333805A,1886-01-05,Screw peopellee,"['NOUN', 'NOUN']",['DATE'],0,0,2,"['screw', 'peopellee']",1
+US334031A,1886-01-12,Nut-lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['nut-lock'],1
+US334101A,1886-01-12,Island,['NOUN'],[],0,0,1,['island'],1
+US334122A,1886-01-12,Machine for condensing warps for being dyed,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'AUX', 'VERB']",[],0,0,7,"['machine', 'for', 'condensing', 'warps', 'for', 'being', 'dyed']",1
+US334247A,1886-01-12,leffingwell,['VERB'],[],0,0,1,['leffingwell'],1
+US334317A,1886-01-12,Electric lamp,"['ADJ', 'NOUN']",[],0,0,2,"['electric', 'lamp']",1
+US334397A,1886-01-12,Edwaed spaulding,"['VERB', 'VERB']",[],0,0,2,"['edwaed', 'spaulding']",1
+US334428A,1886-01-19,Railroad track clearer,"['NOUN', 'NOUN', 'ADJ']",[],0,0,3,"['railroad', 'track', 'clearer']",1
+US334430A,1886-01-19,Art of making butter,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['art', 'of', 'making', 'butter']",1
+US334483A,1886-01-19,Hand force-pump,"['NOUN', 'NOUN', 'PUNCT', 'VERB']",[],0,0,4,"['hand', 'force-pump']",1
+US335094A,1886-01-26,Embroidering-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['embroidering-machine'],1
+US335822A,1886-02-09,Box-fastening,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['box-fastening'],1
+US336305A,1886-02-16,Baling-press,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['baling-press'],1
+US336511A,1886-02-16,Lumber-drier,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['lumber-drier'],1
+US336671A,1886-02-23,Meat-hook,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['meat-hook'],1
+US336930A,1886-03-02,Washing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['washing-machine'],1
+US336950A,1886-03-02,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['car-coupling'],1
+US337154A,1886-03-02,Filtering device for feed-water pipes,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",['LOC'],0,0,7,"['filtering', 'device', 'for', 'feed-water', 'pipes']",1
+US337666A,1886-03-09,I i   x i i,"['PRON', 'PRON', 'SPACE', 'PUNCT', 'PRON', 'PRON']",[],0,0,6,"['i', 'i', 'x', 'i', 'i']",1
+US337695A,1886-03-09,Sash-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['sash-holder'],1
+US338033A,1886-03-16,Traveling-cap,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['traveling-cap'],1
+US338232A,1886-03-16,Convertible chair,"['ADJ', 'NOUN']",[],0,0,2,"['convertible', 'chair']",1
+US338458A,1886-03-23,Keying-clamp,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['keying-clamp'],1
+US338505A,1886-03-23,Safe-lock,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,['safe-lock'],1
+US338518A,1886-03-23,Electrical subway,"['ADJ', 'NOUN']",[],0,0,2,"['electrical', 'subway']",1
+US338735A,1886-03-30,Combined pool-rack and ball-spotter,"['VERB', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['combined', 'pool-rack', 'and', 'ball-spotter']",1
+US338876A,1886-03-30,richter,['NOUN'],[],0,0,1,['richter'],1
+US339101A,1886-03-30,Chaeles a,"['VERB', 'PRON']",[],0,0,2,"['chaeles', 'a']",1
+US339108A,1886-03-30,Draft-equalizer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['draft-equalizer'],1
+US339575A,1886-04-06,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['car-coupling'],1
+US340515A,1886-04-20,macombee,['NOUN'],[],0,0,1,['macombee'],1
+US340747A,1886-04-27,Pyrotechnic match,"['ADJ', 'NOUN']",[],0,0,2,"['pyrotechnic', 'match']",1
+US340912A,1886-04-27,Circuit-breaker for telephone ljnes,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['circuit-breaker', 'for', 'telephone', 'ljnes']",1
+US340916A,1886-04-27,Hollow grate and feed-water heater,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,"['hollow', 'grate', 'and', 'feed-water', 'heater']",1
+US340936A,1886-04-27,Watch barbel,"['VERB', 'NOUN']",[],0,0,2,"['watch', 'barbel']",1
+US340999A,1886-05-04,graves,['NOUN'],[],0,0,1,['graves'],1
+US341871A,1886-05-18,Rotary air-pump,"['ADJ', 'NOUN', 'PUNCT', 'VERB']",[],0,0,4,"['rotary', 'air-pump']",1
+US341947A,1886-05-18,Horse hay-rake,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['horse', 'hay-rake']",1
+US342203A,1886-05-18,Water-closet,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['water-closet'],1
+US342272A,1886-05-18,tyson,['INTJ'],[],0,0,1,['tyson'],1
+US342670A,1886-05-25,zellers,['NOUN'],[],0,0,1,['zellers'],1
+US343111A,1886-06-01,Setts,['NOUN'],['NORP'],0,0,1,['setts'],1
+US343312A,1886-06-08,hawkins,['NOUN'],[],0,0,1,['hawkins'],1
+US343484A,1886-06-08,Two-wheeled vehicle,"['NUM', 'PUNCT', 'ADJ', 'NOUN']",['CARDINAL'],0,0,4,"['two-wheeled', 'vehicle']",1
+US343634A,1886-06-15,Clinometer,['NOUN'],[],0,0,1,['clinometer'],1
+US343640A,1886-06-15,Printer s lead and rule cutter,"['NOUN', 'PART', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,"['printer', 's', 'lead', 'and', 'rule', 'cutter']",1
+US344251A,1886-06-22,Shirt-waist,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['shirt-waist'],1
+US344950A,1886-07-06,Disk seeder and cultivator,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,4,"['disk', 'seeder', 'and', 'cultivator']",1
+US345210A,1886-07-06,Planter and manure-distributer,"['NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['planter', 'and', 'manure-distributer']",1
+US345571A,1886-07-13,chancellor,['NOUN'],[],0,0,2,['chancellor'],1
+US345788A,1886-07-20,Remedy for hog and chicken cholera,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",['PERSON'],0,1,6,"['remedy', 'for', 'hog', 'and', 'chicken', 'cholera']",1
+US346183A,1886-07-27,waters,['NOUN'],[],0,0,2,['waters'],1
+US346280A,1886-07-27,Bobebt h,"['NOUN', 'NOUN']",[],0,0,2,"['bobebt', 'h']",1
+US346773A,1886-08-03,Bath-pad,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['bath-pad'],1
+US346975A,1886-08-10,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['car-coupling'],1
+US346988A,1886-08-10,Target-trap,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['target-trap'],1
+US347174A,1886-08-10,Milk-can,"['NOUN', 'PUNCT', 'AUX']",[],0,0,3,['milk-can'],1
+US347240A,1886-08-10,Prop-nut,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['prop-nut'],1
+US347328A,1886-08-17,Portable furnace,"['ADJ', 'NOUN']",[],0,0,2,"['portable', 'furnace']",1
+US347345A,1886-08-17,Compounds,['NOUN'],[],0,0,1,['compounds'],1
+US347432A,1886-08-17,Filter,['NOUN'],[],0,0,1,['filter'],1
+US347586A,1886-08-17,Water-closet-seat protector,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['water-closet-seat', 'protector']",1
+US347831A,1886-08-24,Razor-strop,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['razor-strop'],1
+US347936A,1886-08-24,Oar truce,"['NOUN', 'NOUN']",[],0,0,2,"['oar', 'truce']",1
+US348244A,1886-08-31,Chair,['NOUN'],[],0,0,1,['chair'],1
+US348589A,1886-09-07,sloan,['ADJ'],[],0,0,1,['sloan'],1
+US349447A,1886-09-21,Railway-track system,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['railway-track', 'system']",1
+US349470A,1886-09-21,Pivot-cutting implement,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['pivot-cutting', 'implement']",1
+US349499A,1886-09-21,Ghaeles e,"['NOUN', 'NOUN']",[],0,0,2,"['ghaeles', 'e']",1
+US349521A,1886-09-21,Automatic weighing mechanism for elevators,"['ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['automatic', 'weighing', 'mechanism', 'for', 'elevators']",1
+US349522A,1886-09-21,Cash-register,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['cash-register'],1
+US349648A,1886-09-21,Laundry dressing,"['NOUN', 'VERB']",['ORG'],0,0,2,"['laundry', 'dressing']",1
+US349649A,1886-09-21,Self and dayid w,"['NOUN', 'CCONJ', 'VERB', 'ADP']",[],0,0,4,"['self', 'and', 'dayid', 'w']",1
+US350422A,1886-10-05,Expansion-joint,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['expansion-joint'],1
+US350733A,1886-10-12,Potato-digger,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['potato-digger'],1
+US351001A,1886-10-19,Anti-friction bearing for velocipedes,"['ADJ', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['anti-friction', 'bearing', 'for', 'velocipedes']",1
+US351141A,1886-10-19,Teeeitoey,['NOUN'],['ORG'],0,0,1,['teeeitoey'],1
+US351389A,1886-10-26,Arm-support for telephone-operators,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['arm-support', 'for', 'telephone-operators']",1
+US351862A,1886-11-02,Funeral-advertising device or annunciator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,"['funeral-advertising', 'device', 'or', 'annunciator']",1
+US352099A,1886-11-02,Edwaed dayton bockwell,"['ADJ', 'NOUN', 'NOUN']",[],0,0,3,"['edwaed', 'dayton', 'bockwell']",1
+US353107A,1886-11-23,Feedeeick a,"['VERB', 'PRON']",['ORG'],0,0,2,"['feedeeick', 'a']",1
+US353254A,1886-11-23,Willaed a,"['VERB', 'PRON']",[],0,0,2,"['willaed', 'a']",1
+US353271A,1886-11-23,solano,['INTJ'],[],0,0,1,['solano'],1
+US353422A,1886-11-30,Heater,['NOUN'],[],0,0,1,['heater'],1
+US353664A,1886-12-07,calyert,['NOUN'],[],0,0,1,['calyert'],1
+US353690A,1886-12-07,Harness-saddle,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['harness-saddle'],1
+US353833A,1886-12-07,Water-meter with revolving pistons,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,"['water-meter', 'with', 'revolving', 'pistons']",1
+US353846A,1886-12-07,Spirit-level,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['spirit-level'],1
+US354374A,1886-12-14,Machine for uniting knit fabrics,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,5,"['machine', 'for', 'uniting', 'knit', 'fabrics']",1
+US355371A,1887-01-04,Teeeitoey,['NOUN'],['ORG'],0,0,1,['teeeitoey'],1
+US355408A,1887-01-04,Lock-hinge,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['lock-hinge'],1
+US355654A,1887-01-04,Half to albert a,"['NOUN', 'PART', 'VERB', 'PRON']","['CARDINAL', 'PERSON']",0,1,4,"['half', 'to', 'albert', 'a']",1
+US355875A,1887-01-11,Theodoe kempf,"['NUM', 'VERB']",['CARDINAL'],0,0,2,"['theodoe', 'kempf']",1
+US355876A,1887-01-11,lesne-ub,"['NOUN', 'PUNCT', 'ADP']",[],0,0,3,['lesne-ub'],1
+US356168A,1887-01-18,X c cigar-tip clipper,"['NOUN', 'X', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['x', 'c', 'cigar-tip', 'clipper']",1
+US356327A,1887-01-18,Pencil-drawer for school-desks,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['pencil-drawer', 'for', 'school-desks']",1
+US356763A,1887-02-01,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['car-coupling'],1
+US356888A,1887-02-01,Expansible conductor-pipe,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['expansible', 'conductor-pipe']",1
+US357495A,1887-02-08,Thrashing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['thrashing-machine'],1
+US357579A,1887-02-15,Skate-roller,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['skate-roller'],1
+US357654A,1887-02-15,Fender,['NOUN'],[],0,0,1,['fender'],1
+US357704A,1887-02-15,Railroad-crossing,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['railroad-crossing'],1
+US357835A,1887-02-15,Car-axle lubricator,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['car-axle', 'lubricator']",1
+US358103A,1887-02-22,Wilbbet e,"['ADJ', 'NOUN']",['GPE'],0,0,2,"['wilbbet', 'e']",1
+US358460A,1887-03-01,Fence-making machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['fence-making', 'machine']",1
+US358777A,1887-03-01,Htdeaulic motor,"['ADJ', 'NOUN']",[],0,0,2,"['htdeaulic', 'motor']",1
+US359021A,1887-03-08,Mold for casting printers  leads and small furniture,"['NOUN', 'ADP', 'VERB', 'NOUN', 'SPACE', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,9,"['mold', 'for', 'casting', 'printers', 'leads', 'and', 'small', 'furniture']",1
+US359061A,1887-03-08,Tea-kettle nozzle,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['tea-kettle', 'nozzle']",1
+US359362A,1887-03-15,Caster-pod,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['caster-pod'],1
+US359582A,1887-03-15,Eobeet j,"['VERB', 'NOUN']",[],0,0,2,"['eobeet', 'j']",1
+US359878A,1887-03-22,Advertising-card,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['advertising-card'],1
+US360038A,1887-03-29,myers,['NOUN'],[],0,0,1,['myers'],1
+US360254A,1887-03-29,Electric-arc lamp,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['electric-arc', 'lamp']",1
+US360762A,1887-04-05,Half to j,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['half', 'to', 'j']",1
+US360847A,1887-04-12,Portable boiler,"['ADJ', 'NOUN']",[],0,0,2,"['portable', 'boiler']",1
+US361870A,1887-04-26,Slicing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['slicing-machine'],1
+US362013A,1887-04-26,Shoe-clasp,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['shoe-clasp'],1
+US362330A,1887-05-03,Hay-rake,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['hay-rake'],1
+US362353A,1887-05-03,Horse-collar,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['horse-collar'],1
+US362370A,1887-05-03,Machine,['NOUN'],[],0,0,1,['machine'],1
+US362734A,1887-05-10,Burglar-proof safe,"['NOUN', 'PUNCT', 'ADJ', 'ADJ']",[],0,0,4,"['burglar-proof', 'safe']",1
+US362757A,1887-05-10,Grain-drill,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['grain-drill'],1
+US362815A,1887-05-10,budde,['ADJ'],[],0,0,1,['budde'],1
+US363352A,1887-05-24,Connecting device for harness-straps for looms,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['connecting', 'device', 'for', 'harness-straps', 'for', 'looms']",1
+US363371A,1887-05-24,Seal-lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['seal-lock'],1
+US363693A,1887-05-24,Hand-truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['hand-truck'],1
+US363803A,1887-05-31,Door-hanger,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['door-hanger'],1
+US363848A,1887-05-31,Game apparatus,"['NOUN', 'NOUN']",[],0,0,2,"['game', 'apparatus']",1
+US363961A,1887-05-31,Vignetter,['ADJ'],[],0,0,1,['vignetter'],1
+US364024A,1887-05-31,Coal-conveyer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['coal-conveyer'],1
+US365010A,1887-06-14,Horseshoe,['NOUN'],[],0,0,1,['horseshoe'],1
+US365210A,1887-06-21,Washing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['washing-machine'],1
+US365519A,1887-06-28,Lime-distributer,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['lime-distributer'],1
+US366131A,1887-07-05,Axle-lubricator,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,['axle-lubricator'],1
+US366151A,1887-07-05,Look hinge,"['VERB', 'ADJ']",[],0,0,2,"['look', 'hinge']",1
+US366177A,1887-07-05,Automatic fire-extinguisher,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['automatic', 'fire-extinguisher']",1
+US366391A,1887-07-12,Heel-plate for rubbers,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['heel-plate', 'for', 'rubbers']",1
+US366393A,1887-07-12,Fire-kindling apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['fire-kindling', 'apparatus']",1
+US367127A,1887-07-26,Oil-press mat,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['oil-press', 'mat']",1
+US367540A,1887-08-02,Vehicle-top,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['vehicle-top'],1
+US367663A,1887-08-02,Electric programme-clock,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['electric', 'programme-clock']",1
+US367967A,1887-08-09,dwiaht,['VERB'],[],0,0,1,['dwiaht'],1
+US368110A,1887-08-09,Furniture-caster,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['furniture-caster'],1
+US368265A,1887-08-16,woods,['NOUN'],[],0,0,1,['woods'],1
+US368294A,1887-08-16,Steam-actuated valve,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['steam-actuated', 'valve']",1
+US368312A,1887-08-16,Island,['NOUN'],[],0,0,1,['island'],1
+US368528A,1887-08-16,Calculating-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['calculating-machine'],1
+US368836A,1887-08-23,Edwabd s,"['NOUN', 'PART']",[],0,0,2,"['edwabd', 's']",1
+US368849A,1887-08-23,Mechanism for operating the valves of faucets,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,"['mechanism', 'for', 'operating', 'the', 'valves', 'of', 'faucets']",1
+US369246A,1887-08-30,Eyeleting-machine,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['eyeleting-machine'],1
+US369433A,1887-09-06,Carriage-jack,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['carriage-jack'],1
+US369839A,1887-09-13,Fracture apparatus,"['NOUN', 'NOUN']",[],0,0,2,"['fracture', 'apparatus']",1
+US369915A,1887-09-13,Lightning-conductor,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['lightning-conductor'],1
+US369939A,1887-09-13,Machine for sizing and assorting oranges,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,6,"['machine', 'for', 'sizing', 'and', 'assorting', 'oranges']",1
+US370240A,1887-09-20,Camera-tripod,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['camera-tripod'],1
+US371851A,1887-10-18,Dust-collector,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['dust-collector'],1
+US372084A,1887-10-25,Weather-strip for doors,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",['GPE'],0,0,5,"['weather-strip', 'for', 'doors']",1
+US372171A,1887-10-25,Loop for harness,"['VERB', 'ADP', 'NOUN']",[],0,0,3,"['loop', 'for', 'harness']",1
+US372435A,1887-11-01,Isidoe sommeepield,"['NOUN', 'NOUN']",[],0,0,2,"['isidoe', 'sommeepield']",1
+US372499A,1887-11-01,Feed-water heater,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['feed-water', 'heater']",1
+US372713A,1887-11-08,Utilizing exhaust-steam,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['utilizing', 'exhaust-steam']",1
+US372792A,1887-11-08,Splicing traction-cables,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['splicing', 'traction-cables']",1
+US372948A,1887-11-08,Device for operating carriage-tops,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['device', 'for', 'operating', 'carriage-tops']",1
+US372962A,1887-11-08,Combined lock and latch,"['VERB', 'NOUN', 'CCONJ', 'VERB']",[],0,0,4,"['combined', 'lock', 'and', 'latch']",1
+US373234A,1887-11-15,Tapered nail,"['ADJ', 'NOUN']",[],0,0,2,"['tapered', 'nail']",1
+US373965A,1887-11-29,Mechanism for coiling wire rods,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,"['mechanism', 'for', 'coiling', 'wire', 'rods']",1
+US374500A,1887-12-06,Flour-bolt,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['flour-bolt'],1
+US374582A,1887-12-13,Machine-belt fastener,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['machine-belt', 'fastener']",1
+US374682A,1887-12-13,Cliffoed f,"['VERB', 'NOUN']",[],0,0,2,"['cliffoed', 'f']",1
+US374869A,1887-12-13,g-odfrey,"['X', 'NOUN', 'NOUN']",[],0,0,3,['g-odfrey'],1
+US374879A,1887-12-13,Means for separating oil and sediment from feed-water,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,"['means', 'for', 'separating', 'oil', 'and', 'sediment', 'from', 'feed-water']",1
+US375223A,1887-12-20,Wood-boring machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['wood-boring', 'machine']",1
+US375283A,1887-12-20,Attachment for plows,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['attachment', 'for', 'plows']",1
+US375425A,1887-12-27,And sylyanus d,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'sylyanus', 'd']",1
+US375460A,1887-12-27,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['car-coupling'],1
+US375597A,1887-12-27,billeter,['VERB'],[],0,0,1,['billeter'],1
+US375685A,1887-12-27,scbjbner,['NOUN'],[],0,0,1,['scbjbner'],1
+US375728A,1888-01-03,brissiut,['ADP'],[],0,0,1,['brissiut'],1
+US376256A,1888-01-10,Chair,['NOUN'],[],0,0,1,['chair'],1
+US377032A,1888-01-31,Paper-fastener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['paper-fastener'],1
+US377502A,1888-02-07,sellon,['ADJ'],[],0,0,1,['sellon'],1
+US377613A,1888-02-07,Nut-lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['nut-lock'],1
+US378087A,1888-02-21,field,['NOUN'],[],0,0,1,['field'],1
+US378092A,1888-02-21,Spark-arrester,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['spark-arrester'],1
+US378094A,1888-02-21,Cuff-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['cuff-holder'],1
+US378132A,1888-02-21,Machine foe making beushes,"['NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'foe', 'making', 'beushes']",1
+US378158A,1888-02-21,Leather-splitting machine,"['NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,4,"['leather-splitting', 'machine']",1
+US378159A,1888-02-21,Beading-cutter,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['beading-cutter'],1
+US378340A,1888-02-21,Exhaust apparatus for locomotsves,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,"['exhaust', 'apparatus', 'for', 'locomotsves']",1
+US378715A,1888-02-28,Manufacture of artificial-stone blocks,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['manufacture', 'of', 'artificial-stone', 'blocks']",1
+US378724A,1888-02-28,Regulating attachment for corn-planters,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['regulating', 'attachment', 'for', 'corn-planters']",1
+US378753A,1888-02-28,Churn,['VERB'],[],0,0,1,['churn'],1
+US378776A,1888-02-28,dittenhoefeb,['VERB'],[],0,0,1,['dittenhoefeb'],1
+US378898A,1888-03-06,nally,['ADV'],[],0,0,1,['nally'],1
+US378926A,1888-03-06,Car-truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['car-truck'],1
+US379380A,1888-03-13,Shutter-worker,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['shutter-worker'],1
+US380260A,1888-03-27,Hehey h,"['PRON', 'VERB']",[],0,0,2,"['hehey', 'h']",1
+US380291A,1888-03-27,Trunk-top,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['trunk-top'],1
+US380342A,1888-04-03,Traveling thrasher,"['VERB', 'NOUN']",[],0,0,2,"['traveling', 'thrasher']",1
+US380343A,1888-04-03,Geoege m,"['NOUN', 'VERB']",[],0,0,2,"['geoege', 'm']",1
+US380619A,1888-04-03,Time closing-valve for water-closets,"['NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['time', 'closing-valve', 'for', 'water-closets']",1
+US380703A,1888-04-10,Rivet-extractor,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['rivet-extractor'],1
+US380949A,1888-04-10,Clothes-drier,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['clothes-drier'],1
+US381458A,1888-04-17,Line peotector,"['NOUN', 'NOUN']",[],0,0,2,"['line', 'peotector']",1
+US381778A,1888-04-24,Feeding device for sewing-machines,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['feeding', 'device', 'for', 'sewing-machines']",1
+US381980A,1888-05-01,hoyle,['NOUN'],[],0,0,1,['hoyle'],1
+US382320A,1888-05-08,Can-soldering machine,"['AUX', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,4,"['can-soldering', 'machine']",1
+US382588A,1888-05-08,Anti-freezing device for water-pipes,"['ADJ', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['anti-freezing', 'device', 'for', 'water-pipes']",1
+US382677A,1888-05-15,Harvester and binder,"['NOUN', 'CCONJ', 'NOUN']",['PERSON'],0,1,3,"['harvester', 'and', 'binder']",1
+US383311A,1888-05-22,Coffin-fastener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['coffin-fastener'],1
+US384329A,1888-06-12,millar,['ADJ'],[],0,0,1,['millar'],1
+US384820A,1888-06-19,Road-cart,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['road-cart'],1
+US385269A,1888-06-26,jacobs,['NOUN'],[],0,0,1,['jacobs'],1
+US385270A,1888-06-26,Tile and roofing plate,"['NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,4,"['tile', 'and', 'roofing', 'plate']",1
+US385598A,1888-07-03,Car-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['car-coupling'],1
+US385833A,1888-07-10,Machine for determining and adjusting the balance of wheels or other bodies,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,12,"['machine', 'for', 'determining', 'and', 'adjusting', 'the', 'balance', 'of', 'wheels', 'or', 'other', 'bodies']",1
+US386253A,1888-07-17,Fire-escape,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['fire-escape'],1
+US386328A,1888-07-17,Screw elevator for curtains,"['NOUN', 'NOUN', 'ADP', 'NOUN']",['CARDINAL'],0,0,4,"['screw', 'elevator', 'for', 'curtains']",1
+US386616A,1888-07-24,Churn,['VERB'],[],0,0,1,['churn'],1
+US387248A,1888-08-07,Harness-saddle,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['harness-saddle'],1
+US387342A,1888-08-07,coulter,['NOUN'],[],0,0,1,['coulter'],1
+US388247A,1888-08-21,Avell,['ADJ'],['ORG'],0,0,1,['avell'],1
+US388278A,1888-08-21,Distilling apparatus,"['NOUN', 'NOUN']",['ORG'],0,0,2,"['distilling', 'apparatus']",1
+US389237A,1888-09-11,Button-attaching machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['button-attaching', 'machine']",1
+US389260A,1888-09-11,Island,['NOUN'],[],0,0,1,['island'],1
+US389705A,1888-09-18,Territory,['NOUN'],[],0,0,1,['territory'],1
+US389767A,1888-09-18,Vehicle-top,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['vehicle-top'],1
+US390478A,1888-10-02,Flat-iron heater,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['flat-iron', 'heater']",1
+US390647A,1888-10-09,bueke,['VERB'],[],0,0,1,['bueke'],1
+US390757A,1888-10-09,Oil vaporizer and burner,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,4,"['oil', 'vaporizer', 'and', 'burner']",1
+US390788A,1888-10-09,Aooing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['aooing-machine'],1
+US390931A,1888-10-09,Sharpen ing-machine,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['sharpen', 'ing-machine']",1
+US391498A,1888-10-23,Road-scraper,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['road-scraper'],1
+US391504A,1888-10-23,bornand,['NOUN'],[],0,0,1,['bornand'],1
+US391675A,1888-10-23,Rack for exhibiting hose or other goods,"['VERB', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,7,"['rack', 'for', 'exhibiting', 'hose', 'or', 'other', 'goods']",1
+US391747A,1888-10-23,Writing-frame,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['writing-frame'],1
+US392019A,1888-10-30,Pocket-book,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['pocket-book'],1
+US392318A,1888-11-06,Island,['NOUN'],[],0,0,1,['island'],1
+US392467A,1888-11-06,Vehicle-coupling,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['vehicle-coupling'],1
+US393515A,1888-11-27,Railway-rail fastening,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['railway-rail', 'fastening']",1
+US393557A,1888-11-27,Coupling for signal-rods,"['VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['coupling', 'for', 'signal-rods']",1
+US394040A,1888-12-04,walsh,['NOUN'],[],0,0,1,['walsh'],1
+US394099A,1888-12-04,Letter-box,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['letter-box'],1
+US394184A,1888-12-11,Let-off motion for looms,"['VERB', 'PUNCT', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['let-off', 'motion', 'for', 'looms']",1
+US394231A,1888-12-11,Button-setting machine,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['button-setting', 'machine']",1
+US394501A,1888-12-11,nordbera,['NOUN'],[],0,0,1,['nordbera'],1
+US394573A,1888-12-18,Steam-engine governor,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['steam-engine', 'governor']",1
+US395292A,1888-12-25,Plow-sharpener,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['plow-sharpener'],1
+US395481A,1889-01-01,beooks,['NOUN'],[],0,0,1,['beooks'],1
+US395689A,1889-01-08,boehncke,['NOUN'],[],0,0,1,['boehncke'],1
+US396087A,1889-01-15,Stump-extractor,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['stump-extractor'],1
+US396281A,1889-01-15,Hand-loom,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['hand-loom'],1
+US396443A,1889-01-22,Box for ice-cream,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['box', 'for', 'ice-cream']",1
+US396674A,1889-01-22,Automatic selling-machine,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['automatic', 'selling-machine']",1
+US397389A,1889-02-05,Implement-joint,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['implement-joint'],1
+US397556A,1889-02-12,Dental engine,"['ADJ', 'NOUN']",[],0,0,2,"['dental', 'engine']",1
+US397965A,1889-02-19,Electrical battery,"['ADJ', 'NOUN']",[],0,0,2,"['electrical', 'battery']",1
+US398251A,1889-02-19,haldy,['NOUN'],[],0,0,1,['haldy'],1
+US399801A,1889-03-19,Alternate-current inductor,"['NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,4,"['alternate-current', 'inductor']",1
+US389725A,1888-09-18,Meter,['NOUN'],['PERSON'],0,1,1,['meter'],1

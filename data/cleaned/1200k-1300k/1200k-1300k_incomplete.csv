@@ -1,2 +1,2 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings
-US1218867A,1916-07-17,Carbureting apparatus for internal-combustion engines.,"['ADJ', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,9,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings
+US1218867A,1916-07-17,Carbureting apparatus for internal-combustion engines.,"['ADJ', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,9,"['carbureting', 'apparatus', 'for', 'internal-combustion', 'engines.']",1

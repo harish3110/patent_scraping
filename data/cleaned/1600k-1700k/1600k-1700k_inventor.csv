@@ -1,847 +1,420 @@
-patent_number,date,title,tokens,nltk_pos,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len
-US1600128A,1926-01-20,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1600178A,1922-08-31,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1600269A,1924-12-22,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1600332A,1926-09-21,Josef haslauer,"['Josef', 'haslauer']","[('Josef', 'NNP'), ('haslauer', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1600367A,1925-02-12,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1600840A,1920-07-09,Searchlight,['Searchlight'],"[('Searchlight', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1600898A,1923-05-18,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1600929A,1925-03-07,Whistle,['Whistle'],"[('Whistle', 'VB')]",['PROPN'],['PERSON'],1,1,2
-US1601067A,1926-09-28,William w,"['William', 'w']","[('William', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1601136A,1924-10-29,Silencer,['Silencer'],"[('Silencer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1601137A,1924-11-26,Silencer,['Silencer'],"[('Silencer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1601506A,1926-09-28,George h,"['George', 'h']","[('George', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1601507A,1926-09-28,Gltje,['Gltje'],"[('Gltje', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1601544A,1925-10-03,Pan,['Pan'],"[('Pan', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1601549A,1926-09-28,wurtenberg,['wurtenberg'],"[('wurtenberg', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1601579A,1926-09-28,William astle,"['William', 'astle']","[('William', 'NNP'), ('astle', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1601587A,1926-09-28,Maurice,['Maurice'],"[('Maurice', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1601626A,1924-07-21,Bin,['Bin'],"[('Bin', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1601699A,1926-09-28,Victor,['Victor'],"[('Victor', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1601744A,1920-03-15,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1601804A,1926-10-05,Montgomery w,"['Montgomery', 'w']","[('Montgomery', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1601915A,1921-08-25,Bat,['Bat'],"[('Bat', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1601953A,1926-03-30,Scaffold,['Scaffold'],"[('Scaffold', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1602168A,1926-10-05,Hqwasd parker,"['Hqwasd', 'parker']","[('Hqwasd', 'NNP'), ('parker', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1602314A,1926-10-05,Dispensing machine,"['Dispensing', 'machine']","[('Dispensing', 'VBG'), ('machine', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2
-US1602347A,1926-10-05,Anthony eustace,"['Anthony', 'eustace']","[('Anthony', 'NNP'), ('eustace', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1602434A,1925-07-07,Mill,['Mill'],"[('Mill', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1602451A,1926-01-16,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1602501A,1926-10-12,peterson,['peterson'],"[('peterson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1602708A,1924-11-05,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1602839A,1924-01-21,Whistle,['Whistle'],"[('Whistle', 'VB')]",['PROPN'],['PERSON'],1,1,2
-US1602861A,1924-09-15,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1602941A,1926-10-12,Joseph rosman,"['Joseph', 'rosman']","[('Joseph', 'NNP'), ('rosman', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1602961A,1925-10-05,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1603316A,1925-08-25,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1603510A,1924-09-25,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1603531A,1920-07-12,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1603548A,1926-10-19,Mahlcxkt e,"['Mahlcxkt', 'e']","[('Mahlcxkt', 'NNP'), ('e', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1603677A,1926-10-19,Charles francis,"['Charles', 'francis']","[('Charles', 'NNP'), ('francis', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1603744A,1926-10-19,burton,['burton'],"[('burton', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1603794A,1923-12-21,Hatband,['Hatband'],"[('Hatband', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1603889A,1926-10-19,Porationi,['Porationi'],"[('Porationi', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1603965A,1926-10-19,Bsake,['Bsake'],"[('Bsake', 'VB')]",['VERB'],['PERSON'],0,1,1
-US1603979A,1926-10-19,peiler,['peiler'],"[('peiler', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1604061A,1926-06-28,Derailer,['Derailer'],"[('Derailer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1604068A,1926-10-19,William h,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1604366A,1926-05-21,Coat,['Coat'],"[('Coat', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1604611A,1926-10-26,Ray simpson,"['Ray', 'simpson']","[('Ray', 'NNP'), ('simpson', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1604715A,1925-10-22,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1604999A,1926-11-02,William schmitz,"['William', 'schmitz']","[('William', 'NNP'), ('schmitz', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1605059A,1924-09-13,Cigarette,['Cigarette'],"[('Cigarette', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1605183A,1925-07-16,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1605466A,1924-03-08,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1605709A,1926-02-04,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1605761A,1926-11-02,Harald nielsen,"['Harald', 'nielsen']","[('Harald', 'NNP'), ('nielsen', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1605777A,1926-11-02,richardson,['richardson'],"[('richardson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1605788A,1926-11-02,Cotton cleaneb,"['Cotton', 'cleaneb']","[('Cotton', 'NNP'), ('cleaneb', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1605789A,1926-11-02,Henry m,"['Henry', 'm']","[('Henry', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1605790A,1926-11-02,Banjo amplifier,"['Banjo', 'amplifier']","[('Banjo', 'NNP'), ('amplifier', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1605795A,1926-11-02,Kotaby hakbow,"['Kotaby', 'hakbow']","[('Kotaby', 'NNP'), ('hakbow', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1605803A,1926-11-02,William wilegtts,"['William', 'wilegtts']","[('William', 'NNP'), ('wilegtts', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1605809A,1926-11-02,Jacob l,"['Jacob', 'l']","[('Jacob', 'NNP'), ('l', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1605811A,1926-11-02,danielson,['danielson'],"[('danielson', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1605815A,1926-11-02,Joseph dekuy,"['Joseph', 'dekuy']","[('Joseph', 'NNP'), ('dekuy', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1605835A,1926-11-02,hamilton,['hamilton'],"[('hamilton', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1605836A,1926-11-02,Fabrik,['Fabrik'],"[('Fabrik', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1605866A,1926-11-02,hew yoek,"['hew', 'yoek']","[('hew', 'NN'), ('yoek', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1605885A,1926-11-02,Glass furnace,"['Glass', 'furnace']","[('Glass', 'NNP'), ('furnace', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1605895A,1925-08-06,Xslahb,['Xslahb'],"[('Xslahb', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1605986A,1926-11-09,redfield,['redfield'],"[('redfield', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1605988A,1926-11-09,op bolton,"['op', 'bolton']","[('op', 'IN'), ('bolton', 'NN')]","['NOUN', 'PROPN']",['PERSON'],1,1,2
-US1605995A,1926-11-09,Blowee,['Blowee'],"[('Blowee', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1606013A,1926-11-09,Robert g,"['Robert', 'g']","[('Robert', 'NNP'), ('g', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1606036A,1926-11-09,Calogeeo mtjuia,"['Calogeeo', 'mtjuia']","[('Calogeeo', 'NNP'), ('mtjuia', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1606038A,1926-11-09,Max norman,"['Max', 'norman']","[('Max', 'NNP'), ('norman', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1606039A,1926-11-09,Max norman,"['Max', 'norman']","[('Max', 'NNP'), ('norman', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1606054A,1926-11-09,Diamond power,"['Diamond', 'power']","[('Diamond', 'NN'), ('power', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1606330A,1926-11-09,Edward b,"['Edward', 'b']","[('Edward', 'NNP'), ('b', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1606469A,1926-11-09,John s,"['John', 's']","[('John', 'NNP'), ('s', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1606504A,1926-11-09,Edward l,"['Edward', 'l']","[('Edward', 'NNP'), ('l', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1606972A,1926-01-02,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1607140A,1926-11-16,Keinhold h,"['Keinhold', 'h']","[('Keinhold', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1607211A,1925-02-24,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1607261A,1926-11-16,Walter s,"['Walter', 's']","[('Walter', 'NNP'), ('s', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1607551A,1926-11-16,hew jeesey,"['hew', 'jeesey']","[('hew', 'NN'), ('jeesey', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1607640A,1926-11-23,Heateb cowtbol,"['Heateb', 'cowtbol']","[('Heateb', 'NNP'), ('cowtbol', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1607758A,1926-11-23,John junkunc,"['John', 'junkunc']","[('John', 'NNP'), ('junkunc', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1607765A,1924-10-22,Scoop,['Scoop'],"[('Scoop', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1608113A,1924-05-15,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1608199A,1926-11-23,Said wilson,"['Said', 'wilson']","[('Said', 'NNP'), ('wilson', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2
-US1608280A,1926-11-23,Antiskid bblt,"['Antiskid', 'bblt']","[('Antiskid', 'NNP'), ('bblt', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1608462A,1921-07-08,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1608463A,1923-03-23,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1608464A,1923-03-23,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1608518A,1926-11-30,William mineath,"['William', 'mineath']","[('William', 'NNP'), ('mineath', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1608619A,1923-09-28,Silencer,['Silencer'],"[('Silencer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1608826A,1926-11-30,Hotjse electeic,"['Hotjse', 'electeic']","[('Hotjse', 'NNP'), ('electeic', 'NN')]","['PROPN', 'ADJ']",['PERSON'],1,1,2
-US1608927A,1924-10-09,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1609013A,1926-05-21,Blowgun,['Blowgun'],"[('Blowgun', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1609261A,1926-06-07,Whistle,['Whistle'],"[('Whistle', 'VB')]",['PROPN'],['PERSON'],1,1,2
-US1609359A,1926-12-07,humphrey,['humphrey'],"[('humphrey', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1609454A,1926-12-07,barratt,['barratt'],"[('barratt', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1609715A,1926-06-21,Hatband,['Hatband'],"[('Hatband', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1609883A,1925-09-10,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1609886A,1923-06-29,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1609965A,1926-12-07,Donald,['Donald'],"[('Donald', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1610118A,1926-12-07,brockett,['brockett'],"[('brockett', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1610266A,1926-08-14,Slicker,['Slicker'],"[('Slicker', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1610297A,1926-12-14,Vibkatoey convebtee,"['Vibkatoey', 'convebtee']","[('Vibkatoey', 'NNP'), ('convebtee', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1610299A,1924-12-04,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1610304A,1926-04-24,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1610445A,1926-12-14,William f,"['William', 'f']","[('William', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1610745A,1926-02-20,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1610824A,1925-04-04,Bin,['Bin'],"[('Bin', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1611125A,1925-07-10,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1611415A,1926-12-21,cheney,['cheney'],"[('cheney', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1611439A,1925-02-07,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1611475A,1922-03-23,Silencer,['Silencer'],"[('Silencer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1611703A,1924-12-05,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1611775A,1926-12-21,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1611833A,1922-07-28,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1612192A,1926-12-28,johnson,['johnson'],"[('johnson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1612511A,1925-06-03,Coat,['Coat'],"[('Coat', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1612606A,1926-07-12,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1612696A,1925-04-04,Airscrew,['Airscrew'],"[('Airscrew', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1612933A,1927-01-04,metzgar,['metzgar'],"[('metzgar', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1613741A,1922-08-17,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1614351A,1927-01-11,davis,['davis'],"[('davis', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1614502A,1927-01-18,Diamond sower,"['Diamond', 'sower']","[('Diamond', 'NN'), ('sower', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1614647A,1924-12-12,Recooler,['Recooler'],"[('Recooler', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1614678A,1921-02-09,nelson,['nelson'],"[('nelson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1614804A,1921-09-14,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1614843A,1925-01-31,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1614972A,1926-07-31,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1615045A,1921-04-11,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1615870A,1927-02-01,Arthur w,"['Arthur', 'w']","[('Arthur', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1615882A,1926-01-18,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1615998A,1921-02-09,nelson,['nelson'],"[('nelson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1616025A,1924-03-17,Keyboard,['Keyboard'],"[('Keyboard', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1616103A,1927-02-01,James hill,"['James', 'hill']","[('James', 'NNP'), ('hill', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1616261A,1926-06-09,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1616282A,1927-02-01,Kabl schbanz,"['Kabl', 'schbanz']","[('Kabl', 'NNP'), ('schbanz', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1616321A,1927-02-01,John j,"['John', 'j']","[('John', 'NNP'), ('j', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1616360A,1927-02-01,William foster,"['William', 'foster']","[('William', 'NNP'), ('foster', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1616561A,1927-02-08,van ackeren,"['van', 'ackeren']","[('van', 'NN'), ('ackeren', 'NNS')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1616614A,1927-02-08,Egbert edwardson,"['Egbert', 'edwardson']","[('Egbert', 'NNP'), ('edwardson', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1616695A,1927-02-08,Kelson littell,"['Kelson', 'littell']","[('Kelson', 'NNP'), ('littell', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1616698A,1927-02-08,David miller,"['David', 'miller']","[('David', 'NNP'), ('miller', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1616743A,1922-12-29,Scaffold,['Scaffold'],"[('Scaffold', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1616851A,1926-02-10,Cigar,['Cigar'],"[('Cigar', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1617093A,1927-02-08,Howard d,"['Howard', 'd']","[('Howard', 'NNP'), ('d', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1617385A,1926-04-10,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1617407A,1926-02-04,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1617472A,1924-09-03,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1617672A,1925-10-15,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1617677A,1927-02-15,Assickctob,['Assickctob'],"[('Assickctob', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1617745A,1927-02-15,Albert cotysinard,"['Albert', 'cotysinard']","[('Albert', 'NNP'), ('cotysinard', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1617997A,1925-05-22,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1617998A,1925-11-25,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1618097A,1926-03-22,Pan,['Pan'],"[('Pan', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1618103A,1920-05-17,Searchlight,['Searchlight'],"[('Searchlight', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1618370A,1927-02-22,Max engelmann,"['Max', 'engelmann']","[('Max', 'NNP'), ('engelmann', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1618480A,1927-02-22,Cap wrench,"['Cap', 'wrench']","[('Cap', 'NNP'), ('wrench', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1618549A,1926-02-20,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1618578A,1927-02-22,Robert t,"['Robert', 't']","[('Robert', 'NNP'), ('t', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1618608A,1927-02-22,William,['William'],"[('William', 'NNP')]",['PROPN'],['PERSON'],1,1,1
-US1618817A,1926-06-18,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1619109A,1920-07-07,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1619231A,1923-09-12,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1619307A,1923-08-02,Shelf,['Shelf'],"[('Shelf', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1620145A,1924-08-04,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1620174A,1920-05-20,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1620400A,1925-11-11,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1620574A,1927-03-08,Edward s,"['Edward', 's']","[('Edward', 'NNP'), ('s', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1620597A,1925-06-25,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1620755A,1926-05-24,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1620789A,1924-04-01,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1621054A,1927-03-15,Max bicheroux,"['Max', 'bicheroux']","[('Max', 'NNP'), ('bicheroux', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1621278A,1927-03-15,Jacques boston,"['Jacques', 'boston']","[('Jacques', 'NNS'), ('boston', 'VBP')]","['PROPN', 'PROPN']","['PERSON', 'GPE']",1,1,2
-US1621348A,1925-10-17,Yarn,['Yarn'],"[('Yarn', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1621668A,1927-03-22,Steven heitler,"['Steven', 'heitler']","[('Steven', 'NNP'), ('heitler', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2
-US1621775A,1924-08-25,Mill,['Mill'],"[('Mill', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1621838A,1927-03-22,hawley,['hawley'],"[('hawley', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1621866A,1927-03-22,William b,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1621933A,1927-03-22,jones,['jones'],"[('jones', 'NNS')]",['PROPN'],['PERSON'],1,1,1
-US1621958A,1926-04-17,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1622084A,1927-03-22,Sottthwick,['Sottthwick'],"[('Sottthwick', 'NN')]",['VERB'],['PERSON'],0,1,2
-US1622363A,1925-08-21,Grille,['Grille'],"[('Grille', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1622366A,1921-03-11,bueno,['bueno'],"[('bueno', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1622409A,1927-03-29,bernstein,['bernstein'],"[('bernstein', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1622564A,1927-03-29,barkley,['barkley'],"[('barkley', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1622698A,1927-03-29,ihi iii,"['ihi', 'iii']","[('ihi', 'NN'), ('iii', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1622719A,1926-02-19,Autoboggan,['Autoboggan'],"[('Autoboggan', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1622872A,1927-03-29,Sepabatob,['Sepabatob'],"[('Sepabatob', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1623114A,1926-06-24,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1623278A,1927-04-05,Said buck,"['Said', 'buck']","[('Said', 'NNP'), ('buck', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2
-US1623303A,1927-04-05,Richard w,"['Richard', 'w']","[('Richard', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1623397A,1925-12-10,Saucepan,['Saucepan'],"[('Saucepan', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1623562A,1916-05-23,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1623705A,1924-05-19,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1623781A,1926-03-23,Coat,['Coat'],"[('Coat', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1623915A,1927-04-05,Charles edwin,"['Charles', 'edwin']","[('Charles', 'NNP'), ('edwin', 'VBP')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1623949A,1927-04-05,Ivan gubelmann,"['Ivan', 'gubelmann']","[('Ivan', 'NNP'), ('gubelmann', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1624095A,1923-10-11,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1624452A,1924-06-26,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1624521A,1924-07-08,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1624576A,1927-04-12,Diamond power,"['Diamond', 'power']","[('Diamond', 'NN'), ('power', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1624609A,1924-02-11,Jig,['Jig'],"[('Jig', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1624927A,1927-04-19,Charles w,"['Charles', 'w']","[('Charles', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1624942A,1927-04-19,george,['george'],"[('george', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1625153A,1927-04-19,Thomas i,"['Thomas', 'i']","[('Thomas', 'NNP'), ('i', 'NN')]","['PROPN', 'PRON']",['PERSON'],1,1,2
-US1625216A,1927-04-19,James i,"['James', 'i']","[('James', 'NNP'), ('i', 'NN')]","['PROPN', 'PRON']",['PERSON'],1,1,2
-US1625318A,1927-01-06,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1625333A,1927-04-19,redfield,['redfield'],"[('redfield', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1625355A,1926-03-06,Coat,['Coat'],"[('Coat', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1625403A,1927-04-19,stevens,['stevens'],"[('stevens', 'NNS')]",['VERB'],['PERSON'],0,1,1
-US1625518A,1927-04-19,beisel,['beisel'],"[('beisel', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1625519A,1927-04-19,Herbert l,"['Herbert', 'l']","[('Herbert', 'NNP'), ('l', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1625630A,1927-04-19,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1625640A,1927-04-19,Joseph h,"['Joseph', 'h']","[('Joseph', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1625725A,1927-04-19,irvin,['irvin'],"[('irvin', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1626042A,1916-08-28,Glass,['Glass'],"[('Glass', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1626203A,1922-12-29,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1626487A,1924-01-10,Emulsifier,['Emulsifier'],"[('Emulsifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1626610A,1927-05-03,Frank horkqtjist,"['Frank', 'horkqtjist']","[('Frank', 'NNP'), ('horkqtjist', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1626616A,1926-01-20,Sadiron,['Sadiron'],"[('Sadiron', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1626891A,1922-04-05,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1626971A,1923-03-12,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1627002A,1925-07-20,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1627013A,1927-05-03,John cowie,"['John', 'cowie']","[('John', 'NNP'), ('cowie', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1627065A,1924-02-18,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1627629A,1927-05-10,anderson,['anderson'],"[('anderson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1627883A,1919-05-09,Humidor,['Humidor'],"[('Humidor', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1627930A,1927-05-10,richardson,['richardson'],"[('richardson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1628107A,1927-05-10,Paul braach,"['Paul', 'braach']","[('Paul', 'NNP'), ('braach', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1628267A,1927-05-10,Nelson,['Nelson'],"[('Nelson', 'NNP')]",['PROPN'],['PERSON'],1,1,1
-US1628476A,1923-07-09,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1628490A,1926-05-05,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1628713A,1927-05-17,William h,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1628799A,1926-10-07,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1628802A,1927-05-17,perrem,['perrem'],"[('perrem', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1629095A,1927-05-17,Robert c,"['Robert', 'c']","[('Robert', 'NNP'), ('c', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1629175A,1927-05-17,peters,['peters'],"[('peters', 'NNS')]",['NOUN'],['PERSON'],0,1,1
-US1629176A,1927-05-17,Frederick g,"['Frederick', 'g']","[('Frederick', 'NNP'), ('g', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1629187A,1927-05-17,Herbert a,"['Herbert', 'a']","[('Herbert', 'NNP'), ('a', 'DT')]","['PROPN', 'PRON']",['PERSON'],1,1,2
-US1629356A,1926-09-20,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1629489A,1927-05-24,Anton dvokak,"['Anton', 'dvokak']","[('Anton', 'NNP'), ('dvokak', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1629559A,1927-05-24,watson,['watson'],"[('watson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1629700A,1926-10-09,Holster,['Holster'],"[('Holster', 'NN')]",['ADJ'],['PERSON'],0,1,2
-US1629773A,1925-10-17,Knob,['Knob'],"[('Knob', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1629882A,1927-05-24,Xf dayton,"['Xf', 'dayton']","[('Xf', 'CD'), ('dayton', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1629965A,1925-11-13,Cleaner,['Cleaner'],"[('Cleaner', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1630104A,1927-05-24,austin,['austin'],"[('austin', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1630163A,1923-07-07,Carboy,['Carboy'],"[('Carboy', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1630259A,1925-08-27,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1630385A,1924-07-16,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1630497A,1925-03-12,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1630753A,1919-12-02,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1631042A,1925-11-04,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1631175A,1923-02-15,Stiletto,['Stiletto'],"[('Stiletto', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1631499A,1922-07-13,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1631843A,1927-06-07,uffert,['uffert'],"[('uffert', 'JJ')]",['PROPN'],['PERSON'],1,1,1
-US1632000A,1927-06-14,Nesota,['Nesota'],"[('Nesota', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1632103A,1925-09-05,Bin,['Bin'],"[('Bin', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1632131A,1919-08-23,Searchlight,['Searchlight'],"[('Searchlight', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1632284A,1923-07-09,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1632322A,1926-06-03,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1632448A,1927-06-14,Eeahz losbii,"['Eeahz', 'losbii']","[('Eeahz', 'NNP'), ('losbii', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1632525A,1925-05-26,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1632587A,1927-06-14,Nicholas benenati,"['Nicholas', 'benenati']","[('Nicholas', 'NNS'), ('benenati', 'NNS')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1632595A,1927-06-14,Max goedok,"['Max', 'goedok']","[('Max', 'NNP'), ('goedok', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1632740A,1927-06-14,Indttstrie axtiengesellschaft,"['Indttstrie', 'axtiengesellschaft']","[('Indttstrie', 'NNP'), ('axtiengesellschaft', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1632793A,1927-06-21,William henderson,"['William', 'henderson']","[('William', 'NNP'), ('henderson', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1632895A,1923-03-06,Cleaner,['Cleaner'],"[('Cleaner', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1633007A,1925-09-28,Maul,['Maul'],"[('Maul', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1633112A,1924-12-11,Scaffold,['Scaffold'],"[('Scaffold', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1633221A,1927-06-21,William me,"['William', 'me']","[('William', 'NNP'), ('me', 'PRP')]","['VERB', 'PRON']",['PERSON'],0,1,2
-US1633238A,1927-06-21,bassett,['bassett'],"[('bassett', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1633447A,1926-04-13,Smock,['Smock'],"[('Smock', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1633599A,1919-07-18,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1633828A,1922-05-05,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1634097A,1927-06-28,Albert vaj,"['Albert', 'vaj']","[('Albert', 'NNP'), ('vaj', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1634189A,1927-06-28,henry,['henry'],"[('henry', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1634203A,1927-06-28,Demountable kim,"['Demountable', 'kim']","[('Demountable', 'JJ'), ('kim', 'NN')]","['ADJ', 'X']",['PERSON'],0,1,2
-US1634329A,1927-07-05,Henry malm,"['Henry', 'malm']","[('Henry', 'NNP'), ('malm', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1634429A,1924-08-04,mechlin,['mechlin'],"[('mechlin', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1634432A,1927-07-05,John ii,"['John', 'ii']","[('John', 'NNP'), ('ii', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1634536A,1922-10-04,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1634556A,1927-07-05,Said kbeitek,"['Said', 'kbeitek']","[('Said', 'NNP'), ('kbeitek', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1634632A,1926-05-24,Brad,['Brad'],"[('Brad', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1634663A,1920-01-13,Searchlight,['Searchlight'],"[('Searchlight', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1634926A,1924-03-17,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1635100A,1927-07-05,George j,"['George', 'j']","[('George', 'NNP'), ('j', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1635115A,1927-07-05,Said pjeifeb,"['Said', 'pjeifeb']","[('Said', 'NNP'), ('pjeifeb', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2
-US1635311A,1927-07-12,corrigan,['corrigan'],"[('corrigan', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1635533A,1927-07-12,burtnett,['burtnett'],"[('burtnett', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1635680A,1926-10-05,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1635723A,1927-07-12,Ivan miller,"['Ivan', 'miller']","[('Ivan', 'NNP'), ('miller', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1635894A,1927-07-12,michelin,['michelin'],"[('michelin', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1636047A,1927-07-19,Calp weaker,"['Calp', 'weaker']","[('Calp', 'NNP'), ('weaker', 'NN')]","['NOUN', 'ADJ']",['PERSON'],0,1,2
-US1636060A,1927-07-19,kennedy,['kennedy'],"[('kennedy', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1636238A,1922-03-23,Silencer,['Silencer'],"[('Silencer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1636421A,1925-08-10,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1636487A,1927-07-19,Thomas t,"['Thomas', 't']","[('Thomas', 'NNP'), ('t', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1636530A,1927-07-19,Sverre nyhus,"['Sverre', 'nyhus']","[('Sverre', 'NNP'), ('nyhus', 'RB')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1636598A,1927-07-19,Toothpick hoi,"['Toothpick', 'hoi']","[('Toothpick', 'NNP'), ('hoi', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1636635A,1927-07-19,Bee escape,"['Bee', 'escape']","[('Bee', 'NNP'), ('escape', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1636653A,1927-07-19,van buren,"['van', 'buren']","[('van', 'NN'), ('buren', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1636797A,1926-07-21,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1636885A,1927-07-26,Frank wells,"['Frank', 'wells']","[('Frank', 'NNP'), ('wells', 'NNS')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1636962A,1927-07-26,jacobson,['jacobson'],"[('jacobson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1637018A,1927-07-26,William d,"['William', 'd']","[('William', 'NNP'), ('d', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1637130A,1926-05-11,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1637385A,1923-01-25,Silencer,['Silencer'],"[('Silencer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1637413A,1927-08-02,Donald elder,"['Donald', 'elder']","[('Donald', 'NNP'), ('elder', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1637436A,1926-01-28,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1637546A,1927-08-02,Diamond power,"['Diamond', 'power']","[('Diamond', 'NN'), ('power', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1637633A,1922-07-24,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1637726A,1927-08-02,bebgsiai,['bebgsiai'],"[('bebgsiai', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1637805A,1924-02-04,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1637917A,1927-08-02,Robert richter,"['Robert', 'richter']","[('Robert', 'NNP'), ('richter', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1637931A,1925-06-25,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1638218A,1926-03-15,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1638276A,1922-03-09,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1638647A,1927-08-09,ml taylor,"['ml', 'taylor']","[('ml', 'NN'), ('taylor', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1638859A,1925-12-21,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1639047A,1923-01-25,Silencer,['Silencer'],"[('Silencer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1639468A,1927-02-25,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1639657A,1927-08-23,Glass furnace,"['Glass', 'furnace']","[('Glass', 'NNP'), ('furnace', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1639677A,1926-01-14,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1639765A,1927-08-23,Tee box,"['Tee', 'box']","[('Tee', 'NNP'), ('box', 'NN')]","['DET', 'NOUN']",['PERSON'],0,1,2
-US1639910A,1927-08-23,Truss,['Truss'],"[('Truss', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1640258A,1927-08-23,taylor,['taylor'],"[('taylor', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1640262A,1925-08-15,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1640281A,1926-10-02,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1640393A,1927-08-30,William w,"['William', 'w']","[('William', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1640411A,1926-01-25,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1640895A,1923-09-24,Hatband,['Hatband'],"[('Hatband', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1641232A,1927-09-06,Caklson,['Caklson'],"[('Caklson', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1641339A,1925-11-12,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1641356A,1927-09-06,Thomas w,"['Thomas', 'w']","[('Thomas', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1641385A,1927-09-06,Xtnivebsal coupling,"['Xtnivebsal', 'coupling']","[('Xtnivebsal', 'NN'), ('coupling', 'VBG')]","['NOUN', 'VERB']",['PERSON'],0,1,2
-US1641532A,1927-09-06,Wateb heater,"['Wateb', 'heater']","[('Wateb', 'NNP'), ('heater', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1641543A,1924-08-21,Keyboard,['Keyboard'],"[('Keyboard', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1641621A,1927-09-06,burton,['burton'],"[('burton', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1641737A,1927-09-06,Edith clabke,"['Edith', 'clabke']","[('Edith', 'NNP'), ('clabke', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1641875A,1927-09-06,Joseph beaulieu,"['Joseph', 'beaulieu']","[('Joseph', 'NNP'), ('beaulieu', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1641894A,1927-09-06,mambourg,['mambourg'],"[('mambourg', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1641898A,1927-09-06,Joseph m,"['Joseph', 'm']","[('Joseph', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1641972A,1927-09-13,hobson,['hobson'],"[('hobson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1642091A,1927-09-13,Joseph slepian,"['Joseph', 'slepian']","[('Joseph', 'NNP'), ('slepian', 'JJ')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1642263A,1927-09-13,Alois ztnxb,"['Alois', 'ztnxb']","[('Alois', 'NNP'), ('ztnxb', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1642436A,1920-09-04,Searchlight,['Searchlight'],"[('Searchlight', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1642467A,1927-09-13,Acetylene,['Acetylene'],"[('Acetylene', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1642658A,1927-09-13,holmes,['holmes'],"[('holmes', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1642765A,1927-09-20,Trolley wheel,"['Trolley', 'wheel']","[('Trolley', 'NNP'), ('wheel', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1642857A,1927-09-20,Leo holtschneideb,"['Leo', 'holtschneideb']","[('Leo', 'NNP'), ('holtschneideb', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1642965A,1927-09-20,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1643083A,1927-09-20,Lawrence f,"['Lawrence', 'f']","[('Lawrence', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1643196A,1925-10-07,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1643269A,1927-09-20,Leonard foote,"['Leonard', 'foote']","[('Leonard', 'NNP'), ('foote', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1643335A,1926-10-27,Hatband,['Hatband'],"[('Hatband', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1643369A,1927-09-27,bookman,['bookman'],"[('bookman', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1643376A,1927-02-12,Derailer,['Derailer'],"[('Derailer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1643383A,1927-09-27,kennedy,['kennedy'],"[('kennedy', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1643869A,1923-03-06,Paul barre,"['Paul', 'barre']","[('Paul', 'NNP'), ('barre', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1643884A,1925-10-01,Slip,['Slip'],"[('Slip', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1644191A,1924-11-13,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1644275A,1927-10-04,Diamond power,"['Diamond', 'power']","[('Diamond', 'NN'), ('power', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1644291A,1927-10-04,Hebman l,"['Hebman', 'l']","[('Hebman', 'NNP'), ('l', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1644292A,1927-10-04,thomas,['thomas'],"[('thomas', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1644433A,1926-12-03,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1644678A,1927-10-11,Assighos,['Assighos'],"[('Assighos', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1644883A,1927-10-11,johnson,['johnson'],"[('johnson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1644912A,1925-03-12,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1645156A,1927-10-11,Thomas it,"['Thomas', 'it']","[('Thomas', 'NNP'), ('it', 'PRP')]","['PROPN', 'PRON']",['PERSON'],1,1,2
-US1645211A,1926-01-15,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1645388A,1927-10-11,Stoobn,['Stoobn'],"[('Stoobn', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1645654A,1924-08-13,Dimmer,['Dimmer'],"[('Dimmer', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1645847A,1927-10-18,Flotjr mill,"['Flotjr', 'mill']","[('Flotjr', 'NNP'), ('mill', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2
-US1645905A,1926-03-03,Provements limited,"['Provements', 'limited']","[('Provements', 'NNS'), ('limited', 'VBD')]","['NOUN', 'VERB']",['PERSON'],0,1,2
-US1645953A,1927-10-18,John kabasevich,"['John', 'kabasevich']","[('John', 'NNP'), ('kabasevich', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1645954A,1927-10-18,Aaron keizer,"['Aaron', 'keizer']","[('Aaron', 'NNP'), ('keizer', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1646050A,1926-05-04,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1646097A,1927-10-18,Michael liptak,"['Michael', 'liptak']","[('Michael', 'NNP'), ('liptak', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1646105A,1927-10-18,peters,['peters'],"[('peters', 'NNS')]",['NOUN'],['PERSON'],0,1,1
-US1646151A,1927-10-18,kennedy,['kennedy'],"[('kennedy', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1646168A,1924-05-24,Jetty,['Jetty'],"[('Jetty', 'RB')]",['PROPN'],['PERSON'],1,1,2
-US1646256A,1927-10-18,William f,"['William', 'f']","[('William', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1646274A,1927-05-28,Coat,['Coat'],"[('Coat', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1646407A,1927-10-25,jones,['jones'],"[('jones', 'NNS')]",['PROPN'],['PERSON'],1,1,1
-US1646549A,1927-05-09,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1646591A,1926-01-13,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1646863A,1927-10-25,Assighos,['Assighos'],"[('Assighos', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1646893A,1927-10-25,John wittemann,"['John', 'wittemann']","[('John', 'NNP'), ('wittemann', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1646998A,1927-10-25,Frank p,"['Frank', 'p']","[('Frank', 'NNP'), ('p', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1647111A,1927-10-25,bauerle,['bauerle'],"[('bauerle', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1647220A,1923-08-13,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1647532A,1927-11-01,Edward h,"['Edward', 'h']","[('Edward', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1647736A,1924-05-19,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1648188A,1923-04-09,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1648230A,1927-11-08,Abttiaz,['Abttiaz'],"[('Abttiaz', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1648410A,1927-11-08,lawton,['lawton'],"[('lawton', 'NN')]",['X'],['PERSON'],0,1,1
-US1648491A,1922-07-12,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1648552A,1927-11-08,la brie,"['la', 'brie']","[('la', 'NN'), ('brie', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1648763A,1926-08-06,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1649051A,1927-11-15,Womtenstein,['Womtenstein'],"[('Womtenstein', 'NNP')]",['PROPN'],['PERSON'],1,1,1
-US1649272A,1927-11-15,warren,['warren'],"[('warren', 'NNS')]",['PROPN'],['PERSON'],1,1,1
-US1649379A,1927-11-15,Jean bergmann,"['Jean', 'bergmann']","[('Jean', 'NNP'), ('bergmann', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1649392A,1927-11-15,Thomas duffy,"['Thomas', 'duffy']","[('Thomas', 'NNP'), ('duffy', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1649408A,1927-11-15,Max jacob,"['Max', 'jacob']","[('Max', 'NNP'), ('jacob', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1649409A,1927-11-15,Egbert jabdine,"['Egbert', 'jabdine']","[('Egbert', 'NNP'), ('jabdine', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1649507A,1926-01-29,Sadiron,['Sadiron'],"[('Sadiron', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1649562A,1927-11-15,John f,"['John', 'f']","[('John', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1649567A,1926-03-08,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1649653A,1924-09-30,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1649674A,1927-02-21,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1649710A,1927-11-15,Hans xieemann,"['Hans', 'xieemann']","[('Hans', 'NNS'), ('xieemann', 'VBP')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1649988A,1927-11-22,Shiuuman,['Shiuuman'],"[('Shiuuman', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1650054A,1927-11-22,Maitbice c,"['Maitbice', 'c']","[('Maitbice', 'NNP'), ('c', 'NN')]","['NOUN', 'VERB']",['PERSON'],0,1,2
-US1650155A,1927-11-22,George n,"['George', 'n']","[('George', 'NNP'), ('n', 'NNS')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1650258A,1925-10-21,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1650374A,1927-11-22,Nventdfzs,['Nventdfzs'],"[('Nventdfzs', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1650831A,1927-11-29,halversen,['halversen'],"[('halversen', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1650989A,1927-11-29,Paul karrer,"['Paul', 'karrer']","[('Paul', 'NNP'), ('karrer', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1651086A,1927-02-05,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1651087A,1926-09-04,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1651256A,1927-11-29,davis,['davis'],"[('davis', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1651317A,1924-07-28,Barrel,['Barrel'],"[('Barrel', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1651319A,1926-07-19,Mill,['Mill'],"[('Mill', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1651337A,1927-11-29,anderson,['anderson'],"[('anderson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1651562A,1927-02-05,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1651702A,1927-12-06,William r,"['William', 'r']","[('William', 'NNP'), ('r', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1651768A,1927-12-06,gregg,['gregg'],"[('gregg', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1652324A,1927-12-13,john kogbkt,"['john', 'kogbkt']","[('john', 'NN'), ('kogbkt', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1652473A,1926-07-16,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1652477A,1927-12-13,Lee hall,"['Lee', 'hall']","[('Lee', 'NNP'), ('hall', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1652487A,1927-12-13,Bbtyb,['Bbtyb'],"[('Bbtyb', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1652582A,1927-03-28,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1652650A,1927-12-13,George d,"['George', 'd']","[('George', 'NNP'), ('d', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1652746A,1924-04-26,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1652849A,1927-12-13,Paul weissbach,"['Paul', 'weissbach']","[('Paul', 'NNP'), ('weissbach', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1652905A,1927-12-13,Nicholas j,"['Nicholas', 'j']","[('Nicholas', 'NNP'), ('j', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1652962A,1923-05-18,Barrel,['Barrel'],"[('Barrel', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1653181A,1923-06-07,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1653211A,1927-12-20,johnson,['johnson'],"[('johnson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1653337A,1927-12-20,bloxham,['bloxham'],"[('bloxham', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1653478A,1927-12-20,Glass feeder,"['Glass', 'feeder']","[('Glass', 'NNP'), ('feeder', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1653484A,1927-12-20,James m,"['James', 'm']","[('James', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1653485A,1927-12-20,Madge,['Madge'],"[('Madge', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1653621A,1926-05-10,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1653683A,1925-02-05,Keyboard,['Keyboard'],"[('Keyboard', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1653754A,1927-12-27,artberg,['artberg'],"[('artberg', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1653762A,1925-02-12,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1653763A,1924-08-18,Scaffold,['Scaffold'],"[('Scaffold', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1653914A,1926-11-09,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1653916A,1925-11-23,Jointer,['Jointer'],"[('Jointer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654027A,1926-06-12,Bookrack,['Bookrack'],"[('Bookrack', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654108A,1926-03-19,Radioantenna,['Radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654140A,1924-04-22,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654165A,1924-06-18,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654191A,1927-12-27,Souri,['Souri'],"[('Souri', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1654230A,1927-08-16,Toothpick,['Toothpick'],"[('Toothpick', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654288A,1927-12-27,Ivan gubelmann,"['Ivan', 'gubelmann']","[('Ivan', 'NNP'), ('gubelmann', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1654436A,1924-09-09,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654512A,1924-07-15,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654541A,1926-01-29,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654734A,1926-01-06,Cartridge,['Cartridge'],"[('Cartridge', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1654915A,1920-11-05,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1655095A,1920-01-13,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1655137A,1928-01-03,William b,"['William', 'b']","[('William', 'NNP'), ('b', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1655269A,1928-01-03,Goodwin h,"['Goodwin', 'h']","[('Goodwin', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1655450A,1928-01-10,Austin l,"['Austin', 'l']","[('Austin', 'NNP'), ('l', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1655529A,1928-01-10,Christopher,['Christopher'],"[('Christopher', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1655530A,1928-01-10,Gutter,['Gutter'],"[('Gutter', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1655580A,1928-01-10,Stuedeman,['Stuedeman'],"[('Stuedeman', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1655618A,1928-01-10,Assighoe,['Assighoe'],"[('Assighoe', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1655642A,1928-01-10,Frederick m,"['Frederick', 'm']","[('Frederick', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1655658A,1928-01-10,Edward naueb,"['Edward', 'naueb']","[('Edward', 'NNP'), ('naueb', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1655736A,1928-01-10,William potteb,"['William', 'potteb']","[('William', 'NNP'), ('potteb', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1655828A,1928-01-10,Assighoe to,"['Assighoe', 'to']","[('Assighoe', 'NN'), ('to', 'TO')]","['PROPN', 'PART']",['PERSON'],1,1,2
-US1655906A,1924-07-02,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1655923A,1928-01-10,taylor,['taylor'],"[('taylor', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1656067A,1928-01-10,William f,"['William', 'f']","[('William', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1656126A,1927-01-10,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1656328A,1928-01-17,Colostomy,['Colostomy'],"[('Colostomy', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1656405A,1928-01-17,vincent,['vincent'],"[('vincent', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1656450A,1925-02-28,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1656669A,1927-12-01,Thomas gore,"['Thomas', 'gore']","[('Thomas', 'NNP'), ('gore', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1656757A,1926-01-27,Humidor,['Humidor'],"[('Humidor', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1656923A,1926-03-25,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1657045A,1928-01-24,Habby p,"['Habby', 'p']","[('Habby', 'NNP'), ('p', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1657292A,1925-12-31,Oscillograph,['Oscillograph'],"[('Oscillograph', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1657533A,1928-01-31,Bisk wheel,"['Bisk', 'wheel']","[('Bisk', 'NNP'), ('wheel', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1657571A,1927-06-15,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1657895A,1928-01-31,Albert osvalb,"['Albert', 'osvalb']","[('Albert', 'NNP'), ('osvalb', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1657908A,1927-12-21,Grille,['Grille'],"[('Grille', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1658106A,1928-02-07,William thompson,"['William', 'thompson']","[('William', 'NNP'), ('thompson', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1658133A,1926-12-30,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1658376A,1927-02-24,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1658385A,1928-02-07,Said cald,"['Said', 'cald']","[('Said', 'NNP'), ('cald', 'NN')]","['VERB', 'PROPN']",['PERSON'],1,1,2
-US1658406A,1928-02-07,Assighoe,['Assighoe'],"[('Assighoe', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1658506A,1928-02-07,Chester,['Chester'],"[('Chester', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1658527A,1928-02-07,kelley,['kelley'],"[('kelley', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1658592A,1924-03-03,Radioantenna,['Radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1658761A,1926-06-07,Radioantenna,['Radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1658869A,1925-08-13,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1658987A,1928-02-14,Assighos,['Assighos'],"[('Assighos', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1659262A,1926-12-08,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1659474A,1928-02-14,siemann,['siemann'],"[('siemann', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1659494A,1928-02-14,Kail chair,"['Kail', 'chair']","[('Kail', 'NNP'), ('chair', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1660023A,1928-02-21,Wallace c,"['Wallace', 'c']","[('Wallace', 'NNP'), ('c', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1660160A,1928-02-21,han el,"['han', 'el']","[('han', 'NN'), ('el', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1660178A,1928-02-21,Albert rothmann,"['Albert', 'rothmann']","[('Albert', 'NNP'), ('rothmann', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1660286A,1926-10-19,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1660693A,1927-07-19,Scaffold,['Scaffold'],"[('Scaffold', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1661277A,1928-03-06,thomas,['thomas'],"[('thomas', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1661380A,1923-03-01,Variocoupler,['Variocoupler'],"[('Variocoupler', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1661399A,1928-03-06,William wishart,"['William', 'wishart']","[('William', 'NNP'), ('wishart', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1661526A,1928-03-06,Dustbie aktiengesellschaet,"['Dustbie', 'aktiengesellschaet']","[('Dustbie', 'NNP'), ('aktiengesellschaet', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1661586A,1928-03-06,Contbol mechanism,"['Contbol', 'mechanism']","[('Contbol', 'NN'), ('mechanism', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1661847A,1927-05-28,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1662074A,1928-03-13,William mcmeans,"['William', 'mcmeans']","[('William', 'NNP'), ('mcmeans', 'NNS')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1662436A,1928-03-13,peiler,['peiler'],"[('peiler', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1662578A,1928-03-13,Jetty,['Jetty'],"[('Jetty', 'RB')]",['PROPN'],['PERSON'],1,1,1
-US1662695A,1928-03-13,Frederick w,"['Frederick', 'w']","[('Frederick', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1662698A,1924-03-07,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1662702A,1928-03-13,Begaoteb,['Begaoteb'],"[('Begaoteb', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1662772A,1926-11-08,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1662872A,1928-03-20,Sidney thornley,"['Sidney', 'thornley']","[('Sidney', 'NNP'), ('thornley', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1662903A,1928-03-20,os brooklyn,"['os', 'brooklyn']","[('os', 'NN'), ('brooklyn', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1663110A,1928-03-20,Radioreceiver,['Radioreceiver'],"[('Radioreceiver', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1663128A,1928-03-20,Assighos,['Assighos'],"[('Assighos', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1663131A,1927-02-24,Scaffold,['Scaffold'],"[('Scaffold', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1663239A,1928-03-20,Frederick a,"['Frederick', 'a']","[('Frederick', 'NNP'), ('a', 'DT')]","['PROPN', 'PRON']",['PERSON'],1,1,2
-US1663432A,1926-03-11,Bookrack,['Bookrack'],"[('Bookrack', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1663648A,1927-10-04,Whistle,['Whistle'],"[('Whistle', 'VB')]",['PROPN'],['PERSON'],1,1,2
-US1663806A,1928-03-27,Boiler,['Boiler'],"[('Boiler', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1663819A,1928-03-27,Shade,['Shade'],"[('Shade', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1663839A,1928-03-27,Glass furnace,"['Glass', 'furnace']","[('Glass', 'NNP'), ('furnace', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1664085A,1924-10-22,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1664111A,1927-03-23,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1664128A,1928-03-27,mobgan,['mobgan'],"[('mobgan', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1664167A,1928-03-27,Torpedo guard,"['Torpedo', 'guard']","[('Torpedo', 'NNP'), ('guard', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1664185A,1928-03-27,Thomas h,"['Thomas', 'h']","[('Thomas', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1664211A,1928-03-27,kanna,['kanna'],"[('kanna', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1664255A,1927-03-03,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1664475A,1927-03-16,Kier,['Kier'],"[('Kier', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1664649A,1928-04-03,van ackeren,"['van', 'ackeren']","[('van', 'NN'), ('ackeren', 'NNS')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1664859A,1928-04-03,Diamond poweb,"['Diamond', 'poweb']","[('Diamond', 'NNP'), ('poweb', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1665105A,1928-04-03,Robert mezger,"['Robert', 'mezger']","[('Robert', 'NNP'), ('mezger', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1665255A,1928-04-10,davis,['davis'],"[('davis', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1665427A,1928-04-10,von reis,"['von', 'reis']","[('von', 'NN'), ('reis', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1665501A,1928-04-10,Ampli,['Ampli'],"[('Ampli', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1665543A,1928-04-10,Shoehe,['Shoehe'],"[('Shoehe', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1665574A,1928-04-10,William h,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1665608A,1928-04-10,Boiler construction,"['Boiler', 'construction']","[('Boiler', 'NNP'), ('construction', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1665645A,1927-08-31,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1665699A,1924-02-12,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1665843A,1924-11-01,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1665859A,1928-04-10,Johann oesch,"['Johann', 'oesch']","[('Johann', 'NNP'), ('oesch', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1665881A,1928-04-10,Eugen hutzenlaub,"['Eugen', 'hutzenlaub']","[('Eugen', 'NNP'), ('hutzenlaub', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1665910A,1928-04-10,Phil c,"['Phil', 'c']","[('Phil', 'NNP'), ('c', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1665979A,1927-01-26,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1666062A,1926-03-27,Cigarette,['Cigarette'],"[('Cigarette', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1666075A,1926-01-14,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1666303A,1926-02-17,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1666361A,1927-03-28,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1666385A,1928-04-17,jensen,['jensen'],"[('jensen', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1666618A,1928-04-17,Albin carlson,"['Albin', 'carlson']","[('Albin', 'NNP'), ('carlson', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1666649A,1927-04-25,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1666659A,1928-04-17,Boiler,['Boiler'],"[('Boiler', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1666711A,1928-04-17,macdonald,['macdonald'],"[('macdonald', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1666771A,1928-04-17,Joseph h,"['Joseph', 'h']","[('Joseph', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1666909A,1928-04-24,Bending machine,"['Bending', 'machine']","[('Bending', 'VBG'), ('machine', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2
-US1666947A,1928-04-24,Hakold c,"['Hakold', 'c']","[('Hakold', 'NNP'), ('c', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1666981A,1928-04-24,Bertha w,"['Bertha', 'w']","[('Bertha', 'NNP'), ('w', 'NN')]","['PROPN', 'X']",['PERSON'],1,1,2
-US1667089A,1928-04-24,Frank umbriaco,"['Frank', 'umbriaco']","[('Frank', 'NNP'), ('umbriaco', 'NN')]","['PROPN', 'ADJ']",['PERSON'],1,1,2
-US1667917A,1928-05-01,Cobposatji,['Cobposatji'],"[('Cobposatji', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1667981A,1928-05-01,Meteb box,"['Meteb', 'box']","[('Meteb', 'NNP'), ('box', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1668086A,1928-05-01,Paux qrzei,"['Paux', 'qrzei']","[('Paux', 'NNP'), ('qrzei', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1668116A,1927-02-23,Scaffold,['Scaffold'],"[('Scaffold', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1668311A,1926-06-12,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1668521A,1928-05-01,zubaty,['zubaty'],"[('zubaty', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1668560A,1924-04-09,Hose,['Hose'],"[('Hose', 'VB')]",['PROPN'],['PERSON'],1,1,2
-US1668653A,1921-03-15,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1668952A,1928-05-08,Said ellis,"['Said', 'ellis']","[('Said', 'NNP'), ('ellis', 'NN')]","['VERB', 'PROPN']",['PERSON'],1,1,2
-US1669051A,1925-09-08,Hose,['Hose'],"[('Hose', 'VB')]",['PROPN'],['PERSON'],1,1,2
-US1669080A,1925-08-27,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1669229A,1926-11-05,Goggle,['Goggle'],"[('Goggle', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1669243A,1927-02-24,Barrel,['Barrel'],"[('Barrel', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1669315A,1922-05-31,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1669319A,1927-01-21,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1669329A,1927-04-28,Scaffold,['Scaffold'],"[('Scaffold', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1669354A,1927-07-21,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1669410A,1928-05-15,calestini,['calestini'],"[('calestini', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1669908A,1926-01-12,Glass,['Glass'],"[('Glass', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1669985A,1928-05-15,la brie,"['la', 'brie']","[('la', 'NN'), ('brie', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1670186A,1925-02-21,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1670371A,1928-05-22,massey,['massey'],"[('massey', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1670489A,1924-11-20,Radiogoniometer,['Radiogoniometer'],"[('Radiogoniometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1670515A,1928-05-22,George langford,"['George', 'langford']","[('George', 'NNP'), ('langford', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1670521A,1925-02-20,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1670577A,1925-05-05,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1670592A,1928-05-22,Josef mettler,"['Josef', 'mettler']","[('Josef', 'NNP'), ('mettler', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1670682A,1928-05-22,Scott,['Scott'],"[('Scott', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1670948A,1927-04-23,Grille,['Grille'],"[('Grille', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1670972A,1926-04-16,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1671037A,1928-05-22,John mccltjbe,"['John', 'mccltjbe']","[('John', 'NNP'), ('mccltjbe', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1671182A,1926-11-11,Cigar,['Cigar'],"[('Cigar', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1671645A,1928-05-29,la brie,"['la', 'brie']","[('la', 'NN'), ('brie', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1672000A,1928-06-05,Wilmersdorf,['Wilmersdorf'],"[('Wilmersdorf', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1672338A,1925-08-01,Tarpaulin,['Tarpaulin'],"[('Tarpaulin', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1672546A,1928-06-05,Frank st,"['Frank', 'st']","[('Frank', 'NNP'), ('st', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1672611A,1927-09-20,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1672623A,1922-09-28,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1672754A,1927-10-19,Teeter,['Teeter'],"[('Teeter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1672840A,1924-05-08,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1672887A,1927-01-18,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1672894A,1920-09-08,Oscillograph,['Oscillograph'],"[('Oscillograph', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1672900A,1928-06-12,nichols,['nichols'],"[('nichols', 'NNS')]",['PROPN'],['PERSON'],1,1,1
-US1673038A,1928-06-12,bogaskie,['bogaskie'],"[('bogaskie', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1673164A,1927-08-16,Steamer,['Steamer'],"[('Steamer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1673345A,1928-06-12,anderton,['anderton'],"[('anderton', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1673394A,1926-12-10,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1673485A,1925-03-19,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1673640A,1928-06-12,Gtjstav ratt,"['Gtjstav', 'ratt']","[('Gtjstav', 'NNP'), ('ratt', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1673791A,1928-06-19,boyron,['boyron'],"[('boyron', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1673862A,1927-08-27,Scaffold,['Scaffold'],"[('Scaffold', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1674092A,1926-03-12,Sadiron,['Sadiron'],"[('Sadiron', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1674316A,1927-02-03,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1674658A,1928-06-26,Shajstk,['Shajstk'],"[('Shajstk', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1674822A,1926-01-14,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1674892A,1928-06-26,duncan,['duncan'],"[('duncan', 'JJ')]",['PROPN'],['PERSON'],1,1,1
-US1675015A,1926-05-20,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1675500A,1928-07-03,Walter xhopp,"['Walter', 'xhopp']","[('Walter', 'NNP'), ('xhopp', 'NN')]","['PROPN', 'PUNCT']",['PERSON'],1,1,2
-US1675501A,1928-07-03,Nicholas lehman,"['Nicholas', 'lehman']","[('Nicholas', 'NNP'), ('lehman', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1675531A,1927-03-03,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1675628A,1928-07-03,Joseph zubaty,"['Joseph', 'zubaty']","[('Joseph', 'NNP'), ('zubaty', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1675720A,1922-08-26,Searchlight,['Searchlight'],"[('Searchlight', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1675819A,1928-07-03,peiler,['peiler'],"[('peiler', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1675821A,1928-07-03,Cobpoba,['Cobpoba'],"[('Cobpoba', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1675828A,1924-12-29,Electrolyte,['Electrolyte'],"[('Electrolyte', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1675948A,1928-07-03,mokee,['mokee'],"[('mokee', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1675967A,1927-03-15,Comparator,['Comparator'],"[('Comparator', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1676007A,1928-07-03,Henry csanyi,"['Henry', 'csanyi']","[('Henry', 'NNP'), ('csanyi', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1676016A,1924-12-01,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1676346A,1928-07-10,Garibaldi nocito,"['Garibaldi', 'nocito']","[('Garibaldi', 'NNP'), ('nocito', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1676407A,1928-07-10,Wilhelm,['Wilhelm'],"[('Wilhelm', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1676653A,1928-07-10,Habby iisbece,"['Habby', 'iisbece']","[('Habby', 'NNP'), ('iisbece', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1676657A,1926-09-28,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1676739A,1928-07-10,Otto s,"['Otto', 's']","[('Otto', 'NNP'), ('s', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1676807A,1928-07-10,stevens,['stevens'],"[('stevens', 'NNS')]",['VERB'],['PERSON'],0,1,1
-US1677304A,1928-07-17,Frederick w,"['Frederick', 'w']","[('Frederick', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1677343A,1928-07-17,howlett,['howlett'],"[('howlett', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1677834A,1923-08-14,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1677835A,1926-03-04,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1677869A,1928-07-17,Walter h,"['Walter', 'h']","[('Walter', 'NNP'), ('h', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1678162A,1926-05-20,Cartridge,['Cartridge'],"[('Cartridge', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1678206A,1927-02-28,Oiler,['Oiler'],"[('Oiler', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1678229A,1928-07-24,Kino eabisi,"['Kino', 'eabisi']","[('Kino', 'NNP'), ('eabisi', 'NN')]","['NOUN', 'VERB']",['PERSON'],0,1,2
-US1678260A,1927-07-13,Humidor,['Humidor'],"[('Humidor', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1678370A,1926-11-24,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1678609A,1925-10-31,Toothpick,['Toothpick'],"[('Toothpick', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1678746A,1925-09-05,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1678803A,1928-07-31,Joseph van,"['Joseph', 'van']","[('Joseph', 'NNP'), ('van', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1678861A,1926-02-06,Searchlight,['Searchlight'],"[('Searchlight', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1679175A,1926-08-26,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1679220A,1928-07-31,jahnkje,['jahnkje'],"[('jahnkje', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1679265A,1928-07-31,Nathan w,"['Nathan', 'w']","[('Nathan', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1679293A,1923-11-13,Meter,['Meter'],"[('Meter', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1679299A,1923-08-31,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1679531A,1928-08-07,johnson,['johnson'],"[('johnson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1679639A,1926-08-30,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1679651A,1925-02-19,Toothpick,['Toothpick'],"[('Toothpick', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1679664A,1928-08-07,Hans jobdan,"['Hans', 'jobdan']","[('Hans', 'NNS'), ('jobdan', 'VBP')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1680059A,1928-08-07,Assighoe,['Assighoe'],"[('Assighoe', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1680097A,1926-08-31,William s,"['William', 's']","[('William', 'NNP'), ('s', 'NN')]","['PROPN', 'PART']",['PERSON'],1,1,2
-US1680112A,1927-08-27,Knob,['Knob'],"[('Knob', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1680125A,1928-08-07,Diamond power,"['Diamond', 'power']","[('Diamond', 'NN'), ('power', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1680288A,1928-08-14,Albert qottschalk,"['Albert', 'qottschalk']","[('Albert', 'NNP'), ('qottschalk', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1680341A,1926-09-03,Wrgnk kosenthal,"['Wrgnk', 'kosenthal']","[('Wrgnk', 'NNP'), ('kosenthal', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2
-US1680391A,1928-08-14,peiler,['peiler'],"[('peiler', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1680420A,1928-08-14,Galvanometer,['Galvanometer'],"[('Galvanometer', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1680425A,1928-08-14,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1680478A,1928-08-14,Hammer mfg,"['Hammer', 'mfg']","[('Hammer', 'NNP'), ('mfg', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1680808A,1928-08-14,Contbol mechanism,"['Contbol', 'mechanism']","[('Contbol', 'NN'), ('mechanism', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1680869A,1928-08-14,Assigistob,['Assigistob'],"[('Assigistob', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1680901A,1926-05-18,Ludwig meyer,"['Ludwig', 'meyer']","[('Ludwig', 'NNP'), ('meyer', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1681069A,1928-08-14,theodoropulos,['theodoropulos'],"[('theodoropulos', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1681086A,1927-05-13,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1681251A,1928-08-21,Stanley w,"['Stanley', 'w']","[('Stanley', 'NNP'), ('w', 'NN')]","['PROPN', 'X']",['PERSON'],1,1,2
-US1681567A,1928-08-21,barrett,['barrett'],"[('barrett', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1681700A,1926-01-28,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1681769A,1927-05-24,Label,['Label'],"[('Label', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1682004A,1927-02-09,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1682099A,1928-08-28,Fbiedmch soyez,"['Fbiedmch', 'soyez']","[('Fbiedmch', 'NNP'), ('soyez', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2
-US1682105A,1928-08-28,austin,['austin'],"[('austin', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1682169A,1928-08-28,Brttce dotoan,"['Brttce', 'dotoan']","[('Brttce', 'NNP'), ('dotoan', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2
-US1682190A,1928-08-28,schein,['schein'],"[('schein', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1682199A,1928-08-28,Egbert h,"['Egbert', 'h']","[('Egbert', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1682201A,1928-08-28,thompson,['thompson'],"[('thompson', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1682211A,1928-08-28,Joseph w,"['Joseph', 'w']","[('Joseph', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1682217A,1928-08-28,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1682260A,1928-08-28,Gustav zieglee,"['Gustav', 'zieglee']","[('Gustav', 'NNP'), ('zieglee', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1682262A,1928-08-28,anton i,"['anton', 'i']","[('anton', 'NN'), ('i', 'NN')]","['PROPN', 'PRON']",['PERSON'],1,1,2
-US1682278A,1928-08-28,Herman c,"['Herman', 'c']","[('Herman', 'NNP'), ('c', 'NN')]","['PROPN', 'AUX']",['PERSON'],1,1,2
-US1682280A,1928-08-28,Alan c,"['Alan', 'c']","[('Alan', 'NNP'), ('c', 'VBP')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1682284A,1928-08-28,jones,['jones'],"[('jones', 'NNS')]",['PROPN'],['PERSON'],1,1,1
-US1682301A,1928-08-28,Max menkin,"['Max', 'menkin']","[('Max', 'NNP'), ('menkin', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1682316A,1928-08-28,williams,['williams'],"[('williams', 'NNS')]",['PROPN'],['PERSON'],1,1,1
-US1682329A,1928-08-28,John d,"['John', 'd']","[('John', 'NNP'), ('d', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1682336A,1928-08-28,Robert hentschel,"['Robert', 'hentschel']","[('Robert', 'NNP'), ('hentschel', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1682341A,1928-08-28,Sireit sqtjawker,"['Sireit', 'sqtjawker']","[('Sireit', 'NNP'), ('sqtjawker', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1682342A,1928-08-28,Iittcas keaet,"['Iittcas', 'keaet']","[('Iittcas', 'NNP'), ('keaet', 'NN')]","['NOUN', 'VERB']",['PERSON'],0,1,2
-US1682373A,1928-08-28,Ernest davis,"['Ernest', 'davis']","[('Ernest', 'NNP'), ('davis', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1682376A,1928-08-28,Otto henze,"['Otto', 'henze']","[('Otto', 'NNP'), ('henze', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1682379A,1928-08-28,kellett,['kellett'],"[('kellett', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1682399A,1928-08-28,mitchell,['mitchell'],"[('mitchell', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1682403A,1920-11-22,Barrel,['Barrel'],"[('Barrel', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1682594A,1925-01-02,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1683012A,1928-09-04,Thomas,['Thomas'],"[('Thomas', 'NNP')]",['PROPN'],['PERSON'],1,1,1
-US1683028A,1928-09-04,elkington,['elkington'],"[('elkington', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1683039A,1928-09-04,Robert k,"['Robert', 'k']","[('Robert', 'NNP'), ('k', 'NN')]","['PROPN', 'X']",['PERSON'],1,1,2
-US1683116A,1927-04-07,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1683134A,1921-12-28,Amplifier,['Amplifier'],"[('Amplifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1683373A,1927-04-26,Jointer,['Jointer'],"[('Jointer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1683470A,1928-09-04,Carl knopf,"['Carl', 'knopf']","[('Carl', 'NNP'), ('knopf', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2
-US1683500A,1927-04-13,Emulsifier,['Emulsifier'],"[('Emulsifier', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1683836A,1928-09-11,Boiler,['Boiler'],"[('Boiler', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1684003A,1926-09-16,Radioantenna,['Radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1684244A,1926-11-29,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1684385A,1926-10-07,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1685002A,1928-09-18,matranga,['matranga'],"[('matranga', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1685015A,1927-10-03,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1685163A,1928-09-25,jeanson,['jeanson'],"[('jeanson', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1685190A,1928-09-25,Joseph t,"['Joseph', 't']","[('Joseph', 'NNP'), ('t', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1685193A,1927-03-03,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1685235A,1924-07-02,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1685249A,1928-09-25,Macaboni die,"['Macaboni', 'die']","[('Macaboni', 'NNP'), ('die', 'NN')]","['NOUN', 'VERB']",['PERSON'],0,1,2
-US1685346A,1928-09-25,Otto wbiskopf,"['Otto', 'wbiskopf']","[('Otto', 'NNP'), ('wbiskopf', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1685454A,1928-09-25,Caul johnson,"['Caul', 'johnson']","[('Caul', 'NNP'), ('johnson', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1685697A,1926-07-30,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1685727A,1928-09-25,Dispensing,['Dispensing'],"[('Dispensing', 'VBG')]",['NOUN'],['PERSON'],0,1,1
-US1685996A,1928-10-02,Eugene gregory,"['Eugene', 'gregory']","[('Eugene', 'NNP'), ('gregory', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1686107A,1928-10-02,Nesota,['Nesota'],"[('Nesota', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1686112A,1928-10-02,George s,"['George', 's']","[('George', 'NNP'), ('s', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1686299A,1928-10-02,Thomas veitch,"['Thomas', 'veitch']","[('Thomas', 'NNP'), ('veitch', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1686414A,1928-10-02,Cotton cleaner,"['Cotton', 'cleaner']","[('Cotton', 'NNP'), ('cleaner', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1686577A,1927-04-20,Coat,['Coat'],"[('Coat', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1686601A,1927-03-30,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1686754A,1928-10-09,Controller actuation,"['Controller', 'actuation']","[('Controller', 'NNP'), ('actuation', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1686941A,1928-10-09,taylor,['taylor'],"[('taylor', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1687308A,1928-10-09,Boiler,['Boiler'],"[('Boiler', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1687451A,1928-10-09,Joseph iioelleigl,"['Joseph', 'iioelleigl']","[('Joseph', 'NNP'), ('iioelleigl', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1687455A,1922-12-26,Autosleigh,['Autosleigh'],"[('Autosleigh', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1688095A,1928-10-16,Willis stutson,"['Willis', 'stutson']","[('Willis', 'NNP'), ('stutson', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1688325A,1928-10-23,hew yobs,"['hew', 'yobs']","[('hew', 'NN'), ('yobs', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2
-US1688348A,1926-09-24,Whistle,['Whistle'],"[('Whistle', 'VB')]",['PROPN'],['PERSON'],1,1,2
-US1688349A,1927-10-06,Whistle,['Whistle'],"[('Whistle', 'VB')]",['PROPN'],['PERSON'],1,1,2
-US1688372A,1925-12-01,Oiler,['Oiler'],"[('Oiler', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1688510A,1928-10-23,taylor,['taylor'],"[('taylor', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1688532A,1926-03-29,Henry dreyfus,"['Henry', 'dreyfus']","[('Henry', 'NNP'), ('dreyfus', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1688834A,1928-10-23,Locker,['Locker'],"[('Locker', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1688938A,1928-10-23,oliver,['oliver'],"[('oliver', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1688946A,1928-10-23,Edward i-,"['Edward', 'i-']","[('Edward', 'NNP'), ('i-', 'NN')]","['PROPN', 'X']",['PERSON'],1,1,2
-US1688948A,1928-10-23,Henry m,"['Henry', 'm']","[('Henry', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1688964A,1928-10-23,Hans hahl,"['Hans', 'hahl']","[('Hans', 'NNS'), ('hahl', 'VBP')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1688983A,1928-10-23,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1689023A,1928-10-23,gregg,['gregg'],"[('gregg', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1689053A,1926-10-07,Harrow,['Harrow'],"[('Harrow', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1689054A,1928-10-23,Joseph samuels,"['Joseph', 'samuels']","[('Joseph', 'NNP'), ('samuels', 'NNS')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1689164A,1926-09-07,Grille,['Grille'],"[('Grille', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1689403A,1927-02-04,Bung,['Bung'],"[('Bung', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1689648A,1926-02-15,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1689658A,1928-10-30,albersheim,['albersheim'],"[('albersheim', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1690226A,1928-11-06,Bxstava,['Bxstava'],"[('Bxstava', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1690493A,1927-06-07,Mill,['Mill'],"[('Mill', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1690494A,1927-06-07,Mill,['Mill'],"[('Mill', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1690495A,1927-06-07,Mill,['Mill'],"[('Mill', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1690496A,1927-06-07,Mill,['Mill'],"[('Mill', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1690497A,1927-06-10,Mill,['Mill'],"[('Mill', 'NN')]",['NOUN'],['PERSON'],0,1,2
-US1690736A,1927-04-29,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1690835A,1928-11-06,Thomas ratkowski,"['Thomas', 'ratkowski']","[('Thomas', 'NNP'), ('ratkowski', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1691191A,1927-01-31,Bookrack,['Bookrack'],"[('Bookrack', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1691295A,1928-11-13,Frederick b,"['Frederick', 'b']","[('Frederick', 'NNP'), ('b', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1691649A,1926-01-22,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1691657A,1924-06-20,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1691890A,1926-08-25,Tucker,['Tucker'],"[('Tucker', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1692207A,1925-12-21,Ukulele,['Ukulele'],"[('Ukulele', 'NNS')]",['PROPN'],['PERSON'],1,1,2
-US1692373A,1924-05-03,Paul gkeve,"['Paul', 'gkeve']","[('Paul', 'NNP'), ('gkeve', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1692381A,1925-01-05,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1692418A,1928-11-20,Adam fbimak,"['Adam', 'fbimak']","[('Adam', 'NNP'), ('fbimak', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1692444A,1927-08-05,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1692551A,1926-11-15,Thermometer,['Thermometer'],"[('Thermometer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1692758A,1928-11-20,nogrady,['nogrady'],"[('nogrady', 'JJ')]",['ADJ'],['PERSON'],0,1,1
-US1692824A,1928-11-27,William h,"['William', 'h']","[('William', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1693301A,1926-07-16,Shears,['Shears'],"[('Shears', 'NNS')]",['NOUN'],['PERSON'],0,1,2
-US1693470A,1928-11-27,Adolph a,"['Adolph', 'a']","[('Adolph', 'NNP'), ('a', 'DT')]","['VERB', 'PRON']",['PERSON'],0,1,2
-US1693595A,1928-12-04,Gkrain shockee,"['Gkrain', 'shockee']","[('Gkrain', 'NNP'), ('shockee', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1693613A,1928-12-04,martin,['martin'],"[('martin', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1693660A,1927-12-12,Truss,['Truss'],"[('Truss', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1693961A,1928-12-04,Hzemacytometeb,['Hzemacytometeb'],"[('Hzemacytometeb', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1693967A,1928-12-04,Adolph a,"['Adolph', 'a']","[('Adolph', 'NNP'), ('a', 'DT')]","['VERB', 'PRON']",['PERSON'],0,1,2
-US1694538A,1928-12-11,Hose clamp,"['Hose', 'clamp']","[('Hose', 'NNP'), ('clamp', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1694718A,1928-12-11,peters,['peters'],"[('peters', 'NNS')]",['NOUN'],['PERSON'],0,1,1
-US1694863A,1928-12-11,Beatbice m,"['Beatbice', 'm']","[('Beatbice', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1695154A,1927-09-02,Windmill,['Windmill'],"[('Windmill', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1695164A,1928-12-11,Azo dye,"['Azo', 'dye']","[('Azo', 'NNP'), ('dye', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2
-US1695435A,1925-09-08,Silencer,['Silencer'],"[('Silencer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1695527A,1928-12-18,Nicholas braun,"['Nicholas', 'braun']","[('Nicholas', 'NNS'), ('braun', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1695645A,1928-12-18,farley,['farley'],"[('farley', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1695719A,1924-12-20,Oscillograph,['Oscillograph'],"[('Oscillograph', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1696333A,1928-12-25,Blectbicai instrument,"['Blectbicai', 'instrument']","[('Blectbicai', 'NNP'), ('instrument', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1696402A,1924-08-07,Radioantenna,['Radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1696520A,1926-12-06,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1696525A,1928-12-25,Pbopezj,['Pbopezj'],"[('Pbopezj', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1696546A,1928-12-25,Said jaeger,"['Said', 'jaeger']","[('Said', 'NNP'), ('jaeger', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2
-US1696603A,1926-08-26,George w,"['George', 'w']","[('George', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1696708A,1927-09-02,Holster,['Holster'],"[('Holster', 'NN')]",['ADJ'],['PERSON'],0,1,2
-US1696769A,1928-12-25,Hans jordan,"['Hans', 'jordan']","[('Hans', 'NNS'), ('jordan', 'VBP')]","['PROPN', 'PROPN']",['PERSON'],1,1,2
-US1696846A,1928-12-25,Kabl imhojt,"['Kabl', 'imhojt']","[('Kabl', 'NNP'), ('imhojt', 'NN')]","['PROPN', 'ADV']",['PERSON'],1,1,2
-US1696848A,1928-12-25,Shobs clamp,"['Shobs', 'clamp']","[('Shobs', 'NNP'), ('clamp', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2
-US1696849A,1928-12-25,Bending machine,"['Bending', 'machine']","[('Bending', 'VBG'), ('machine', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2
-US1696865A,1925-02-21,Jack,['Jack'],"[('Jack', 'NNP')]",['PROPN'],['PERSON'],1,1,2
-US1696867A,1928-12-25,Martin segqbia,"['Martin', 'segqbia']","[('Martin', 'NNP'), ('segqbia', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1697022A,1929-01-01,John a,"['John', 'a']","[('John', 'NNP'), ('a', 'DT')]","['PROPN', 'PRON']",['PERSON'],1,1,2
-US1697091A,1929-01-01,Joseph skubic,"['Joseph', 'skubic']","[('Joseph', 'NNP'), ('skubic', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1697191A,1929-01-01,Oscillograph galvanometer,"['Oscillograph', 'galvanometer']","[('Oscillograph', 'NNP'), ('galvanometer', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1697224A,1925-11-30,Sadiron,['Sadiron'],"[('Sadiron', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1697447A,1926-08-11,Chuck,['Chuck'],"[('Chuck', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1697460A,1925-10-29,Vulcanizer,['Vulcanizer'],"[('Vulcanizer', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1697507A,1927-07-14,Cap,['Cap'],"[('Cap', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1697536A,1929-01-01,mi ley,"['mi', 'ley']","[('mi', 'NN'), ('ley', 'NN')]","['INTJ', 'VERB']",['PERSON'],0,1,2
-US1697664A,1927-09-03,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1697996A,1929-01-08,Claude nagle,"['Claude', 'nagle']","[('Claude', 'NNP'), ('nagle', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1698048A,1929-01-08,Hans t,"['Hans', 't']","[('Hans', 'NNS'), ('t', 'VBP')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
-US1698078A,1929-01-08,vincent,['vincent'],"[('vincent', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1698487A,1927-06-08,Barrel,['Barrel'],"[('Barrel', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1698522A,1929-01-08,Ttniveesai,['Ttniveesai'],"[('Ttniveesai', 'NN')]",['PROPN'],['PERSON'],1,1,1
-US1698908A,1925-10-30,Carton,['Carton'],"[('Carton', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1699168A,1929-01-15,tilberg,['tilberg'],"[('tilberg', 'NN')]",['VERB'],['PERSON'],0,1,1
-US1699176A,1927-09-19,Bookrack,['Bookrack'],"[('Bookrack', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1699372A,1926-02-23,Pan,['Pan'],"[('Pan', 'NN')]",['PROPN'],['PERSON'],1,1,2
-US1699468A,1929-01-15,grayson,['grayson'],"[('grayson', 'NN')]",['NOUN'],['PERSON'],0,1,1
-US1699563A,1929-01-22,Albert h,"['Albert', 'h']","[('Albert', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2
+patent_number,date,title,tokens,nltk_pos,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,is_inventor
+US1600332A,1926-09-21,Josef haslauer,"['josef', 'haslauer']","[('Josef', 'NNP'), ('haslauer', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1601067A,1926-09-28,William w,"['william', 'w']","[('William', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1601506A,1926-09-28,George h,"['george', 'h']","[('George', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1601507A,1926-09-28,Gltje,['gltje'],"[('Gltje', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1601549A,1926-09-28,wurtenberg,['wurtenberg'],"[('wurtenberg', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1601579A,1926-09-28,William astle,"['william', 'astle']","[('William', 'NNP'), ('astle', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1601587A,1926-09-28,Maurice,['maurice'],"[('Maurice', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1601804A,1926-10-05,Montgomery w,"['montgomery', 'w']","[('Montgomery', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1602168A,1926-10-05,Hqwasd parker,"['hqwasd', 'parker']","[('Hqwasd', 'NNP'), ('parker', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1602314A,1926-10-05,Dispensing machine,"['dispensing', 'machine']","[('Dispensing', 'VBG'), ('machine', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2,1
+US1602347A,1926-10-05,Anthony eustace,"['anthony', 'eustace']","[('Anthony', 'NNP'), ('eustace', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1602501A,1926-10-12,peterson,['peterson'],"[('peterson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1602941A,1926-10-12,Joseph rosman,"['joseph', 'rosman']","[('Joseph', 'NNP'), ('rosman', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1603548A,1926-10-19,Mahlcxkt e,"['mahlcxkt', 'e']","[('Mahlcxkt', 'NNP'), ('e', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1603677A,1926-10-19,Charles francis,"['charles', 'francis']","[('Charles', 'NNP'), ('francis', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1603889A,1926-10-19,Porationi,['porationi'],"[('Porationi', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1603965A,1926-10-19,Bsake,['bsake'],"[('Bsake', 'VB')]",['VERB'],['PERSON'],0,1,1,1
+US1603979A,1926-10-19,peiler,['peiler'],"[('peiler', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1604068A,1926-10-19,William h,"['william', 'h']","[('William', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1604611A,1926-10-26,Ray simpson,"['ray', 'simpson']","[('Ray', 'NNP'), ('simpson', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1604999A,1926-11-02,William schmitz,"['william', 'schmitz']","[('William', 'NNP'), ('schmitz', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1605761A,1926-11-02,Harald nielsen,"['harald', 'nielsen']","[('Harald', 'NNP'), ('nielsen', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1605777A,1926-11-02,richardson,['richardson'],"[('richardson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1605788A,1926-11-02,Cotton cleaneb,"['cotton', 'cleaneb']","[('Cotton', 'NNP'), ('cleaneb', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1605795A,1926-11-02,Kotaby hakbow,"['kotaby', 'hakbow']","[('Kotaby', 'NNP'), ('hakbow', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1605803A,1926-11-02,William wilegtts,"['william', 'wilegtts']","[('William', 'NNP'), ('wilegtts', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1605809A,1926-11-02,Jacob l,"['jacob', 'l']","[('Jacob', 'NNP'), ('l', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1605811A,1926-11-02,danielson,['danielson'],"[('danielson', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1605815A,1926-11-02,Joseph dekuy,"['joseph', 'dekuy']","[('Joseph', 'NNP'), ('dekuy', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1605835A,1926-11-02,hamilton,['hamilton'],"[('hamilton', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1605836A,1926-11-02,Fabrik,['fabrik'],"[('Fabrik', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1605866A,1926-11-02,hew yoek,"['hew', 'yoek']","[('hew', 'NN'), ('yoek', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1605895A,1925-08-06,Xslahb,['xslahb'],"[('Xslahb', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1605986A,1926-11-09,redfield,['redfield'],"[('redfield', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1605988A,1926-11-09,op bolton,"['op', 'bolton']","[('op', 'IN'), ('bolton', 'NN')]","['NOUN', 'PROPN']",['PERSON'],1,1,2,1
+US1605995A,1926-11-09,Blowee,['blowee'],"[('Blowee', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1606013A,1926-11-09,Robert g,"['robert', 'g']","[('Robert', 'NNP'), ('g', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1606036A,1926-11-09,Calogeeo mtjuia,"['calogeeo', 'mtjuia']","[('Calogeeo', 'NNP'), ('mtjuia', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1606038A,1926-11-09,Max norman,"['max', 'norman']","[('Max', 'NNP'), ('norman', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1606039A,1926-11-09,Max norman,"['max', 'norman']","[('Max', 'NNP'), ('norman', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1606330A,1926-11-09,Edward b,"['edward', 'b']","[('Edward', 'NNP'), ('b', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1606469A,1926-11-09,John s,"['john', 's']","[('John', 'NNP'), ('s', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1606504A,1926-11-09,Edward l,"['edward', 'l']","[('Edward', 'NNP'), ('l', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1607140A,1926-11-16,Keinhold h,"['keinhold', 'h']","[('Keinhold', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1607551A,1926-11-16,hew jeesey,"['hew', 'jeesey']","[('hew', 'NN'), ('jeesey', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1607640A,1926-11-23,Heateb cowtbol,"['heateb', 'cowtbol']","[('Heateb', 'NNP'), ('cowtbol', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1607758A,1926-11-23,John junkunc,"['john', 'junkunc']","[('John', 'NNP'), ('junkunc', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1608199A,1926-11-23,Said wilson,"['said', 'wilson']","[('Said', 'NNP'), ('wilson', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2,1
+US1608280A,1926-11-23,Antiskid bblt,"['antiskid', 'bblt']","[('Antiskid', 'NNP'), ('bblt', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1608518A,1926-11-30,William mineath,"['william', 'mineath']","[('William', 'NNP'), ('mineath', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1608826A,1926-11-30,Hotjse electeic,"['hotjse', 'electeic']","[('Hotjse', 'NNP'), ('electeic', 'NN')]","['PROPN', 'ADJ']",['PERSON'],1,1,2,1
+US1609359A,1926-12-07,humphrey,['humphrey'],"[('humphrey', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1609454A,1926-12-07,barratt,['barratt'],"[('barratt', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1609965A,1926-12-07,Donald,['donald'],"[('Donald', 'NNP')]",['PROPN'],['PERSON'],1,1,2,1
+US1610118A,1926-12-07,brockett,['brockett'],"[('brockett', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1610297A,1926-12-14,Vibkatoey convebtee,"['vibkatoey', 'convebtee']","[('Vibkatoey', 'NNP'), ('convebtee', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1610445A,1926-12-14,William f,"['william', 'f']","[('William', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1611415A,1926-12-21,cheney,['cheney'],"[('cheney', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1611775A,1926-12-21,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1612192A,1926-12-28,johnson,['johnson'],"[('johnson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1612933A,1927-01-04,metzgar,['metzgar'],"[('metzgar', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1614351A,1927-01-11,davis,['davis'],"[('davis', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1614647A,1924-12-12,Recooler,['recooler'],"[('Recooler', 'NN')]",['PROPN'],['PERSON'],1,1,2,1
+US1615870A,1927-02-01,Arthur w,"['arthur', 'w']","[('Arthur', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1616103A,1927-02-01,James hill,"['james', 'hill']","[('James', 'NNP'), ('hill', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1616282A,1927-02-01,Kabl schbanz,"['kabl', 'schbanz']","[('Kabl', 'NNP'), ('schbanz', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1616321A,1927-02-01,John j,"['john', 'j']","[('John', 'NNP'), ('j', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1616360A,1927-02-01,William foster,"['william', 'foster']","[('William', 'NNP'), ('foster', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1616561A,1927-02-08,van ackeren,"['van', 'ackeren']","[('van', 'NN'), ('ackeren', 'NNS')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1616614A,1927-02-08,Egbert edwardson,"['egbert', 'edwardson']","[('Egbert', 'NNP'), ('edwardson', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1616695A,1927-02-08,Kelson littell,"['kelson', 'littell']","[('Kelson', 'NNP'), ('littell', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1616698A,1927-02-08,David miller,"['david', 'miller']","[('David', 'NNP'), ('miller', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1617093A,1927-02-08,Howard d,"['howard', 'd']","[('Howard', 'NNP'), ('d', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1617677A,1927-02-15,Assickctob,['assickctob'],"[('Assickctob', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1617745A,1927-02-15,Albert cotysinard,"['albert', 'cotysinard']","[('Albert', 'NNP'), ('cotysinard', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1618370A,1927-02-22,Max engelmann,"['max', 'engelmann']","[('Max', 'NNP'), ('engelmann', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1618578A,1927-02-22,Robert t,"['robert', 't']","[('Robert', 'NNP'), ('t', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1618608A,1927-02-22,William,['william'],"[('William', 'NNP')]",['PROPN'],['PERSON'],1,1,1,1
+US1620574A,1927-03-08,Edward s,"['edward', 's']","[('Edward', 'NNP'), ('s', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1621054A,1927-03-15,Max bicheroux,"['max', 'bicheroux']","[('Max', 'NNP'), ('bicheroux', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1621278A,1927-03-15,Jacques boston,"['jacques', 'boston']","[('Jacques', 'NNS'), ('boston', 'VBP')]","['PROPN', 'PROPN']","['PERSON', 'GPE']",1,1,2,1
+US1621668A,1927-03-22,Steven heitler,"['steven', 'heitler']","[('Steven', 'NNP'), ('heitler', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2,1
+US1621838A,1927-03-22,hawley,['hawley'],"[('hawley', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1621866A,1927-03-22,William b,"['william', 'b']","[('William', 'NNP'), ('b', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1621933A,1927-03-22,jones,['jones'],"[('jones', 'NNS')]",['PROPN'],['PERSON'],1,1,1,1
+US1622084A,1927-03-22,Sottthwick,['sottthwick'],"[('Sottthwick', 'NN')]",['VERB'],['PERSON'],0,1,2,1
+US1622366A,1921-03-11,bueno,['bueno'],"[('bueno', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1622409A,1927-03-29,bernstein,['bernstein'],"[('bernstein', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1622564A,1927-03-29,barkley,['barkley'],"[('barkley', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1622698A,1927-03-29,ihi iii,"['ihi', 'iii']","[('ihi', 'NN'), ('iii', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1622719A,1926-02-19,Autoboggan,['autoboggan'],"[('Autoboggan', 'NNP')]",['PROPN'],['PERSON'],1,1,2,1
+US1622872A,1927-03-29,Sepabatob,['sepabatob'],"[('Sepabatob', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1623303A,1927-04-05,Richard w,"['richard', 'w']","[('Richard', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1623915A,1927-04-05,Charles edwin,"['charles', 'edwin']","[('Charles', 'NNP'), ('edwin', 'VBP')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1623949A,1927-04-05,Ivan gubelmann,"['ivan', 'gubelmann']","[('Ivan', 'NNP'), ('gubelmann', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1624927A,1927-04-19,Charles w,"['charles', 'w']","[('Charles', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1624942A,1927-04-19,george,['george'],"[('george', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1625153A,1927-04-19,Thomas i,"['thomas', 'i']","[('Thomas', 'NNP'), ('i', 'NN')]","['PROPN', 'PRON']",['PERSON'],1,1,2,1
+US1625216A,1927-04-19,James i,"['james', 'i']","[('James', 'NNP'), ('i', 'NN')]","['PROPN', 'PRON']",['PERSON'],1,1,2,1
+US1625333A,1927-04-19,redfield,['redfield'],"[('redfield', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1625403A,1927-04-19,stevens,['stevens'],"[('stevens', 'NNS')]",['VERB'],['PERSON'],0,1,1,1
+US1625518A,1927-04-19,beisel,['beisel'],"[('beisel', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1625519A,1927-04-19,Herbert l,"['herbert', 'l']","[('Herbert', 'NNP'), ('l', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1625630A,1927-04-19,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1625640A,1927-04-19,Joseph h,"['joseph', 'h']","[('Joseph', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1625725A,1927-04-19,irvin,['irvin'],"[('irvin', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1626610A,1927-05-03,Frank horkqtjist,"['frank', 'horkqtjist']","[('Frank', 'NNP'), ('horkqtjist', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1627013A,1927-05-03,John cowie,"['john', 'cowie']","[('John', 'NNP'), ('cowie', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1627629A,1927-05-10,anderson,['anderson'],"[('anderson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1627930A,1927-05-10,richardson,['richardson'],"[('richardson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1628107A,1927-05-10,Paul braach,"['paul', 'braach']","[('Paul', 'NNP'), ('braach', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1628713A,1927-05-17,William h,"['william', 'h']","[('William', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1628802A,1927-05-17,perrem,['perrem'],"[('perrem', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1629095A,1927-05-17,Robert c,"['robert', 'c']","[('Robert', 'NNP'), ('c', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1629175A,1927-05-17,peters,['peters'],"[('peters', 'NNS')]",['NOUN'],['PERSON'],0,1,1,1
+US1629176A,1927-05-17,Frederick g,"['frederick', 'g']","[('Frederick', 'NNP'), ('g', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1629187A,1927-05-17,Herbert a,"['herbert', 'a']","[('Herbert', 'NNP'), ('a', 'DT')]","['PROPN', 'PRON']",['PERSON'],1,1,2,1
+US1629489A,1927-05-24,Anton dvokak,"['anton', 'dvokak']","[('Anton', 'NNP'), ('dvokak', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1629559A,1927-05-24,watson,['watson'],"[('watson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1629882A,1927-05-24,Xf dayton,"['xf', 'dayton']","[('Xf', 'CD'), ('dayton', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1630104A,1927-05-24,austin,['austin'],"[('austin', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1631843A,1927-06-07,uffert,['uffert'],"[('uffert', 'JJ')]",['PROPN'],['PERSON'],1,1,1,1
+US1632000A,1927-06-14,Nesota,['nesota'],"[('Nesota', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1632448A,1927-06-14,Eeahz losbii,"['eeahz', 'losbii']","[('Eeahz', 'NNP'), ('losbii', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1632587A,1927-06-14,Nicholas benenati,"['nicholas', 'benenati']","[('Nicholas', 'NNS'), ('benenati', 'NNS')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1632595A,1927-06-14,Max goedok,"['max', 'goedok']","[('Max', 'NNP'), ('goedok', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1632740A,1927-06-14,Indttstrie axtiengesellschaft,"['indttstrie', 'axtiengesellschaft']","[('Indttstrie', 'NNP'), ('axtiengesellschaft', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1632793A,1927-06-21,William henderson,"['william', 'henderson']","[('William', 'NNP'), ('henderson', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1633221A,1927-06-21,William me,"['william', 'me']","[('William', 'NNP'), ('me', 'PRP')]","['VERB', 'PRON']",['PERSON'],0,1,2,1
+US1633238A,1927-06-21,bassett,['bassett'],"[('bassett', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1634097A,1927-06-28,Albert vaj,"['albert', 'vaj']","[('Albert', 'NNP'), ('vaj', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1634429A,1924-08-04,mechlin,['mechlin'],"[('mechlin', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1634432A,1927-07-05,John ii,"['john', 'ii']","[('John', 'NNP'), ('ii', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1634556A,1927-07-05,Said kbeitek,"['said', 'kbeitek']","[('Said', 'NNP'), ('kbeitek', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1635100A,1927-07-05,George j,"['george', 'j']","[('George', 'NNP'), ('j', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1635115A,1927-07-05,Said pjeifeb,"['said', 'pjeifeb']","[('Said', 'NNP'), ('pjeifeb', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2,1
+US1635311A,1927-07-12,corrigan,['corrigan'],"[('corrigan', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1635533A,1927-07-12,burtnett,['burtnett'],"[('burtnett', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1635723A,1927-07-12,Ivan miller,"['ivan', 'miller']","[('Ivan', 'NNP'), ('miller', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1635894A,1927-07-12,michelin,['michelin'],"[('michelin', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1636047A,1927-07-19,Calp weaker,"['calp', 'weaker']","[('Calp', 'NNP'), ('weaker', 'NN')]","['NOUN', 'ADJ']",['PERSON'],0,1,2,1
+US1636060A,1927-07-19,kennedy,['kennedy'],"[('kennedy', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1636487A,1927-07-19,Thomas t,"['thomas', 't']","[('Thomas', 'NNP'), ('t', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1636530A,1927-07-19,Sverre nyhus,"['sverre', 'nyhus']","[('Sverre', 'NNP'), ('nyhus', 'RB')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1636653A,1927-07-19,van buren,"['van', 'buren']","[('van', 'NN'), ('buren', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1636885A,1927-07-26,Frank wells,"['frank', 'wells']","[('Frank', 'NNP'), ('wells', 'NNS')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1636962A,1927-07-26,jacobson,['jacobson'],"[('jacobson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1637018A,1927-07-26,William d,"['william', 'd']","[('William', 'NNP'), ('d', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1637413A,1927-08-02,Donald elder,"['donald', 'elder']","[('Donald', 'NNP'), ('elder', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1637726A,1927-08-02,bebgsiai,['bebgsiai'],"[('bebgsiai', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1637917A,1927-08-02,Robert richter,"['robert', 'richter']","[('Robert', 'NNP'), ('richter', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1638647A,1927-08-09,ml taylor,"['ml', 'taylor']","[('ml', 'NN'), ('taylor', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1640258A,1927-08-23,taylor,['taylor'],"[('taylor', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1640393A,1927-08-30,William w,"['william', 'w']","[('William', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1641232A,1927-09-06,Caklson,['caklson'],"[('Caklson', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1641356A,1927-09-06,Thomas w,"['thomas', 'w']","[('Thomas', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1641385A,1927-09-06,Xtnivebsal coupling,"['xtnivebsal', 'coupling']","[('Xtnivebsal', 'NN'), ('coupling', 'VBG')]","['NOUN', 'VERB']",['PERSON'],0,1,2,1
+US1641532A,1927-09-06,Wateb heater,"['wateb', 'heater']","[('Wateb', 'NNP'), ('heater', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1641737A,1927-09-06,Edith clabke,"['edith', 'clabke']","[('Edith', 'NNP'), ('clabke', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1641875A,1927-09-06,Joseph beaulieu,"['joseph', 'beaulieu']","[('Joseph', 'NNP'), ('beaulieu', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1641894A,1927-09-06,mambourg,['mambourg'],"[('mambourg', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1641898A,1927-09-06,Joseph m,"['joseph', 'm']","[('Joseph', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1641972A,1927-09-13,hobson,['hobson'],"[('hobson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1642091A,1927-09-13,Joseph slepian,"['joseph', 'slepian']","[('Joseph', 'NNP'), ('slepian', 'JJ')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1642263A,1927-09-13,Alois ztnxb,"['alois', 'ztnxb']","[('Alois', 'NNP'), ('ztnxb', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1642658A,1927-09-13,holmes,['holmes'],"[('holmes', 'NNS')]",['NOUN'],['PERSON'],0,1,2,1
+US1642857A,1927-09-20,Leo holtschneideb,"['leo', 'holtschneideb']","[('Leo', 'NNP'), ('holtschneideb', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1642965A,1927-09-20,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1643083A,1927-09-20,Lawrence f,"['lawrence', 'f']","[('Lawrence', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1643269A,1927-09-20,Leonard foote,"['leonard', 'foote']","[('Leonard', 'NNP'), ('foote', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1643383A,1927-09-27,kennedy,['kennedy'],"[('kennedy', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1643869A,1923-03-06,Paul barre,"['paul', 'barre']","[('Paul', 'NNP'), ('barre', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1644291A,1927-10-04,Hebman l,"['hebman', 'l']","[('Hebman', 'NNP'), ('l', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1644292A,1927-10-04,thomas,['thomas'],"[('thomas', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1644678A,1927-10-11,Assighos,['assighos'],"[('Assighos', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1644883A,1927-10-11,johnson,['johnson'],"[('johnson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1645156A,1927-10-11,Thomas it,"['thomas', 'it']","[('Thomas', 'NNP'), ('it', 'PRP')]","['PROPN', 'PRON']",['PERSON'],1,1,2,1
+US1645388A,1927-10-11,Stoobn,['stoobn'],"[('Stoobn', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1645847A,1927-10-18,Flotjr mill,"['flotjr', 'mill']","[('Flotjr', 'NNP'), ('mill', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2,1
+US1645905A,1926-03-03,Provements limited,"['provements', 'limited']","[('Provements', 'NNS'), ('limited', 'VBD')]","['NOUN', 'VERB']",['PERSON'],0,1,2,1
+US1645953A,1927-10-18,John kabasevich,"['john', 'kabasevich']","[('John', 'NNP'), ('kabasevich', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1645954A,1927-10-18,Aaron keizer,"['aaron', 'keizer']","[('Aaron', 'NNP'), ('keizer', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1646097A,1927-10-18,Michael liptak,"['michael', 'liptak']","[('Michael', 'NNP'), ('liptak', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1646105A,1927-10-18,peters,['peters'],"[('peters', 'NNS')]",['NOUN'],['PERSON'],0,1,1,1
+US1646151A,1927-10-18,kennedy,['kennedy'],"[('kennedy', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1646256A,1927-10-18,William f,"['william', 'f']","[('William', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1646407A,1927-10-25,jones,['jones'],"[('jones', 'NNS')]",['PROPN'],['PERSON'],1,1,1,1
+US1646863A,1927-10-25,Assighos,['assighos'],"[('Assighos', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1646893A,1927-10-25,John wittemann,"['john', 'wittemann']","[('John', 'NNP'), ('wittemann', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1647111A,1927-10-25,bauerle,['bauerle'],"[('bauerle', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1647532A,1927-11-01,Edward h,"['edward', 'h']","[('Edward', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1648230A,1927-11-08,Abttiaz,['abttiaz'],"[('Abttiaz', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1648410A,1927-11-08,lawton,['lawton'],"[('lawton', 'NN')]",['X'],['PERSON'],0,1,1,1
+US1648552A,1927-11-08,la brie,"['la', 'brie']","[('la', 'NN'), ('brie', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1649051A,1927-11-15,Womtenstein,['womtenstein'],"[('Womtenstein', 'NNP')]",['PROPN'],['PERSON'],1,1,1,1
+US1649379A,1927-11-15,Jean bergmann,"['jean', 'bergmann']","[('Jean', 'NNP'), ('bergmann', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1649392A,1927-11-15,Thomas duffy,"['thomas', 'duffy']","[('Thomas', 'NNP'), ('duffy', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1649408A,1927-11-15,Max jacob,"['max', 'jacob']","[('Max', 'NNP'), ('jacob', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1649409A,1927-11-15,Egbert jabdine,"['egbert', 'jabdine']","[('Egbert', 'NNP'), ('jabdine', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1649562A,1927-11-15,John f,"['john', 'f']","[('John', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1649710A,1927-11-15,Hans xieemann,"['hans', 'xieemann']","[('Hans', 'NNS'), ('xieemann', 'VBP')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1649988A,1927-11-22,Shiuuman,['shiuuman'],"[('Shiuuman', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1650054A,1927-11-22,Maitbice c,"['maitbice', 'c']","[('Maitbice', 'NNP'), ('c', 'NN')]","['NOUN', 'VERB']",['PERSON'],0,1,2,1
+US1650155A,1927-11-22,George n,"['george', 'n']","[('George', 'NNP'), ('n', 'NNS')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1650374A,1927-11-22,Nventdfzs,['nventdfzs'],"[('Nventdfzs', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1650831A,1927-11-29,halversen,['halversen'],"[('halversen', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1650989A,1927-11-29,Paul karrer,"['paul', 'karrer']","[('Paul', 'NNP'), ('karrer', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1651256A,1927-11-29,davis,['davis'],"[('davis', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1651337A,1927-11-29,anderson,['anderson'],"[('anderson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1651702A,1927-12-06,William r,"['william', 'r']","[('William', 'NNP'), ('r', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1651768A,1927-12-06,gregg,['gregg'],"[('gregg', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1652324A,1927-12-13,john kogbkt,"['john', 'kogbkt']","[('john', 'NN'), ('kogbkt', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1652487A,1927-12-13,Bbtyb,['bbtyb'],"[('Bbtyb', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1652650A,1927-12-13,George d,"['george', 'd']","[('George', 'NNP'), ('d', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1652849A,1927-12-13,Paul weissbach,"['paul', 'weissbach']","[('Paul', 'NNP'), ('weissbach', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1652905A,1927-12-13,Nicholas j,"['nicholas', 'j']","[('Nicholas', 'NNP'), ('j', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1653211A,1927-12-20,johnson,['johnson'],"[('johnson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1653337A,1927-12-20,bloxham,['bloxham'],"[('bloxham', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1653484A,1927-12-20,James m,"['james', 'm']","[('James', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1653485A,1927-12-20,Madge,['madge'],"[('Madge', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1653754A,1927-12-27,artberg,['artberg'],"[('artberg', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1654108A,1926-03-19,Radioantenna,['radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2,1
+US1654191A,1927-12-27,Souri,['souri'],"[('Souri', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1654288A,1927-12-27,Ivan gubelmann,"['ivan', 'gubelmann']","[('Ivan', 'NNP'), ('gubelmann', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1655137A,1928-01-03,William b,"['william', 'b']","[('William', 'NNP'), ('b', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1655269A,1928-01-03,Goodwin h,"['goodwin', 'h']","[('Goodwin', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1655450A,1928-01-10,Austin l,"['austin', 'l']","[('Austin', 'NNP'), ('l', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1655529A,1928-01-10,Christopher,['christopher'],"[('Christopher', 'NN')]",['PROPN'],['PERSON'],1,1,2,1
+US1655580A,1928-01-10,Stuedeman,['stuedeman'],"[('Stuedeman', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1655618A,1928-01-10,Assighoe,['assighoe'],"[('Assighoe', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1655642A,1928-01-10,Frederick m,"['frederick', 'm']","[('Frederick', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1655658A,1928-01-10,Edward naueb,"['edward', 'naueb']","[('Edward', 'NNP'), ('naueb', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1655736A,1928-01-10,William potteb,"['william', 'potteb']","[('William', 'NNP'), ('potteb', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1655828A,1928-01-10,Assighoe to,"['assighoe', 'to']","[('Assighoe', 'NN'), ('to', 'TO')]","['PROPN', 'PART']",['PERSON'],1,1,2,1
+US1655923A,1928-01-10,taylor,['taylor'],"[('taylor', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1656067A,1928-01-10,William f,"['william', 'f']","[('William', 'NNP'), ('f', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1656669A,1927-12-01,Thomas gore,"['thomas', 'gore']","[('Thomas', 'NNP'), ('gore', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1657045A,1928-01-24,Habby p,"['habby', 'p']","[('Habby', 'NNP'), ('p', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1657533A,1928-01-31,Bisk wheel,"['bisk', 'wheel']","[('Bisk', 'NNP'), ('wheel', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1657895A,1928-01-31,Albert osvalb,"['albert', 'osvalb']","[('Albert', 'NNP'), ('osvalb', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1658106A,1928-02-07,William thompson,"['william', 'thompson']","[('William', 'NNP'), ('thompson', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1658385A,1928-02-07,Said cald,"['said', 'cald']","[('Said', 'NNP'), ('cald', 'NN')]","['VERB', 'PROPN']",['PERSON'],1,1,2,1
+US1658406A,1928-02-07,Assighoe,['assighoe'],"[('Assighoe', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1658527A,1928-02-07,kelley,['kelley'],"[('kelley', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1658592A,1924-03-03,Radioantenna,['radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2,1
+US1658761A,1926-06-07,Radioantenna,['radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2,1
+US1658987A,1928-02-14,Assighos,['assighos'],"[('Assighos', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1659474A,1928-02-14,siemann,['siemann'],"[('siemann', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1660023A,1928-02-21,Wallace c,"['wallace', 'c']","[('Wallace', 'NNP'), ('c', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1660178A,1928-02-21,Albert rothmann,"['albert', 'rothmann']","[('Albert', 'NNP'), ('rothmann', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1661277A,1928-03-06,thomas,['thomas'],"[('thomas', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1661399A,1928-03-06,William wishart,"['william', 'wishart']","[('William', 'NNP'), ('wishart', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1661526A,1928-03-06,Dustbie aktiengesellschaet,"['dustbie', 'aktiengesellschaet']","[('Dustbie', 'NNP'), ('aktiengesellschaet', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1661586A,1928-03-06,Contbol mechanism,"['contbol', 'mechanism']","[('Contbol', 'NN'), ('mechanism', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1662074A,1928-03-13,William mcmeans,"['william', 'mcmeans']","[('William', 'NNP'), ('mcmeans', 'NNS')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1662436A,1928-03-13,peiler,['peiler'],"[('peiler', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1662695A,1928-03-13,Frederick w,"['frederick', 'w']","[('Frederick', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1662702A,1928-03-13,Begaoteb,['begaoteb'],"[('Begaoteb', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1662872A,1928-03-20,Sidney thornley,"['sidney', 'thornley']","[('Sidney', 'NNP'), ('thornley', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1662903A,1928-03-20,os brooklyn,"['os', 'brooklyn']","[('os', 'NN'), ('brooklyn', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1663110A,1928-03-20,Radioreceiver,['radioreceiver'],"[('Radioreceiver', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1663128A,1928-03-20,Assighos,['assighos'],"[('Assighos', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1663239A,1928-03-20,Frederick a,"['frederick', 'a']","[('Frederick', 'NNP'), ('a', 'DT')]","['PROPN', 'PRON']",['PERSON'],1,1,2,1
+US1664128A,1928-03-27,mobgan,['mobgan'],"[('mobgan', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1664185A,1928-03-27,Thomas h,"['thomas', 'h']","[('Thomas', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1664211A,1928-03-27,kanna,['kanna'],"[('kanna', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1664649A,1928-04-03,van ackeren,"['van', 'ackeren']","[('van', 'NN'), ('ackeren', 'NNS')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1664859A,1928-04-03,Diamond poweb,"['diamond', 'poweb']","[('Diamond', 'NNP'), ('poweb', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1665105A,1928-04-03,Robert mezger,"['robert', 'mezger']","[('Robert', 'NNP'), ('mezger', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1665255A,1928-04-10,davis,['davis'],"[('davis', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1665427A,1928-04-10,von reis,"['von', 'reis']","[('von', 'NN'), ('reis', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1665501A,1928-04-10,Ampli,['ampli'],"[('Ampli', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1665543A,1928-04-10,Shoehe,['shoehe'],"[('Shoehe', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1665574A,1928-04-10,William h,"['william', 'h']","[('William', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1665859A,1928-04-10,Johann oesch,"['johann', 'oesch']","[('Johann', 'NNP'), ('oesch', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1665881A,1928-04-10,Eugen hutzenlaub,"['eugen', 'hutzenlaub']","[('Eugen', 'NNP'), ('hutzenlaub', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1665910A,1928-04-10,Phil c,"['phil', 'c']","[('Phil', 'NNP'), ('c', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1666385A,1928-04-17,jensen,['jensen'],"[('jensen', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1666618A,1928-04-17,Albin carlson,"['albin', 'carlson']","[('Albin', 'NNP'), ('carlson', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1666711A,1928-04-17,macdonald,['macdonald'],"[('macdonald', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1666771A,1928-04-17,Joseph h,"['joseph', 'h']","[('Joseph', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1666947A,1928-04-24,Hakold c,"['hakold', 'c']","[('Hakold', 'NNP'), ('c', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1666981A,1928-04-24,Bertha w,"['bertha', 'w']","[('Bertha', 'NNP'), ('w', 'NN')]","['PROPN', 'X']",['PERSON'],1,1,2,1
+US1667089A,1928-04-24,Frank umbriaco,"['frank', 'umbriaco']","[('Frank', 'NNP'), ('umbriaco', 'NN')]","['PROPN', 'ADJ']",['PERSON'],1,1,2,1
+US1667917A,1928-05-01,Cobposatji,['cobposatji'],"[('Cobposatji', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1667981A,1928-05-01,Meteb box,"['meteb', 'box']","[('Meteb', 'NNP'), ('box', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1668086A,1928-05-01,Paux qrzei,"['paux', 'qrzei']","[('Paux', 'NNP'), ('qrzei', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1668521A,1928-05-01,zubaty,['zubaty'],"[('zubaty', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1668952A,1928-05-08,Said ellis,"['said', 'ellis']","[('Said', 'NNP'), ('ellis', 'NN')]","['VERB', 'PROPN']",['PERSON'],1,1,2,1
+US1669410A,1928-05-15,calestini,['calestini'],"[('calestini', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1669985A,1928-05-15,la brie,"['la', 'brie']","[('la', 'NN'), ('brie', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1670371A,1928-05-22,massey,['massey'],"[('massey', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1670515A,1928-05-22,George langford,"['george', 'langford']","[('George', 'NNP'), ('langford', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1670592A,1928-05-22,Josef mettler,"['josef', 'mettler']","[('Josef', 'NNP'), ('mettler', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1670682A,1928-05-22,Scott,['scott'],"[('Scott', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1671037A,1928-05-22,John mccltjbe,"['john', 'mccltjbe']","[('John', 'NNP'), ('mccltjbe', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1671645A,1928-05-29,la brie,"['la', 'brie']","[('la', 'NN'), ('brie', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1672000A,1928-06-05,Wilmersdorf,['wilmersdorf'],"[('Wilmersdorf', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1672900A,1928-06-12,nichols,['nichols'],"[('nichols', 'NNS')]",['PROPN'],['PERSON'],1,1,1,1
+US1673038A,1928-06-12,bogaskie,['bogaskie'],"[('bogaskie', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1673345A,1928-06-12,anderton,['anderton'],"[('anderton', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1673640A,1928-06-12,Gtjstav ratt,"['gtjstav', 'ratt']","[('Gtjstav', 'NNP'), ('ratt', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1673791A,1928-06-19,boyron,['boyron'],"[('boyron', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1674658A,1928-06-26,Shajstk,['shajstk'],"[('Shajstk', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1674892A,1928-06-26,duncan,['duncan'],"[('duncan', 'JJ')]",['PROPN'],['PERSON'],1,1,1,1
+US1675500A,1928-07-03,Walter xhopp,"['walter', 'xhopp']","[('Walter', 'NNP'), ('xhopp', 'NN')]","['PROPN', 'PUNCT']",['PERSON'],1,1,2,1
+US1675501A,1928-07-03,Nicholas lehman,"['nicholas', 'lehman']","[('Nicholas', 'NNP'), ('lehman', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1675628A,1928-07-03,Joseph zubaty,"['joseph', 'zubaty']","[('Joseph', 'NNP'), ('zubaty', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1675819A,1928-07-03,peiler,['peiler'],"[('peiler', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1675821A,1928-07-03,Cobpoba,['cobpoba'],"[('Cobpoba', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1675948A,1928-07-03,mokee,['mokee'],"[('mokee', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1676007A,1928-07-03,Henry csanyi,"['henry', 'csanyi']","[('Henry', 'NNP'), ('csanyi', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1676346A,1928-07-10,Garibaldi nocito,"['garibaldi', 'nocito']","[('Garibaldi', 'NNP'), ('nocito', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1676407A,1928-07-10,Wilhelm,['wilhelm'],"[('Wilhelm', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1676653A,1928-07-10,Habby iisbece,"['habby', 'iisbece']","[('Habby', 'NNP'), ('iisbece', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1676807A,1928-07-10,stevens,['stevens'],"[('stevens', 'NNS')]",['VERB'],['PERSON'],0,1,1,1
+US1677304A,1928-07-17,Frederick w,"['frederick', 'w']","[('Frederick', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1677343A,1928-07-17,howlett,['howlett'],"[('howlett', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1678229A,1928-07-24,Kino eabisi,"['kino', 'eabisi']","[('Kino', 'NNP'), ('eabisi', 'NN')]","['NOUN', 'VERB']",['PERSON'],0,1,2,1
+US1678803A,1928-07-31,Joseph van,"['joseph', 'van']","[('Joseph', 'NNP'), ('van', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1679220A,1928-07-31,jahnkje,['jahnkje'],"[('jahnkje', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1679265A,1928-07-31,Nathan w,"['nathan', 'w']","[('Nathan', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1679531A,1928-08-07,johnson,['johnson'],"[('johnson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1679664A,1928-08-07,Hans jobdan,"['hans', 'jobdan']","[('Hans', 'NNS'), ('jobdan', 'VBP')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1680059A,1928-08-07,Assighoe,['assighoe'],"[('Assighoe', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1680097A,1926-08-31,William s,"['william', 's']","[('William', 'NNP'), ('s', 'NN')]","['PROPN', 'PART']",['PERSON'],1,1,2,1
+US1680288A,1928-08-14,Albert qottschalk,"['albert', 'qottschalk']","[('Albert', 'NNP'), ('qottschalk', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1680341A,1926-09-03,Wrgnk kosenthal,"['wrgnk', 'kosenthal']","[('Wrgnk', 'NNP'), ('kosenthal', 'NN')]","['VERB', 'NOUN']",['PERSON'],0,1,2,1
+US1680391A,1928-08-14,peiler,['peiler'],"[('peiler', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1680425A,1928-08-14,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1680478A,1928-08-14,Hammer mfg,"['hammer', 'mfg']","[('Hammer', 'NNP'), ('mfg', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1680808A,1928-08-14,Contbol mechanism,"['contbol', 'mechanism']","[('Contbol', 'NN'), ('mechanism', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1680869A,1928-08-14,Assigistob,['assigistob'],"[('Assigistob', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1680901A,1926-05-18,Ludwig meyer,"['ludwig', 'meyer']","[('Ludwig', 'NNP'), ('meyer', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1681069A,1928-08-14,theodoropulos,['theodoropulos'],"[('theodoropulos', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1681251A,1928-08-21,Stanley w,"['stanley', 'w']","[('Stanley', 'NNP'), ('w', 'NN')]","['PROPN', 'X']",['PERSON'],1,1,2,1
+US1681567A,1928-08-21,barrett,['barrett'],"[('barrett', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1682099A,1928-08-28,Fbiedmch soyez,"['fbiedmch', 'soyez']","[('Fbiedmch', 'NNP'), ('soyez', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2,1
+US1682105A,1928-08-28,austin,['austin'],"[('austin', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1682169A,1928-08-28,Brttce dotoan,"['brttce', 'dotoan']","[('Brttce', 'NNP'), ('dotoan', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2,1
+US1682190A,1928-08-28,schein,['schein'],"[('schein', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1682199A,1928-08-28,Egbert h,"['egbert', 'h']","[('Egbert', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1682201A,1928-08-28,thompson,['thompson'],"[('thompson', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1682211A,1928-08-28,Joseph w,"['joseph', 'w']","[('Joseph', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1682217A,1928-08-28,louis,['louis'],"[('louis', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1682260A,1928-08-28,Gustav zieglee,"['gustav', 'zieglee']","[('Gustav', 'NNP'), ('zieglee', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1682262A,1928-08-28,anton i,"['anton', 'i']","[('anton', 'NN'), ('i', 'NN')]","['PROPN', 'PRON']",['PERSON'],1,1,2,1
+US1682278A,1928-08-28,Herman c,"['herman', 'c']","[('Herman', 'NNP'), ('c', 'NN')]","['PROPN', 'AUX']",['PERSON'],1,1,2,1
+US1682284A,1928-08-28,jones,['jones'],"[('jones', 'NNS')]",['PROPN'],['PERSON'],1,1,1,1
+US1682301A,1928-08-28,Max menkin,"['max', 'menkin']","[('Max', 'NNP'), ('menkin', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1682316A,1928-08-28,williams,['williams'],"[('williams', 'NNS')]",['PROPN'],['PERSON'],1,1,1,1
+US1682329A,1928-08-28,John d,"['john', 'd']","[('John', 'NNP'), ('d', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1682336A,1928-08-28,Robert hentschel,"['robert', 'hentschel']","[('Robert', 'NNP'), ('hentschel', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1682341A,1928-08-28,Sireit sqtjawker,"['sireit', 'sqtjawker']","[('Sireit', 'NNP'), ('sqtjawker', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1682342A,1928-08-28,Iittcas keaet,"['iittcas', 'keaet']","[('Iittcas', 'NNP'), ('keaet', 'NN')]","['NOUN', 'VERB']",['PERSON'],0,1,2,1
+US1682373A,1928-08-28,Ernest davis,"['ernest', 'davis']","[('Ernest', 'NNP'), ('davis', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1682376A,1928-08-28,Otto henze,"['otto', 'henze']","[('Otto', 'NNP'), ('henze', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1682379A,1928-08-28,kellett,['kellett'],"[('kellett', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1682399A,1928-08-28,mitchell,['mitchell'],"[('mitchell', 'NN')]",['PROPN'],['PERSON'],1,1,2,1
+US1683012A,1928-09-04,Thomas,['thomas'],"[('Thomas', 'NNP')]",['PROPN'],['PERSON'],1,1,1,1
+US1683028A,1928-09-04,elkington,['elkington'],"[('elkington', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1683039A,1928-09-04,Robert k,"['robert', 'k']","[('Robert', 'NNP'), ('k', 'NN')]","['PROPN', 'X']",['PERSON'],1,1,2,1
+US1683470A,1928-09-04,Carl knopf,"['carl', 'knopf']","[('Carl', 'NNP'), ('knopf', 'NN')]","['ADJ', 'NOUN']",['PERSON'],0,1,2,1
+US1684003A,1926-09-16,Radioantenna,['radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2,1
+US1685002A,1928-09-18,matranga,['matranga'],"[('matranga', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1685163A,1928-09-25,jeanson,['jeanson'],"[('jeanson', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1685190A,1928-09-25,Joseph t,"['joseph', 't']","[('Joseph', 'NNP'), ('t', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1685249A,1928-09-25,Macaboni die,"['macaboni', 'die']","[('Macaboni', 'NNP'), ('die', 'NN')]","['NOUN', 'VERB']",['PERSON'],0,1,2,1
+US1685346A,1928-09-25,Otto wbiskopf,"['otto', 'wbiskopf']","[('Otto', 'NNP'), ('wbiskopf', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1685454A,1928-09-25,Caul johnson,"['caul', 'johnson']","[('Caul', 'NNP'), ('johnson', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1685727A,1928-09-25,Dispensing,['dispensing'],"[('Dispensing', 'VBG')]",['NOUN'],['PERSON'],0,1,1,1
+US1685996A,1928-10-02,Eugene gregory,"['eugene', 'gregory']","[('Eugene', 'NNP'), ('gregory', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1686107A,1928-10-02,Nesota,['nesota'],"[('Nesota', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1686112A,1928-10-02,George s,"['george', 's']","[('George', 'NNP'), ('s', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1686299A,1928-10-02,Thomas veitch,"['thomas', 'veitch']","[('Thomas', 'NNP'), ('veitch', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1686941A,1928-10-09,taylor,['taylor'],"[('taylor', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1687451A,1928-10-09,Joseph iioelleigl,"['joseph', 'iioelleigl']","[('Joseph', 'NNP'), ('iioelleigl', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1687455A,1922-12-26,Autosleigh,['autosleigh'],"[('Autosleigh', 'NNP')]",['PROPN'],['PERSON'],1,1,2,1
+US1688095A,1928-10-16,Willis stutson,"['willis', 'stutson']","[('Willis', 'NNP'), ('stutson', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1688325A,1928-10-23,hew yobs,"['hew', 'yobs']","[('hew', 'NN'), ('yobs', 'NN')]","['NOUN', 'NOUN']",['PERSON'],0,1,2,1
+US1688510A,1928-10-23,taylor,['taylor'],"[('taylor', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1688532A,1926-03-29,Henry dreyfus,"['henry', 'dreyfus']","[('Henry', 'NNP'), ('dreyfus', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1688938A,1928-10-23,oliver,['oliver'],"[('oliver', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1688946A,1928-10-23,Edward i-,"['edward', 'i-']","[('Edward', 'NNP'), ('i-', 'NN')]","['PROPN', 'X']",['PERSON'],1,1,2,1
+US1688964A,1928-10-23,Hans hahl,"['hans', 'hahl']","[('Hans', 'NNS'), ('hahl', 'VBP')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1689023A,1928-10-23,gregg,['gregg'],"[('gregg', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1689054A,1928-10-23,Joseph samuels,"['joseph', 'samuels']","[('Joseph', 'NNP'), ('samuels', 'NNS')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1689658A,1928-10-30,albersheim,['albersheim'],"[('albersheim', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1690226A,1928-11-06,Bxstava,['bxstava'],"[('Bxstava', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1690835A,1928-11-06,Thomas ratkowski,"['thomas', 'ratkowski']","[('Thomas', 'NNP'), ('ratkowski', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1691295A,1928-11-13,Frederick b,"['frederick', 'b']","[('Frederick', 'NNP'), ('b', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1692373A,1924-05-03,Paul gkeve,"['paul', 'gkeve']","[('Paul', 'NNP'), ('gkeve', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1692418A,1928-11-20,Adam fbimak,"['adam', 'fbimak']","[('Adam', 'NNP'), ('fbimak', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1692758A,1928-11-20,nogrady,['nogrady'],"[('nogrady', 'JJ')]",['ADJ'],['PERSON'],0,1,1,1
+US1692824A,1928-11-27,William h,"['william', 'h']","[('William', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1693470A,1928-11-27,Adolph a,"['adolph', 'a']","[('Adolph', 'NNP'), ('a', 'DT')]","['VERB', 'PRON']",['PERSON'],0,1,2,1
+US1693595A,1928-12-04,Gkrain shockee,"['gkrain', 'shockee']","[('Gkrain', 'NNP'), ('shockee', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1693961A,1928-12-04,Hzemacytometeb,['hzemacytometeb'],"[('Hzemacytometeb', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1693967A,1928-12-04,Adolph a,"['adolph', 'a']","[('Adolph', 'NNP'), ('a', 'DT')]","['VERB', 'PRON']",['PERSON'],0,1,2,1
+US1694718A,1928-12-11,peters,['peters'],"[('peters', 'NNS')]",['NOUN'],['PERSON'],0,1,1,1
+US1694863A,1928-12-11,Beatbice m,"['beatbice', 'm']","[('Beatbice', 'NNP'), ('m', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1695527A,1928-12-18,Nicholas braun,"['nicholas', 'braun']","[('Nicholas', 'NNS'), ('braun', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1695645A,1928-12-18,farley,['farley'],"[('farley', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1696333A,1928-12-25,Blectbicai instrument,"['blectbicai', 'instrument']","[('Blectbicai', 'NNP'), ('instrument', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1696402A,1924-08-07,Radioantenna,['radioantenna'],"[('Radioantenna', 'NN')]",['PROPN'],['PERSON'],1,1,2,1
+US1696525A,1928-12-25,Pbopezj,['pbopezj'],"[('Pbopezj', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1696603A,1926-08-26,George w,"['george', 'w']","[('George', 'NNP'), ('w', 'NN')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1696769A,1928-12-25,Hans jordan,"['hans', 'jordan']","[('Hans', 'NNS'), ('jordan', 'VBP')]","['PROPN', 'PROPN']",['PERSON'],1,1,2,1
+US1696846A,1928-12-25,Kabl imhojt,"['kabl', 'imhojt']","[('Kabl', 'NNP'), ('imhojt', 'NN')]","['PROPN', 'ADV']",['PERSON'],1,1,2,1
+US1696848A,1928-12-25,Shobs clamp,"['shobs', 'clamp']","[('Shobs', 'NNP'), ('clamp', 'NN')]","['PROPN', 'VERB']",['PERSON'],1,1,2,1
+US1696867A,1928-12-25,Martin segqbia,"['martin', 'segqbia']","[('Martin', 'NNP'), ('segqbia', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1697022A,1929-01-01,John a,"['john', 'a']","[('John', 'NNP'), ('a', 'DT')]","['PROPN', 'PRON']",['PERSON'],1,1,2,1
+US1697091A,1929-01-01,Joseph skubic,"['joseph', 'skubic']","[('Joseph', 'NNP'), ('skubic', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1697996A,1929-01-08,Claude nagle,"['claude', 'nagle']","[('Claude', 'NNP'), ('nagle', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1698048A,1929-01-08,Hans t,"['hans', 't']","[('Hans', 'NNS'), ('t', 'VBP')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1
+US1698522A,1929-01-08,Ttniveesai,['ttniveesai'],"[('Ttniveesai', 'NN')]",['PROPN'],['PERSON'],1,1,1,1
+US1699168A,1929-01-15,tilberg,['tilberg'],"[('tilberg', 'NN')]",['VERB'],['PERSON'],0,1,1,1
+US1699468A,1929-01-15,grayson,['grayson'],"[('grayson', 'NN')]",['NOUN'],['PERSON'],0,1,1,1
+US1699563A,1929-01-22,Albert h,"['albert', 'h']","[('Albert', 'NNP'), ('h', 'NN')]","['PROPN', 'NOUN']",['PERSON'],1,1,2,1

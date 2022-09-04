@@ -1,95 +1,96 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US3000945A,1957-10-30,"N,n'-bis-nitroalkyl-oxamides","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,8,0,1
-US3043101A,1959-03-13,By-pass gas turbine engine employing reheat combustion,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'PROPN', 'NOUN']",[],1,0,10,0,1
-US3069989A,1959-06-24,Between-the-lens shutter assembly,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'PROPN']",[],1,0,8,0,1
-US3071592A,1961-07-07,"N, n'-thiodimaleimide and n, n'-dithiodimaleimide","['CCONJ', 'PUNCT', 'PROPN', 'CCONJ', 'CCONJ', 'PUNCT', 'ADP']",[],1,0,8,0,1
-US3083467A,1959-09-22,Inside indicator bar,"['ADP', 'NOUN', 'PROPN']",[],1,0,4,0,1
-US3096373A,1956-04-30,"N, n'-bis (di-lower-alkylamino-loweralkyl) dicarboxylic acid amides","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'VERB']",[],1,0,16,0,1
-US3000005A,1957-10-29,Off-center indicator,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3000013A,1959-09-08,Within-the-shoe sock,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US3000336A,1957-01-02,Inside horn and suspending means,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB']",[],0,0,6,0,1
-US3000441A,1958-07-18,In situ combustion,"['ADP', 'ADJ', 'NOUN']",[],0,0,4,0,1
-US3001064A,1956-04-09,Over-the-horizon radio system having automatic frequency shift at predetermined signal-noise ratios,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,18,0,1
-US3001313A,1960-02-11,Under-ice fishing device,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3001593A,1953-11-17,Off-shore drilling barge,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3001594A,1954-05-04,Off-shore drill rig,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3002166A,1959-08-11,Inside-out attenuator for high-frequency coaxial lines,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,11,0,1
-US3003085A,1958-03-11,By-pass and disconnect facilities for socket type meters,"['ADP', 'PUNCT', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,11,0,1
-US3004435A,1959-10-22,Over control linkage for governor,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,0,1
-US3004595A,1958-03-21,In situ combustion of carbonaceous strata,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,0,1
-US3007520A,1957-10-28,In situ combustion technique,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3011617A,1961-01-17,By-pass arrangement for typewriter actions,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3012658A,1959-06-26,Under car tool kit,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3013020A,1958-01-24,"N,n'-bis-phenyl-alkylene-diamines","['CCONJ', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,0,1
-US3013558A,1958-08-11,Tampon,['ADP'],[],0,0,2,0,1
-US3014377A,1960-09-19,Over center booster for a push rod,"['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3015279A,1958-09-26,By-pass for pumping apparatus,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,7,0,1
-US3017168A,1959-01-26,In situ retorting of oil shale,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US3018411A,1960-05-03,Per pulse cut-off circuit,"['ADP', 'NOUN', 'VERB', 'PUNCT', 'ADP', 'NOUN']",[],0,0,7,0,1
-US3019837A,1957-10-28,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3020853A,1958-07-03,Under-track device for use on railroads,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,0,1
-US3022523A,1958-11-20,Under-mattress,"['ADP', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US3022875A,1957-03-15,Over-running clutch and bearing structure,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,8,0,1
-US3022915A,1959-08-14,Pacifier,['ADP'],[],0,0,2,0,1
-US3023807A,1958-06-19,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3024840A,1958-06-16,In situ combustion,"['ADP', 'ADJ', 'NOUN']",[],0,0,4,0,1
-US3024860A,1960-03-28,Off-the-road motorcycle,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US3025610A,1957-02-20,Inside calipers,"['ADP', 'NOUN']",[],0,0,3,0,1
-US3026935A,1958-07-18,In situ combustion,"['ADP', 'ADJ', 'NOUN']",[],0,0,4,0,1
-US3032102A,1958-03-17,In situ combustion method,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3032664A,1958-05-16,Nor logic circuit having delayed switching and employing zener diode clamp,"['CCONJ', 'NOUN', 'NOUN', 'AUX', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'NOUN', 'NOUN']",[],0,0,12,0,1
-US3034398A,1960-06-07,In-line infrared spectrometer,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,6,0,1
-US3034532A,1960-04-14,By-pass valve unit,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3034580A,1959-08-31,In situ combustion of lignite,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ']",[],0,0,6,0,1
-US3035596A,1959-07-07,By-pass relief valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3035641A,1957-11-15,Down tubing self-closing flow control valve,"['ADP', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'VERB']",[],0,0,9,0,1
-US3039061A,1958-08-15,Amplifier dissipation reducing system,"['ADP', 'NOUN', 'VERB', 'NOUN']",['PERSON'],0,1,5,0,1
-US3041613A,1962-06-26,And a function thereof,"['CCONJ', 'DET', 'NOUN', 'ADV']",[],0,0,4,0,1
-US3041731A,1960-04-12,Inside vernier measuring device,"['ADP', 'ADJ', 'VERB', 'NOUN']",[],0,0,5,0,1
-US3043965A,1957-10-14,Amplifier circuit having degenerative and regenerative feedback,"['ADP', 'NOUN', 'VERB', 'ADJ', 'CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,8,0,1
-US3044362A,1958-12-29,Below deck shipboard missile launching system,"['ADP', 'NOUN', 'ADJ', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,0,1
-US3044484A,1959-06-08,By-pass valves,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3044545A,1958-10-02,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3045073A,1960-05-11,Behind-ear hearing aid,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,0,1
-US3047776A,1957-03-15,Over voltage relay,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US3048044A,1962-08-07,Or controlling bodies,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US3048791A,1943-06-22,Amplifier which changes its frequency response with time,"['ADP', 'PRON', 'VERB', 'PRON', 'ADJ', 'NOUN', 'ADP', 'NOUN']",['PERSON'],0,1,9,0,1
-US3050958A,1961-04-12,Through-piping arrangement for air conditioning unit,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3051788A,1961-05-12,Amplifier interconnecting circuit,"['ADP', 'VERB', 'NOUN']",['PERSON'],0,1,4,0,1
-US3051909A,1960-12-29,Up-converter amplifier circuits with isolation,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,0,1
-US3054354A,1960-11-28,By-pass valve assembly for pumps of the positive displacement type,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'NOUN']",[],0,0,13,0,1
-US3054824A,1958-03-17,"N, n'-diaralkylsalicylidene diaminoalkanes and uses thereof","['CCONJ', 'PUNCT', 'ADJ', 'NOUN', 'CCONJ', 'VERB', 'ADV']",[],0,0,8,0,1
-US3054895A,1954-01-26,Beyond-the-horizon communication system utilizing signal strength controlled scatterpropagation,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,13,0,1
-US3055422A,1958-10-16,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3056222A,1962-10-02,At tormeys,"['ADP', 'NOUN']",[],0,0,2,0,1
-US3056598A,1958-04-18,Under-carriage shock absorbers for aircraft,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,0,1
-US3057306A,1960-07-01,On-track truck carriages,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3057403A,1958-10-17,In-situ combustion process for the recovery of oil,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,11,0,1
-US3059096A,1960-03-28,In-process butt-welding apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US3059839A,1960-10-11,After-hour depository,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3060680A,1957-12-30,By-pass gas-turbine engine and control therefor,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,11,0,1
-US3061293A,1960-05-16,Off-gas collector for shaft kilns and the like,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'ADJ']",[],0,0,11,0,1
-US3064684A,1959-07-06,By-pass fittings,"['ADP', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,0,1
-US3065313A,1959-07-17,Plus-minus timer,"['CCONJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3067597A,1961-09-27,Over-riding safety coupling for spindle of power-driven tool,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,13,0,1
-US3067972A,1959-05-13,In-flight refueling apparatus for aircraft,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,0,1
-US3068969A,1961-03-30,Outside mirror mounting,"['ADP', 'NOUN', 'VERB']",[],0,0,4,0,1
-US3070131A,1957-12-06,By-pass duct for gas turbine engine,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3071662A,1960-06-20,By-pass disconnect switch for circuit interrupters,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3076315A,1960-11-25,By-pass valve for low input hydrovac,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3077494A,1960-07-05,Alkoxide catalysts for urethane formation,"['ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3079823A,1958-07-07,Off-set ejector for punch dies,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,8,0,1
-US3079939A,1958-12-13,By-passing device with a trap for land irrigation and other applications,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,14,0,1
-US3080057A,1959-03-13,Below atmospheric pressure method and means for separating lighter liquids from heavier liquids,"['ADP', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,14,0,1
-US3081730A,1958-09-04,Under water venting system for marine fuel tanks,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,9,0,1
-US3082356A,1961-04-07,Amplifier chassis,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
-US3082975A,1961-09-11,Under-sea and heavier-than-air craft or the like,"['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'ADJ', 'PUNCT', 'ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'ADJ']",[],0,0,14,0,1
-US3087540A,1959-07-20,In situ combustion using iron catalysts,"['ADP', 'ADJ', 'NOUN', 'VERB', 'NOUN', 'NOUN']",[],0,0,7,0,1
-US3087541A,1960-05-09,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3088286A,1958-04-28,Off-shore terminals,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3088344A,1959-11-16,Inside knurling tools,"['ADP', 'VERB', 'NOUN']",[],0,0,4,0,1
-US3092322A,1961-08-07,By-pass valve thermostat,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3094760A,1960-10-20,Weft spreading machine,"['ADP', 'VERB', 'NOUN']",['ORG'],0,0,4,0,1
-US3095007A,1960-09-06,Through conduit type valve apparatus,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,0,1
-US3095348A,1960-03-31,Up-flow headbox,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US3095911A,1959-09-11,Weft detecting means for shuttleless looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB']",['ORG'],0,0,7,0,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts
+US3000945A,1957-10-30,"N,n'-bis-nitroalkyl-oxamides","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,8,"[""n,n'-bis-nitroalkyl-oxamides""]",0,1
+US3043101A,1959-03-13,By-pass gas turbine engine employing reheat combustion,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'PROPN', 'NOUN']",[],1,0,10,"['by-pass', 'gas', 'turbine', 'engine', 'employing', 'reheat', 'combustion']",0,1
+US3069989A,1959-06-24,Between-the-lens shutter assembly,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'PROPN']",[],1,0,8,"['between-the-lens', 'shutter', 'assembly']",0,1
+US3071592A,1961-07-07,"N, n'-thiodimaleimide and n, n'-dithiodimaleimide","['CCONJ', 'PUNCT', 'PROPN', 'CCONJ', 'CCONJ', 'PUNCT', 'ADP']",[],1,0,8,"['n,', ""n'-thiodimaleimide"", 'and', 'n,', ""n'-dithiodimaleimide""]",0,1
+US3083467A,1959-09-22,Inside indicator bar,"['ADP', 'NOUN', 'PROPN']",[],1,0,4,"['inside', 'indicator', 'bar']",0,1
+US3096373A,1956-04-30,"N, n'-bis (di-lower-alkylamino-loweralkyl) dicarboxylic acid amides","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'VERB']",[],1,0,16,"['n,', ""n'-bis"", '(di-lower-alkylamino-loweralkyl)', 'dicarboxylic', 'acid', 'amides']",0,1
+US3000005A,1957-10-29,Off-center indicator,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['off-center', 'indicator']",0,1
+US3000013A,1959-09-08,Within-the-shoe sock,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,"['within-the-shoe', 'sock']",0,1
+US3000336A,1957-01-02,Inside horn and suspending means,"['ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB']",[],0,0,6,"['inside', 'horn', 'and', 'suspending', 'means']",0,1
+US3000441A,1958-07-18,In situ combustion,"['ADP', 'ADJ', 'NOUN']",[],0,0,4,"['in', 'situ', 'combustion']",0,1
+US3001064A,1956-04-09,Over-the-horizon radio system having automatic frequency shift at predetermined signal-noise ratios,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,18,"['over-the-horizon', 'radio', 'system', 'having', 'automatic', 'frequency', 'shift', 'at', 'predetermined', 'signal-noise', 'ratios']",0,1
+US3001313A,1960-02-11,Under-ice fishing device,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['under-ice', 'fishing', 'device']",0,1
+US3001593A,1953-11-17,Off-shore drilling barge,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['off-shore', 'drilling', 'barge']",0,1
+US3001594A,1954-05-04,Off-shore drill rig,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['off-shore', 'drill', 'rig']",0,1
+US3002166A,1959-08-11,Inside-out attenuator for high-frequency coaxial lines,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,11,"['inside-out', 'attenuator', 'for', 'high-frequency', 'coaxial', 'lines']",0,1
+US3003085A,1958-03-11,By-pass and disconnect facilities for socket type meters,"['ADP', 'PUNCT', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,11,"['by-pass', 'and', 'disconnect', 'facilities', 'for', 'socket', 'type', 'meters']",0,1
+US3004435A,1959-10-22,Over control linkage for governor,"['ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['over', 'control', 'linkage', 'for', 'governor']",0,1
+US3004595A,1958-03-21,In situ combustion of carbonaceous strata,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,"['in', 'situ', 'combustion', 'of', 'carbonaceous', 'strata']",0,1
+US3007520A,1957-10-28,In situ combustion technique,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'technique']",0,1
+US3011617A,1961-01-17,By-pass arrangement for typewriter actions,"['ADP', 'PUNCT', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,"['by-pass', 'arrangement', 'for', 'typewriter', 'actions']",0,1
+US3012658A,1959-06-26,Under car tool kit,"['ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['under', 'car', 'tool', 'kit']",0,1
+US3013020A,1958-01-24,"N,n'-bis-phenyl-alkylene-diamines","['CCONJ', 'PUNCT', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,"[""n,n'-bis-phenyl-alkylene-diamines""]",0,1
+US3013558A,1958-08-11,Tampon,['ADP'],[],0,0,2,['tampon'],0,1
+US3014377A,1960-09-19,Over center booster for a push rod,"['ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'NOUN']",[],0,0,8,"['over', 'center', 'booster', 'for', 'a', 'push', 'rod']",0,1
+US3015279A,1958-09-26,By-pass for pumping apparatus,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,7,"['by-pass', 'for', 'pumping', 'apparatus']",0,1
+US3017168A,1959-01-26,In situ retorting of oil shale,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,"['in', 'situ', 'retorting', 'of', 'oil', 'shale']",0,1
+US3018411A,1960-05-03,Per pulse cut-off circuit,"['ADP', 'NOUN', 'VERB', 'PUNCT', 'ADP', 'NOUN']",[],0,0,7,"['per', 'pulse', 'cut-off', 'circuit']",0,1
+US3019837A,1957-10-28,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'process']",0,1
+US3020853A,1958-07-03,Under-track device for use on railroads,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,"['under-track', 'device', 'for', 'use', 'on', 'railroads']",0,1
+US3022523A,1958-11-20,Under-mattress,"['ADP', 'PUNCT', 'NOUN']",[],0,0,4,['under-mattress'],0,1
+US3022875A,1957-03-15,Over-running clutch and bearing structure,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,8,"['over-running', 'clutch', 'and', 'bearing', 'structure']",0,1
+US3022915A,1959-08-14,Pacifier,['ADP'],[],0,0,2,['pacifier'],0,1
+US3023807A,1958-06-19,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'process']",0,1
+US3024840A,1958-06-16,In situ combustion,"['ADP', 'ADJ', 'NOUN']",[],0,0,4,"['in', 'situ', 'combustion']",0,1
+US3024860A,1960-03-28,Off-the-road motorcycle,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,"['off-the-road', 'motorcycle']",0,1
+US3025610A,1957-02-20,Inside calipers,"['ADP', 'NOUN']",[],0,0,3,"['inside', 'calipers']",0,1
+US3026935A,1958-07-18,In situ combustion,"['ADP', 'ADJ', 'NOUN']",[],0,0,4,"['in', 'situ', 'combustion']",0,1
+US3032102A,1958-03-17,In situ combustion method,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'method']",0,1
+US3032664A,1958-05-16,Nor logic circuit having delayed switching and employing zener diode clamp,"['CCONJ', 'NOUN', 'NOUN', 'AUX', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'NOUN', 'NOUN']",[],0,0,12,"['nor', 'logic', 'circuit', 'having', 'delayed', 'switching', 'and', 'employing', 'zener', 'diode', 'clamp']",0,1
+US3034398A,1960-06-07,In-line infrared spectrometer,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN']",[],0,0,6,"['in-line', 'infrared', 'spectrometer']",0,1
+US3034532A,1960-04-14,By-pass valve unit,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['by-pass', 'valve', 'unit']",0,1
+US3034580A,1959-08-31,In situ combustion of lignite,"['ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ']",[],0,0,6,"['in', 'situ', 'combustion', 'of', 'lignite']",0,1
+US3035596A,1959-07-07,By-pass relief valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['by-pass', 'relief', 'valve']",0,1
+US3035641A,1957-11-15,Down tubing self-closing flow control valve,"['ADP', 'NOUN', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'VERB']",[],0,0,9,"['down', 'tubing', 'self-closing', 'flow', 'control', 'valve']",0,1
+US3039061A,1958-08-15,Amplifier dissipation reducing system,"['ADP', 'NOUN', 'VERB', 'NOUN']",['PERSON'],0,1,5,"['amplifier', 'dissipation', 'reducing', 'system']",0,1
+US3041613A,1962-06-26,And a function thereof,"['CCONJ', 'DET', 'NOUN', 'ADV']",[],0,0,4,"['and', 'a', 'function', 'thereof']",0,1
+US3041731A,1960-04-12,Inside vernier measuring device,"['ADP', 'ADJ', 'VERB', 'NOUN']",[],0,0,5,"['inside', 'vernier', 'measuring', 'device']",0,1
+US3043965A,1957-10-14,Amplifier circuit having degenerative and regenerative feedback,"['ADP', 'NOUN', 'VERB', 'ADJ', 'CCONJ', 'ADJ', 'NOUN']",['PERSON'],0,1,8,"['amplifier', 'circuit', 'having', 'degenerative', 'and', 'regenerative', 'feedback']",0,1
+US3044362A,1958-12-29,Below deck shipboard missile launching system,"['ADP', 'NOUN', 'ADJ', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,"['below', 'deck', 'shipboard', 'missile', 'launching', 'system']",0,1
+US3044484A,1959-06-08,By-pass valves,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['by-pass', 'valves']",0,1
+US3044545A,1958-10-02,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'process']",0,1
+US3045073A,1960-05-11,Behind-ear hearing aid,"['ADP', 'PUNCT', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,"['behind-ear', 'hearing', 'aid']",0,1
+US3047776A,1957-03-15,Over voltage relay,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['over', 'voltage', 'relay']",0,1
+US3048044A,1962-08-07,Or controlling bodies,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['or', 'controlling', 'bodies']",0,1
+US3048791A,1943-06-22,Amplifier which changes its frequency response with time,"['ADP', 'PRON', 'VERB', 'PRON', 'ADJ', 'NOUN', 'ADP', 'NOUN']",['PERSON'],0,1,9,"['amplifier', 'which', 'changes', 'its', 'frequency', 'response', 'with', 'time']",0,1
+US3050958A,1961-04-12,Through-piping arrangement for air conditioning unit,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,"['through-piping', 'arrangement', 'for', 'air', 'conditioning', 'unit']",0,1
+US3051788A,1961-05-12,Amplifier interconnecting circuit,"['ADP', 'VERB', 'NOUN']",['PERSON'],0,1,4,"['amplifier', 'interconnecting', 'circuit']",0,1
+US3051909A,1960-12-29,Up-converter amplifier circuits with isolation,"['ADP', 'PUNCT', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['up-converter', 'amplifier', 'circuits', 'with', 'isolation']",0,1
+US3054354A,1960-11-28,By-pass valve assembly for pumps of the positive displacement type,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'NOUN']",[],0,0,13,"['by-pass', 'valve', 'assembly', 'for', 'pumps', 'of', 'the', 'positive', 'displacement', 'type']",0,1
+US3054824A,1958-03-17,"N, n'-diaralkylsalicylidene diaminoalkanes and uses thereof","['CCONJ', 'PUNCT', 'ADJ', 'NOUN', 'CCONJ', 'VERB', 'ADV']",[],0,0,8,"['n,', ""n'-diaralkylsalicylidene"", 'diaminoalkanes', 'and', 'uses', 'thereof']",0,1
+US3054895A,1954-01-26,Beyond-the-horizon communication system utilizing signal strength controlled scatterpropagation,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,13,"['beyond-the-horizon', 'communication', 'system', 'utilizing', 'signal', 'strength', 'controlled', 'scatterpropagation']",0,1
+US3055422A,1958-10-16,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'process']",0,1
+US3056222A,1962-10-02,At tormeys,"['ADP', 'NOUN']",[],0,0,2,"['at', 'tormeys']",0,1
+US3056598A,1958-04-18,Under-carriage shock absorbers for aircraft,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['under-carriage', 'shock', 'absorbers', 'for', 'aircraft']",0,1
+US3057306A,1960-07-01,On-track truck carriages,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['on-track', 'truck', 'carriages']",0,1
+US3057403A,1958-10-17,In-situ combustion process for the recovery of oil,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,11,"['in-situ', 'combustion', 'process', 'for', 'the', 'recovery', 'of', 'oil']",0,1
+US3059096A,1960-03-28,In-process butt-welding apparatus,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,"['in-process', 'butt-welding', 'apparatus']",0,1
+US3059839A,1960-10-11,After-hour depository,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['after-hour', 'depository']",0,1
+US3060680A,1957-12-30,By-pass gas-turbine engine and control therefor,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,11,"['by-pass', 'gas-turbine', 'engine', 'and', 'control', 'therefor']",0,1
+US3061293A,1960-05-16,Off-gas collector for shaft kilns and the like,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'ADJ']",[],0,0,11,"['off-gas', 'collector', 'for', 'shaft', 'kilns', 'and', 'the', 'like']",0,1
+US3064684A,1959-07-06,By-pass fittings,"['ADP', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,"['by-pass', 'fittings']",0,1
+US3065313A,1959-07-17,Plus-minus timer,"['CCONJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['plus-minus', 'timer']",0,1
+US3067597A,1961-09-27,Over-riding safety coupling for spindle of power-driven tool,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,13,"['over-riding', 'safety', 'coupling', 'for', 'spindle', 'of', 'power-driven', 'tool']",0,1
+US3067972A,1959-05-13,In-flight refueling apparatus for aircraft,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['in-flight', 'refueling', 'apparatus', 'for', 'aircraft']",0,1
+US3068969A,1961-03-30,Outside mirror mounting,"['ADP', 'NOUN', 'VERB']",[],0,0,4,"['outside', 'mirror', 'mounting']",0,1
+US3070131A,1957-12-06,By-pass duct for gas turbine engine,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,"['by-pass', 'duct', 'for', 'gas', 'turbine', 'engine']",0,1
+US3071662A,1960-06-20,By-pass disconnect switch for circuit interrupters,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,9,"['by-pass', 'disconnect', 'switch', 'for', 'circuit', 'interrupters']",0,1
+US3076315A,1960-11-25,By-pass valve for low input hydrovac,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,9,"['by-pass', 'valve', 'for', 'low', 'input', 'hydrovac']",0,1
+US3077494A,1960-07-05,Alkoxide catalysts for urethane formation,"['ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['alkoxide', 'catalysts', 'for', 'urethane', 'formation']",0,1
+US3079823A,1958-07-07,Off-set ejector for punch dies,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,8,"['off-set', 'ejector', 'for', 'punch', 'dies']",0,1
+US3079939A,1958-12-13,By-passing device with a trap for land irrigation and other applications,"['ADP', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,14,"['by-passing', 'device', 'with', 'a', 'trap', 'for', 'land', 'irrigation', 'and', 'other', 'applications']",0,1
+US3080057A,1959-03-13,Below atmospheric pressure method and means for separating lighter liquids from heavier liquids,"['ADP', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,14,"['below', 'atmospheric', 'pressure', 'method', 'and', 'means', 'for', 'separating', 'lighter', 'liquids', 'from', 'heavier', 'liquids']",0,1
+US3081730A,1958-09-04,Under water venting system for marine fuel tanks,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,9,"['under', 'water', 'venting', 'system', 'for', 'marine', 'fuel', 'tanks']",0,1
+US3082356A,1961-04-07,Amplifier chassis,"['ADP', 'NOUN']",['PERSON'],0,1,3,"['amplifier', 'chassis']",0,1
+US3082975A,1961-09-11,Under-sea and heavier-than-air craft or the like,"['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'ADJ', 'PUNCT', 'ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'ADJ']",[],0,0,14,"['under-sea', 'and', 'heavier-than-air', 'craft', 'or', 'the', 'like']",0,1
+US3087540A,1959-07-20,In situ combustion using iron catalysts,"['ADP', 'ADJ', 'NOUN', 'VERB', 'NOUN', 'NOUN']",[],0,0,7,"['in', 'situ', 'combustion', 'using', 'iron', 'catalysts']",0,1
+US3087541A,1960-05-09,In situ combustion process,"['ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['in', 'situ', 'combustion', 'process']",0,1
+US3088286A,1958-04-28,Off-shore terminals,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['off-shore', 'terminals']",0,1
+US3088344A,1959-11-16,Inside knurling tools,"['ADP', 'VERB', 'NOUN']",[],0,0,4,"['inside', 'knurling', 'tools']",0,1
+US3092322A,1961-08-07,By-pass valve thermostat,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['by-pass', 'valve', 'thermostat']",0,1
+US3094760A,1960-10-20,Weft spreading machine,"['ADP', 'VERB', 'NOUN']",['ORG'],0,0,4,"['weft', 'spreading', 'machine']",0,1
+US3095007A,1960-09-06,Through conduit type valve apparatus,"['ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['through', 'conduit', 'type', 'valve', 'apparatus']",0,1
+US3095348A,1960-03-31,Up-flow headbox,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['up-flow', 'headbox']",0,1
+US3095911A,1959-09-11,Weft detecting means for shuttleless looms,"['ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB']",['ORG'],0,0,7,"['weft', 'detecting', 'means', 'for', 'shuttleless', 'looms']",0,1
+US3060264A,1959-01-27,Amplifier,['ADP'],['PERSON'],0,1,2,['amplifier'],0,1

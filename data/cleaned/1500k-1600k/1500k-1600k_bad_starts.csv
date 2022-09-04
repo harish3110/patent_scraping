@@ -1,97 +1,98 @@
-patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
-US1515794A,1924-11-18,And samuel peacock,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1521276A,1924-12-30,And walter j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1521396A,1924-12-30,By mary v,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1525791A,1925-02-10,And howard h,"['CCONJ', 'PROPN', 'X']",['ORG'],1,0,3,0,1
-US1528925A,1925-03-10,And john charters,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US1544381A,1925-06-30,And carl f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US1550263A,1925-08-18,And of one-fourth to francois sam,"['CCONJ', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,8,0,1
-US1550606A,1925-08-18,And michael j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US1551313A,1925-08-25,And samuel yagoda,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1551364A,1925-08-25,To brooks rupture,"['ADP', 'PROPN', 'NOUN']",['ORG'],1,0,3,0,1
-US1555633A,1925-09-29,And malcolm s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,0,1
-US1558674A,1925-10-27,And one-third to susan v,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,7,0,1
-US1565997A,1925-12-15,Of san francisco,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US1566475A,1925-12-22,And samuel g,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,0,1
-US1566483A,1925-12-22,And one-sixth to william oliver clay,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'PROPN', 'NOUN']","['CARDINAL', 'PERSON']",1,1,8,0,1
-US1566537A,1925-12-22,And hubert l,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1566644A,1925-12-22,And joseph bobebts,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,0,1
-US1566761A,1925-12-22,By james w,"['ADP', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US1573167A,1926-02-16,And john e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US1574608A,1926-02-23,And george r,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,0,1
-US1577015A,1926-03-16,of los angeles,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
-US1578025A,1921-05-17,Inside controlled vehicle searchlight,"['ADP', 'VERB', 'NOUN', 'PROPN']",[],1,0,5,0,1
-US1583586A,1926-05-04,And arnold fbangis van pelt,"['CCONJ', 'ADJ', 'PROPN', 'PROPN', 'NOUN']",[],1,0,5,0,1
-US1588833A,1926-06-15,And george stanford,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US1595346A,1926-08-10,And walter a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,0,1
-US1597567A,1926-08-24,And john k,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,0,1
-US1504304A,1924-08-12,And warbeit w,"['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
-US1504557A,1920-01-05,To cakbo-oxygree,"['ADP', 'VERB', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US1505693A,1922-10-12,By-pass valve for storage-battery vents,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,10,0,1
-US1509916A,1924-09-30,of springville,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1510074A,1919-05-17,of akron,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1510954A,1924-10-07,of stamfobd,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1516022A,1924-11-18,And angus s,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,0,1
-US1516701A,1924-11-25,By lil,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1516889A,1923-08-18,By-pass preventer and automatic shut-off,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'VERB', 'PUNCT', 'ADP']",[],0,0,10,0,1
-US1517080A,1924-11-25,of elgin,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1517401A,1924-12-02,And rudolph e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1523030A,1925-01-13,of springfield,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1524814A,1923-08-11,By-pass,"['ADP', 'PUNCT', 'NOUN']",[],0,0,4,0,1
-US1525660A,1925-02-10,And one-sixth to  russell,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'SPACE', 'VERB']",['CARDINAL'],0,0,7,0,1
-US1528359A,1925-03-03,of westminster,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1528798A,1925-03-10,Per leonard stenman,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1530021A,1925-03-17,of bebmn,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1532199A,1925-04-07,Ob cosmetic,"['ADP', 'ADJ']",['ORG'],0,0,2,0,1
-US1533216A,1925-04-14,of bridgeport,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1534855A,1925-04-21,By-pass fob feeding mechanism fob crushers,"['ADP', 'PUNCT', 'VERB', 'ADV', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,0,1
-US1534933A,1925-04-21,of braunschweig,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1535120A,1925-04-28,And hyleman a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1539498A,1925-05-26,And fifteen,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,0,1
-US1544118A,1923-12-28,Under-water periscope,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,0,1
-US1546273A,1925-07-14,of gardner,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1551095A,1925-08-25,of basel,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1551099A,1925-08-25,And irl ttjbbs,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1551386A,1925-08-25,And alfred a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1551399A,1925-08-25,of new haven,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1551498A,1925-08-25,of erie,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1551682A,1925-09-01,And the like,"['CCONJ', 'DET', 'INTJ']",[],0,0,3,0,1
-US1552791A,1925-09-08,of bochester,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1555301A,1922-03-20,Amplifier coupling,"['ADP', 'NOUN']",['PERSON'],0,1,3,0,1
-US1555601A,1925-09-29,And leslie b,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,0,1
-US1556406A,1925-04-02,By-pass valve with stop and mounting therefor,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,10,0,1
-US1556901A,1925-10-13,of dayton,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1557543A,1925-10-20,of sturgis,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1558318A,1924-08-21,Inside micrometer gauge,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1563652A,1925-12-01,of rochester,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1565729A,1925-12-15,Of capsules,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1566478A,1925-12-22,Of qiiarbmjont,"['ADP', 'ADJ']",['GPE'],0,0,2,0,1
-US1566621A,1925-12-22,Of portland,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1566759A,1925-12-22,Of new yoke,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1568579A,1926-01-05,of new haven,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1568655A,1926-01-05,of flint,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1568789A,1926-01-05,And two-sixteenths to george a,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PRON']",['CARDINAL'],0,0,7,0,1
-US1569555A,1923-12-12,Under clearer roll,"['ADP', 'ADJ', 'NOUN']",[],0,0,4,0,1
-US1569819A,1926-01-12,And unloading cabs,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1571621A,1924-07-03,Dustlike fuel,"['ADP', 'NOUN']",[],0,0,3,0,1
-US1572444A,1926-02-09,Combination- vase and display rack,"['CCONJ', 'NOUN', 'CCONJ', 'VERB', 'VERB']",[],0,0,5,0,1
-US1573766A,1926-02-16,And douglass g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1577474A,1925-02-17,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1577890A,1926-03-23,By chester,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1580918A,1926-04-13,of akron,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1582768A,1926-04-27,And sep abating machine,"['CCONJ', 'ADJ', 'VERB', 'NOUN']",[],0,0,4,0,1
-US1583800A,1926-05-11,And stedman d,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1585290A,1926-05-18,of syracuse,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1587977A,1925-03-30,Fungicide,['ADP'],[],0,0,2,0,1
-US1589177A,1926-06-15,of little falls,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1589237A,1926-06-15,By edmund,"['ADP', 'ADJ']",[],0,0,2,0,1
-US1589691A,1926-06-22,To diamond power,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
-US1590785A,1926-06-29,And cybil a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,0,1
-US1590920A,1926-06-29,of brunswick,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1594864A,1926-08-03,On-the-main,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,0,1
-US1595374A,1926-08-10,of akron,"['ADP', 'NOUN']",[],0,0,2,0,1
-US1595594A,1926-08-10,of pittsburgh,"['ADP', 'NOUN']",['GPE'],0,0,2,0,1
-US1596542A,1925-04-29,Inside and outside micrometer,"['ADP', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,5,0,1
-US1597036A,1925-10-06,In-a-wall dining cabinet,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'VERB', 'NOUN']",[],0,0,8,0,1
-US1598037A,1926-01-26,Inside awning adjuster,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
-US1599376A,1926-09-07,of akron,"['ADP', 'NOUN']",[],0,0,2,0,1
+patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts
+US1515794A,1924-11-18,And samuel peacock,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'samuel', 'peacock']",0,1
+US1521276A,1924-12-30,And walter j,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'walter', 'j']",0,1
+US1521396A,1924-12-30,By mary v,"['ADP', 'PROPN', 'PROPN']",[],1,0,3,"['by', 'mary', 'v']",0,1
+US1525791A,1925-02-10,And howard h,"['CCONJ', 'PROPN', 'X']",['ORG'],1,0,3,"['and', 'howard', 'h']",0,1
+US1528925A,1925-03-10,And john charters,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'john', 'charters']",0,1
+US1544381A,1925-06-30,And carl f,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'carl', 'f']",0,1
+US1550263A,1925-08-18,And of one-fourth to francois sam,"['CCONJ', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,8,"['and', 'of', 'one-fourth', 'to', 'francois', 'sam']",0,1
+US1550606A,1925-08-18,And michael j,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'michael', 'j']",0,1
+US1551313A,1925-08-25,And samuel yagoda,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'samuel', 'yagoda']",0,1
+US1551364A,1925-08-25,To brooks rupture,"['ADP', 'PROPN', 'NOUN']",['ORG'],1,0,3,"['to', 'brooks', 'rupture']",0,1
+US1555633A,1925-09-29,And malcolm s,"['CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,3,"['and', 'malcolm', 's']",0,1
+US1558674A,1925-10-27,And one-third to susan v,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,7,"['and', 'one-third', 'to', 'susan', 'v']",0,1
+US1565997A,1925-12-15,Of san francisco,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,"['of', 'san', 'francisco']",0,1
+US1566475A,1925-12-22,And samuel g,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'samuel', 'g']",0,1
+US1566483A,1925-12-22,And one-sixth to william oliver clay,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'PROPN', 'PROPN', 'NOUN']","['CARDINAL', 'PERSON']",1,1,8,"['and', 'one-sixth', 'to', 'william', 'oliver', 'clay']",0,1
+US1566537A,1925-12-22,And hubert l,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'hubert', 'l']",0,1
+US1566644A,1925-12-22,And joseph bobebts,"['CCONJ', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['and', 'joseph', 'bobebts']",0,1
+US1566761A,1925-12-22,By james w,"['ADP', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['by', 'james', 'w']",0,1
+US1573167A,1926-02-16,And john e,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'e']",0,1
+US1574608A,1926-02-23,And george r,"['CCONJ', 'PROPN', 'NOUN']",[],1,0,3,"['and', 'george', 'r']",0,1
+US1577015A,1926-03-16,of los angeles,"['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,"['of', 'los', 'angeles']",0,1
+US1578025A,1921-05-17,Inside controlled vehicle searchlight,"['ADP', 'VERB', 'NOUN', 'PROPN']",[],1,0,5,"['inside', 'controlled', 'vehicle', 'searchlight']",0,1
+US1583586A,1926-05-04,And arnold fbangis van pelt,"['CCONJ', 'ADJ', 'PROPN', 'PROPN', 'NOUN']",[],1,0,5,"['and', 'arnold', 'fbangis', 'van', 'pelt']",0,1
+US1588833A,1926-06-15,And george stanford,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'george', 'stanford']",0,1
+US1595346A,1926-08-10,And walter a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'walter', 'a']",0,1
+US1597567A,1926-08-24,And john k,"['CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,3,"['and', 'john', 'k']",0,1
+US1504304A,1924-08-12,And warbeit w,"['CCONJ', 'VERB', 'X']",[],0,0,3,"['and', 'warbeit', 'w']",0,1
+US1504557A,1920-01-05,To cakbo-oxygree,"['ADP', 'VERB', 'PUNCT', 'NOUN']",[],0,0,4,"['to', 'cakbo-oxygree']",0,1
+US1505693A,1922-10-12,By-pass valve for storage-battery vents,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,10,"['by-pass', 'valve', 'for', 'storage-battery', 'vents']",0,1
+US1509916A,1924-09-30,of springville,"['ADP', 'NOUN']",[],0,0,2,"['of', 'springville']",0,1
+US1510074A,1919-05-17,of akron,"['ADP', 'NOUN']",[],0,0,2,"['of', 'akron']",0,1
+US1510954A,1924-10-07,of stamfobd,"['ADP', 'NOUN']",[],0,0,2,"['of', 'stamfobd']",0,1
+US1516022A,1924-11-18,And angus s,"['CCONJ', 'NOUN', 'VERB']",[],0,0,3,"['and', 'angus', 's']",0,1
+US1516701A,1924-11-25,By lil,"['ADP', 'NOUN']",[],0,0,2,"['by', 'lil']",0,1
+US1516889A,1923-08-18,By-pass preventer and automatic shut-off,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'VERB', 'PUNCT', 'ADP']",[],0,0,10,"['by-pass', 'preventer', 'and', 'automatic', 'shut-off']",0,1
+US1517080A,1924-11-25,of elgin,"['ADP', 'NOUN']",[],0,0,2,"['of', 'elgin']",0,1
+US1517401A,1924-12-02,And rudolph e,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'rudolph', 'e']",0,1
+US1523030A,1925-01-13,of springfield,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'springfield']",0,1
+US1524814A,1923-08-11,By-pass,"['ADP', 'PUNCT', 'NOUN']",[],0,0,4,['by-pass'],0,1
+US1525660A,1925-02-10,And one-sixth to  russell,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'SPACE', 'VERB']",['CARDINAL'],0,0,7,"['and', 'one-sixth', 'to', 'russell']",0,1
+US1528359A,1925-03-03,of westminster,"['ADP', 'NOUN']",[],0,0,2,"['of', 'westminster']",0,1
+US1528798A,1925-03-10,Per leonard stenman,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,"['per', 'leonard', 'stenman']",0,1
+US1530021A,1925-03-17,of bebmn,"['ADP', 'NOUN']",[],0,0,2,"['of', 'bebmn']",0,1
+US1532199A,1925-04-07,Ob cosmetic,"['ADP', 'ADJ']",['ORG'],0,0,2,"['ob', 'cosmetic']",0,1
+US1533216A,1925-04-14,of bridgeport,"['ADP', 'NOUN']",[],0,0,2,"['of', 'bridgeport']",0,1
+US1534855A,1925-04-21,By-pass fob feeding mechanism fob crushers,"['ADP', 'PUNCT', 'VERB', 'ADV', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['by-pass', 'fob', 'feeding', 'mechanism', 'fob', 'crushers']",0,1
+US1534933A,1925-04-21,of braunschweig,"['ADP', 'NOUN']",[],0,0,2,"['of', 'braunschweig']",0,1
+US1535120A,1925-04-28,And hyleman a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'hyleman', 'a']",0,1
+US1539498A,1925-05-26,And fifteen,"['CCONJ', 'NUM']",['CARDINAL'],0,0,2,"['and', 'fifteen']",0,1
+US1544118A,1923-12-28,Under-water periscope,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['under-water', 'periscope']",0,1
+US1546273A,1925-07-14,of gardner,"['ADP', 'NOUN']",[],0,0,2,"['of', 'gardner']",0,1
+US1551095A,1925-08-25,of basel,"['ADP', 'NOUN']",[],0,0,2,"['of', 'basel']",0,1
+US1551099A,1925-08-25,And irl ttjbbs,"['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,"['and', 'irl', 'ttjbbs']",0,1
+US1551386A,1925-08-25,And alfred a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'alfred', 'a']",0,1
+US1551399A,1925-08-25,of new haven,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'haven']",0,1
+US1551498A,1925-08-25,of erie,"['ADP', 'NOUN']",[],0,0,2,"['of', 'erie']",0,1
+US1551682A,1925-09-01,And the like,"['CCONJ', 'DET', 'INTJ']",[],0,0,3,"['and', 'the', 'like']",0,1
+US1552791A,1925-09-08,of bochester,"['ADP', 'NOUN']",[],0,0,2,"['of', 'bochester']",0,1
+US1555301A,1922-03-20,Amplifier coupling,"['ADP', 'NOUN']",['PERSON'],0,1,3,"['amplifier', 'coupling']",0,1
+US1555601A,1925-09-29,And leslie b,"['CCONJ', 'VERB', 'X']",['PERSON'],0,1,3,"['and', 'leslie', 'b']",0,1
+US1556406A,1925-04-02,By-pass valve with stop and mounting therefor,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,10,"['by-pass', 'valve', 'with', 'stop', 'and', 'mounting', 'therefor']",0,1
+US1556901A,1925-10-13,of dayton,"['ADP', 'NOUN']",[],0,0,2,"['of', 'dayton']",0,1
+US1557543A,1925-10-20,of sturgis,"['ADP', 'NOUN']",[],0,0,2,"['of', 'sturgis']",0,1
+US1558318A,1924-08-21,Inside micrometer gauge,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['inside', 'micrometer', 'gauge']",0,1
+US1563652A,1925-12-01,of rochester,"['ADP', 'ADJ']",[],0,0,2,"['of', 'rochester']",0,1
+US1565729A,1925-12-15,Of capsules,"['ADP', 'NOUN']",[],0,0,2,"['of', 'capsules']",0,1
+US1566478A,1925-12-22,Of qiiarbmjont,"['ADP', 'ADJ']",['GPE'],0,0,2,"['of', 'qiiarbmjont']",0,1
+US1566621A,1925-12-22,Of portland,"['ADP', 'NOUN']",[],0,0,2,"['of', 'portland']",0,1
+US1566759A,1925-12-22,Of new yoke,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'yoke']",0,1
+US1568579A,1926-01-05,of new haven,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'haven']",0,1
+US1568655A,1926-01-05,of flint,"['ADP', 'NOUN']",[],0,0,2,"['of', 'flint']",0,1
+US1568789A,1926-01-05,And two-sixteenths to george a,"['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PRON']",['CARDINAL'],0,0,7,"['and', 'two-sixteenths', 'to', 'george', 'a']",0,1
+US1569555A,1923-12-12,Under clearer roll,"['ADP', 'ADJ', 'NOUN']",[],0,0,4,"['under', 'clearer', 'roll']",0,1
+US1569819A,1926-01-12,And unloading cabs,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'unloading', 'cabs']",0,1
+US1571621A,1924-07-03,Dustlike fuel,"['ADP', 'NOUN']",[],0,0,3,"['dustlike', 'fuel']",0,1
+US1572444A,1926-02-09,Combination- vase and display rack,"['CCONJ', 'NOUN', 'CCONJ', 'VERB', 'VERB']",[],0,0,5,"['combination-', 'vase', 'and', 'display', 'rack']",0,1
+US1573766A,1926-02-16,And douglass g,"['CCONJ', 'VERB', 'NOUN']",[],0,0,3,"['and', 'douglass', 'g']",0,1
+US1577474A,1925-02-17,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['inside', 'pipe', 'cutter']",0,1
+US1577890A,1926-03-23,By chester,"['ADP', 'NOUN']",[],0,0,2,"['by', 'chester']",0,1
+US1580918A,1926-04-13,of akron,"['ADP', 'NOUN']",[],0,0,2,"['of', 'akron']",0,1
+US1582768A,1926-04-27,And sep abating machine,"['CCONJ', 'ADJ', 'VERB', 'NOUN']",[],0,0,4,"['and', 'sep', 'abating', 'machine']",0,1
+US1583800A,1926-05-11,And stedman d,"['CCONJ', 'NOUN', 'NOUN']",[],0,0,3,"['and', 'stedman', 'd']",0,1
+US1585290A,1926-05-18,of syracuse,"['ADP', 'NOUN']",[],0,0,2,"['of', 'syracuse']",0,1
+US1587977A,1925-03-30,Fungicide,['ADP'],[],0,0,2,['fungicide'],0,1
+US1589177A,1926-06-15,of little falls,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'little', 'falls']",0,1
+US1589237A,1926-06-15,By edmund,"['ADP', 'ADJ']",[],0,0,2,"['by', 'edmund']",0,1
+US1589691A,1926-06-22,To diamond power,"['ADP', 'NOUN', 'NOUN']",[],0,0,3,"['to', 'diamond', 'power']",0,1
+US1590785A,1926-06-29,And cybil a,"['CCONJ', 'VERB', 'PRON']",[],0,0,3,"['and', 'cybil', 'a']",0,1
+US1590920A,1926-06-29,of brunswick,"['ADP', 'NOUN']",[],0,0,2,"['of', 'brunswick']",0,1
+US1594864A,1926-08-03,On-the-main,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'ADJ']",[],0,0,5,['on-the-main'],0,1
+US1595374A,1926-08-10,of akron,"['ADP', 'NOUN']",[],0,0,2,"['of', 'akron']",0,1
+US1595594A,1926-08-10,of pittsburgh,"['ADP', 'NOUN']",['GPE'],0,0,2,"['of', 'pittsburgh']",0,1
+US1596542A,1925-04-29,Inside and outside micrometer,"['ADP', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,5,"['inside', 'and', 'outside', 'micrometer']",0,1
+US1597036A,1925-10-06,In-a-wall dining cabinet,"['ADP', 'PUNCT', 'DET', 'PUNCT', 'NOUN', 'VERB', 'NOUN']",[],0,0,8,"['in-a-wall', 'dining', 'cabinet']",0,1
+US1598037A,1926-01-26,Inside awning adjuster,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['inside', 'awning', 'adjuster']",0,1
+US1599376A,1926-09-07,of akron,"['ADP', 'NOUN']",[],0,0,2,"['of', 'akron']",0,1
+US1572599A,1926-02-09,Of warren,"['ADP', 'NOUN']",['PERSON'],0,1,2,"['of', 'warren']",0,1
