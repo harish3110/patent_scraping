@@ -4,6 +4,7 @@ import glob
 import os
 from spellchecker import SpellChecker
 from ast import literal_eval
+from nltk.corpus import words as nltk_words
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -28,6 +29,25 @@ def bad_starting_patents(pos):
     else:
         return 0
 
+def is_english_word(word):
+    # creation of this dictionary would be done outside of 
+    #     the function because you only need to do it once.
+    dictionary = dict.fromkeys(nltk_words.words(), None)
+    try:
+        x = dictionary[word]
+        return True
+    except KeyError:
+        return False
+    
+def inventor_check(tokens):
+    count = 0
+    for token in tokens:
+        if is_english_word(token):
+            count += 1
+    if count/len(tokens) >= 0.75:
+        return 0
+    return 1
+
 for file in tqdm(files):
     name = file.split('/')[-1]
     df = pd.read_csv(f'{path}{name}', converters={'tokens': literal_eval, 'nltk_pos': literal_eval, 'spacy_pos': literal_eval,'spacy_label': literal_eval,})
@@ -36,9 +56,16 @@ for file in tqdm(files):
     df['title'] = df['title'].astype(str)
     df['title'] = df['title'].apply(lambda x: x.strip()) # stripping next line spacy in title endings
     df['spacy_pos'] = df['spacy_pos'].apply(lambda x: x[:-1] if x[-1] == 'SPACE' else x)
+    df['tokens'] = df['title'].apply(lambda x: x.split())
+    df['tokens'] = df['tokens'].apply(lambda x: [item.lower() for item in x])
 
-    df_inventor = df[df['is_person_spacy'] == 1]
-    df_non_inventor = df[df['is_person_spacy'] == 0]
+    df_inventor = df[(df['is_person_spacy'] == 1)&(df['spacy_pos_len'] <= 2)]
+    df_inventor['is_inventor'] = df_inventor['tokens'].apply(inventor_check)
+    df_non_inventor_2 = df_inventor[df_inventor['is_inventor'] == 0]
+    df_inventor = df_inventor[df_inventor['is_inventor'] == 1]
+    df_non_inventor_2 = df_non_inventor_2.drop(['is_inventor'], axis=1)
+    df_non_inventor_1 = df[(df['is_person_spacy'] == 0)|(df['is_person_spacy'] == 1)&(df['spacy_pos_len'] > 2)]
+    df_non_inventor = pd.concat([df_non_inventor_1, df_non_inventor_2], ignore_index=True)
     
     df_prpn = df_non_inventor[(df_non_inventor['is_prpn_spacy'] == 1) & (df_non_inventor['spacy_pos_len'] <= 2)]
     df_non_prpn_1 = df_non_inventor[(df_non_inventor['is_prpn_spacy'] == 1) & (df_non_inventor['spacy_pos_len'] > 2)]
@@ -48,7 +75,7 @@ for file in tqdm(files):
     non_terminating_pos = ['ADP', 'CONJ', 'CCONJ', 'DET', 'ADP']
     non_starting_pos = ['ADP', 'CONJ', 'CCONJ','ADP']
     
-    df_non_prpn['bad_endings'] = df['spacy_pos'].apply(bad_ending_patents)
+    df_non_prpn['bad_endings'] = df_non_prpn['spacy_pos'].apply(bad_ending_patents)
     df_bad_endings = df_non_prpn[df_non_prpn['bad_endings'] == 1]
     df_non_bad_endings = df_non_prpn[df_non_prpn['bad_endings'] == 0]
 
