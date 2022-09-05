@@ -1,6 +1,9 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts
 US3305558A,1967-02-21,"And y-cyanobenzimidazole
 derivatives","['CCONJ', 'PROPN', 'PUNCT', 'NOUN', 'SPACE', 'NOUN']",[],1,0,6,"['and', 'y-cyanobenzimidazole', 'derivatives']",0,1
+US3309931A,1967-03-21,"In vf-ntors.
+paul r. adams
+carlos","['ADP', 'NOUN', 'NOUN', 'NOUN', 'PUNCT', 'SPACE', 'PROPN', 'PROPN', 'PROPN', 'SPACE', 'PROPN']",['PERSON'],1,1,11,"['in', 'vf-ntors.', 'paul', 'r.', 'adams', 'carlos']",0,1
 US3332970A,1964-10-28,Per (beta and gamma substituted alkylene)mono-and di-tin compounds and the preparation thereof,"['ADP', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'PROPN', 'PUNCT', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADV']",[],1,0,18,"['per', '(beta', 'and', 'gamma', 'substituted', 'alkylene)mono-and', 'di-tin', 'compounds', 'and', 'the', 'preparation', 'thereof']",0,1
 US3342380A,1967-09-19,At to zn ey,"['ADP', 'ADP', 'PROPN', 'PRON']",[],1,0,4,"['at', 'to', 'zn', 'ey']",0,1
 US3342848A,1965-02-11,"N, n'-dialkyl-n, n'-dicyanoalkyl-o-phthalamides","['CCONJ', 'PUNCT', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'PROPN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']","['GPE', 'ORG']",1,0,12,"['n,', ""n'-dialkyl-n,"", ""n'-dicyanoalkyl-o-phthalamides""]",0,1
@@ -68,6 +71,7 @@ US3337194A,1965-08-09,In-line blender,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,
 US3337621A,1962-09-10,"N, n'-disubstituted allophanyl chlorides and their preparation","['CCONJ', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'PRON', 'NOUN']",[],0,0,9,"['n,', ""n'-disubstituted"", 'allophanyl', 'chlorides', 'and', 'their', 'preparation']",0,1
 US3338283A,1965-07-19,In-feed mechanism for slicing machines,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,"['in-feed', 'mechanism', 'for', 'slicing', 'machines']",0,1
 US3338535A,1964-10-02,Under carriage with tandem wheels,"['ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",['ORG'],0,0,6,"['under', 'carriage', 'with', 'tandem', 'wheels']",0,1
+US3340431A,1966-06-27,Over-voltage protection instrument,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['over-voltage', 'protection', 'instrument']",0,1
 US3341820A,1964-10-13,On-line branch for data processing systems,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,9,"['on-line', 'branch', 'for', 'data', 'processing', 'systems']",0,1
 US3342191A,1965-06-01,Under truck washer,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['under', 'truck', 'washer']",0,1
 US3342220A,1964-09-02,Weft changing apparatus,"['ADP', 'VERB', 'NOUN']",[],0,0,4,"['weft', 'changing', 'apparatus']",0,1
@@ -118,6 +122,7 @@ US3392756A,1965-06-22,Weft inserting apparatus in multiple looms,"['ADP', 'VERB'
 US3392782A,1966-08-15,In situ preparation of surface active agents in subterranean formations,"['ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,11,"['in', 'situ', 'preparation', 'of', 'surface', 'active', 'agents', 'in', 'subterranean', 'formations']",0,1
 US3393699A,1966-06-06,Over pressure limiter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['over', 'pressure', 'limiter']",0,1
 US3395614A,1965-10-19,Inside bead trimming apparatus,"['ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,5,"['inside', 'bead', 'trimming', 'apparatus']",0,1
+US3395892A,1967-06-02,Over-center load binder and gripping device,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,9,"['over-center', 'load', 'binder', 'and', 'gripping', 'device']",0,1
 US3397679A,1966-12-20,Through-flow steam generator circuit,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,"['through-flow', 'steam', 'generator', 'circuit']",0,1
 US3397878A,1965-11-19,Under-bath tuyere,"['ADP', 'PUNCT', 'NOUN', 'VERB']",[],0,0,5,"['under-bath', 'tuyere']",0,1
 US3399358A,1965-01-21,Amplifier distortion control by switching,"['ADP', 'NOUN', 'NOUN', 'ADP', 'VERB']",['PERSON'],0,1,6,"['amplifier', 'distortion', 'control', 'by', 'switching']",0,1

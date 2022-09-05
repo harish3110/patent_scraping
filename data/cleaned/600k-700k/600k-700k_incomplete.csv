@@ -1,116 +1,76 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings
-US604021A,1898-05-17,Apparatus for bending pipes,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,"['apparatus', 'for', 'bending', 'pipes']",1
-US604897A,1898-05-31,And john a,"['CCONJ', 'PROPN', 'PRON']",[],1,0,3,"['and', 'john', 'a']",1
-US610807A,1898-09-13,Cigar-box attachment,"['PROPN', 'PUNCT', 'NOUN', 'NOUN']",['PERSON'],1,1,4,"['cigar-box', 'attachment']",1
-US616265A,1898-12-20,Field-magnet for electric machines,"['NOUN', 'PUNCT', 'PROPN', 'ADP', 'ADJ', 'NOUN']",[],1,0,6,"['field-magnet', 'for', 'electric', 'machines']",1
-US617777A,1899-01-17,Dentist s mercury-holder,"['PROPN', 'PART', 'NOUN', 'PUNCT', 'NOUN']",['NORP'],1,0,5,"['dentist', 's', 'mercury-holder']",1
-US618721A,1899-01-31,Axle-box,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['axle-box'],1
-US628196A,1899-04-29,Folding box.,"['VERB', 'PROPN', 'PUNCT']",[],1,0,4,"['folding', 'box.']",1
-US631502A,1899-02-27,"Packing for journals, &c.","['VERB', 'ADP', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN']",['PERSON'],1,1,7,"['packing', 'for', 'journals,', '&c.']",1
-US631738A,1899-03-11,"Composition for expelling rats, & c.","['NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN']",['PERSON'],1,1,8,"['composition', 'for', 'expelling', 'rats,', '&', 'c.']",1
-US632166A,1899-01-30,Caster.,"['PROPN', 'PUNCT']",[],1,0,3,['caster.'],1
-US634000A,1899-06-30,Spool-holder.,"['PROPN', 'PUNCT', 'NOUN', 'PUNCT']",['ORG'],1,0,5,['spool-holder.'],1
-US634025A,1899-02-21,Multiple mandrel attachment for phonographs.,"['ADJ', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'PUNCT']",[],1,0,7,"['multiple', 'mandrel', 'attachment', 'for', 'phonographs.']",1
-US635522A,1898-03-24,Apparatus for mining in frozen earth.,"['PROPN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT']",[],1,0,8,"['apparatus', 'for', 'mining', 'in', 'frozen', 'earth.']",1
-US636610A,1899-04-24,Siphon.,"['PROPN', 'PUNCT']",[],1,0,3,['siphon.'],1
-US638127A,1899-06-24,Black azo dye.,"['ADJ', 'PROPN', 'NOUN', 'PUNCT']",[],1,0,5,"['black', 'azo', 'dye.']",1
-US638820A,1899-06-12,Flash-lamp.,"['NOUN', 'PUNCT', 'PROPN', 'PUNCT']",[],1,0,5,['flash-lamp.'],1
-US639601A,1899-04-22,Apparatus for operating wells.,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT']",[],1,0,6,"['apparatus', 'for', 'operating', 'wells.']",1
-US640465A,1898-03-04,Incandescent lamp.,"['PROPN', 'NOUN', 'PUNCT']",[],1,0,4,"['incandescent', 'lamp.']",1
-US641807A,1899-11-04,Key.,"['PROPN', 'PUNCT']",[],1,0,3,['key.'],1
-US645099A,1899-11-27,Lamp.,"['PROPN', 'PUNCT']",[],1,0,3,['lamp.'],1
-US645898A,1898-08-18,Poultry-coop.,"['NOUN', 'PUNCT', 'PROPN', 'PUNCT']",[],1,0,5,['poultry-coop.'],1
-US646794A,1897-12-16,Acid rhodamin dye and process of making same.,"['PROPN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ', 'PUNCT']",[],1,0,10,"['acid', 'rhodamin', 'dye', 'and', 'process', 'of', 'making', 'same.']",1
-US647935A,1899-07-03,Truss.,"['PROPN', 'PUNCT']",[],1,0,3,['truss.'],1
-US648467A,1899-04-17,Boat.,"['PROPN', 'PUNCT']",[],1,0,3,['boat.'],1
-US649002A,1896-06-26,Gully.,"['PROPN', 'PUNCT']",[],1,0,3,['gully.'],1
-US649786A,1899-02-20,Apparatus for washing railway-cars.,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],1,0,8,"['apparatus', 'for', 'washing', 'railway-cars.']",1
-US649920A,1897-12-28,Loom.,"['PROPN', 'PUNCT']",[],1,0,3,['loom.'],1
-US650143A,1899-05-24,Pavement.,"['PROPN', 'PUNCT']",[],1,0,3,['pavement.'],1
-US651956A,1899-08-04,Apparatus for securing piston-packing rings.,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],1,0,9,"['apparatus', 'for', 'securing', 'piston-packing', 'rings.']",1
-US653911A,1899-10-14,Method of forming rings and couplings.,"['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],1,0,8,"['method', 'of', 'forming', 'rings', 'and', 'couplings.']",1
-US654923A,1900-03-26,Lamp-post.,"['NOUN', 'PUNCT', 'PROPN', 'PUNCT']",[],1,0,5,['lamp-post.'],1
-US655533A,1898-07-21,Crane.,"['PROPN', 'PUNCT']",[],1,0,3,['crane.'],1
-US656492A,1900-05-21,"Holder for asparagus, &c.","['NOUN', 'ADP', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN']",['PERSON'],1,1,7,"['holder', 'for', 'asparagus,', '&c.']",1
-US657103A,1899-08-02,Commode attachment.,"['PROPN', 'NOUN', 'PUNCT']",[],1,0,4,"['commode', 'attachment.']",1
-US657392A,1898-08-04,Apparatus for converting heat into work.,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],1,0,8,"['apparatus', 'for', 'converting', 'heat', 'into', 'work.']",1
-US657765A,1900-01-24,Belt driving mechanism.,"['PROPN', 'NOUN', 'NOUN', 'PUNCT']",[],1,0,5,"['belt', 'driving', 'mechanism.']",1
-US659444A,1900-04-28,Molder's chaplet or anchor.,"['PROPN', 'PART', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],1,0,7,"[""molder's"", 'chaplet', 'or', 'anchor.']",1
-US660740A,1899-10-06,Apparatus for carbonating liquids.,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT']",[],1,0,6,"['apparatus', 'for', 'carbonating', 'liquids.']",1
-US663840A,1897-09-14,Process of making light magnesia.,"['NOUN', 'ADP', 'VERB', 'ADJ', 'PROPN', 'PUNCT']",[],1,0,7,"['process', 'of', 'making', 'light', 'magnesia.']",1
-US664903A,1900-03-15,Apparatus for drying fertilizers.,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT']",[],1,0,6,"['apparatus', 'for', 'drying', 'fertilizers.']",1
-US665228A,1899-08-24,Computing apparatus.,"['PROPN', 'NOUN', 'PUNCT']",[],1,0,4,"['computing', 'apparatus.']",1
-US666734A,1899-11-07,"Freight-car, &c.","['NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN']",['PERSON'],1,1,7,"['freight-car,', '&c.']",1
-US667894A,1900-09-06,Queen-bee trap.,"['NOUN', 'PUNCT', 'PROPN', 'NOUN', 'PUNCT']",[],1,0,6,"['queen-bee', 'trap.']",1
-US669016A,1899-05-06,Anchor.,"['PROPN', 'PUNCT']",[],1,0,3,['anchor.'],1
-US671674A,1899-11-14,Apparatus for generating and utilizing elastic fluids.,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'ADJ', 'NOUN', 'PUNCT']",[],1,0,9,"['apparatus', 'for', 'generating', 'and', 'utilizing', 'elastic', 'fluids.']",1
-US673505A,1900-08-04,Twyer for forges or furnaces.,"['PROPN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],1,0,7,"['twyer', 'for', 'forges', 'or', 'furnaces.']",1
-US676653A,1901-02-09,Berry-box.,"['PROPN', 'PUNCT', 'PROPN', 'PUNCT']",[],1,0,5,['berry-box.'],1
-US677143A,1900-10-11,"Stopper for bottles, jars, &c.","['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN']",[],1,0,9,"['stopper', 'for', 'bottles,', 'jars,', '&c.']",1
-US678316A,1899-12-01,Umbrella-handle.,"['PROPN', 'PUNCT', 'NOUN', 'PUNCT']",['ORG'],1,0,5,['umbrella-handle.'],1
-US678334A,1900-08-22,Tonsilotome.,"['PROPN', 'PUNCT']",[],1,0,3,['tonsilotome.'],1
-US679240A,1900-08-06,Furnace.,"['PROPN', 'PUNCT']",['ORG'],1,0,3,['furnace.'],1
-US680728A,1900-11-16,Harrow.,"['PROPN', 'PUNCT']",[],1,0,3,['harrow.'],1
-US680929A,1901-03-09,Belt-buckle.,"['PROPN', 'PUNCT', 'NOUN', 'PUNCT']",[],1,0,5,['belt-buckle.'],1
-US687906A,1901-04-08,Duplex punch.,"['PROPN', 'NOUN', 'PUNCT']",[],1,0,4,"['duplex', 'punch.']",1
-US688489A,1901-08-19,Camera-tripod.,"['NOUN', 'PUNCT', 'PROPN', 'PUNCT']",[],1,0,5,['camera-tripod.'],1
-US689336A,1901-04-26,Process of preparing viscose.,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT']",[],1,0,6,"['process', 'of', 'preparing', 'viscose.']",1
-US689679A,1899-09-25,Water-closet.,"['NOUN', 'PUNCT', 'PROPN', 'PUNCT']",[],1,0,5,['water-closet.'],1
-US694164A,1901-10-25,Gaiter.,"['PROPN', 'PUNCT']",[],1,0,3,['gaiter.'],1
-US694646A,1901-05-28,Apparatus for use in dispensing liquids.,"['PROPN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT']",[],1,0,8,"['apparatus', 'for', 'use', 'in', 'dispensing', 'liquids.']",1
-US695559A,1901-08-27,Reamer.,"['PROPN', 'PUNCT']",[],1,0,3,['reamer.'],1
-US697178A,1901-04-25,Apparatus for the treatment of ores.,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],1,0,8,"['apparatus', 'for', 'the', 'treatment', 'of', 'ores.']",1
-US697683A,1901-05-14,Clutch.,"['PROPN', 'PUNCT']",[],1,0,3,['clutch.'],1
-US698268A,1899-11-15,Process of making cement.,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT']",[],1,0,6,"['process', 'of', 'making', 'cement.']",1
-US698995A,1901-07-13,Damper.,"['PROPN', 'PUNCT']",['ORG'],1,0,3,['damper.'],1
-US600128A,1898-03-01,Machine,['NOUN'],[],0,0,1,['machine'],1
-US600253A,1898-03-08,Blank-book,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,['blank-book'],1
-US600273A,1898-03-08,Photographic-negative rack,"['ADJ', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,4,"['photographic-negative', 'rack']",1
-US600842A,1898-03-15,Tonguing-and-grooving machine,"['NOUN', 'PUNCT', 'CCONJ', 'PUNCT', 'VERB', 'NOUN']",[],0,0,6,"['tonguing-and-grooving', 'machine']",1
-US601212A,1898-03-22,Machinery for extracting gold,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machinery', 'for', 'extracting', 'gold']",1
-US601470A,1898-03-29,Calculator,['NOUN'],[],0,0,1,['calculator'],1
-US602061A,1898-04-12,Stamp-pad,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['stamp-pad'],1
-US602486A,1898-04-19,Pneumatic cushion,"['ADJ', 'NOUN']",[],0,0,2,"['pneumatic', 'cushion']",1
-US602507A,1898-04-19,Wood molding and sawing machine,"['NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,"['wood', 'molding', 'and', 'sawing', 'machine']",1
-US602508A,1898-04-19,kiehl,['NOUN'],[],0,0,1,['kiehl'],1
-US603910A,1898-05-10,Jar and temporary closure therefor,"['NOUN', 'CCONJ', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['jar', 'and', 'temporary', 'closure', 'therefor']",1
-US604283A,1898-05-17,Pulverizer,['NOUN'],[],0,0,1,['pulverizer'],1
-US604919A,1898-05-31,Crank-pedal,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['crank-pedal'],1
-US604921A,1898-05-31,Reversible drive-gate,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['reversible', 'drive-gate']",1
-US605156A,1898-06-07,Coupling for pneumatic tires,"['VERB', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['coupling', 'for', 'pneumatic', 'tires']",1
-US605269A,1898-06-07,Watch-hand,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['watch-hand'],1
+US606576A,1898-06-28,Dmitry alexandrowitch pf,"['PROPN', 'NOUN', 'ADP']",['ORG'],1,0,3,"['dmitry', 'alexandrowitch', 'pf']",1
+US617000A,1899-01-03,William basil wilberforce,"['PROPN', 'NOUN', 'ADP']",['PERSON'],1,1,3,"['william', 'basil', 'wilberforce']",1
+US618276A,1899-01-24,Apparatus for making molds for stoneware or,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ']",[],1,0,7,"['apparatus', 'for', 'making', 'molds', 'for', 'stoneware', 'or']",1
+US619001A,1899-02-07,Suspender cast-off,"['PROPN', 'NOUN', 'PUNCT', 'ADP']",[],1,0,4,"['suspender', 'cast-off']",1
+US626945A,1899-06-13,Hfnfu louis mtfph clfmekt tl,"['PROPN', 'NOUN', 'PROPN', 'NOUN', 'ADP']","['GPE', 'PERSON']",1,1,5,"['hfnfu', 'louis', 'mtfph', 'clfmekt', 'tl']",1
+US627214A,1899-06-20,Process of and apparatus for,"['PROPN', 'ADP', 'CCONJ', 'NOUN', 'ADP']",[],1,0,5,"['process', 'of', 'and', 'apparatus', 'for']",1
+US600496A,1898-03-08,Saddle for,"['VERB', 'ADP']",[],0,0,2,"['saddle', 'for']",1
+US601106A,1898-03-22,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US601963A,1898-04-05,Chaeles w,"['NOUN', 'ADP']",[],0,0,2,"['chaeles', 'w']",1
+US603841A,1898-05-10,Blotter-bath and absorbent composition therefor,"['NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,7,"['blotter-bath', 'and', 'absorbent', 'composition', 'therefor']",1
+US603936A,1898-05-10,Photographic opaque negative and process of printing therefrom,"['ADJ', 'ADJ', 'ADJ', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADP']",[],0,0,8,"['photographic', 'opaque', 'negative', 'and', 'process', 'of', 'printing', 'therefrom']",1
+US604599A,1898-05-24,Thread or,"['NOUN', 'CCONJ']",[],0,0,2,"['thread', 'or']",1
+US604829A,1898-05-31,Assiotob to,"['VERB', 'ADP']",[],0,0,2,"['assiotob', 'to']",1
+US605130A,1898-06-07,Administrator of,"['NOUN', 'ADP']",[],0,0,2,"['administrator', 'of']",1
 US605282A,1898-06-07,Steam-valve for locomotives or other en,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'ADP']",[],0,0,8,"['steam-valve', 'for', 'locomotives', 'or', 'other', 'en']",1
-US605727A,1898-06-14,Combination blasting-tool,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['combination', 'blasting-tool']",1
-US605842A,1898-06-21,Electrically-heated charge for cartridges or shells,"['ADV', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,8,"['electrically-heated', 'charge', 'for', 'cartridges', 'or', 'shells']",1
-US607114A,1898-07-12,enyart,['ADJ'],[],0,0,1,['enyart'],1
-US607402A,1898-07-12,Pneumatic tire,"['ADJ', 'NOUN']",[],0,0,2,"['pneumatic', 'tire']",1
-US607616A,1898-07-19,Mechanical movement,"['ADJ', 'NOUN']",[],0,0,2,"['mechanical', 'movement']",1
-US607657A,1898-07-19,esmond,['NOUN'],[],0,0,1,['esmond'],1
-US607734A,1898-07-19,Shirt,['NOUN'],[],0,0,1,['shirt'],1
-US607740A,1898-07-19,Steam-trap and boiler-feeder,"['NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['steam-trap', 'and', 'boiler-feeder']",1
-US608150A,1898-07-26,Dental plugger,"['ADJ', 'NOUN']",[],0,0,2,"['dental', 'plugger']",1
-US608741A,1898-08-09,Sounding-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['sounding-machine'],1
-US609204A,1898-08-16,Oil-cup,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['oil-cup'],1
-US609564A,1898-08-23,Cuff-button,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['cuff-button'],1
-US609615A,1898-08-23,fuller,['NOUN'],[],0,0,1,['fuller'],1
-US609975A,1898-08-30,Saddle and girth connection,"['NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,4,"['saddle', 'and', 'girth', 'connection']",1
-US610399A,1898-09-06,Door-holder,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['door-holder'],1
-US610454A,1898-09-06,Linotype-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['linotype-machine'],1
-US610528A,1898-09-13,Pneumatic-despatch tube,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['pneumatic-despatch', 'tube']",1
-US610812A,1898-09-13,hepburn,['VERB'],[],0,0,1,['hepburn'],1
-US611277A,1898-09-27,reinecker,['VERB'],[],0,0,1,['reinecker'],1
-US611283A,1898-09-27,The noh,"['DET', 'NOUN']",[],0,0,2,"['the', 'noh']",1
-US611311A,1898-09-27,Hoisting-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['hoisting-machine'],1
-US612256A,1898-10-11,Painters roof-bracket,"['NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['painters', 'roof-bracket']",1
-US612294A,1898-10-11,Threshing-machine,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,['threshing-machine'],1
-US612440A,1898-10-18,Bridle-bit,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['bridle-bit'],1
-US612690A,1898-10-18,Framing-square,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['framing-square'],1
-US612840A,1898-10-25,Gear-tooth,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['gear-tooth'],1
-US612920A,1898-10-25,Water-cycle,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['water-cycle'],1
-US613008A,1898-10-25,Boring and mortising machine,"['ADJ', 'CCONJ', 'VERB', 'NOUN']",[],0,0,4,"['boring', 'and', 'mortising', 'machine']",1
-US613161A,1898-10-25,Hand-stamp,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['hand-stamp'],1
-US613272A,1898-11-01,Motor-driven vehicle,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['motor-driven', 'vehicle']",1
-US613320A,1898-11-01,Station-indicator,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['station-indicator'],1
-US613390A,1898-11-01,Gas engine,"['NOUN', 'NOUN']",[],0,0,2,"['gas', 'engine']",1
-US613561A,1898-11-01,Wheel-tire for bicycles or other vehicles,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,8,"['wheel-tire', 'for', 'bicycles', 'or', 'other', 'vehicles']",1
-US641650A,1899-01-30,Dampening-machine.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['dampening-machine.'],1
+US605449A,1898-06-07,Presser-foot andthroat-plate for,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,7,"['presser-foot', 'andthroat-plate', 'for']",1
+US605619A,1898-06-14,wentscher,['ADP'],[],0,0,1,['wentscher'],1
+US605899A,1898-06-21,Gable-do or,"['ADJ', 'PUNCT', 'VERB', 'CCONJ']",[],0,0,4,"['gable-do', 'or']",1
+US606747A,1898-07-05,Attachment for,"['NOUN', 'ADP']",[],0,0,2,"['attachment', 'for']",1
+US606944A,1898-07-05,Interlocking device for,"['VERB', 'NOUN', 'ADP']",[],0,0,3,"['interlocking', 'device', 'for']",1
+US607193A,1898-07-12,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US607579A,1898-07-19,wieland,['CCONJ'],[],0,0,1,['wieland'],1
+US607598A,1898-07-19,Grain-separating screen for th resh ing-ivlach in es,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,12,"['grain-separating', 'screen', 'for', 'th', 'resh', 'ing-ivlach', 'in', 'es']",1
+US607645A,1898-07-19,Case for,"['NOUN', 'ADP']",[],0,0,2,"['case', 'for']",1
+US608807A,1898-08-09,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US609008A,1898-08-16,Device for,"['NOUN', 'ADP']",[],0,0,2,"['device', 'for']",1
+US609209A,1898-08-16,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US609289A,1898-08-16,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US609934A,1898-08-30,Tke nor,"['VERB', 'CCONJ']",[],0,0,2,"['tke', 'nor']",1
+US611208A,1898-09-20,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US611709A,1898-10-04,Half to w,"['NOUN', 'ADP', 'ADP']",['CARDINAL'],0,0,3,"['half', 'to', 'w']",1
+US613304A,1898-11-01,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US613403A,1898-11-01,Aftachmenf for,"['ADV', 'ADP']",[],0,0,2,"['aftachmenf', 'for']",1
+US613635A,1898-11-01,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US615598A,1898-12-06,Dump-wag on,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['dump-wag', 'on']",1
+US615888A,1898-12-13,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US615965A,1898-12-13,Stay for,"['VERB', 'ADP']",[],0,0,2,"['stay', 'for']",1
+US616904A,1899-01-03,Mounting for rimless eyeglasses or,"['VERB', 'ADP', 'ADJ', 'NOUN', 'CCONJ']",[],0,0,5,"['mounting', 'for', 'rimless', 'eyeglasses', 'or']",1
+US617550A,1899-01-10,Johannes appel,"['NOUN', 'ADP']",['ORG'],0,0,2,"['johannes', 'appel']",1
+US617652A,1899-01-10,Administrator of,"['NOUN', 'ADP']",[],0,0,2,"['administrator', 'of']",1
+US617791A,1899-01-17,Self-soaping washboard,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['self-soaping', 'washboard']",1
+US617947A,1899-01-17,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US618385A,1899-01-24,Claes wm,"['NOUN', 'ADP']",['ORG'],0,0,2,"['claes', 'wm']",1
+US618760A,1899-01-31,Eyeglasses or,"['NOUN', 'CCONJ']",[],0,0,2,"['eyeglasses', 'or']",1
+US619163A,1899-02-07,Attachment for,"['NOUN', 'ADP']",[],0,0,2,"['attachment', 'for']",1
+US619578A,1899-02-14,Eyeglasses or,"['NOUN', 'CCONJ']",[],0,0,2,"['eyeglasses', 'or']",1
+US619870A,1899-02-21,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US619883A,1899-02-21,Administrator of,"['NOUN', 'ADP']",[],0,0,2,"['administrator', 'of']",1
+US619884A,1899-02-21,Administrator of,"['NOUN', 'ADP']",[],0,0,2,"['administrator', 'of']",1
+US621498A,1899-03-21,Hand tool for,"['NOUN', 'NOUN', 'ADP']",[],0,0,3,"['hand', 'tool', 'for']",1
+US621500A,1899-03-21,Half to w,"['NOUN', 'ADP', 'ADP']",['CARDINAL'],0,0,3,"['half', 'to', 'w']",1
+US621652A,1899-03-21,Administrator of,"['NOUN', 'ADP']",[],0,0,2,"['administrator', 'of']",1
+US621723A,1899-03-21,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US621735A,1899-03-21,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US622139A,1899-03-28,Administrator of,"['NOUN', 'ADP']",[],0,0,2,"['administrator', 'of']",1
+US623332A,1899-04-18,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US623358A,1899-04-18,Otis w,"['NOUN', 'ADP']",[],0,0,2,"['otis', 'w']",1
+US623409A,1899-04-18,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US624371A,1899-05-02,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US624640A,1899-05-09,Shield for,"['NOUN', 'ADP']",[],0,0,2,"['shield', 'for']",1
+US625159A,1899-05-16,On,['ADP'],[],0,0,1,['on'],1
+US625196A,1899-05-16,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US625245A,1899-05-16,Mounting for lenses of frameless eyeglasses or,"['VERB', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ']",[],0,0,7,"['mounting', 'for', 'lenses', 'of', 'frameless', 'eyeglasses', 'or']",1
+US625715A,1899-05-23,Half to w,"['NOUN', 'ADP', 'ADP']",['CARDINAL'],0,0,3,"['half', 'to', 'w']",1
+US625733A,1899-05-30,Means for,"['VERB', 'ADP']",[],0,0,2,"['means', 'for']",1
+US626475A,1899-06-06,Door or closure for,"['NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,4,"['door', 'or', 'closure', 'for']",1
+US626736A,1899-06-13,Thirds to w,"['NOUN', 'ADP', 'ADP']",[],0,0,3,"['thirds', 'to', 'w']",1
+US626790A,1899-06-13,Attachment for,"['NOUN', 'ADP']",[],0,0,2,"['attachment', 'for']",1
+US626846A,1899-06-13,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US627052A,1899-06-13,Device for,"['NOUN', 'ADP']",[],0,0,2,"['device', 'for']",1
+US627102A,1899-06-20,Attachment for eyeglasses or,"['NOUN', 'ADP', 'NOUN', 'CCONJ']",[],0,0,4,"['attachment', 'for', 'eyeglasses', 'or']",1
+US647671A,1900-04-17,Half to w,"['NOUN', 'ADP', 'ADP']",['CARDINAL'],0,0,3,"['half', 'to', 'w']",1
+US614165A,1898-11-15,Eyeglass or,"['NOUN', 'CCONJ']",['PERSON'],0,1,2,"['eyeglass', 'or']",1
+US624603A,1899-05-09,Eyeglass or,"['NOUN', 'CCONJ']",['PERSON'],0,1,2,"['eyeglass', 'or']",1
+US624887A,1899-05-09,Eyeglass or,"['NOUN', 'CCONJ']",['PERSON'],0,1,2,"['eyeglass', 'or']",1

@@ -1,29 +1,23 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings
-US736676A,1902-01-16,Machinery for manufacturing patterned linoleum.,"['NOUN', 'ADP', 'VERB', 'VERB', 'NOUN', 'PUNCT']",[],0,0,7,"['machinery', 'for', 'manufacturing', 'patterned', 'linoleum.']",1
-US737279A,1902-06-16,Steam-generator.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['steam-generator.'],1
-US737816A,1902-12-19,Elastic tire for vehicles.,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,6,"['elastic', 'tire', 'for', 'vehicles.']",1
-US738020A,1903-07-02,Vehicle-seat.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['vehicle-seat.'],1
-US738105A,1900-12-13,Attachment for plows.,"['NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,5,"['attachment', 'for', 'plows.']",1
-US738325A,1902-12-17,Reamer for oil or artesian wells.,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'PUNCT']",[],0,0,8,"['reamer', 'for', 'oil', 'or', 'artesian', 'wells.']",1
-US738386A,1902-08-05,Vending-machine.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['vending-machine.'],1
-US738406A,1903-01-02,Brick-machine.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['brick-machine.'],1
-US738600A,1902-12-01,Postage-stamp holder.,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,"['postage-stamp', 'holder.']",1
-US738837A,1899-05-31,Liquid-power-transmitting apparatus.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT']",[],0,0,8,"['liquid-power-transmitting', 'apparatus.']",1
-US738863A,1903-07-31,Dumping-box for vehicles.,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,7,"['dumping-box', 'for', 'vehicles.']",1
-US738943A,1902-11-13,Combined communication-sheet and envelop.,"['VERB', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],0,0,8,"['combined', 'communication-sheet', 'and', 'envelop.']",1
-US739132A,1902-06-13,Needle-bar mechanism for sewing-machines.,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,10,"['needle-bar', 'mechanism', 'for', 'sewing-machines.']",1
-US739143A,1903-01-31,Oil-stove.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['oil-stove.'],1
-US739317A,1903-03-07,Disinfectant-block.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['disinfectant-block.'],1
-US739626A,1902-07-15,Type-writing machine.,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,"['type-writing', 'machine.']",1
-US739947A,1902-01-02,Circuit-breaker.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['circuit-breaker.'],1
-US740124A,1903-04-01,Heel for boots or shoes.,"['VERB', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],0,0,7,"['heel', 'for', 'boots', 'or', 'shoes.']",1
-US740210A,1903-01-15,Pump mechanism for automobiles.,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,6,"['pump', 'mechanism', 'for', 'automobiles.']",1
-US740612A,1902-06-27,Wire or like cutter.,"['ADJ', 'CCONJ', 'ADP', 'NOUN', 'PUNCT']",[],0,0,6,"['wire', 'or', 'like', 'cutter.']",1
-US741177A,1902-08-07,Fence-machine.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['fence-machine.'],1
-US741587A,1902-11-28,Motor road-vehicle.,"['NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,6,"['motor', 'road-vehicle.']",1
-US741884A,1903-08-17,Pneumatic action and coupler for organs.,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,8,"['pneumatic', 'action', 'and', 'coupler', 'for', 'organs.']",1
-US742166A,1902-08-30,Mold for concrete posts.,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT']",[],0,0,6,"['mold', 'for', 'concrete', 'posts.']",1
-US742662A,1902-10-30,Glass-blowing machine.,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT']",['PERSON'],0,1,6,"['glass-blowing', 'machine.']",1
-US764560A,1903-10-05,Step-bearing for shingle-machine arbors.,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,10,"['step-bearing', 'for', 'shingle-machine', 'arbors.']",1
-US764566A,1903-10-05,Can closure and spout.,"['AUX', 'VERB', 'CCONJ', 'NOUN', 'PUNCT']",[],0,0,6,"['can', 'closure', 'and', 'spout.']",1
-US764568A,1904-04-27,Dump-car.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['dump-car.'],1
+US748609A,1904-01-05,Thirds to ma as,"['NOUN', 'ADP', 'PROPN', 'ADP']",[],1,0,4,"['thirds', 'to', 'ma', 'as']",1
+US749111A,1904-01-05,On,['ADP'],[],0,0,1,['on'],1
+US749706A,1904-01-12,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US749778A,1904-01-19,Administrator of,"['NOUN', 'ADP']",[],0,0,2,"['administrator', 'of']",1
+US750029A,1904-01-19,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US750188A,1904-01-19,Administrator of,"['NOUN', 'ADP']",[],0,0,2,"['administrator', 'of']",1
+US750411A,1904-01-26,A coepoeation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'coepoeation', 'of']",1
+US750629A,1904-01-26,Instrument for determining the position of cutters on,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,8,"['instrument', 'for', 'determining', 'the', 'position', 'of', 'cutters', 'on']",1
+US750637A,1904-01-26,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US751022A,1904-02-02,A coepoeation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'coepoeation', 'of']",1
+US751277A,1904-02-02,Chaeles w,"['NOUN', 'ADP']",[],0,0,2,"['chaeles', 'w']",1
+US751486A,1904-02-09,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US751804A,1904-02-09,A coepoeation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'coepoeation', 'of']",1
+US752239A,1904-02-16,A coepoeation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'coepoeation', 'of']",1
+US752797A,1904-02-23,A coepoeation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'coepoeation', 'of']",1
+US753014A,1904-02-23,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US753401A,1904-03-01,A coepoeation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'coepoeation', 'of']",1
+US770476A,1904-09-20,Cutter for,"['NOUN', 'ADP']",[],0,0,2,"['cutter', 'for']",1
+US770482A,1904-09-20,A coeporation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'coeporation', 'of']",1
+US770483A,1904-09-20,A coepoeation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'coepoeation', 'of']",1
+US750017A,1904-01-19,Eyeglass or,"['NOUN', 'CCONJ']",['PERSON'],0,1,2,"['eyeglass', 'or']",1
+US751418A,1904-02-02,Eyeglass or,"['NOUN', 'CCONJ']",['PERSON'],0,1,2,"['eyeglass', 'or']",1

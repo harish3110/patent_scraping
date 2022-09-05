@@ -22,6 +22,7 @@ US600119A,1898-03-01,cahill,['ADV'],[],0,0,1,['cahill'],0
 US600120A,1898-03-01,cihill,['VERB'],[],0,0,1,['cihill'],0
 US600121A,1898-03-01,Island,['NOUN'],[],0,0,1,['island'],0
 US600124A,1898-03-01,Broom,['NOUN'],[],0,0,1,['broom'],0
+US600128A,1898-03-01,Machine,['NOUN'],[],0,0,1,['machine'],0
 US600141A,1898-03-08,dabby,['NOUN'],[],0,0,1,['dabby'],0
 US600164A,1898-03-08,north,['ADV'],[],0,0,1,['north'],0
 US600168A,1898-03-08,brown,['ADJ'],[],0,0,1,['brown'],0
@@ -175,6 +176,7 @@ US601411A,1898-03-29,cijmming,['VERB'],[],0,0,1,['cijmming'],0
 US601427A,1898-03-29,Churn,['VERB'],[],0,0,1,['churn'],0
 US601428A,1898-03-29,Puzzle,['NOUN'],[],0,0,1,['puzzle'],0
 US601461A,1898-03-29,Machine,['NOUN'],[],0,0,1,['machine'],0
+US601470A,1898-03-29,Calculator,['NOUN'],[],0,0,1,['calculator'],0
 US601475A,1898-03-29,Canister,['NOUN'],[],0,0,1,['canister'],0
 US601485A,1898-03-29,Island,['NOUN'],[],0,0,1,['island'],0
 US601487A,1898-03-29,Island,['NOUN'],[],0,0,1,['island'],0
@@ -312,6 +314,7 @@ US602461A,1898-04-19,Bicycle,['NOUN'],[],0,0,1,['bicycle'],0
 US602471A,1898-04-19,pinkeam,['VERB'],[],0,0,1,['pinkeam'],0
 US602478A,1898-04-19,Doubletree,['NOUN'],[],0,0,1,['doubletree'],0
 US602504A,1898-04-19,Wheelbarrow,['VERB'],[],0,0,1,['wheelbarrow'],0
+US602508A,1898-04-19,kiehl,['NOUN'],[],0,0,1,['kiehl'],0
 US602519A,1898-04-19,Tlethwaite,['VERB'],[],0,0,1,['tlethwaite'],0
 US602523A,1898-04-19,Aedsox,['ADV'],[],0,0,1,['aedsox'],0
 US602526A,1898-04-19,Springs,['NOUN'],[],0,0,1,['springs'],0
@@ -536,6 +539,7 @@ US604247A,1898-05-17,Island,['NOUN'],[],0,0,1,['island'],0
 US604262A,1898-05-17,brown,['ADJ'],[],0,0,1,['brown'],0
 US604265A,1898-05-17,Lubricator,['NOUN'],[],0,0,1,['lubricator'],0
 US604277A,1898-05-17,tofft,['NOUN'],[],0,0,1,['tofft'],0
+US604283A,1898-05-17,Pulverizer,['NOUN'],[],0,0,1,['pulverizer'],0
 US604290A,1898-05-17,bailey,['NOUN'],[],0,0,1,['bailey'],0
 US604299A,1898-05-17,carver,['NOUN'],[],0,0,1,['carver'],0
 US604306A,1898-05-17,Island,['NOUN'],[],0,0,1,['island'],0
@@ -721,7 +725,6 @@ US605601A,1898-06-14,emery,['NOUN'],[],0,0,1,['emery'],0
 US605602A,1898-06-14,emery,['NOUN'],[],0,0,1,['emery'],0
 US605603A,1898-06-14,emery,['NOUN'],[],0,0,1,['emery'],0
 US605605A,1898-06-14,Tifant,['ADJ'],[],0,0,1,['tifant'],0
-US605619A,1898-06-14,wentscher,['ADP'],[],0,0,1,['wentscher'],0
 US605621A,1898-06-14,Pattkrsox,['NOUN'],[],0,0,1,['pattkrsox'],0
 US605625A,1898-06-14,Awning,['NOUN'],[],0,0,1,['awning'],0
 US605637A,1898-06-14,Ments,['NOUN'],[],0,0,1,['ments'],0
@@ -912,6 +915,7 @@ US607083A,1898-07-12,roche,['VERB'],[],0,0,1,['roche'],0
 US607095A,1898-07-12,compositions,['NOUN'],[],0,0,1,['compositions'],0
 US607106A,1898-07-12,Bicycle,['NOUN'],[],0,0,1,['bicycle'],0
 US607111A,1898-07-12,clunies,['NOUN'],[],0,0,1,['clunies'],0
+US607114A,1898-07-12,enyart,['ADJ'],[],0,0,1,['enyart'],0
 US607122A,1898-07-12,murray,['VERB'],[],0,0,1,['murray'],0
 US607129A,1898-07-12,potter,['NOUN'],[],0,0,1,['potter'],0
 US607155A,1898-07-12,Filter,['NOUN'],[],0,0,1,['filter'],0
@@ -970,7 +974,6 @@ US607546A,1898-07-19,milner,['NOUN'],[],0,0,1,['milner'],0
 US607550A,1898-07-19,porteous,['ADJ'],[],0,0,1,['porteous'],0
 US607569A,1898-07-19,murphy,['NOUN'],[],0,0,1,['murphy'],0
 US607570A,1898-07-19,litho,['NOUN'],[],0,0,1,['litho'],0
-US607579A,1898-07-19,wieland,['CCONJ'],[],0,0,1,['wieland'],0
 US607582A,1898-07-19,barron,['NOUN'],[],0,0,1,['barron'],0
 US607588A,1898-07-19,Phonograph,['NOUN'],[],0,0,1,['phonograph'],0
 US607593A,1898-07-19,savers,['NOUN'],[],0,0,1,['savers'],0
@@ -981,12 +984,14 @@ US607643A,1898-07-19,delette,['VERB'],[],0,0,1,['delette'],0
 US607644A,1898-07-19,lagneau,['NOUN'],[],0,0,1,['lagneau'],0
 US607651A,1898-07-19,blossom,['NOUN'],[],0,0,1,['blossom'],0
 US607654A,1898-07-19,Laere,['ADJ'],[],0,0,1,['laere'],0
+US607657A,1898-07-19,esmond,['NOUN'],[],0,0,1,['esmond'],0
 US607660A,1898-07-19,Heater,['NOUN'],[],0,0,1,['heater'],0
 US607666A,1898-07-19,Island,['NOUN'],[],0,0,1,['island'],0
 US607667A,1898-07-19,Equalizing,['NOUN'],[],0,0,1,['equalizing'],0
 US607681A,1898-07-19,cochrane,['NOUN'],[],0,0,1,['cochrane'],0
 US607700A,1898-07-19,Jlaijtlni,['ADJ'],[],0,0,1,['jlaijtlni'],0
 US607713A,1898-07-19,Horseshoe,['NOUN'],[],0,0,1,['horseshoe'],0
+US607734A,1898-07-19,Shirt,['NOUN'],[],0,0,1,['shirt'],0
 US607735A,1898-07-19,Puzzle,['NOUN'],[],0,0,1,['puzzle'],0
 US607753A,1898-07-19,lawrason,['NOUN'],[],0,0,1,['lawrason'],0
 US607758A,1898-07-19,mascord,['NOUN'],[],0,0,1,['mascord'],0
@@ -1211,6 +1216,7 @@ US609604A,1898-08-23,Territory,['NOUN'],[],0,0,1,['territory'],0
 US609608A,1898-08-23,clarke,['NOUN'],[],0,0,1,['clarke'],0
 US609613A,1898-08-23,docteur,['NOUN'],[],0,0,1,['docteur'],0
 US609614A,1898-08-23,Electrical,['ADJ'],[],0,0,1,['electrical'],0
+US609615A,1898-08-23,fuller,['NOUN'],[],0,0,1,['fuller'],0
 US609627A,1898-08-23,Territory,['NOUN'],[],0,0,1,['territory'],0
 US609628A,1898-08-23,Btjsh,['NOUN'],[],0,0,1,['btjsh'],0
 US609630A,1898-08-23,rosback,['VERB'],[],0,0,1,['rosback'],0
@@ -1368,6 +1374,7 @@ US610789A,1898-09-13,Colander,['NOUN'],[],0,0,1,['colander'],0
 US610791A,1898-09-13,beesley,['NOUN'],[],0,0,1,['beesley'],0
 US610795A,1898-09-13,Stove,['VERB'],[],0,0,1,['stove'],0
 US610799A,1898-09-13,clark,['NOUN'],[],0,0,1,['clark'],0
+US610812A,1898-09-13,hepburn,['VERB'],[],0,0,1,['hepburn'],0
 US610845A,1898-09-13,freitag,['NOUN'],[],0,0,1,['freitag'],0
 US610856A,1898-09-13,Locomotive,['ADJ'],[],0,0,1,['locomotive'],0
 US610860A,1898-09-13,Caster,['NOUN'],[],0,0,1,['caster'],0
@@ -1418,6 +1425,7 @@ US611189A,1898-09-20,Trunk,['NOUN'],[],0,0,1,['trunk'],0
 US611195A,1898-09-20,butler,['NOUN'],[],0,0,1,['butler'],0
 US611216A,1898-09-20,harrison,['NOUN'],[],0,0,1,['harrison'],0
 US611245A,1898-09-27,glidden,['VERB'],[],0,0,1,['glidden'],0
+US611277A,1898-09-27,reinecker,['VERB'],[],0,0,1,['reinecker'],0
 US611291A,1898-09-27,Island,['NOUN'],[],0,0,1,['island'],0
 US611299A,1898-09-27,cudaback,['NOUN'],[],0,0,1,['cudaback'],0
 US611301A,1898-09-27,weddel,['NOUN'],[],0,0,1,['weddel'],0
@@ -3292,7 +3300,6 @@ US625110A,1899-05-16,Excavator,['NOUN'],[],0,0,1,['excavator'],0
 US625119A,1899-05-16,Churn,['VERB'],[],0,0,1,['churn'],0
 US625143A,1899-05-16,busky,['ADJ'],[],0,0,1,['busky'],0
 US625146A,1899-05-16,Relay,['VERB'],[],0,0,1,['relay'],0
-US625159A,1899-05-16,On,['ADP'],[],0,0,1,['on'],0
 US625172A,1899-05-16,lamplough,['NOUN'],[],0,0,1,['lamplough'],0
 US625183A,1899-05-16,mersch,['VERB'],[],0,0,1,['mersch'],0
 US625187A,1899-05-16,Button,['NOUN'],[],0,0,1,['button'],0

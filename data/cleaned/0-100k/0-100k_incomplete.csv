@@ -1,675 +1,583 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings
-US661A,1838-03-28 00:00:00,Mode of making metallic combs,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],1,0,5,"['mode', 'of', 'making', 'metallic', 'combs']",1
-US1093A,1839-03-04 00:00:00,Apparatus for buying flour and other,"['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ']",[],1,0,6,"['apparatus', 'for', 'buying', 'flour', 'and', 'other']",1
-US1140A,1839-05-03 00:00:00,Attger for boring earth,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,"['attger', 'for', 'boring', 'earth']",1
-US1258A,1839-07-22 00:00:00,Improvement in hay-rakes and g rai n-harrows,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'PROPN', 'CCONJ', 'PROPN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,11,"['improvement', 'in', 'hay-rakes', 'and', 'g', 'rai', 'n-harrows']",1
-US1458A,1839-12-31 00:00:00,Mode oe cutting- seats,"['PROPN', 'PROPN', 'ADJ', 'NOUN']",[],1,0,4,"['mode', 'oe', 'cutting-', 'seats']",1
+US249A,1837-06-30 00:00:00,Opettf itkeplace ob,"['PROPN', 'NOUN', 'ADP']",[],1,0,3,"['opettf', 'itkeplace', 'ob']",1
+US264A,1837-07-11 00:00:00,Apparatus ob machinery employed in the manufacture of carbonate of,"['PROPN', 'ADP', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],1,0,10,"['apparatus', 'ob', 'machinery', 'employed', 'in', 'the', 'manufacture', 'of', 'carbonate', 'of']",1
+US267A,1837-07-11 00:00:00,Mcode of hanging ob suspending a band-wheel in those hobse-powebs in,"['PROPN', 'ADP', 'VERB', 'ADP', 'VERB', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP']","['ORG', 'ORG']",1,0,15,"['mcode', 'of', 'hanging', 'ob', 'suspending', 'a', 'band-wheel', 'in', 'those', 'hobse-powebs', 'in']",1
+US352A,1837-08-15 00:00:00,Mode of preventing thread from going to waste in machinery for,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'PART', 'VERB', 'ADP', 'NOUN', 'ADP']",[],1,0,11,"['mode', 'of', 'preventing', 'thread', 'from', 'going', 'to', 'waste', 'in', 'machinery', 'for']",1
+US358A,1837-08-16 00:00:00,Ximproved m mode of,"['PROPN', 'PROPN', 'NOUN', 'ADP']",[],1,0,4,"['ximproved', 'm', 'mode', 'of']",1
+US410A,1837-09-25 00:00:00,Method of setting axletrees and in the machinery used therefor,"['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADP', 'DET', 'NOUN', 'VERB', 'ADP']",[],1,0,10,"['method', 'of', 'setting', 'axletrees', 'and', 'in', 'the', 'machinery', 'used', 'therefor']",1
+US587A,1838-01-27 00:00:00,Machine eor cutting ok,"['NOUN', 'PROPN', 'VERB', 'ADP']",[],1,0,4,"['machine', 'eor', 'cutting', 'ok']",1
+US971A,1838-10-08 00:00:00,Mode of pbeventing dust from rising from threshing-machines when in,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'SCONJ', 'ADP']",[],1,0,12,"['mode', 'of', 'pbeventing', 'dust', 'from', 'rising', 'from', 'threshing-machines', 'when', 'in']",1
+US1118A,1839-04-10 00:00:00,Mode of preventing accidents from the explosions oe stbaiff-boiless by,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],1,0,12,"['mode', 'of', 'preventing', 'accidents', 'from', 'the', 'explosions', 'oe', 'stbaiff-boiless', 'by']",1
+US1130A,1839-04-20 00:00:00,Mode of preparing the glasses and constructing ti-ie frames of,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'CCONJ', 'VERB', 'VERB', 'PUNCT', 'X', 'NOUN', 'ADP']",[],1,0,12,"['mode', 'of', 'preparing', 'the', 'glasses', 'and', 'constructing', 'ti-ie', 'frames', 'of']",1
+US1170A,1839-06-07 00:00:00,Mode of preventing friction and adhesion in the steps ob gudgeons of,"['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],1,0,12,"['mode', 'of', 'preventing', 'friction', 'and', 'adhesion', 'in', 'the', 'steps', 'ob', 'gudgeons', 'of']",1
+US1222A,1839-07-08 00:00:00,Brake ob appabatus fob aebesting the motion of carriage-wheels in,"['PROPN', 'NOUN', 'NOUN', 'ADV', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],1,0,12,"['brake', 'ob', 'appabatus', 'fob', 'aebesting', 'the', 'motion', 'of', 'carriage-wheels', 'in']",1
+US1386A,1839-10-31 00:00:00,Drag for removing stones aktd other obstructions from the bottoms of,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PROPN', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,11,"['drag', 'for', 'removing', 'stones', 'aktd', 'other', 'obstructions', 'from', 'the', 'bottoms', 'of']",1
+US1390A,1839-10-31 00:00:00,Mode of constructing the bearings and oil-boxes for the journals of,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,13,"['mode', 'of', 'constructing', 'the', 'bearings', 'and', 'oil-boxes', 'for', 'the', 'journals', 'of']",1
+US1443A,1839-12-27 00:00:00,Mode of constructing sockets for,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['mode', 'of', 'constructing', 'sockets', 'for']",1
 US1512A,1840-03-12 00:00:00,Mode of constructing cabs or carriages for railedabs and also a mode of,"['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADV', 'DET', 'NOUN', 'ADP']",[],1,0,13,"['mode', 'of', 'constructing', 'cabs', 'or', 'carriages', 'for', 'railedabs', 'and', 'also', 'a', 'mode', 'of']",1
-US1531A,1840-03-31 00:00:00,Kockiltor-chaib,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['kockiltor-chaib'],1
-US1654A,1840-06-27 00:00:00,Manner of constructing dies for making door and other knobs,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,10,"['manner', 'of', 'constructing', 'dies', 'for', 'making', 'door', 'and', 'other', 'knobs']",1
-US1690A,1840-07-15 00:00:00,Plamtng-machibte,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['plamtng-machibte'],1
-US1722A,1840-08-12 00:00:00,Alaem-lock foe boors to prevent btteglaey,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'PART', 'VERB', 'PROPN']",['PERSON'],1,1,8,"['alaem-lock', 'foe', 'boors', 'to', 'prevent', 'btteglaey']",1
-US1845A,1840-10-31 00:00:00,Ixing garl-ic f from wheat,"['VERB', 'PROPN', 'PUNCT', 'NOUN', 'PROPN', 'ADP', 'NOUN']",[],1,0,7,"['ixing', 'garl-ic', 'f', 'from', 'wheat']",1
-US1859A,1840-11-26 00:00:00,Musical instrument entitled the xvocal o organ,"['ADJ', 'NOUN', 'VERB', 'DET', 'PROPN', 'PROPN', 'NOUN']",[],1,0,7,"['musical', 'instrument', 'entitled', 'the', 'xvocal', 'o', 'organ']",1
-US1925A,1841-01-05 00:00:00,Apparatus for steering steamboats,"['PROPN', 'ADP', 'NOUN', 'NOUN']",[],1,0,4,"['apparatus', 'for', 'steering', 'steamboats']",1
-US1946A,1841-01-23 00:00:00,Construction of cobn-shellees,"['NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,5,"['construction', 'of', 'cobn-shellees']",1
-US1960A,1841-01-30 00:00:00,Manner of constructing gridirons,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,"['manner', 'of', 'constructing', 'gridirons']",1
-US2035A,1841-04-02 00:00:00,Mode of manufacturing corselets for medicinal and other purposes,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,9,"['mode', 'of', 'manufacturing', 'corselets', 'for', 'medicinal', 'and', 'other', 'purposes']",1
-US2148A,1841-06-26 00:00:00,Method of constructing a machine foe hulling- bice and other grain,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'NOUN', 'ADJ', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,11,"['method', 'of', 'constructing', 'a', 'machine', 'foe', 'hulling-', 'bice', 'and', 'other', 'grain']",1
-US2177A,1841-07-16 00:00:00,Shoemaker s pabihg-kntee,"['PROPN', 'PART', 'NOUN', 'PUNCT', 'NOUN']",['NORP'],1,0,5,"['shoemaker', 's', 'pabihg-kntee']",1
-US2388A,1841-12-14 00:00:00,Manner of combining coking-ovens and boilers fob,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'VERB']",[],1,0,9,"['manner', 'of', 'combining', 'coking-ovens', 'and', 'boilers', 'fob']",1
-US2475A,1842-02-28 00:00:00,Manweb of ccotstbtrctiltg apparatus fob abbestiltgr spabks,"['PROPN', 'ADP', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'NOUN']",[],1,0,7,"['manweb', 'of', 'ccotstbtrctiltg', 'apparatus', 'fob', 'abbestiltgr', 'spabks']",1
-US2744A,1842-08-02 00:00:00,Powek-loom for weavisra,"['PROPN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],1,0,5,"['powek-loom', 'for', 'weavisra']",1
-US2957A,1843-02-16 00:00:00,Churn-dashee,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['churn-dashee'],1
+US1542A,1840-04-08 00:00:00,Mode of constructing chairs for sustaining and holding the rails for,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'DET', 'NOUN', 'ADP']",[],1,0,11,"['mode', 'of', 'constructing', 'chairs', 'for', 'sustaining', 'and', 'holding', 'the', 'rails', 'for']",1
+US1707A,1840-07-31 00:00:00,Mariner s and surveyor s compass for,"['PROPN', 'PART', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'ADP']",['ORG'],1,0,7,"['mariner', 's', 'and', 'surveyor', 's', 'compass', 'for']",1
+US1852A,1840-11-10 00:00:00,Manner of constructing and shifting the switches used at turnouts on,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'ADP']",[],1,0,11,"['manner', 'of', 'constructing', 'and', 'shifting', 'the', 'switches', 'used', 'at', 'turnouts', 'on']",1
+US1880A,1840-12-05 00:00:00,Mode op iffieasubing the human body eob the dbaeting and ctjttina of,"['PROPN', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN', 'VERB', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,12,"['mode', 'op', 'iffieasubing', 'the', 'human', 'body', 'eob', 'the', 'dbaeting', 'and', 'ctjttina', 'of']",1
+US1941A,1841-01-23 00:00:00,Method of manufacturing ob,"['PROPN', 'ADP', 'NOUN', 'ADP']",[],1,0,4,"['method', 'of', 'manufacturing', 'ob']",1
+US2073A,1841-05-04 00:00:00,Manner of constructing machines for,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['manner', 'of', 'constructing', 'machines', 'for']",1
+US2295A,1841-10-11 00:00:00,Manner of actuating a fly-wheel ob,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],1,0,8,"['manner', 'of', 'actuating', 'a', 'fly-wheel', 'ob']",1
+US2308A,1841-10-11 00:00:00,Method of constructing the flues of elevated ovens to be combined with,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PART', 'AUX', 'VERB', 'ADP']",[],1,0,12,"['method', 'of', 'constructing', 'the', 'flues', 'of', 'elevated', 'ovens', 'to', 'be', 'combined', 'with']",1
+US2392A,1841-12-14 00:00:00,Method of opening- and closing waste-gates for,"['PROPN', 'ADP', 'ADJ', 'CCONJ', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],1,0,9,"['method', 'of', 'opening-', 'and', 'closing', 'waste-gates', 'for']",1
+US2444A,1842-02-01 00:00:00,Mode oe stbainiito saws for,"['PROPN', 'PROPN', 'NOUN', 'NOUN', 'ADP']",[],1,0,5,"['mode', 'oe', 'stbainiito', 'saws', 'for']",1
+US2472A,1842-02-28 00:00:00,Appaeatus employed in,"['PROPN', 'VERB', 'ADP']",[],1,0,3,"['appaeatus', 'employed', 'in']",1
+US2925A,1843-01-20 00:00:00,Razor hone or,"['PROPN', 'NOUN', 'CCONJ']",[],1,0,3,"['razor', 'hone', 'or']",1
+US2951A,1843-02-10 00:00:00,norris and w,"['PROPN', 'CCONJ', 'ADP']",[],1,0,3,"['norris', 'and', 'w']",1
 US3274A,1843-09-23 00:00:00,Method of coupling the forward axletree of four-wheel carriages with,"['PROPN', 'ADP', 'VERB', 'DET', 'ADV', 'NOUN', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'NOUN', 'ADP']",['CARDINAL'],1,0,12,"['method', 'of', 'coupling', 'the', 'forward', 'axletree', 'of', 'four-wheel', 'carriages', 'with']",1
-US3286A,1843-09-28 00:00:00,Tailor s measure,"['PROPN', 'PART', 'NOUN']",[],1,0,3,"['tailor', 's', 'measure']",1
-US3309A,1843-10-18 00:00:00,Weaver s loom for working any number of heddles,"['PROPN', 'PART', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN']",[],1,0,9,"['weaver', 's', 'loom', 'for', 'working', 'any', 'number', 'of', 'heddles']",1
-US3328A,1843-11-06 00:00:00,Xmachine bob m making coopebs  hoops out oe split tmbeb,"['PROPN', 'PROPN', 'AUX', 'VERB', 'NOUN', 'SPACE', 'NOUN', 'ADP', 'PRON', 'ADJ', 'NOUN']",['PERSON'],1,1,11,"['xmachine', 'bob', 'm', 'making', 'coopebs', 'hoops', 'out', 'oe', 'split', 'tmbeb']",1
-US3462A,1844-03-09 00:00:00,Improvement in india-rubber fabrics,"['NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN', 'NOUN']",['GPE'],1,0,6,"['improvement', 'in', 'india-rubber', 'fabrics']",1
-US3973A,1845-03-26 00:00:00,Xjoseph h hawkins,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3,"['xjoseph', 'h', 'hawkins']",1
-US4432A,1846-03-21 00:00:00,Lady s truss,"['PROPN', 'PART', 'NOUN']",['PERSON'],1,1,3,"['lady', 's', 'truss']",1
-US4594A,1846-06-27 00:00:00,Steaw-carriee,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['steaw-carriee'],1
-US4604A,1846-06-27 00:00:00,Apparatus for generating gas,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,"['apparatus', 'for', 'generating', 'gas']",1
-US4733A,1846-09-03 00:00:00,Ox-yoke,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['ox-yoke'],1
-US5389A,1847-12-11 00:00:00,Improvement in machinery for workingsh eet-i ron,"['NOUN', 'ADP', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'PUNCT', 'PRON', 'VERB']",[],1,0,9,"['improvement', 'in', 'machinery', 'for', 'workingsh', 'eet-i', 'ron']",1
-US5399A,1847-12-18 00:00:00,Kolliltgr and compressing puddlers  balls,"['PROPN', 'CCONJ', 'VERB', 'NOUN', 'SPACE', 'NOUN']",['GPE'],1,0,6,"['kolliltgr', 'and', 'compressing', 'puddlers', 'balls']",1
-US5704A,1848-08-10 00:00:00,Aik-heatiwg stove,"['PROPN', 'PUNCT', 'ADJ', 'NOUN']",[],1,0,4,"['aik-heatiwg', 'stove']",1
-US6027A,1849-01-09 00:00:00,Rotary blacksmith s twyer,"['PROPN', 'PROPN', 'PART', 'NOUN']",[],1,0,4,"['rotary', 'blacksmith', 's', 'twyer']",1
-US6046A,1849-01-23 00:00:00,Chuck for lathes,"['PROPN', 'ADP', 'NOUN']",['PERSON'],1,1,3,"['chuck', 'for', 'lathes']",1
-US7235A,1850-04-02 00:00:00,Habness-hame,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,3,['habness-hame'],1
-US7418A,1850-06-04 00:00:00,Htmseby-chaik,"['PROPN', 'PUNCT', 'NOUN']",['PERSON'],1,1,3,['htmseby-chaik'],1
-US7998A,1851-03-25 00:00:00,Apparatus for moving and securing shutters,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],1,0,6,"['apparatus', 'for', 'moving', 'and', 'securing', 'shutters']",1
-US8016A,1851-04-01 00:00:00,Improvement in the manufacture of india-rubber,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,8,"['improvement', 'in', 'the', 'manufacture', 'of', 'india-rubber']",1
-US8331A,1851-09-02 00:00:00,And david marsh,"['CCONJ', 'PROPN', 'PROPN']",[],1,0,3,"['and', 'david', 'marsh']",1
-US8434A,1851-10-14 00:00:00,Furnace employed in welding shanks to tools,"['PROPN', 'VERB', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",['ORG'],1,0,7,"['furnace', 'employed', 'in', 'welding', 'shanks', 'to', 'tools']",1
-US8464A,1851-10-28 00:00:00,Means for attaching augers,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,"['means', 'for', 'attaching', 'augers']",1
-US8560A,1851-12-02 00:00:00,Kailkoad-cae,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,3,['kailkoad-cae'],1
-US8664A,1852-01-20 00:00:00,Machine fob splitting katan,"['NOUN', 'PROPN', 'NOUN', 'PROPN']",[],1,0,4,"['machine', 'fob', 'splitting', 'katan']",1
-US8913A,1852-04-27 00:00:00,Sele loading and dumping car,"['PROPN', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],1,0,5,"['sele', 'loading', 'and', 'dumping', 'car']",1
-US9508A,1852-12-28 00:00:00,Method of heading screw-blanks,"['PROPN', 'ADP', 'VERB', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,6,"['method', 'of', 'heading', 'screw-blanks']",1
-US9532A,1853-01-11 00:00:00,Mode of operating circular saws,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],1,0,5,"['mode', 'of', 'operating', 'circular', 'saws']",1
-US9836A,1853-07-12 00:00:00,Presstjke-g-agke,"['PROPN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,5,['presstjke-g-agke'],1
-US10354A,1853-12-20,Improvement in sewing-m ach,"['NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,6,"['improvement', 'in', 'sewing-m', 'ach']",1
-US11292A,1854-07-11,Mode of cobrstktrctiwcr metallic hoofing,"['PROPN', 'ADP', 'NOUN', 'ADJ', 'NOUN']",[],1,0,5,"['mode', 'of', 'cobrstktrctiwcr', 'metallic', 'hoofing']",1
-US11309A,1854-07-11,Hill for gbibtdietg,"['PROPN', 'ADP', 'PROPN']",[],1,0,3,"['hill', 'for', 'gbibtdietg']",1
-US11857A,1854-10-31,Apparatus for tempering and flattening saws,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],1,0,6,"['apparatus', 'for', 'tempering', 'and', 'flattening', 'saws']",1
-US12443A,1855-02-27,Improvement in machines for making- butt-hinges,"['NOUN', 'ADP', 'NOUN', 'ADP', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,8,"['improvement', 'in', 'machines', 'for', 'making-', 'butt-hinges']",1
-US12633A,1855-04-03,photo-utho,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,3,['photo-utho'],1
-US12912A,1855-05-22,Cabbiagke fob steam fibe-engiues,"['PROPN', 'INTJ', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",['NORP'],1,0,6,"['cabbiagke', 'fob', 'steam', 'fibe-engiues']",1
-US13000A,1855-06-05,Mode of secirbutcr washboards to walls,"['PROPN', 'ADP', 'PROPN', 'NOUN', 'ADP', 'NOUN']",[],1,0,6,"['mode', 'of', 'secirbutcr', 'washboards', 'to', 'walls']",1
-US13015A,1855-06-05,Euenace for w arming buildings,"['PROPN', 'ADP', 'NOUN', 'VERB', 'NOUN']",[],1,0,5,"['euenace', 'for', 'w', 'arming', 'buildings']",1
-US13369A,1855-07-31,Method of operating steam-valves,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,6,"['method', 'of', 'operating', 'steam-valves']",1
-US13539A,1855-09-11,Lantern-git abd,"['PROPN', 'PUNCT', 'PROPN', 'NOUN']",[],1,0,4,"['lantern-git', 'abd']",1
-US13673A,1855-10-09,Method of operating eaum-grates,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,6,"['method', 'of', 'operating', 'eaum-grates']",1
-US13732A,1855-10-30,Method of ventilating railroad-cars,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,6,"['method', 'of', 'ventilating', 'railroad-cars']",1
-US13797A,1855-11-13,Mode of hanging carriage-bodies,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,6,"['mode', 'of', 'hanging', 'carriage-bodies']",1
-US14056A,1856-01-08,Watch-jcey,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['watch-jcey'],1
-US14150A,1856-01-29,Means for operating the throttle-valves op steam-engines,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,11,"['means', 'for', 'operating', 'the', 'throttle-valves', 'op', 'steam-engines']",1
-US14377A,1856-03-04,tallcott and g,"['PROPN', 'CCONJ', 'NOUN']",['PERSON'],1,1,3,"['tallcott', 'and', 'g']",1
-US14434A,1856-03-11,Method of boxing- carriage-wheels,"['PROPN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,6,"['method', 'of', 'boxing-', 'carriage-wheels']",1
-US14759A,1856-04-29,Improvement in electro-magnetic printing-telegraphs,"['NOUN', 'ADP', 'PROPN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,8,"['improvement', 'in', 'electro-magnetic', 'printing-telegraphs']",1
-US15062A,1856-06-10,Method oe operating head-blocks of sawmills,"['PROPN', 'PROPN', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],1,0,8,"['method', 'oe', 'operating', 'head-blocks', 'of', 'sawmills']",1
-US15266A,1856-07-01,Macaroni-server,"['PROPN', 'PUNCT', 'NOUN']",['GPE'],1,0,3,['macaroni-server'],1
-US15630A,1856-08-26,Gbaiit cleaher and separatob,"['PROPN', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,4,"['gbaiit', 'cleaher', 'and', 'separatob']",1
-US15692A,1856-09-09,Mode of attaching houses to vehicles,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],1,0,6,"['mode', 'of', 'attaching', 'houses', 'to', 'vehicles']",1
-US15944A,1856-10-21,Method of bending,"['PROPN', 'ADP', 'VERB']",[],1,0,3,"['method', 'of', 'bending']",1
-US15998A,1856-10-28,Improvement in working over vulcanized india-rubber,"['NOUN', 'ADP', 'VERB', 'ADP', 'VERB', 'PROPN', 'PUNCT', 'NOUN']",['GPE'],1,0,8,"['improvement', 'in', 'working', 'over', 'vulcanized', 'india-rubber']",1
-US16232A,1856-12-16,Filtebiwg-fattcet,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['filtebiwg-fattcet'],1
-US16423A,1857-01-13,Loft is wood,"['PROPN', 'AUX', 'NOUN']",['PERSON'],1,1,3,"['loft', 'is', 'wood']",1
-US16588A,1857-02-10,Method of surfacing pelt hats,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],1,0,5,"['method', 'of', 'surfacing', 'pelt', 'hats']",1
-US17193A,1857-05-05,Pickeb-motioet fob looms,"['PROPN', 'PUNCT', 'PROPN', 'NOUN', 'VERB']",[],1,0,5,"['pickeb-motioet', 'fob', 'looms']",1
-US17247A,1857-05-05,Mode of secubrktcr hubs to axles,"['PROPN', 'ADP', 'PROPN', 'PROPN', 'PART', 'NOUN']",[],1,0,6,"['mode', 'of', 'secubrktcr', 'hubs', 'to', 'axles']",1
-US17618A,1857-06-23,Method of holding and adjusting plane-irons in theib stocks,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],1,0,11,"['method', 'of', 'holding', 'and', 'adjusting', 'plane-irons', 'in', 'theib', 'stocks']",1
-US17793A,1857-07-14,jvipp and john lawrbnson,"['PROPN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,4,"['jvipp', 'and', 'john', 'lawrbnson']",1
-US17823A,1857-07-14,Mode of cutting tenons by two cikculab,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NUM', 'NOUN']",['CARDINAL'],1,0,7,"['mode', 'of', 'cutting', 'tenons', 'by', 'two', 'cikculab']",1
-US17982A,1857-08-11,Saeety-top eor railway-cars,"['NOUN', 'PUNCT', 'NOUN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,7,"['saeety-top', 'eor', 'railway-cars']",1
-US18248A,1857-09-22,Journal of axles with friction-rollers,"['PROPN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",['ORG'],1,0,7,"['journal', 'of', 'axles', 'with', 'friction-rollers']",1
-US18308A,1857-09-29,Method of opening and closing vertico-lateral-folding gates,"['PROPN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'PROPN', 'PUNCT', 'ADJ', 'PUNCT', 'VERB', 'NOUN']",[],1,0,11,"['method', 'of', 'opening', 'and', 'closing', 'vertico-lateral-folding', 'gates']",1
-US18537A,1857-11-03,Photo-utho,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,3,['photo-utho'],1
+US5643A,1848-06-20 00:00:00,Improvement in cardi ng-mach in es,"['NOUN', 'ADP', 'PROPN', 'PROPN', 'PROPN', 'NOUN', 'ADP', 'ADP']",[],1,0,8,"['improvement', 'in', 'cardi', 'ng-mach', 'in', 'es']",1
+US6076A,1849-01-30 00:00:00,Mtjltiple-orrate ftmstace for,"['PROPN', 'PUNCT', 'NOUN', 'NOUN', 'ADP']",[],1,0,5,"['mtjltiple-orrate', 'ftmstace', 'for']",1
+US6104A,1849-02-06 00:00:00,Apparatus for ascertaining by in,"['PROPN', 'ADP', 'VERB', 'ADP', 'ADP']",[],1,0,5,"['apparatus', 'for', 'ascertaining', 'by', 'in']",1
+US6922A,1849-12-04 00:00:00,Oamillus kidder administrator of,"['ADJ', 'PROPN', 'NOUN', 'ADP']",['ORG'],1,0,4,"['oamillus', 'kidder', 'administrator', 'of']",1
+US7302A,1850-04-23 00:00:00,Subivlebged bogkee e ob,"['ADJ', 'NOUN', 'PROPN', 'ADP']",['PRODUCT'],1,0,4,"['subivlebged', 'bogkee', 'e', 'ob']",1
+US7865A,1851-01-01 00:00:00,Improvement in dagu erreotype-pictu re,"['NOUN', 'ADP', 'PROPN', 'NOUN', 'PUNCT', 'X', 'ADP']",[],1,0,7,"['improvement', 'in', 'dagu', 'erreotype-pictu', 're']",1
+US8211A,1851-07-08 00:00:00,Apparatus for punching- designs in,"['PROPN', 'ADP', 'ADJ', 'NOUN', 'ADP']",[],1,0,5,"['apparatus', 'for', 'punching-', 'designs', 'in']",1
+US8787A,1852-03-09 00:00:00,Wateb-gage of,"['PROPN', 'PUNCT', 'NOUN', 'ADP']",['PERSON'],1,1,4,"['wateb-gage', 'of']",1
+US10814A,1854-04-25,harvie and,"['PROPN', 'CCONJ']",[],1,0,3,"['harvie', 'and']",1
+US14208A,1856-02-05,Administratrix of the estate of,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['administratrix', 'of', 'the', 'estate', 'of']",1
+US15395A,1856-07-22,Abbaugemektt of means in,"['PROPN', 'ADP', 'NOUN', 'ADP']",[],1,0,4,"['abbaugemektt', 'of', 'means', 'in']",1
+US15463A,1856-07-29,Method of operating- gates for,"['PROPN', 'ADP', 'ADJ', 'NOUN', 'ADP']",[],1,0,5,"['method', 'of', 'operating-', 'gates', 'for']",1
+US15528A,1856-08-12,Spkotg-ptjlley for,"['PROPN', 'PUNCT', 'NOUN', 'ADP']",[],1,0,4,"['spkotg-ptjlley', 'for']",1
+US17095A,1857-04-21,Method of,"['PROPN', 'ADP']",[],1,0,3,"['method', 'of']",1
+US17762A,1857-07-07,Mode op operating radial cutters in lathes for,"['PROPN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],1,0,8,"['mode', 'op', 'operating', 'radial', 'cutters', 'in', 'lathes', 'for']",1
+US18257A,1857-09-22,Improvement in cardi ng-eng in es,"['NOUN', 'ADP', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'ADP', 'ADP']",[],1,0,8,"['improvement', 'in', 'cardi', 'ng-eng', 'in', 'es']",1
 US19546A,1858-03-09,Billiard-table top or,"['PROPN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ']",[],1,0,5,"['billiard-table', 'top', 'or']",1
-US19841A,1858-04-06,Means for protecting tiller-ropes of vessels from fire,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],1,0,10,"['means', 'for', 'protecting', 'tiller-ropes', 'of', 'vessels', 'from', 'fire']",1
-US20081A,1858-04-27,Method of preparing stereotype-plates,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,6,"['method', 'of', 'preparing', 'stereotype-plates']",1
-US20176A,1858-05-04,Method of ventilating and excluding dust from railroad-cabs,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,10,"['method', 'of', 'ventilating', 'and', 'excluding', 'dust', 'from', 'railroad-cabs']",1
-US20339A,1858-05-25,Baileoad-cae brake,"['PROPN', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,4,"['baileoad-cae', 'brake']",1
-US20947A,1858-07-20,Photo-litho,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,3,['photo-litho'],1
-US21060A,1858-08-03,Method of removing- submarine deposits,"['PROPN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],1,0,5,"['method', 'of', 'removing-', 'submarine', 'deposits']",1
-US21087A,1858-08-03,Ox-yoke,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['ox-yoke'],1
-US21298A,1858-08-24,Anchor-ball,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['anchor-ball'],1
-US21936A,1858-11-02,x x x x x,"['PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN']",[],1,0,6,"['x', 'x', 'x', 'x', 'x']",1
-US22190A,1858-11-30,Apparatus for holding sheep,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,4,"['apparatus', 'for', 'holding', 'sheep']",1
-US22323A,1858-12-14,Machine eob dkillijstg metal,"['PROPN', 'PROPN', 'PROPN', 'NOUN']",[],1,0,4,"['machine', 'eob', 'dkillijstg', 'metal']",1
-US22695A,1859-01-25,Jokkl h t,"['PROPN', 'NOUN', 'NOUN']",[],1,0,4,"['jokkl', 'h', 't']",1
-US22854A,1859-02-08,Manufacture of rubber hose-pipe,"['NOUN', 'ADP', 'PROPN', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,6,"['manufacture', 'of', 'rubber', 'hose-pipe']",1
-US23060A,1859-02-22,Improved electro-magnetic fire-alarm apparatus,"['VERB', 'PROPN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,8,"['improved', 'electro-magnetic', 'fire-alarm', 'apparatus']",1
-US23680A,1859-04-19,Sukveyoe s chaiet,"['PROPN', 'PART', 'NOUN']",['NORP'],1,0,3,"['sukveyoe', 's', 'chaiet']",1
-US23763A,1859-04-26,Method of adjusting the knives of rotary cutter-heads for planing wood,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],1,0,13,"['method', 'of', 'adjusting', 'the', 'knives', 'of', 'rotary', 'cutter-heads', 'for', 'planing', 'wood']",1
-US23889A,1859-05-10,Jacob batcheld er,"['PROPN', 'VERB', 'INTJ']",[],1,0,3,"['jacob', 'batcheld', 'er']",1
-US25173A,1859-08-23,Gbistdibtg-mill,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['gbistdibtg-mill'],1
-US25526A,1859-09-20,Insect-powder blower,"['PROPN', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,4,"['insect-powder', 'blower']",1
-US26136A,1859-11-15,Mode of advertisincr,"['PROPN', 'ADP', 'PROPN']",[],1,0,3,"['mode', 'of', 'advertisincr']",1
-US26758A,1860-01-10,Big fob beefietg fobe-and-aft sails,"['ADJ', 'INTJ', 'PROPN', 'NOUN', 'PUNCT', 'CCONJ', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,9,"['big', 'fob', 'beefietg', 'fobe-and-aft', 'sails']",1
-US27149A,1860-02-14,Method of operating eeed-nots in lathes,"['PROPN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],1,0,8,"['method', 'of', 'operating', 'eeed-nots', 'in', 'lathes']",1
-US29770A,1860-08-28,Arthur de witzleben,"['PROPN', 'PROPN', 'PROPN']",['ORG'],1,0,3,"['arthur', 'de', 'witzleben']",1
-US29811A,1860-08-28,Qtjilting-eb,"['NOUN', 'PUNCT', 'PROPN']",[],1,0,3,['qtjilting-eb'],1
-US31533A,1861-02-26,Weig-hiwg apparatus,"['PROPN', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,4,"['weig-hiwg', 'apparatus']",1
-US36428A,1862-09-09,Johann heineich tannee,"['PROPN', 'NOUN', 'NOUN']",['PERSON'],1,1,3,"['johann', 'heineich', 'tannee']",1
-US39288A,1863-07-21,Improved bung-cutter,"['ADJ', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,4,"['improved', 'bung-cutter']",1
-US43233A,1864-06-21,"Improved mode of preventing mildew in canvas, cloth","['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,9,"['improved', 'mode', 'of', 'preventing', 'mildew', 'in', 'canvas,', 'cloth']",1
-US47630A,1865-05-09,Improvement in hem ming-guides,"['NOUN', 'ADP', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,6,"['improvement', 'in', 'hem', 'ming-guides']",1
-US48304A,1865-06-20,Improvement in weedi ng-hoes,"['NOUN', 'ADP', 'PROPN', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,6,"['improvement', 'in', 'weedi', 'ng-hoes']",1
-US50318A,1865-10-03,Marcus beowet westhead,"['PROPN', 'PROPN', 'VERB']",[],1,0,3,"['marcus', 'beowet', 'westhead']",1
-US50359A,1865-10-10,Billiard-balls,"['PROPN', 'PUNCT', 'NOUN']",[],1,0,3,['billiard-balls'],1
-US51905A,1866-01-02,Improvement in electro-ballistic chronographs,"['NOUN', 'ADP', 'PROPN', 'PUNCT', 'ADJ', 'NOUN']",[],1,0,6,"['improvement', 'in', 'electro-ballistic', 'chronographs']",1
-US55473A,1866-06-12,Improved mosquito-net,"['ADJ', 'PROPN', 'NOUN', 'NOUN']",[],1,0,4,"['improved', 'mosquito-net']",1
-US55738A,1866-06-19,Improvement in sawi ng-mach ines,"['NOUN', 'ADP', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'NOUN']",[],1,0,7,"['improvement', 'in', 'sawi', 'ng-mach', 'ines']",1
-US60393A,1866-12-11,Improvement hj bbaces foe wagon gpeejgs,"['NOUN', 'PROPN', 'NOUN', 'VERB', 'NOUN', 'NOUN']",[],1,0,6,"['improvement', 'hj', 'bbaces', 'foe', 'wagon', 'gpeejgs']",1
-US61032A,1867-01-08,Sylyenus walk-be,"['PROPN', 'NOUN', 'PUNCT', 'AUX']",[],1,0,4,"['sylyenus', 'walk-be']",1
-US62171A,1867-02-19,I i ii mini,"['PRON', 'PROPN', 'PROPN', 'NOUN']",[],1,0,4,"['i', 'i', 'ii', 'mini']",1
-US62216A,1867-02-19,pttoto-uthoomphh,"['PROPN', 'PUNCT', 'PROPN']",[],1,0,3,['pttoto-uthoomphh'],1
-US63967A,1867-04-16,Peter von lackum,"['PROPN', 'PROPN', 'NOUN']",['PERSON'],1,1,3,"['peter', 'von', 'lackum']",1
-US64187A,1867-04-30,"Improved machine foe making water, gas, ahd qtheb hpes","['ADJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'PROPN', 'NOUN']",[],1,0,11,"['improved', 'machine', 'foe', 'making', 'water,', 'gas,', 'ahd', 'qtheb', 'hpes']",1
-US65341A,1867-06-04,Improvement in tinnee s stove foe heating soldeeing-ieons,"['NOUN', 'ADP', 'PROPN', 'PART', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'PUNCT', 'NOUN']",[],1,0,10,"['improvement', 'in', 'tinnee', 's', 'stove', 'foe', 'heating', 'soldeeing-ieons']",1
-US65531A,1867-06-11,barney and john beery,"['PROPN', 'CCONJ', 'PROPN', 'PROPN']",['PERSON'],1,1,4,"['barney', 'and', 'john', 'beery']",1
-US65640A,1867-06-11,Peters photo-uthoorafhc,"['PROPN', 'NOUN', 'PUNCT', 'NOUN']",['PERSON'],1,1,4,"['peters', 'photo-uthoorafhc']",1
-US69111A,1867-09-24,Improved household utensil,"['ADJ', 'NOUN', 'PROPN']",[],1,0,3,"['improved', 'household', 'utensil']",1
-US71614A,1867-12-03,Improvement in head-blocks foe saw-mills,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,9,"['improvement', 'in', 'head-blocks', 'foe', 'saw-mills']",1
-US73706A,1868-01-28,Ley and hubbard,"['PROPN', 'CCONJ', 'NOUN']",[],1,0,3,"['ley', 'and', 'hubbard']",1
-US75251A,1868-03-10,Hudson du bois,"['PROPN', 'PROPN', 'VERB']",['GPE'],1,0,3,"['hudson', 'du', 'bois']",1
-US77807A,1868-05-12,el bert son,"['PROPN', 'PROPN', 'PROPN']",['ORG'],1,0,3,"['el', 'bert', 'son']",1
-US77891A,1868-05-12,hx ftokris pkterj co,"['PROPN', 'PROPN', 'PROPN', 'X']",['ORG'],1,0,4,"['hx', 'ftokris', 'pkterj', 'co']",1
-US78540A,1868-06-02,Improved ltjbricatob poe steam-engines,"['ADJ', 'NOUN', 'PROPN', 'NOUN', 'PUNCT', 'NOUN']",[],1,0,6,"['improved', 'ltjbricatob', 'poe', 'steam-engines']",1
-US79083A,1868-06-23,William sinnott and john mcnaughton,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'PROPN']","['PERSON', 'PERSON']",1,1,5,"['william', 'sinnott', 'and', 'john', 'mcnaughton']",1
-US79219A,1868-06-23,Improved supplemental jaw joe wrenches,"['VERB', 'ADJ', 'NOUN', 'PROPN', 'VERB']",['PERSON'],1,1,5,"['improved', 'supplemental', 'jaw', 'joe', 'wrenches']",1
-US79851A,1868-07-14,Patrick o connor and morris collins,"['PROPN', 'NOUN', 'NOUN', 'CCONJ', 'PROPN', 'VERB']",['PERSON'],1,1,6,"['patrick', 'o', 'connor', 'and', 'morris', 'collins']",1
-US82615A,1868-09-29,Improved kitchen-implement,"['ADJ', 'NOUN', 'PUNCT', 'PROPN']",[],1,0,4,"['improved', 'kitchen-implement']",1
-US84083A,1868-11-17,Improved catambniaij sac,"['VERB', 'PROPN', 'NOUN']",[],1,0,3,"['improved', 'catambniaij', 'sac']",1
-US85059A,1868-12-22,"Improved apparatus f,or drying and pressing- pantaloons","['ADJ', 'NOUN', 'PROPN', 'PUNCT', 'CCONJ', 'VERB', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,9,"['improved', 'apparatus', 'f,or', 'drying', 'and', 'pressing-', 'pantaloons']",1
-US86014A,1869-01-19,Improvement in hohse-shoes,"['NOUN', 'ADP', 'PROPN', 'PUNCT', 'NOUN']",[],1,0,5,"['improvement', 'in', 'hohse-shoes']",1
-US87781A,1869-03-16,Charles henry kimball,"['PROPN', 'VERB', 'PROPN']",[],1,0,3,"['charles', 'henry', 'kimball']",1
-US87972A,1869-03-16,Herrmann r i c h t e r,"['PROPN', 'NOUN', 'PRON', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",['ORG'],1,0,8,"['herrmann', 'r', 'i', 'c', 'h', 't', 'e', 'r']",1
-US92018A,1869-06-29,Improvement in bee-hiveb,"['NOUN', 'ADP', 'PROPN', 'PUNCT', 'PROPN']",[],1,0,5,"['improvement', 'in', 'bee-hiveb']",1
-US96382A,1869-11-02,charles bean and francis n,"['PROPN', 'PROPN', 'CCONJ', 'PROPN', 'ADV']","['PERSON', 'PERSON']",1,1,5,"['charles', 'bean', 'and', 'francis', 'n']",1
-US69A,1836-10-27 00:00:00,Machine eor picking or breaking wool and ginned or seedless cotton,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,11,"['machine', 'eor', 'picking', 'or', 'breaking', 'wool', 'and', 'ginned', 'or', 'seedless', 'cotton']",1
-US88A,1836-11-26 00:00:00,Cultivator or hoe-harrow,"['NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['cultivator', 'or', 'hoe-harrow']",1
-US141A,1837-03-11 00:00:00,Pump for preventing the water from freezing within the barrel,"['VERB', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'VERB', 'ADP', 'DET', 'NOUN']",[],0,0,10,"['pump', 'for', 'preventing', 'the', 'water', 'from', 'freezing', 'within', 'the', 'barrel']",1
-US276A,1837-07-17 00:00:00,Horse-power,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['horse-power'],1
-US327A,1837-07-31 00:00:00,Improvement in plows,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'plows']",1
-US369A,1837-08-31 00:00:00,"Improvement in presses for pressing hay, cotton, hemp, and other similar substances","['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'ADJ', 'ADJ', 'NOUN']",[],0,0,15,"['improvement', 'in', 'presses', 'for', 'pressing', 'hay,', 'cotton,', 'hemp,', 'and', 'other', 'similar', 'substances']",1
-US713A,1838-04-25 00:00:00,Improvement in many-chambered-cylinder fire-arms,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'VERB', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,"['improvement', 'in', 'many-chambered-cylinder', 'fire-arms']",1
-US719A,1838-04-28 00:00:00,Churn,['VERB'],[],0,0,1,['churn'],1
-US793A,1838-06-20 00:00:00,Spark-catcher,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['spark-catcher'],1
-US896A,1838-08-29 00:00:00,Cooking-stove,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['cooking-stove'],1
-US932A,1838-09-19 00:00:00,Improved mode of constructing and using fishing-seines,"['ADJ', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['improved', 'mode', 'of', 'constructing', 'and', 'using', 'fishing-seines']",1
-US1008A,1838-11-14 00:00:00,Improvement in double-mold-board plows,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,"['improvement', 'in', 'double-mold-board', 'plows']",1
-US1284A,1839-08-12 00:00:00,Machine for sawing staves,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'for', 'sawing', 'staves']",1
-US1372A,1839-10-16 00:00:00,Improvement in circular saws,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['improvement', 'in', 'circular', 'saws']",1
-US1409A,1839-11-16 00:00:00,Straw-ctttteb,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['straw-ctttteb'],1
-US1421A,1839-12-05 00:00:00,Rotary power,"['ADJ', 'NOUN']",[],0,0,2,"['rotary', 'power']",1
-US1564A,1840-04-24 00:00:00,Machinery for making rivets,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machinery', 'for', 'making', 'rivets']",1
-US1720A,1840-08-12 00:00:00,Wrench,['NOUN'],[],0,0,1,['wrench'],1
-US1753A,1840-09-02 00:00:00,Machine for boiling and washing bags foe manufactueing paper,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'NOUN']",[],0,0,9,"['machine', 'for', 'boiling', 'and', 'washing', 'bags', 'foe', 'manufactueing', 'paper']",1
-US1764A,1840-09-03 00:00:00,Improvement in modes of ascertaining the quality of lamp-oil,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,11,"['improvement', 'in', 'modes', 'of', 'ascertaining', 'the', 'quality', 'of', 'lamp-oil']",1
-US1773A,1840-09-05 00:00:00,Door and other lock,"['NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,4,"['door', 'and', 'other', 'lock']",1
+US22344A,1858-12-21,John brought on,"['PROPN', 'VERB', 'ADP']",['PERSON'],1,1,3,"['john', 'brought', 'on']",1
+US24321A,1859-06-07,Mantjfactttbe of india-bubbeb blankets ob apbons used in the pbinting- of,"['PROPN', 'ADP', 'PROPN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP']",['GPE'],1,0,13,"['mantjfactttbe', 'of', 'india-bubbeb', 'blankets', 'ob', 'apbons', 'used', 'in', 'the', 'pbinting-', 'of']",1
+US25775A,1859-10-11,Mode of making- cylindrical strips of dough in the manufacture of,"['PROPN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,11,"['mode', 'of', 'making-', 'cylindrical', 'strips', 'of', 'dough', 'in', 'the', 'manufacture', 'of']",1
+US26262A,1859-11-29,Journal-box for,"['PROPN', 'PUNCT', 'NOUN', 'ADP']",['ORG'],1,0,4,"['journal-box', 'for']",1
+US26870A,1860-01-17,Method of elevating and delivering water from,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],1,0,7,"['method', 'of', 'elevating', 'and', 'delivering', 'water', 'from']",1
+US29851A,1860-09-04,Mode of preparing wood for,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['mode', 'of', 'preparing', 'wood', 'for']",1
+US31425A,1861-02-12,Improvement in cardi ng-mach in es,"['NOUN', 'ADP', 'PROPN', 'PROPN', 'PROPN', 'NOUN', 'ADP', 'ADP']",[],1,0,8,"['improvement', 'in', 'cardi', 'ng-mach', 'in', 'es']",1
+US32157A,1861-04-23,Apparatus for ascertaining the curvatures of the keels or bottoms of,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,11,"['apparatus', 'for', 'ascertaining', 'the', 'curvatures', 'of', 'the', 'keels', 'or', 'bottoms', 'of']",1
+US34083A,1862-01-07,Improvement in pan eling-mach in es,"['NOUN', 'ADP', 'PROPN', 'NOUN', 'PUNCT', 'PROPN', 'ADP', 'ADP']",[],1,0,8,"['improvement', 'in', 'pan', 'eling-mach', 'in', 'es']",1
+US56365A,1866-07-17,Improvement in cri m ping-m ach in es,"['NOUN', 'ADP', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADP']",[],1,0,10,"['improvement', 'in', 'cri', 'm', 'ping-m', 'ach', 'in', 'es']",1
+US59004A,1866-10-23,Improvement in the manufacture of s llum in ati ng-g as,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'ADP']",[],1,0,13,"['improvement', 'in', 'the', 'manufacture', 'of', 's', 'llum', 'in', 'ati', 'ng-g', 'as']",1
+US62329A,1867-02-26,Op lisb on,"['PROPN', 'PROPN', 'ADP']",[],1,0,3,"['op', 'lisb', 'on']",1
+US64061A,1867-04-23,Jacob be eg en,"['PROPN', 'VERB', 'X', 'ADP']",[],1,0,4,"['jacob', 'be', 'eg', 'en']",1
+US64218A,1867-04-30,of mb n t or,"['ADP', 'PROPN', 'ADV', 'PROPN', 'CCONJ']",[],1,0,5,"['of', 'mb', 'n', 't', 'or']",1
+US64650A,1867-05-14,Julius els on,"['PROPN', 'NOUN', 'ADP']",[],1,0,3,"['julius', 'els', 'on']",1
+US65505A,1867-06-04,Andrew rank in,"['PROPN', 'VERB', 'ADP']",['ORG'],1,0,3,"['andrew', 'rank', 'in']",1
+US65507A,1867-06-04,eiddle and w,"['PROPN', 'CCONJ', 'ADP']",[],1,0,3,"['eiddle', 'and', 'w']",1
+US66346A,1867-07-02,W i l l i am h ii by,"['NOUN', 'PROPN', 'PROPN', 'PROPN', 'PRON', 'AUX', 'NOUN', 'PROPN', 'ADP']",[],1,0,9,"['w', 'i', 'l', 'l', 'i', 'am', 'h', 'ii', 'by']",1
+US66416A,1867-07-02,John th omps on,"['PROPN', 'NOUN', 'VERB', 'ADP']",['PERSON'],1,1,4,"['john', 'th', 'omps', 'on']",1
+US66784A,1867-07-16,Charles bo tnt on,"['PROPN', 'ADP', 'VERB', 'ADP']",[],1,0,4,"['charles', 'bo', 'tnt', 'on']",1
+US67399A,1867-08-06,of ch aklesto wn,"['ADP', 'NOUN', 'PROPN', 'ADP']",[],1,0,4,"['of', 'ch', 'aklesto', 'wn']",1
+US70793A,1867-11-12,bo tnt on,"['PROPN', 'VERB', 'ADP']",[],1,0,3,"['bo', 'tnt', 'on']",1
+US73473A,1868-01-21,George stre at,"['PROPN', 'NOUN', 'ADP']",['PERSON'],1,1,3,"['george', 'stre', 'at']",1
+US75292A,1868-03-10,Joel moulto n,"['PROPN', 'PROPN', 'CCONJ']",['PERSON'],1,1,3,"['joel', 'moulto', 'n']",1
+US75722A,1868-03-24,William bab ik,"['PROPN', 'ADP', 'ADP']",['PERSON'],1,1,3,"['william', 'bab', 'ik']",1
+US75733A,1868-03-24,William ol ems on,"['PROPN', 'PROPN', 'VERB', 'ADP']","['PERSON', 'ORG']",1,1,4,"['william', 'ol', 'ems', 'on']",1
+US78467A,1868-06-02,James mont-gome by,"['PROPN', 'PROPN', 'PUNCT', 'NOUN', 'ADP']",[],1,0,5,"['james', 'mont-gome', 'by']",1
+US80047A,1868-07-21,James alberts on,"['PROPN', 'VERB', 'ADP']",[],1,0,3,"['james', 'alberts', 'on']",1
+US80460A,1868-07-28,Impeovemeit in the manufaotube of,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['impeovemeit', 'in', 'the', 'manufaotube', 'of']",1
+US80639A,1868-08-04,Elijah li n dsl by,"['PROPN', 'PROPN', 'PROPN', 'VERB', 'ADP']",[],1,0,5,"['elijah', 'li', 'n', 'dsl', 'by']",1
+US81461A,1868-08-25,Thomas bard on,"['PROPN', 'NOUN', 'ADP']",[],1,0,3,"['thomas', 'bard', 'on']",1
+US82543A,1868-09-29,Edgae mure at,"['PROPN', 'VERB', 'ADP']",['PRODUCT'],1,0,3,"['edgae', 'mure', 'at']",1
+US85016A,1868-12-15,Improved curtaiw-fixtd re,"['ADJ', 'PROPN', 'PUNCT', 'NOUN', 'ADP']",[],1,0,5,"['improved', 'curtaiw-fixtd', 're']",1
+US85143A,1868-12-22,Ney and,"['PROPN', 'CCONJ']",['PERSON'],1,1,3,"['ney', 'and']",1
+US87648A,1869-03-09,demorest and w,"['PROPN', 'CCONJ', 'ADP']",[],1,0,3,"['demorest', 'and', 'w']",1
+US91436A,1869-06-15,Self and jacob hoffner,"['NOUN', 'CCONJ', 'PROPN', 'ADP']",[],1,0,4,"['self', 'and', 'jacob', 'hoffner']",1
+US92260A,1869-07-06,Improvement in electro-magnetic at,"['NOUN', 'ADP', 'PROPN', 'PUNCT', 'PROPN', 'ADP']",[],1,0,6,"['improvement', 'in', 'electro-magnetic', 'at']",1
+US94887A,1869-09-14,Ke and reet for,"['PROPN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,4,"['ke', 'and', 'reet', 'for']",1
+US96535A,1869-11-09,Johs anneae and w,"['PROPN', 'NOUN', 'CCONJ', 'ADP']",['ORG'],1,0,4,"['johs', 'anneae', 'and', 'w']",1
+US99485A,1870-02-01,The ends of vulcanized india-rubber or,"['DET', 'NOUN', 'ADP', 'VERB', 'PROPN', 'PUNCT', 'NOUN', 'CCONJ']",['GPE'],1,0,8,"['the', 'ends', 'of', 'vulcanized', 'india-rubber', 'or']",1
+US95A,1836-12-02 00:00:00,Manufacture of,"['NOUN', 'ADP']",[],0,0,2,"['manufacture', 'of']",1
+US164A,1837-04-17 00:00:00,Machine fob cramping leather for,"['NOUN', 'ADV', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['machine', 'fob', 'cramping', 'leather', 'for']",1
+US172A,1837-04-20 00:00:00,Improvement in the mode of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'mode', 'of']",1
+US204A,1837-05-22 00:00:00,Construction of and mode of,"['NOUN', 'ADP', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['construction', 'of', 'and', 'mode', 'of']",1
+US301A,1837-07-29 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US328A,1837-07-31 00:00:00,Improved mode of attaching knives or,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ']",[],0,0,6,"['improved', 'mode', 'of', 'attaching', 'knives', 'or']",1
+US332A,1837-07-31 00:00:00,Improvement in the mode of smelting iron ores by the employment of a composition of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,15,"['improvement', 'in', 'the', 'mode', 'of', 'smelting', 'iron', 'ores', 'by', 'the', 'employment', 'of', 'a', 'composition', 'of']",1
+US382A,1837-09-12 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US408A,1837-09-25 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US452A,1837-11-04 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US527A,1837-12-20 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US563A,1838-01-09 00:00:00,Machine foe washing and pulverizing potatoes in the manufacture oe,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,10,"['machine', 'foe', 'washing', 'and', 'pulverizing', 'potatoes', 'in', 'the', 'manufacture', 'oe']",1
+US568A,1838-01-09 00:00:00,Sphebometeb for,"['NOUN', 'ADP']",[],0,0,2,"['sphebometeb', 'for']",1
+US572A,1838-01-20 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US710A,1838-04-25 00:00:00,Ikomestic spinner for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['ikomestic', 'spinner', 'for']",1
+US788A,1838-06-19 00:00:00,And mode oe,"['CCONJ', 'VERB', 'ADP']",[],0,0,3,"['and', 'mode', 'oe']",1
+US814A,1838-06-30 00:00:00,Art of increasing the strength of wrought iron and steel and of,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'CCONJ', 'ADP']",[],0,0,12,"['art', 'of', 'increasing', 'the', 'strength', 'of', 'wrought', 'iron', 'and', 'steel', 'and', 'of']",1
+US996A,1838-11-03 00:00:00,Machine for rubbing and separating garlic and other substances from,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP']",[],0,0,10,"['machine', 'for', 'rubbing', 'and', 'separating', 'garlic', 'and', 'other', 'substances', 'from']",1
+US1066A,1839-01-08 00:00:00,Manufacture of the leaves of the sunflower and rhubarb plants as a substitute for,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,14,"['manufacture', 'of', 'the', 'leaves', 'of', 'the', 'sunflower', 'and', 'rhubarb', 'plants', 'as', 'a', 'substitute', 'for']",1
+US1070A,1839-01-18 00:00:00,Improvement in the mode of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'mode', 'of']",1
+US1103A,1839-03-15 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US1122A,1839-04-15 00:00:00,Steam-boilers and apparatus to be used on board of steamboats to,"['NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PART', 'AUX', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,13,"['steam-boilers', 'and', 'apparatus', 'to', 'be', 'used', 'on', 'board', 'of', 'steamboats', 'to']",1
+US1144A,1839-05-18 00:00:00,Combustion by,"['NOUN', 'ADP']",[],0,0,2,"['combustion', 'by']",1
+US1225A,1839-07-09 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US1254A,1839-07-22 00:00:00,Improvement in the mode of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'mode', 'of']",1
+US1304A,1839-08-29 00:00:00,Improvement in ffire-arms and in theaapparatust used therewith,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'ADP', 'NOUN', 'VERB', 'ADP']",[],0,0,10,"['improvement', 'in', 'ffire-arms', 'and', 'in', 'theaapparatust', 'used', 'therewith']",1
+US1493A,1840-02-18 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US1547A,1840-04-08 00:00:00,Improvement in the manner of constructing and affixing the ribs of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,11,"['improvement', 'in', 'the', 'manner', 'of', 'constructing', 'and', 'affixing', 'the', 'ribs', 'of']",1
+US1590A,1840-05-08 00:00:00,Shaking the screen ob,"['VERB', 'DET', 'NOUN', 'ADP']",[],0,0,4,"['shaking', 'the', 'screen', 'ob']",1
+US1638A,1840-06-17 00:00:00,Kiln for,"['NOUN', 'ADP']",[],0,0,2,"['kiln', 'for']",1
+US1644A,1840-06-20 00:00:00,Ordinary argand oil-burner for adapting it to burn spirits of,"['ADJ', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'PRON', 'PART', 'VERB', 'NOUN', 'ADP']",[],0,0,12,"['ordinary', 'argand', 'oil-burner', 'for', 'adapting', 'it', 'to', 'burn', 'spirits', 'of']",1
+US1667A,1840-07-01 00:00:00,Improvement in the mode of arranging the cylinders in double-cylinder engines for,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'ADP']",[],0,0,14,"['improvement', 'in', 'the', 'mode', 'of', 'arranging', 'the', 'cylinders', 'in', 'double-cylinder', 'engines', 'for']",1
+US1676A,1840-07-10 00:00:00,Improvement in the mode of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'mode', 'of']",1
+US1697A,1840-07-18 00:00:00,Improvement in the mode of extracting the alkali from ashes in the manufacture of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,14,"['improvement', 'in', 'the', 'mode', 'of', 'extracting', 'the', 'alkali', 'from', 'ashes', 'in', 'the', 'manufacture', 'of']",1
+US1747A,1840-08-28 00:00:00,Improvement in machinery for tapping slivers or bands of hemp and making oakum of,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'ADJ', 'ADP']",[],0,0,14,"['improvement', 'in', 'machinery', 'for', 'tapping', 'slivers', 'or', 'bands', 'of', 'hemp', 'and', 'making', 'oakum', 'of']",1
 US1780A,1840-09-10 00:00:00,Manner of,"['NOUN', 'ADP']",[],0,0,2,"['manner', 'of']",1
-US1821A,1840-10-14 00:00:00,Improvement in cooking-stoves for burning bituminous coal,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,9,"['improvement', 'in', 'cooking-stoves', 'for', 'burning', 'bituminous', 'coal']",1
-US1888A,1840-12-10 00:00:00,Door-latch,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['door-latch'],1
-US2057A,1841-04-19 00:00:00,Smut-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['smut-machine'],1
-US2085A,1841-05-11 00:00:00,Hot-air furnace and fire-grate for heating- apartments,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,11,"['hot-air', 'furnace', 'and', 'fire-grate', 'for', 'heating-', 'apartments']",1
-US2313A,1841-10-11 00:00:00,Bttsh for grist-mills,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['bttsh', 'for', 'grist-mills']",1
-US2337A,1841-11-10 00:00:00,Coebt-shelleb,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['coebt-shelleb'],1
-US2338A,1841-11-10 00:00:00,Constetjctioh of air-pumps,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['constetjctioh', 'of', 'air-pumps']",1
-US2470A,1842-02-28 00:00:00,"Improvement in modes of preparing a white paint for painting houses, walls","['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,13,"['improvement', 'in', 'modes', 'of', 'preparing', 'a', 'white', 'paint', 'for', 'painting', 'houses,', 'walls']",1
-US2530A,1842-04-01 00:00:00,Sofa-bedstead,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['sofa-bedstead'],1
-US2556A,1842-04-16 00:00:00,Stove,['VERB'],[],0,0,1,['stove'],1
-US2743A,1842-08-02 00:00:00,Improvement in furnaces for puddling and refining iron,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,8,"['improvement', 'in', 'furnaces', 'for', 'puddling', 'and', 'refining', 'iron']",1
-US2922A,1843-01-20 00:00:00,Improvement in machines for breaking and cleaning flax and hemp,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'CCONJ', 'ADJ']",[],0,0,10,"['improvement', 'in', 'machines', 'for', 'breaking', 'and', 'cleaning', 'flax', 'and', 'hemp']",1
-US3120A,1843-06-03 00:00:00,calvert,['NOUN'],[],0,0,1,['calvert'],1
-US3139A,1843-06-24 00:00:00,Improvement in making manure,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['improvement', 'in', 'making', 'manure']",1
-US3779A,1844-10-07 00:00:00,einggold,['VERB'],[],0,0,1,['einggold'],1
-US3856A,1844-12-16 00:00:00,Calvin cutler,"['NOUN', 'NOUN']",[],0,0,2,"['calvin', 'cutler']",1
-US3950A,1845-03-15 00:00:00,Machine fob turning wood,"['NOUN', 'ADV', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'fob', 'turning', 'wood']",1
-US4096A,1845-07-05 00:00:00,Improvement in shipsj anchors,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,4,"['improvement', 'in', 'shipsj', 'anchors']",1
-US4409A,1846-03-07 00:00:00,Pump for raising and measuring liquors,"['VERB', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,6,"['pump', 'for', 'raising', 'and', 'measuring', 'liquors']",1
-US4726A,1846-08-28 00:00:00,Tetjss-bbidge,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['tetjss-bbidge'],1
-US4885A,1846-12-10 00:00:00,Improvement in machines for making cigars,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'machines', 'for', 'making', 'cigars']",1
-US5030A,1847-03-20 00:00:00,pkoto-lithogkapher,"['NOUN', 'PUNCT', 'ADJ']",[],0,0,3,['pkoto-lithogkapher'],1
-US5228A,1847-08-07 00:00:00,Improvement in harvesting-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'harvesting-machines']",1
-US5332A,1847-10-16 00:00:00,Improvement in cotton-presses,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'cotton-presses']",1
-US5510A,1848-04-18 00:00:00,Operating brakes for cars,"['VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,"['operating', 'brakes', 'for', 'cars']",1
-US5553A,1848-05-09 00:00:00,Cane-umbrella,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['cane-umbrella'],1
-US5591A,1848-05-23 00:00:00,Pump fob,"['VERB', 'ADV']",[],0,0,2,"['pump', 'fob']",1
-US5622A,1848-06-06 00:00:00,Straw-cutter,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['straw-cutter'],1
-US5823A,1848-10-03 00:00:00,mallbtt,['ADJ'],[],0,0,1,['mallbtt'],1
-US5933A,1848-11-21 00:00:00,Improvement in harvesters,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'harvesters']",1
-US5997A,1849-01-02 00:00:00,Swinging bridge,"['VERB', 'NOUN']",[],0,0,2,"['swinging', 'bridge']",1
-US6508A,1849-06-05 00:00:00,Improvement in subsoil corn-plows,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'subsoil', 'corn-plows']",1
-US6586A,1849-07-10 00:00:00,Improvement in distilling apparatus,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['improvement', 'in', 'distilling', 'apparatus']",1
-US6884A,1849-11-20 00:00:00,Combined table and bedstead,"['ADJ', 'NOUN', 'CCONJ', 'VERB']",[],0,0,4,"['combined', 'table', 'and', 'bedstead']",1
-US7013A,1850-01-15 00:00:00,Gate for fences,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['gate', 'for', 'fences']",1
-US7068A,1850-02-05 00:00:00,Whip-lash,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['whip-lash'],1
-US7076A,1850-02-05 00:00:00,Improvement in attachments for lightning-conductors,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['improvement', 'in', 'attachments', 'for', 'lightning-conductors']",1
-US7145A,1850-03-05 00:00:00,Improvement in th,"['NOUN', 'ADP', 'PRON']",[],0,0,3,"['improvement', 'in', 'th']",1
-US7223A,1850-03-26 00:00:00,Improvement in plows and clevises,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,5,"['improvement', 'in', 'plows', 'and', 'clevises']",1
-US7353A,1850-05-07 00:00:00,Improvement in oscillating valves of steam-engines,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['improvement', 'in', 'oscillating', 'valves', 'of', 'steam-engines']",1
-US7440A,1850-06-18 00:00:00,Spike-machine,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['spike-machine'],1
-US7617A,1850-09-03 00:00:00,Clamps fob,"['NOUN', 'VERB']",[],0,0,2,"['clamps', 'fob']",1
-US7691A,1850-10-01 00:00:00,Construction op endless aprons in threshing-machines and grain,"['NOUN', 'NOUN', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,10,"['construction', 'op', 'endless', 'aprons', 'in', 'threshing-machines', 'and', 'grain']",1
-US7873A,1851-01-01 00:00:00,Quilting frame and apparatus,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,4,"['quilting', 'frame', 'and', 'apparatus']",1
-US7890A,1851-01-07 00:00:00,Arrangement op arches in bridge-trusses,"['NOUN', 'NOUN', 'VERB', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['arrangement', 'op', 'arches', 'in', 'bridge-trusses']",1
-US8183A,1851-06-24 00:00:00,Mashing-tub,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['mashing-tub'],1
-US8701A,1852-02-03 00:00:00,Improvement in grass-burners,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'grass-burners']",1
-US8768A,1852-03-02 00:00:00,Improved arrangement of steam-boilers,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improved', 'arrangement', 'of', 'steam-boilers']",1
-US8997A,1852-06-08 00:00:00,Cop-spinning- frame,"['NOUN', 'PUNCT', 'NUM', 'NOUN']",[],0,0,4,"['cop-spinning-', 'frame']",1
-US9069A,1852-06-29 00:00:00,Improvement in potato-diggers and stone-gatherers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['improvement', 'in', 'potato-diggers', 'and', 'stone-gatherers']",1
-US9159A,1852-07-27 00:00:00,Improvement in compounds for uniting steel and iron,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,8,"['improvement', 'in', 'compounds', 'for', 'uniting', 'steel', 'and', 'iron']",1
-US9409A,1852-11-16 00:00:00,richter,['NOUN'],[],0,0,1,['richter'],1
-US9614A,1853-03-08 00:00:00,Machine for dressing shingles,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'for', 'dressing', 'shingles']",1
-US9671A,1853-04-19 00:00:00,Excluding dust from railroad-cars,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['excluding', 'dust', 'from', 'railroad-cars']",1
-US9945A,1853-08-16 00:00:00,Scbew-wkeitch,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['scbew-wkeitch'],1
-US10136A,1853-10-18,Machine foe,"['NOUN', 'NOUN']",[],0,0,2,"['machine', 'foe']",1
-US10266A,1853-11-22,Life-boat,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['life-boat'],1
-US10343A,1853-12-20,Screw for planking ships,"['NOUN', 'ADP', 'VERB', 'NOUN']",['DATE'],0,0,4,"['screw', 'for', 'planking', 'ships']",1
-US10482A,1854-01-31,Of sheet-iron,"['ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['of', 'sheet-iron']",1
-US10599A,1854-03-07,Heeling-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['heeling-machine'],1
-US10606A,1854-03-07,Suspending eaves-troughs,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['suspending', 'eaves-troughs']",1
-US10676A,1854-03-21,Antifriction-box,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['antifriction-box'],1
-US10700A,1854-03-28,Improvement in hot-air furnaces,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'hot-air', 'furnaces']",1
-US10721A,1854-04-04,Improvement in railroad-cars,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'railroad-cars']",1
-US10964A,1854-05-23,Improved mechanical means for preventing incrustations in steam-boilers,"['VERB', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,"['improved', 'mechanical', 'means', 'for', 'preventing', 'incrustations', 'in', 'steam-boilers']",1
-US11081A,1854-06-13,Improvement in crushing and grinding quartz and minerals,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,8,"['improvement', 'in', 'crushing', 'and', 'grinding', 'quartz', 'and', 'minerals']",1
-US11419A,1854-08-01,Improvement in revolving-breech fire-arms,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['improvement', 'in', 'revolving-breech', 'fire-arms']",1
-US11429A,1854-08-01,Submerged paddle-wheel,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['submerged', 'paddle-wheel']",1
-US11494A,1854-08-08,Ventilatiiig railboad-caks,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['ventilatiiig', 'railboad-caks']",1
-US11543A,1854-08-15,Winnower,['NOUN'],[],0,0,1,['winnower'],1
-US11640A,1854-09-05,Improvement in chimney-caps,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'chimney-caps']",1
-US11650A,1854-09-05,Josephine mokss,"['NOUN', 'NOUN']",[],0,0,2,"['josephine', 'mokss']",1
+US1809A,1840-10-08 00:00:00,Manufacture of cloth of various kinds by the employment of wool and silk obtained by,"['NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,15,"['manufacture', 'of', 'cloth', 'of', 'various', 'kinds', 'by', 'the', 'employment', 'of', 'wool', 'and', 'silk', 'obtained', 'by']",1
+US1847A,1840-11-05 00:00:00,Improvement in the mode of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'mode', 'of']",1
+US1875A,1840-12-01 00:00:00,Improvement in the mode of heating buildings by means of an apparatus consisting of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'ADP']",[],0,0,14,"['improvement', 'in', 'the', 'mode', 'of', 'heating', 'buildings', 'by', 'means', 'of', 'an', 'apparatus', 'consisting', 'of']",1
+US1916A,1840-12-28 00:00:00,Construction of railways and in the means of,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,8,"['construction', 'of', 'railways', 'and', 'in', 'the', 'means', 'of']",1
+US1957A,1841-01-30 00:00:00,Construction of inkstands by the employment of a capillary wick with,"['NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP']",[],0,0,11,"['construction', 'of', 'inkstands', 'by', 'the', 'employment', 'of', 'a', 'capillary', 'wick', 'with']",1
+US2024A,1841-03-31 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US2034A,1841-04-02 00:00:00,The frames of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['the', 'frames', 'of']",1
+US2088A,1841-05-11 00:00:00,Wind-chest or bellows-box attached to hearths or,"['NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'VERB', 'ADP', 'NOUN', 'CCONJ']",[],0,0,11,"['wind-chest', 'or', 'bellows-box', 'attached', 'to', 'hearths', 'or']",1
+US2089A,1841-05-11 00:00:00,Improvement in the manner of operating paddles for propelling steam and other boats or,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'CCONJ']",[],0,0,14,"['improvement', 'in', 'the', 'manner', 'of', 'operating', 'paddles', 'for', 'propelling', 'steam', 'and', 'other', 'boats', 'or']",1
+US2105A,1841-05-22 00:00:00,File ob,"['NOUN', 'ADP']",[],0,0,2,"['file', 'ob']",1
+US2125A,1841-06-11 00:00:00,Chaeles w,"['NOUN', 'ADP']",[],0,0,2,"['chaeles', 'w']",1
+US2139A,1841-06-22 00:00:00,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US2157A,1841-07-08 00:00:00,Endless-chain horse-power for,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,7,"['endless-chain', 'horse-power', 'for']",1
+US2244A,1841-09-04 00:00:00,Self-acting apparatus for supplying boilers of steam-engines with,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,12,"['self-acting', 'apparatus', 'for', 'supplying', 'boilers', 'of', 'steam-engines', 'with']",1
+US2272A,1841-09-30 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US2289A,1841-10-09 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US2364A,1841-11-16 00:00:00,Manner of,"['NOUN', 'ADP']",[],0,0,2,"['manner', 'of']",1
+US2373A,1841-11-25 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US2375A,1841-11-25 00:00:00,Improvement in the method of constructing and arranging the openings or spouts for,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,13,"['improvement', 'in', 'the', 'method', 'of', 'constructing', 'and', 'arranging', 'the', 'openings', 'or', 'spouts', 'for']",1
+US2532A,1842-04-01 00:00:00,Machine fob cutting plates ob,"['NOUN', 'NOUN', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['machine', 'fob', 'cutting', 'plates', 'ob']",1
+US2553A,1842-04-11 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US2577A,1842-04-21 00:00:00,Zimprovement in,"['NOUN', 'ADP']",[],0,0,2,"['zimprovement', 'in']",1
+US2640A,1842-05-26 00:00:00,Instrument for,"['NOUN', 'ADP']",[],0,0,2,"['instrument', 'for']",1
+US2654A,1842-05-30 00:00:00,Machine for manufacturing wood so as to be used as a substitute for,"['NOUN', 'ADP', 'VERB', 'NOUN', 'SCONJ', 'SCONJ', 'PART', 'AUX', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,13,"['machine', 'for', 'manufacturing', 'wood', 'so', 'as', 'to', 'be', 'used', 'as', 'a', 'substitute', 'for']",1
+US2772A,1842-09-03 00:00:00,The ibon bails of,"['DET', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,"['the', 'ibon', 'bails', 'of']",1
+US2860A,1842-11-21 00:00:00,Machine for shaping the inner side ob,"['NOUN', 'ADP', 'VERB', 'DET', 'ADJ', 'NOUN', 'ADP']",[],0,0,7,"['machine', 'for', 'shaping', 'the', 'inner', 'side', 'ob']",1
+US3126A,1843-06-09 00:00:00,Manner of,"['NOUN', 'ADP']",[],0,0,2,"['manner', 'of']",1
+US3133A,1843-06-14 00:00:00,Manner of,"['NOUN', 'ADP']",[],0,0,2,"['manner', 'of']",1
+US3494A,1844-03-20 00:00:00,Manner of,"['NOUN', 'ADP']",[],0,0,2,"['manner', 'of']",1
+US3553A,1844-04-20 00:00:00,Elier and dead spindle for,"['NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP']",[],0,0,5,"['elier', 'and', 'dead', 'spindle', 'for']",1
+US3631A,1844-06-15 00:00:00,X i improvement in,"['NOUN', 'PRON', 'VERB', 'ADP']",[],0,0,4,"['x', 'i', 'improvement', 'in']",1
+US3724A,1844-08-31 00:00:00,Iprovement in the method of making patterns for casting hollow ware and other ar,"['ADJ', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'ADJ', 'ADP']",[],0,0,14,"['iprovement', 'in', 'the', 'method', 'of', 'making', 'patterns', 'for', 'casting', 'hollow', 'ware', 'and', 'other', 'ar']",1
+US3795A,1844-10-12 00:00:00,Stay for,"['VERB', 'ADP']",[],0,0,2,"['stay', 'for']",1
+US3797A,1844-10-16 00:00:00,Improvement in machines for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machines', 'for']",1
+US3850A,1844-12-07 00:00:00,Improvement in the process of reducing iron or other ores to the metallic state by,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP']",[],0,0,15,"['improvement', 'in', 'the', 'process', 'of', 'reducing', 'iron', 'or', 'other', 'ores', 'to', 'the', 'metallic', 'state', 'by']",1
+US3924A,1845-02-24 00:00:00,Percussion-mill for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['percussion-mill', 'for']",1
+US3929A,1845-02-24 00:00:00,Improvement in the mode of making metallic cores for chilling cast-iron pipe-boxes for,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,17,"['improvement', 'in', 'the', 'mode', 'of', 'making', 'metallic', 'cores', 'for', 'chilling', 'cast-iron', 'pipe-boxes', 'for']",1
+US4070A,1845-06-07 00:00:00,Ihstettment for,"['NOUN', 'ADP']",[],0,0,2,"['ihstettment', 'for']",1
+US4120A,1845-07-22 00:00:00,Improvement in shaping irregular surfaces in,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP']",[],0,0,6,"['improvement', 'in', 'shaping', 'irregular', 'surfaces', 'in']",1
+US4206A,1845-09-27 00:00:00,Machinery for,"['NOUN', 'ADP']",[],0,0,2,"['machinery', 'for']",1
+US4210A,1845-09-27 00:00:00,Adjusting the pitch of reeds for,"['VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,6,"['adjusting', 'the', 'pitch', 'of', 'reeds', 'for']",1
+US4372A,1846-02-10 00:00:00,Manufacture of,"['NOUN', 'ADP']",[],0,0,2,"['manufacture', 'of']",1
+US4397A,1846-03-07 00:00:00,Hatch for,"['NOUN', 'ADP']",[],0,0,2,"['hatch', 'for']",1
+US4496A,1846-05-02 00:00:00,Machinery for,"['NOUN', 'ADP']",[],0,0,2,"['machinery', 'for']",1
+US4516A,1846-05-16 00:00:00,Back of,"['ADV', 'ADP']",[],0,0,2,"['back', 'of']",1
+US4527A,1846-05-16 00:00:00,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US4819A,1846-10-21 00:00:00,Feeding apparatus for,"['NOUN', 'NOUN', 'ADP']",[],0,0,3,"['feeding', 'apparatus', 'for']",1
+US5173A,1847-06-26 00:00:00,Machinery for,"['NOUN', 'ADP']",[],0,0,2,"['machinery', 'for']",1
+US5328A,1847-10-09 00:00:00,Machinery for,"['NOUN', 'ADP']",[],0,0,2,"['machinery', 'for']",1
+US5706A,1848-08-15 00:00:00,Guard ob,"['VERB', 'ADP']",[],0,0,2,"['guard', 'ob']",1
+US5713A,1848-08-15 00:00:00,Machinery for,"['NOUN', 'ADP']",[],0,0,2,"['machinery', 'for']",1
+US6012A,1849-01-09 00:00:00,Lithographing co,"['VERB', 'ADP']",[],0,0,2,"['lithographing', 'co']",1
+US6141A,1849-02-27 00:00:00,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US6217A,1849-03-27 00:00:00,Conical valve in,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['conical', 'valve', 'in']",1
+US6226A,1849-03-27 00:00:00,Adjusting the position of plane-irons and regulating the throats of,"['VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,12,"['adjusting', 'the', 'position', 'of', 'plane-irons', 'and', 'regulating', 'the', 'throats', 'of']",1
+US6399A,1849-04-24 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US6545A,1849-06-19 00:00:00,Improvement in winnowing-mach in es,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,7,"['improvement', 'in', 'winnowing-mach', 'in', 'es']",1
+US6739A,1849-09-25 00:00:00,Improvement in the mode of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'mode', 'of']",1
+US6751A,1849-10-02 00:00:00,Self-acting waste-gate or,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ']",[],0,0,7,"['self-acting', 'waste-gate', 'or']",1
+US6784A,1849-10-09 00:00:00,Bed-plate for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['bed-plate', 'for']",1
+US6883A,1849-11-20 00:00:00,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US7182A,1850-03-19 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US7229A,1850-04-02 00:00:00,Ciiamp to be used ih the manufacture of,"['NOUN', 'PART', 'AUX', 'VERB', 'ADV', 'DET', 'NOUN', 'ADP']",[],0,0,8,"['ciiamp', 'to', 'be', 'used', 'ih', 'the', 'manufacture', 'of']",1
+US7328A,1850-04-30 00:00:00,Vat ob,"['NOUN', 'ADP']",[],0,0,2,"['vat', 'ob']",1
+US7375A,1850-05-21 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US7553A,1850-08-06 00:00:00,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US7604A,1850-08-27 00:00:00,Self-acting adjustable feed-gear for,"['NOUN', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,8,"['self-acting', 'adjustable', 'feed-gear', 'for']",1
+US7635A,1850-09-10 00:00:00,Improvement in mortising-mach in es,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,7,"['improvement', 'in', 'mortising-mach', 'in', 'es']",1
+US7727A,1850-10-22 00:00:00,Feeding apparatus for,"['NOUN', 'NOUN', 'ADP']",[],0,0,3,"['feeding', 'apparatus', 'for']",1
+US7857A,1850-12-24 00:00:00,Attachment to pumps for,"['NOUN', 'PART', 'VERB', 'ADP']",[],0,0,4,"['attachment', 'to', 'pumps', 'for']",1
+US7872A,1851-01-01 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US7876A,1851-01-01 00:00:00,Loom for,"['VERB', 'ADP']",[],0,0,2,"['loom', 'for']",1
+US7944A,1851-02-18 00:00:00,Improvement in apparatus for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'apparatus', 'for']",1
+US8044A,1851-04-15 00:00:00,Machine for cutting otjt the corners and scoring the edges of paper for,"['NOUN', 'ADP', 'VERB', 'NOUN', 'DET', 'NOUN', 'CCONJ', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,13,"['machine', 'for', 'cutting', 'otjt', 'the', 'corners', 'and', 'scoring', 'the', 'edges', 'of', 'paper', 'for']",1
+US8062A,1851-04-29 00:00:00,Compound metallic door for,"['NOUN', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,"['compound', 'metallic', 'door', 'for']",1
+US8228A,1851-07-15 00:00:00,Molasses gate ob,"['VERB', 'NOUN', 'ADP']",[],0,0,3,"['molasses', 'gate', 'ob']",1
+US8229A,1851-07-15 00:00:00,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US8321A,1851-08-26 00:00:00,Improvement in means for obviating difficulties arising from defective insulation in,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'VERB', 'ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,11,"['improvement', 'in', 'means', 'for', 'obviating', 'difficulties', 'arising', 'from', 'defective', 'insulation', 'in']",1
+US8361A,1851-09-16 00:00:00,Gage for,"['VERB', 'ADP']",[],0,0,2,"['gage', 'for']",1
+US8380A,1851-09-23 00:00:00,Engine in which compressed air or other gas heated and expanded by admixture therewith of,"['NOUN', 'ADP', 'PRON', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'VERB', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'ADP', 'ADP']",[],0,0,15,"['engine', 'in', 'which', 'compressed', 'air', 'or', 'other', 'gas', 'heated', 'and', 'expanded', 'by', 'admixture', 'therewith', 'of']",1
+US8522A,1851-11-18 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US8642A,1852-01-06 00:00:00,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US8778A,1852-03-02 00:00:00,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US9274A,1852-09-21 00:00:00,Machinery for beveling the edges op skelps or,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'NOUN', 'NOUN', 'CCONJ']",[],0,0,8,"['machinery', 'for', 'beveling', 'the', 'edges', 'op', 'skelps', 'or']",1
+US9445A,1852-12-07 00:00:00,Machinery for,"['NOUN', 'ADP']",[],0,0,2,"['machinery', 'for']",1
+US9678A,1853-04-19 00:00:00,Gig-mill for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['gig-mill', 'for']",1
+US9921A,1853-08-09 00:00:00,Iron post for,"['NOUN', 'NOUN', 'ADP']",[],0,0,3,"['iron', 'post', 'for']",1
+US10036A,1853-09-20,Oil ob,"['NOUN', 'ADP']",[],0,0,2,"['oil', 'ob']",1
+US10133A,1853-10-18,Instrument for,"['NOUN', 'ADP']",[],0,0,2,"['instrument', 'for']",1
+US10352A,1853-12-20,Self-acting machine for,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['self-acting', 'machine', 'for']",1
+US10529A,1854-02-14,websteb and,"['NOUN', 'CCONJ']",[],0,0,3,"['websteb', 'and']",1
+US10561A,1854-02-21,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US10739A,1854-04-04,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US10859A,1854-05-02,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US11629A,1854-08-29,Improved governor for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'governor', 'for']",1
+US11671A,1854-09-12,Improved method of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'method', 'of']",1
+US11726A,1854-09-26,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US11777A,1854-10-10,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US11875A,1854-10-31,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
 US11933A,1854-11-14,Loom for,"['VERB', 'ADP']",[],0,0,2,"['loom', 'for']",1
-US11939A,1854-11-14,Improvement in omnibus-registers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'omnibus-registers']",1
-US11972A,1854-11-21,Spinning-frame,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['spinning-frame'],1
-US12033A,1854-12-05,Kailkoad-car brake,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['kailkoad-car', 'brake']",1
-US12097A,1854-12-19,Direct-action water-wheel,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['direct-action', 'water-wheel']",1
-US12200A,1855-01-09,Eutby-light,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['eutby-light'],1
-US12230A,1855-01-16,Improvement in fire-arms,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'fire-arms']",1
-US12251A,1855-01-16,Hand-truck,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['hand-truck'],1
-US12297A,1855-01-23,Match-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['match-machine'],1
-US12310A,1855-01-30,Improvement in plows,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'plows']",1
-US12346A,1855-02-06,Current water-wheel,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['current', 'water-wheel']",1
-US12380A,1855-02-13,Whahf-boat,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['whahf-boat'],1
-US12416A,1855-02-20,Machine eoe cutting tenons,"['NOUN', 'NOUN', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'eoe', 'cutting', 'tenons']",1
-US12820A,1855-05-08,hardinge,['VERB'],[],0,0,1,['hardinge'],1
-US13195A,1855-07-03,Improvement in sewing-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'sewing-machines']",1
-US13500A,1855-08-28,Shutteb or blind fob stores,"['NOUN', 'CCONJ', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['shutteb', 'or', 'blind', 'fob', 'stores']",1
-US13533A,1855-09-04,Brick-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['brick-machine'],1
-US14001A,1855-12-25,Improvement in breech-loading fire-arms,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['improvement', 'in', 'breech-loading', 'fire-arms']",1
-US14020A,1856-01-01,Machine fob,"['NOUN', 'NOUN']",[],0,0,2,"['machine', 'fob']",1
-US14025A,1856-01-01,Improved machine for making eaves-troughs,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['improved', 'machine', 'for', 'making', 'eaves-troughs']",1
-US14037A,1856-01-01,Improvement in compositions for treating wool,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'compositions', 'for', 'treating', 'wool']",1
-US14262A,1856-02-12,Clothes-clamp,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['clothes-clamp'],1
-US14273A,1856-02-19,Of cisterns,"['ADP', 'NOUN']",[],0,0,2,"['of', 'cisterns']",1
-US14336A,1856-02-26,berry,['VERB'],[],0,0,1,['berry'],1
-US14419A,1856-03-11,Means for r,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['means', 'for', 'r']",1
-US14435A,1856-03-18,Improvement in welding steel,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['improvement', 'in', 'welding', 'steel']",1
-US14754A,1856-04-22,huffman,['VERB'],[],0,0,1,['huffman'],1
-US14872A,1856-05-13,Nrvalid-chaiil,"['ADJ', 'PUNCT', 'ADJ']",[],0,0,3,['nrvalid-chaiil'],1
-US14916A,1856-05-20,Improvement in working sn sheet metal,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'working', 'sn', 'sheet', 'metal']",1
-US15023A,1856-06-03,Cooking-stove,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['cooking-stove'],1
-US15072A,1856-06-10,Improved breech-loading fire-arm,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['improved', 'breech-loading', 'fire-arm']",1
-US15134A,1856-06-17,Valve for double-acting pumps,"['VERB', 'ADP', 'ADJ', 'PUNCT', 'VERB', 'NOUN']",[],0,0,6,"['valve', 'for', 'double-acting', 'pumps']",1
-US15219A,1856-07-01,Machine fob beaming- and tapping- gas-fittings,"['NOUN', 'INTJ', 'ADJ', 'CCONJ', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['machine', 'fob', 'beaming-', 'and', 'tapping-', 'gas-fittings']",1
-US15343A,1856-07-15,Sash-lock,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['sash-lock'],1
-US15344A,1856-07-15,Improvement in plows,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'plows']",1
-US15392A,1856-07-22,cooper,['NOUN'],[],0,0,1,['cooper'],1
-US15543A,1856-08-12,Machine for wringing clothes,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'for', 'wringing', 'clothes']",1
-US15611A,1856-08-26,Ball-caster foe,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['ball-caster', 'foe']",1
-US15681A,1856-09-09,N-petks,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['n-petks'],1
-US15761A,1856-09-23,Feed-roll of straw-cutters,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['feed-roll', 'of', 'straw-cutters']",1
-US15791A,1856-09-23,Warm-air furnace,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['warm-air', 'furnace']",1
-US15980A,1856-10-28,Improvement in soap mixtures,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,4,"['improvement', 'in', 'soap', 'mixtures']",1
-US15999A,1856-10-28,Improved projectile for ordnance,"['VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,"['improved', 'projectile', 'for', 'ordnance']",1
-US16088A,1856-11-18,Machine for cleaning grain,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'for', 'cleaning', 'grain']",1
-US16237A,1856-12-16,Improvement in sewing-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'sewing-machines']",1
-US16243A,1856-12-16,Railroad-gate for cattle-guards,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['railroad-gate', 'for', 'cattle-guards']",1
-US16582A,1857-02-10,Improved raking attachment for reapers,"['VERB', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['improved', 'raking', 'attachment', 'for', 'reapers']",1
-US16597A,1857-02-10,Improvement in seed-planters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'seed-planters']",1
-US16616A,1857-02-10,Improved self-adjusting wind-wheel,"['ADJ', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['improved', 'self-adjusting', 'wind-wheel']",1
-US16720A,1857-03-03,Sheep-sheaks,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['sheep-sheaks'],1
-US17203A,1857-05-05,Improvement in rotary brick-machines,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'rotary', 'brick-machines']",1
-US17253A,1857-05-12,Sigrnal-lamp,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,['sigrnal-lamp'],1
-US17741A,1857-07-07,Albbet h,"['ADJ', 'NOUN']",['NORP'],0,0,2,"['albbet', 'h']",1
-US17745A,1857-07-07,Improved cutting apparatus for harvesters,"['ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['improved', 'cutting', 'apparatus', 'for', 'harvesters']",1
-US18093A,1857-09-01,Improved method of operating the cutters of harvesting-machines,"['ADJ', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,"['improved', 'method', 'of', 'operating', 'the', 'cutters', 'of', 'harvesting-machines']",1
-US18381A,1857-10-13,Improvement in preparing fats for candle-making,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB']",[],0,0,8,"['improvement', 'in', 'preparing', 'fats', 'for', 'candle-making']",1
-US18614A,1857-11-10,Improvement in last-holders,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'last-holders']",1
-US18621A,1857-11-10,Machinery for dressing warps,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machinery', 'for', 'dressing', 'warps']",1
-US18680A,1857-11-24,Spoke-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['spoke-machine'],1
+US12076A,1854-12-12,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US12128A,1855-01-02,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US12282A,1855-01-23,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US12916A,1855-05-22,Tool for,"['NOUN', 'ADP']",[],0,0,2,"['tool', 'for']",1
+US13087A,1855-06-19,Expandingr-block for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['expandingr-block', 'for']",1
+US13144A,1855-06-26,Hand-kachine for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['hand-kachine', 'for']",1
+US13214A,1855-07-10,Device to allow escape of,"['NOUN', 'PART', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['device', 'to', 'allow', 'escape', 'of']",1
+US13399A,1855-08-07,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US13555A,1855-09-11,Construction op beds for,"['NOUN', 'NOUN', 'VERB', 'ADP']",[],0,0,4,"['construction', 'op', 'beds', 'for']",1
+US13597A,1855-09-25,behrens,['ADP'],[],0,0,1,['behrens'],1
+US13800A,1855-11-13,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US13946A,1855-12-18,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US14048A,1856-01-08,Constructing- the bottoms of ships abtb othek,"['VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP']",[],0,0,7,"['constructing-', 'the', 'bottoms', 'of', 'ships', 'abtb', 'othek']",1
+US14105A,1856-01-15,Bit for,"['NOUN', 'ADP']",[],0,0,2,"['bit', 'for']",1
+US14348A,1856-03-04,Arrangement of steam-tubing for,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['arrangement', 'of', 'steam-tubing', 'for']",1
+US14366A,1856-03-04,Habtlde for,"['VERB', 'ADP']",[],0,0,2,"['habtlde', 'for']",1
+US14562A,1856-04-01,Automatic steam-whistle on,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,5,"['automatic', 'steam-whistle', 'on']",1
+US14643A,1856-04-08,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US14890A,1856-05-13,Chaib for,"['NOUN', 'ADP']",[],0,0,2,"['chaib', 'for']",1
+US14941A,1856-05-20,Lathe attachment for,"['VERB', 'NOUN', 'ADP']",[],0,0,3,"['lathe', 'attachment', 'for']",1
+US14967A,1856-05-27,Instantaneous govebnor for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['instantaneous', 'govebnor', 'for']",1
+US15041A,1856-06-03,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US15049A,1856-06-03,Driving-wheel for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['driving-wheel', 'for']",1
+US15267A,1856-07-01,Dry-lime g-as,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'ADP']",[],0,0,6,"['dry-lime', 'g-as']",1
+US15346A,1856-07-15,Adjustment of,"['NOUN', 'ADP']",[],0,0,2,"['adjustment', 'of']",1
+US15487A,1856-08-05,Means for guiding line ferry-boats ob,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,8,"['means', 'for', 'guiding', 'line', 'ferry-boats', 'ob']",1
+US15500A,1856-08-05,Bolt for,"['NOUN', 'ADP']",[],0,0,2,"['bolt', 'for']",1
+US15539A,1856-08-12,Valve-gear for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['valve-gear', 'for']",1
+US15567A,1856-08-19,Ehorottgh-brace for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['ehorottgh-brace', 'for']",1
+US15627A,1856-08-26,Machinery for,"['NOUN', 'ADP']",[],0,0,2,"['machinery', 'for']",1
+US15896A,1856-10-14,Improvement in the order of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'order', 'of']",1
+US16383A,1857-01-13,Improvement in flour-bolts as,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['improvement', 'in', 'flour-bolts', 'as']",1
+US16406A,1857-01-13,Base ob,"['NOUN', 'ADP']",[],0,0,2,"['base', 'ob']",1
+US16765A,1857-03-03,Operating-valve for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['operating-valve', 'for']",1
+US16777A,1857-03-03,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US16782A,1857-03-10,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US16791A,1857-03-10,Device for raising or lowering farm-gates to allow them to open over,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PRON', 'PART', 'VERB', 'ADP']",[],0,0,14,"['device', 'for', 'raising', 'or', 'lowering', 'farm-gates', 'to', 'allow', 'them', 'to', 'open', 'over']",1
+US16967A,1857-04-07,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US16977A,1857-04-07,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US17023A,1857-04-14,Pendulum level ob,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['pendulum', 'level', 'ob']",1
+US17083A,1857-04-21,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US17325A,1857-05-19,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US17416A,1857-06-02,Fastening for,"['VERB', 'ADP']",[],0,0,2,"['fastening', 'for']",1
+US17452A,1857-06-02,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US17532A,1857-06-09,Machine for setting tires on,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['machine', 'for', 'setting', 'tires', 'on']",1
+US17567A,1857-06-16,Chair for,"['NOUN', 'ADP']",[],0,0,2,"['chair', 'for']",1
+US17611A,1857-06-16,Keeper for,"['NOUN', 'ADP']",[],0,0,2,"['keeper', 'for']",1
+US17801A,1857-07-14,Seal for,"['VERB', 'ADP']",[],0,0,2,"['seal', 'for']",1
+US17917A,1857-08-04,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US17963A,1857-08-11,Arrangement of feed-rollers for,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['arrangement', 'of', 'feed-rollers', 'for']",1
+US18011A,1857-08-18,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US18075A,1857-08-25,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US18098A,1857-09-01,Feed and gigging movement for,"['NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['feed', 'and', 'gigging', 'movement', 'for']",1
+US18316A,1857-10-06,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US18418A,1857-10-13,Lock for,"['VERB', 'ADP']",[],0,0,2,"['lock', 'for']",1
+US18423A,1857-10-13,Improvement in carding-mach in es,"['NOUN', 'ADP', 'VERB', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,7,"['improvement', 'in', 'carding-mach', 'in', 'es']",1
+US18679A,1857-11-24,Machine for cutting shingles from,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['machine', 'for', 'cutting', 'shingles', 'from']",1
+US18691A,1857-11-24,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
 US18706A,1857-11-24,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
-US18756A,1857-12-01,Improvement in cane-planters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'cane-planters']",1
-US18985A,1857-12-29,Island,['NOUN'],[],0,0,1,['island'],1
-US19022A,1858-01-05,Hydrant,['ADJ'],[],0,0,1,['hydrant'],1
-US19097A,1858-01-12,Improvement in cotton-gins,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'cotton-gins']",1
-US19162A,1858-01-19,Ratchet-movement for screw-drivers,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['ratchet-movement', 'for', 'screw-drivers']",1
-US19416A,1858-02-23,Island,['NOUN'],[],0,0,1,['island'],1
-US19430A,1858-02-23,Improvement in machines for gathering stones,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'machines', 'for', 'gathering', 'stones']",1
-US19600A,1858-03-09,Machine foe,"['NOUN', 'NOUN']",[],0,0,2,"['machine', 'foe']",1
-US19723A,1858-03-23,Improvement in sewing-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'sewing-machines']",1
-US19747A,1858-03-30,Byron boardman,"['ADJ', 'NOUN']",[],0,0,2,"['byron', 'boardman']",1
-US19868A,1858-04-06,Improvement in removable rammers of revolving fire-arms,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['improvement', 'in', 'removable', 'rammers', 'of', 'revolving', 'fire-arms']",1
-US20086A,1858-04-27,Improvement in cotton-gins,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'cotton-gins']",1
-US20136A,1858-05-04,Steam-engine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['steam-engine'],1
-US20300A,1858-05-18,Improvement in apparatus for clearing the colters of plows,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,"['improvement', 'in', 'apparatus', 'for', 'clearing', 'the', 'colters', 'of', 'plows']",1
-US20479A,1858-06-08,Improved mowing-machine,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'mowing-machine']",1
-US20576A,1858-06-15,Chakles neer,"['NOUN', 'NOUN']",[],0,0,2,"['chakles', 'neer']",1
-US20645A,1858-06-22,Improvement in corn-harvesters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'corn-harvesters']",1
-US20798A,1858-07-06,Improvement in cultivators,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'cultivators']",1
-US21246A,1858-08-24,Roofing composition,"['VERB', 'NOUN']",[],0,0,2,"['roofing', 'composition']",1
-US21261A,1858-08-24,Washing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['washing-machine'],1
-US21289A,1858-08-24,Attachment to abtiitcial legs,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['attachment', 'to', 'abtiitcial', 'legs']",1
-US21398A,1858-08-31,Improvement in regulating the tension of the thread in sewing-machines,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,12,"['improvement', 'in', 'regulating', 'the', 'tension', 'of', 'the', 'thread', 'in', 'sewing-machines']",1
-US21443A,1858-09-07,Machine for turning hubs,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,4,"['machine', 'for', 'turning', 'hubs']",1
-US21619A,1858-09-28,Machine eor planing irregular surfaces,"['NOUN', 'NOUN', 'VERB', 'ADJ', 'NOUN']",[],0,0,5,"['machine', 'eor', 'planing', 'irregular', 'surfaces']",1
-US21928A,1858-10-26,Improvement in water-motors,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'water-motors']",1
-US21940A,1858-11-02,Improvement in raking attachments to harvesters,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['improvement', 'in', 'raking', 'attachments', 'to', 'harvesters']",1
-US22260A,1858-12-07,Improvement in saw-sets,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'saw-sets']",1
-US22302A,1858-12-14,Machine for turning irregular forms,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,5,"['machine', 'for', 'turning', 'irregular', 'forms']",1
-US22342A,1858-12-21,Stove,['VERB'],[],0,0,1,['stove'],1
-US22463A,1858-12-28,tyler,['NOUN'],[],0,0,1,['tyler'],1
-US22491A,1859-01-04,collender,['NOUN'],[],0,0,1,['collender'],1
-US22505A,1859-01-04,Improvement in machines for sowing guano and other fertilizers,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,9,"['improvement', 'in', 'machines', 'for', 'sowing', 'guano', 'and', 'other', 'fertilizers']",1
-US22544A,1859-01-11,Improvement in artificial manure,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['improvement', 'in', 'artificial', 'manure']",1
-US22720A,1859-01-25,Smut-mill,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['smut-mill'],1
-US22813A,1859-02-01,Tool for crozing and chamfering barrels,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,6,"['tool', 'for', 'crozing', 'and', 'chamfering', 'barrels']",1
-US23025A,1859-02-22,Machine foe,"['NOUN', 'NOUN']",[],0,0,2,"['machine', 'foe']",1
-US23076A,1859-03-01,Improvement in corn-harvesters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'corn-harvesters']",1
-US23185A,1859-03-08,Cooking-stove,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['cooking-stove'],1
-US23566A,1859-04-12,Carpet-fastener,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['carpet-fastener'],1
-US23720A,1859-04-19,Island,['NOUN'],[],0,0,1,['island'],1
-US23875A,1859-05-03,Lamp-shade,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['lamp-shade'],1
-US23945A,1859-05-10,Improvement in water-wheels,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'water-wheels']",1
-US23952A,1859-05-10,Automatic primer for firearms,"['ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,4,"['automatic', 'primer', 'for', 'firearms']",1
-US23960A,1859-05-10,Improved bureau-bedstead,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'bureau-bedstead']",1
-US24172A,1859-05-24,Saw-filee,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['saw-filee'],1
-US24930A,1859-08-02,Portable field-pence,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['portable', 'field-pence']",1
-US24992A,1859-08-09,Improvement in corn-harvesters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'corn-harvesters']",1
-US25338A,1859-09-06,Damase lamoureux,"['VERB', 'NOUN']",[],0,0,2,"['damase', 'lamoureux']",1
-US25413A,1859-09-13,Mangle,['NOUN'],[],0,0,1,['mangle'],1
-US25467A,1859-09-13,Beick-machine,"['NUM', 'PUNCT', 'NOUN']",[],0,0,3,['beick-machine'],1
-US25887A,1859-10-25,Washing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['washing-machine'],1
-US26212A,1859-11-22,Improvement in air-heating pipes for blast-furnaces,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,"['improvement', 'in', 'air-heating', 'pipes', 'for', 'blast-furnaces']",1
-US26259A,1859-11-29,Improvement in plows,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'plows']",1
-US26268A,1859-11-29,Machine for riving- basket-splints,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['machine', 'for', 'riving-', 'basket-splints']",1
-US26424A,1859-12-13,Improvement in horizontal water-wheels,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'horizontal', 'water-wheels']",1
-US26526A,1859-12-20,Improvement in breech-loading fire-arms,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['improvement', 'in', 'breech-loading', 'fire-arms']",1
-US26561A,1859-12-27,Improvement in guides for sewing-machines,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['improvement', 'in', 'guides', 'for', 'sewing-machines']",1
-US26605A,1859-12-27,Improvement in seed-planters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'seed-planters']",1
-US26623A,1859-12-27,Hernial truss,"['ADJ', 'NOUN']",[],0,0,2,"['hernial', 'truss']",1
-US26796A,1860-01-10,Improvement in cultivators,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'cultivators']",1
-US26814A,1860-01-10,Improvement in mowing-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'mowing-machines']",1
-US26889A,1860-01-24,Coffee-pot,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['coffee-pot'],1
-US26896A,1860-01-24,Self-acting wagon-shake,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['self-acting', 'wagon-shake']",1
-US27433A,1860-03-13,Shoe-tip,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['shoe-tip'],1
-US27454A,1860-03-13,Coffee-roaster,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['coffee-roaster'],1
-US27460A,1860-03-13,mcdougai,['NOUN'],[],0,0,1,['mcdougai'],1
-US27615A,1860-03-27,of new yokk,"['ADP', 'ADJ', 'NOUN']",[],0,0,3,"['of', 'new', 'yokk']",1
-US27969A,1860-04-24,Improvement in casting molasses-gates,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'casting', 'molasses-gates']",1
-US28237A,1860-05-08,Cab-spring,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['cab-spring'],1
-US28288A,1860-05-15,Machine for making rubber hose,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,"['machine', 'for', 'making', 'rubber', 'hose']",1
-US28520A,1860-05-29,Locomotive-boiler,"['ADJ', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['locomotive-boiler'],1
+US19176A,1858-01-19,Improved method of registering the speed and back or,"['ADJ', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'CCONJ', 'ADV', 'CCONJ']",[],0,0,9,"['improved', 'method', 'of', 'registering', 'the', 'speed', 'and', 'back', 'or']",1
+US19548A,1858-03-09,Improvement in the mode of tightening and securing the keys of the journal-boxes of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,16,"['improvement', 'in', 'the', 'mode', 'of', 'tightening', 'and', 'securing', 'the', 'keys', 'of', 'the', 'journal-boxes', 'of']",1
+US20046A,1858-04-27,Joint for,"['ADJ', 'ADP']",[],0,0,2,"['joint', 'for']",1
+US20233A,1858-05-11,Working ship s lower sails in,"['VERB', 'NOUN', 'PART', 'ADJ', 'NOUN', 'ADP']",[],0,0,6,"['working', 'ship', 's', 'lower', 'sails', 'in']",1
+US20239A,1858-05-11,gram and,"['NOUN', 'CCONJ']",[],0,0,3,"['gram', 'and']",1
+US20285A,1858-05-18,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US20306A,1858-05-18,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US20351A,1858-05-25,Improved apparatus for separating the combustible from the incombustible gases or,"['ADJ', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'CCONJ']",[],0,0,11,"['improved', 'apparatus', 'for', 'separating', 'the', 'combustible', 'from', 'the', 'incombustible', 'gases', 'or']",1
+US20566A,1858-06-15,Adjustable hanger for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['adjustable', 'hanger', 'for']",1
+US20624A,1858-06-22,Improvement in the mode of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'mode', 'of']",1
+US20674A,1858-06-22,Oil-cup for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['oil-cup', 'for']",1
+US20861A,1858-07-13,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US20873A,1858-07-13,Trap for,"['VERB', 'ADP']",[],0,0,2,"['trap', 'for']",1
+US21004A,1858-07-27,Biachuitery for,"['NOUN', 'ADP']",[],0,0,2,"['biachuitery', 'for']",1
+US21114A,1858-08-10,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US21209A,1858-08-17,Lantern for,"['ADJ', 'ADP']",[],0,0,2,"['lantern', 'for']",1
+US21717A,1858-10-05,Executor of,"['NOUN', 'ADP']",[],0,0,2,"['executor', 'of']",1
+US21853A,1858-10-19,Improvement in method of,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'method', 'of']",1
+US22368A,1858-12-21,Improved method of gathering grain upon and discharging it from the platforms of,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'SCONJ', 'CCONJ', 'VERB', 'PRON', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,13,"['improved', 'method', 'of', 'gathering', 'grain', 'upon', 'and', 'discharging', 'it', 'from', 'the', 'platforms', 'of']",1
+US22447A,1858-12-28,Lathe for,"['NOUN', 'ADP']",[],0,0,2,"['lathe', 'for']",1
+US22485A,1859-01-04,Cosrstbtjctioet of,"['NOUN', 'ADP']",[],0,0,2,"['cosrstbtjctioet', 'of']",1
+US22610A,1859-01-11,Improved method of enabling moving railroad-trains to telegraph their own passings at,"['ADJ', 'NOUN', 'ADP', 'VERB', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PART', 'VERB', 'PRON', 'ADJ', 'NOUN', 'ADP']",[],0,0,14,"['improved', 'method', 'of', 'enabling', 'moving', 'railroad-trains', 'to', 'telegraph', 'their', 'own', 'passings', 'at']",1
+US22851A,1859-02-08,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US22861A,1859-02-08,Improved furnace fo,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'furnace', 'fo']",1
+US23086A,1859-03-01,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US23148A,1859-03-08,Hubs and axles of,"['NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,4,"['hubs', 'and', 'axles', 'of']",1
+US23270A,1859-03-15,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US23292A,1859-03-22,Fastening for,"['VERB', 'ADP']",[],0,0,2,"['fastening', 'for']",1
+US23421A,1859-03-29,Self-feeding press for,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['self-feeding', 'press', 'for']",1
+US23488A,1859-04-05,Improvement in the arrangement of machinery for operating corn-shellers separately or,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADV', 'CCONJ']",[],0,0,13,"['improvement', 'in', 'the', 'arrangement', 'of', 'machinery', 'for', 'operating', 'corn-shellers', 'separately', 'or']",1
+US23638A,1859-04-12,Improved mode of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'mode', 'of']",1
+US23674A,1859-04-19,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US23761A,1859-04-26,Low-water alarm for,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['low-water', 'alarm', 'for']",1
+US24030A,1859-05-17,Adjustable canopy for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['adjustable', 'canopy', 'for']",1
+US24141A,1859-05-24,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US24254A,1859-05-31,Friction-spuing for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['friction-spuing', 'for']",1
+US24307A,1859-06-07,Coustkuction of,"['NOUN', 'ADP']",[],0,0,2,"['coustkuction', 'of']",1
+US24314A,1859-06-07,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US24483A,1859-06-21,Eireback for,"['NOUN', 'ADP']",[],0,0,2,"['eireback', 'for']",1
+US25093A,1859-08-16,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US25361A,1859-09-06,Improvement in the mode of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'mode', 'of']",1
+US25420A,1859-09-13,Movable top for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['movable', 'top', 'for']",1
+US25468A,1859-09-13,la due,"['ADV', 'ADP']",[],0,0,2,"['la', 'due']",1
+US26009A,1859-11-08,Device for,"['NOUN', 'ADP']",[],0,0,2,"['device', 'for']",1
+US26049A,1859-11-08,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US26141A,1859-11-15,Machinery for,"['NOUN', 'ADP']",[],0,0,2,"['machinery', 'for']",1
+US26206A,1859-11-22,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US26276A,1859-11-29,Improvement in the manufacture of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'the', 'manufacture', 'of']",1
+US26392A,1859-12-06,Tool  for,"['NOUN', 'SPACE', 'ADP']",[],0,0,3,"['tool', 'for']",1
+US26401A,1859-12-06,Improved mode of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'mode', 'of']",1
+US26454A,1859-12-13,Improvement in dispensing with,"['NOUN', 'ADP', 'VERB', 'ADP']",[],0,0,4,"['improvement', 'in', 'dispensing', 'with']",1
+US26887A,1860-01-24,Wire screen for,"['NOUN', 'NOUN', 'ADP']",[],0,0,3,"['wire', 'screen', 'for']",1
+US26891A,1860-01-24,Catch for,"['VERB', 'ADP']",[],0,0,2,"['catch', 'for']",1
+US27003A,1860-01-31,Ives w,"['NOUN', 'ADP']",[],0,0,2,"['ives', 'w']",1
+US27268A,1860-02-28,Implement for,"['VERB', 'ADP']",[],0,0,2,"['implement', 'for']",1
+US27510A,1860-03-20,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US27702A,1860-04-03,Metallic heels for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['metallic', 'heels', 'for']",1
+US28094A,1860-05-01,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US28153A,1860-05-08,Machinery for,"['NOUN', 'ADP']",[],0,0,2,"['machinery', 'for']",1
+US28204A,1860-05-08,Floating sluice for,"['VERB', 'NOUN', 'ADP']",[],0,0,3,"['floating', 'sluice', 'for']",1
+US28348A,1860-05-22,Mold for,"['NOUN', 'ADP']",[],0,0,2,"['mold', 'for']",1
 US28536A,1860-05-29,Samtjel w,"['NOUN', 'ADP']",[],0,0,2,"['samtjel', 'w']",1
-US29043A,1860-07-10,Improvement in cultivators,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'cultivators']",1
-US29120A,1860-07-10,Chillion f,"['NOUN', 'X']",[],0,0,2,"['chillion', 'f']",1
-US29178A,1860-07-17,Governor attachment to grain-separators,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['governor', 'attachment', 'to', 'grain-separators']",1
-US29183A,1860-07-17,Excavating and grading machine,"['VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,4,"['excavating', 'and', 'grading', 'machine']",1
-US29372A,1860-07-31,Improvement in casting stamping-heads,"['NOUN', 'ADP', 'VERB', 'VERB', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'casting', 'stamping-heads']",1
-US29593A,1860-08-14,Improvement in reaping and mowing machines,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'reaping', 'and', 'mowing', 'machines']",1
-US29611A,1860-08-14,Improvement in bottles,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'bottles']",1
-US29626A,1860-08-14,Improvement in cultivators,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'cultivators']",1
-US29640A,1860-08-14,Improvement in automatic rakes for harvesters,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['improvement', 'in', 'automatic', 'rakes', 'for', 'harvesters']",1
-US29777A,1860-08-28,Improvement in corn-planters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'corn-planters']",1
-US29933A,1860-09-04,Improvement in lightning-rods,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'lightning-rods']",1
-US29963A,1860-09-11,Improvement in wood-screws,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'wood-screws']",1
-US30246A,1860-10-02,Island,['NOUN'],[],0,0,1,['island'],1
-US30247A,1860-10-02,Watch,['VERB'],[],0,0,1,['watch'],1
-US30367A,1860-10-09,Improvement in compositions for tanning,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['improvement', 'in', 'compositions', 'for', 'tanning']",1
-US30429A,1860-10-16,Blind-slat machine,"['ADJ', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,4,"['blind-slat', 'machine']",1
-US30621A,1860-11-13,Vapor-lamp,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['vapor-lamp'],1
-US30655A,1860-11-13,Improvement in harvesters,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'harvesters']",1
-US30810A,1860-12-04,Improvement in cotton-cultivators,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'cotton-cultivators']",1
-US30847A,1860-12-04,Improvement in the manufacture of dentists  crystalline gold,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'SPACE', 'NOUN', 'NOUN']",[],0,0,9,"['improvement', 'in', 'the', 'manufacture', 'of', 'dentists', 'crystalline', 'gold']",1
-US30882A,1860-12-11,Improvement in rakes for harvesters,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['improvement', 'in', 'rakes', 'for', 'harvesters']",1
-US31002A,1860-12-18,Improvement in machines for making cigars,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'machines', 'for', 'making', 'cigars']",1
-US31268A,1861-01-29,Improvement in breech-loading fire-arms,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['improvement', 'in', 'breech-loading', 'fire-arms']",1
-US31336A,1861-02-05,stafford,['NOUN'],[],0,0,1,['stafford'],1
-US31348A,1861-02-05,clark,['NOUN'],[],0,0,1,['clark'],1
-US31443A,1861-02-19,Felly-machine,"['ADJ', 'PUNCT', 'NOUN']",[],0,0,3,['felly-machine'],1
-US31485A,1861-02-19,Jbhial h,"['ADJ', 'NOUN']",[],0,0,2,"['jbhial', 'h']",1
-US32137A,1861-04-23,Improvement in rotary spadinq-machines,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'rotary', 'spadinq-machines']",1
-US32214A,1861-04-30,Improved washing-machine,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'washing-machine']",1
-US32221A,1861-04-30,Shutter-fastener,"['NOUN', 'PUNCT', 'NOUN']",['ORG'],0,0,3,['shutter-fastener'],1
-US32306A,1861-05-14,Improved cork-fastener for bottles,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['improved', 'cork-fastener', 'for', 'bottles']",1
-US32662A,1861-06-25,Cutting saw-teeth,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['cutting', 'saw-teeth']",1
-US32964A,1861-07-30,Culietaky boiler,"['ADJ', 'NOUN']",[],0,0,2,"['culietaky', 'boiler']",1
-US33149A,1861-08-27,Improvement in mole-plows,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'mole-plows']",1
-US33252A,1861-09-10,Improvement in horse-power machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'horse-power', 'machines']",1
-US33264A,1861-09-10,Improvement in machines for trimming leather,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'machines', 'for', 'trimming', 'leather']",1
-US33369A,1861-09-24,Improvement in husking-pins,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'husking-pins']",1
-US33649A,1861-11-05,Improvement in lamps,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'lamps']",1
-US33654A,1861-11-05,Improved potato-masher,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'potato-masher']",1
-US33689A,1861-11-12,Improvement in roller-skates,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'roller-skates']",1
-US34156A,1862-01-14,Improvement in tire-upsetting machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'tire-upsetting', 'machines']",1
-US34376A,1862-02-11,Improved rotary engine,"['ADJ', 'ADJ', 'NOUN']",[],0,0,3,"['improved', 'rotary', 'engine']",1
-US34647A,1862-03-11,Picker-motion eoe looms,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'VERB']",[],0,0,5,"['picker-motion', 'eoe', 'looms']",1
-US34724A,1862-03-18,Improvement in treating gunpowder to form cartridges,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PART', 'VERB', 'NOUN']",[],0,0,7,"['improvement', 'in', 'treating', 'gunpowder', 'to', 'form', 'cartridges']",1
-US34999A,1862-04-15,Improvement in machines for raking- and binding grain,"['NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'CCONJ', 'VERB', 'NOUN']",[],0,0,8,"['improvement', 'in', 'machines', 'for', 'raking-', 'and', 'binding', 'grain']",1
-US35064A,1862-04-22,Improvement in speed-regulators for horse-powers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['improvement', 'in', 'speed-regulators', 'for', 'horse-powers']",1
-US35717A,1862-06-24,Improved fruit-gatherer,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'fruit-gatherer']",1
-US35764A,1862-07-01,Improvement in seeding-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'seeding-machines']",1
+US28562A,1860-06-05,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US28675A,1860-06-12,Improved apparatus for regulating the draft and preventing the explosion of,"['ADJ', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'CCONJ', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,11,"['improved', 'apparatus', 'for', 'regulating', 'the', 'draft', 'and', 'preventing', 'the', 'explosion', 'of']",1
+US28783A,1860-06-19,Improvement in raking and binding apparatus for,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'ADJ', 'NOUN', 'ADP']",[],0,0,7,"['improvement', 'in', 'raking', 'and', 'binding', 'apparatus', 'for']",1
+US29017A,1860-07-03,Mold for,"['NOUN', 'ADP']",[],0,0,2,"['mold', 'for']",1
+US29099A,1860-07-10,Broom or,"['NOUN', 'CCONJ']",[],0,0,2,"['broom', 'or']",1
+US29149A,1860-07-17,Engine eor employing steam ob any other aeriform or gaseous body under,"['NOUN', 'NOUN', 'VERB', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP']",[],0,0,12,"['engine', 'eor', 'employing', 'steam', 'ob', 'any', 'other', 'aeriform', 'or', 'gaseous', 'body', 'under']",1
+US29293A,1860-07-24,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US29451A,1860-08-07,Tube for,"['NOUN', 'ADP']",[],0,0,2,"['tube', 'for']",1
+US29507A,1860-08-07,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US29595A,1860-08-14,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US29807A,1860-08-28,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US29860A,1860-09-04,Improvement in modes of,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'modes', 'of']",1
+US29940A,1860-09-04,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US29978A,1860-09-11,Construction of,"['NOUN', 'ADP']",[],0,0,2,"['construction', 'of']",1
+US30483A,1860-10-23,Screen for,"['NOUN', 'ADP']",[],0,0,2,"['screen', 'for']",1
+US30540A,1860-10-30,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US30547A,1860-10-30,Bearing for,"['VERB', 'ADP']",[],0,0,2,"['bearing', 'for']",1
+US30870A,1860-12-11,Improvement in apparatus for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'apparatus', 'for']",1
+US31218A,1861-01-29,Making finger-guards for,"['VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,5,"['making', 'finger-guards', 'for']",1
+US31315A,1861-02-05,Improvement in machinery for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machinery', 'for']",1
+US31327A,1861-02-05,Improvement in the construction of the fire-chambers and in operating the fire of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,15,"['improvement', 'in', 'the', 'construction', 'of', 'the', 'fire-chambers', 'and', 'in', 'operating', 'the', 'fire', 'of']",1
+US31695A,1861-03-19,Improved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'machine', 'for']",1
+US32623A,1861-06-25,Life ob,"['NOUN', 'ADP']",[],0,0,2,"['life', 'ob']",1
+US32693A,1861-07-02,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US32955A,1861-07-30,Furnace for,"['VERB', 'ADP']",[],0,0,2,"['furnace', 'for']",1
+US33011A,1861-08-06,Auxiliary apparatus for increasing the draft of the furnaces of,"['ADJ', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,10,"['auxiliary', 'apparatus', 'for', 'increasing', 'the', 'draft', 'of', 'the', 'furnaces', 'of']",1
+US33618A,1861-10-29,Improvement in screens of win nowing-mach in es,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,10,"['improvement', 'in', 'screens', 'of', 'win', 'nowing-mach', 'in', 'es']",1
+US33662A,1861-11-05,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US33665A,1861-11-05,Improved mode of diminishing effect of collision on,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,8,"['improved', 'mode', 'of', 'diminishing', 'effect', 'of', 'collision', 'on']",1
+US33739A,1861-11-19,Improved mode of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'mode', 'of']",1
+US33808A,1861-11-26,Improved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'machine', 'for']",1
+US34407A,1862-02-18,Improvement in setting and threading needles in,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,7,"['improvement', 'in', 'setting', 'and', 'threading', 'needles', 'in']",1
+US34566A,1862-03-04,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US34671A,1862-03-18,Improved mode of attaching horses to vehicles and detaching them therefrom,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'PRON', 'ADP']",[],0,0,11,"['improved', 'mode', 'of', 'attaching', 'horses', 'to', 'vehicles', 'and', 'detaching', 'them', 'therefrom']",1
+US34733A,1862-03-25,Improvement in chimneys fo,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'chimneys', 'fo']",1
+US34964A,1862-04-15,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US34973A,1862-04-15,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US35528A,1862-06-10,Improvement in pianos w,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'pianos', 'w']",1
 US35767A,1862-07-01,Improved mode of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'mode', 'of']",1
-US35844A,1862-07-08,Improvement in evaporating-pans for saccharine liquids,"['NOUN', 'ADP', 'VERB', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,"['improvement', 'in', 'evaporating-pans', 'for', 'saccharine', 'liquids']",1
-US35911A,1862-07-15,Improvement in clothes-wringers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'clothes-wringers']",1
-US36193A,1862-08-12,Improvement in floating grain-elevators,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'floating', 'grain-elevators']",1
-US36547A,1862-09-23,Improvement in locks,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'locks']",1
-US36708A,1862-10-21,Improvement in pumps,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'pumps']",1
-US36816A,1862-10-28,Improved sugar tablet for containing medicines,"['ADJ', 'NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['improved', 'sugar', 'tablet', 'for', 'containing', 'medicines']",1
-US36883A,1862-11-04,Improvement in butt-hinges,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'butt-hinges']",1
-US37125A,1862-12-09,Improvement in grain thrashers and separators,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,"['improvement', 'in', 'grain', 'thrashers', 'and', 'separators']",1
-US37134A,1862-12-09,Improvement in grain-bins,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'grain-bins']",1
-US37710A,1863-02-17,Improved steering apparatus,"['ADJ', 'NOUN', 'NOUN']",[],0,0,3,"['improved', 'steering', 'apparatus']",1
-US37967A,1863-03-24,Improvement in coverings for steam-boilers,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['improvement', 'in', 'coverings', 'for', 'steam-boilers']",1
-US38098A,1863-04-07,Improvement in railroad-frogs,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'railroad-frogs']",1
-US38099A,1863-04-07,Improved method of actuating the feeding apparatus of seed-planters,"['ADJ', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,11,"['improved', 'method', 'of', 'actuating', 'the', 'feeding', 'apparatus', 'of', 'seed-planters']",1
-US38204A,1863-04-14,Improvement in revolving fire-arms,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'revolving', 'fire-arms']",1
-US38314A,1863-04-28,Improvement in the manufacture of wooden moldings or strips for the frames of mirrors,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,14,"['improvement', 'in', 'the', 'manufacture', 'of', 'wooden', 'moldings', 'or', 'strips', 'for', 'the', 'frames', 'of', 'mirrors']",1
-US38320A,1863-04-28,Improvement in coffee-roasters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'coffee-roasters']",1
-US38355A,1863-04-28,Improvement in lanterns,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'lanterns']",1
-US38566A,1863-05-19,Improved screw-propeller,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'screw-propeller']",1
-US38570A,1863-05-19,Improvement in machines for driving piles,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'machines', 'for', 'driving', 'piles']",1
-US38590A,1863-05-19,Improved machine for boring and mortising blind-stiles,"['ADJ', 'NOUN', 'ADP', 'ADJ', 'CCONJ', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['improved', 'machine', 'for', 'boring', 'and', 'mortising', 'blind-stiles']",1
-US38635A,1863-05-19,Improvement in churns,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'churns']",1
-US38790A,1863-06-02,Improvement in grain-driers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'grain-driers']",1
-US38845A,1863-06-09,Improvement in portable shields for infantry or artillery,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,8,"['improvement', 'in', 'portable', 'shields', 'for', 'infantry', 'or', 'artillery']",1
-US39388A,1863-08-04,Improvement in producing illuminating-gas,"['NOUN', 'ADP', 'VERB', 'VERB', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'producing', 'illuminating-gas']",1
-US39472A,1863-08-11,Improvement in treating night-soil for agricultural purposes,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,9,"['improvement', 'in', 'treating', 'night-soil', 'for', 'agricultural', 'purposes']",1
-US39622A,1863-08-25,Improvement in bee-hives,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'bee-hives']",1
-US39790A,1863-09-08,Improvement in scroll-saws,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'scroll-saws']",1
-US40187A,1863-10-06,Improvement in gate-catches,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'gate-catches']",1
-US41048A,1864-01-05,Improvement in lamp-burners,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'lamp-burners']",1
-US41079A,1864-01-05,Improvement in windows for railroad-cars,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['improvement', 'in', 'windows', 'for', 'railroad-cars']",1
-US41271A,1864-01-19,Improvement in cheese-curd cutters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'cheese-curd', 'cutters']",1
-US41278A,1864-01-19,Improved construction of ships of war,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['improved', 'construction', 'of', 'ships', 'of', 'war']",1
-US41362A,1864-01-26,Improvement in truss-pads,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'truss-pads']",1
-US41413A,1864-01-26,Improvement in casting packing-rings in gas and water pipes,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,11,"['improvement', 'in', 'casting', 'packing-rings', 'in', 'gas', 'and', 'water', 'pipes']",1
-US41552A,1864-02-09,Improvement in shingle-sawing machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'shingle-sawing', 'machines']",1
-US41969A,1864-03-22,Improvement in attachment of buttons,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['improvement', 'in', 'attachment', 'of', 'buttons']",1
-US41994A,1864-03-22,Improved cleaner for lamp-chimneys,"['VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improved', 'cleaner', 'for', 'lamp-chimneys']",1
-US42199A,1864-04-05,Improvement in carriage circle-couplings,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'carriage', 'circle-couplings']",1
+US35896A,1862-07-15,Improvement in expressing the juice of,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,6,"['improvement', 'in', 'expressing', 'the', 'juice', 'of']",1
+US35897A,1862-07-15,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US36101A,1862-08-05,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US36107A,1862-08-05,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US36138A,1862-08-12,Improvement in tenoning-mach in es,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,7,"['improvement', 'in', 'tenoning-mach', 'in', 'es']",1
+US36339A,1862-09-02,Smpovement in,"['VERB', 'ADP']",[],0,0,2,"['smpovement', 'in']",1
+US36363A,1862-09-02,Improved pricking-martingale for preventing horses or mules from throwing or,"['VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'CCONJ']",[],0,0,12,"['improved', 'pricking-martingale', 'for', 'preventing', 'horses', 'or', 'mules', 'from', 'throwing', 'or']",1
+US36406A,1862-09-09,Improved composition substitute for,"['ADJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,"['improved', 'composition', 'substitute', 'for']",1
+US36551A,1862-09-23,Improvement in machinery for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machinery', 'for']",1
+US36603A,1862-10-07,Improvement in machinery for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machinery', 'for']",1
+US37124A,1862-12-09,Improvement in apparatus for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'apparatus', 'for']",1
+US37204A,1862-12-16,Improvement in grates for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'grates', 'for']",1
+US37347A,1863-01-06,Improvement in blades for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'blades', 'for']",1
+US37510A,1863-01-27,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US38702A,1863-05-26,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US38732A,1863-06-02,Improved process of burning petroleum and other liquid fuel for the generation of,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,13,"['improved', 'process', 'of', 'burning', 'petroleum', 'and', 'other', 'liquid', 'fuel', 'for', 'the', 'generation', 'of']",1
+US38916A,1863-06-16,Improvement in machines fo,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machines', 'fo']",1
+US38922A,1863-06-16,Centering device for,"['VERB', 'NOUN', 'ADP']",[],0,0,3,"['centering', 'device', 'for']",1
+US39001A,1863-06-23,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US39048A,1863-06-30,Improvement in bog-cutting mach in es,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'ADP']",[],0,0,8,"['improvement', 'in', 'bog-cutting', 'mach', 'in', 'es']",1
+US39181A,1863-07-07,Improvement in slide-valves for,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['improvement', 'in', 'slide-valves', 'for']",1
+US39566A,1863-08-18,Improvement in stocks for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'stocks', 'for']",1
+US39589A,1863-08-18,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US39782A,1863-09-01,Improved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'machine', 'for']",1
+US39955A,1863-09-15,Improvement in slide-valves for,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['improvement', 'in', 'slide-valves', 'for']",1
+US40076A,1863-09-22,Improvement in molds for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'molds', 'for']",1
+US40088A,1863-09-29,Suspension-rack for,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['suspension-rack', 'for']",1
+US40206A,1863-10-06,Improved method of regulating the supply of water in,"['ADJ', 'NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,9,"['improved', 'method', 'of', 'regulating', 'the', 'supply', 'of', 'water', 'in']",1
+US40216A,1863-10-06,Improved cutter-head for,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,5,"['improved', 'cutter-head', 'for']",1
+US40260A,1863-10-13,Adhesive tags for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['adhesive', 'tags', 'for']",1
+US40284A,1863-10-13,Iproved device for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['iproved', 'device', 'for']",1
+US40306A,1863-10-13,Improvement in machines for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machines', 'for']",1
+US40374A,1863-10-20,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US40516A,1863-11-03,Improved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'machine', 'for']",1
+US40575A,1863-11-10,Improved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'machine', 'for']",1
+US40893A,1863-12-15,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US40905A,1863-12-15,Improvement in valve-gear for,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['improvement', 'in', 'valve-gear', 'for']",1
+US40912A,1863-12-15,Improved clasp for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'clasp', 'for']",1
+US41035A,1863-12-22,Improvement in piston-valves for,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['improvement', 'in', 'piston-valves', 'for']",1
+US41478A,1864-02-09,Improvement in tools for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'tools', 'for']",1
+US41489A,1864-02-09,Improvement in gas-checks for,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['improvement', 'in', 'gas-checks', 'for']",1
+US41590A,1864-02-16,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US41723A,1864-02-23,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US42125A,1864-03-29,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US42300A,1864-04-12,Machine for manufacture of,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['machine', 'for', 'manufacture', 'of']",1
+US42371A,1864-04-19,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
 US42385A,1864-04-19,Improved method of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'method', 'of']",1
-US42492A,1864-04-26,Improvement in lamps,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'lamps']",1
-US42513A,1864-04-26,Improvement in cultivators,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'cultivators']",1
-US42526A,1864-04-26,Improvement in locomotive and furnace grates,"['NOUN', 'ADP', 'ADJ', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'locomotive', 'and', 'furnace', 'grates']",1
-US42648A,1864-05-10,Improvement in many-barreled fire-arms,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['improvement', 'in', 'many-barreled', 'fire-arms']",1
-US42658A,1864-05-10,Improvement in lanterns,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'lanterns']",1
-US42703A,1864-05-10,Drop for hammering sole-leather,"['VERB', 'ADP', 'VERB', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,6,"['drop', 'for', 'hammering', 'sole-leather']",1
-US42730A,1864-05-10,Improved combination of cradle and chair,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,"['improved', 'combination', 'of', 'cradle', 'and', 'chair']",1
-US42754A,1864-05-17,Improved adjustable caster,"['VERB', 'ADJ', 'NOUN']",[],0,0,3,"['improved', 'adjustable', 'caster']",1
-US42831A,1864-05-24,Improvement in fire-pots for stoves,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,"['improvement', 'in', 'fire-pots', 'for', 'stoves']",1
-US42984A,1864-05-31,Churn-dasher,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['churn-dasher'],1
-US43048A,1864-06-07,Improvement in furnaces for melting metals,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'furnaces', 'for', 'melting', 'metals']",1
-US43386A,1864-07-05,Improvement in rests for turning-lathes,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['improvement', 'in', 'rests', 'for', 'turning-lathes']",1
-US43398A,1864-07-05,Improved pocket-knife,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'pocket-knife']",1
-US43406A,1864-07-05,Curing and drying hay,"['VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,4,"['curing', 'and', 'drying', 'hay']",1
-US43539A,1864-07-12,Improvement in cartridge-boxes,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'cartridge-boxes']",1
-US44017A,1864-08-30,Improvement in lamps,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'lamps']",1
-US44029A,1864-08-30,Machine for introducing pegs and cement into soles,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'NOUN']",[],0,0,8,"['machine', 'for', 'introducing', 'pegs', 'and', 'cement', 'into', 'soles']",1
-US44135A,1864-09-06,Improved sorghum-evaporator,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'sorghum-evaporator']",1
-US44277A,1864-09-20,Improvement in harvesting-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'harvesting-machines']",1
-US44708A,1864-10-18,Improvement in instruments for lighting gas by electricity,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['improvement', 'in', 'instruments', 'for', 'lighting', 'gas', 'by', 'electricity']",1
-US44892A,1864-11-01,Improvement in blower-cases,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'blower-cases']",1
-US44967A,1864-11-08,Improvement in portable fences,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['improvement', 'in', 'portable', 'fences']",1
-US44983A,1864-11-08,Improvement in dumping-carts,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'dumping-carts']",1
-US45217A,1864-11-29,Improved refrigerator,"['ADJ', 'NOUN']",[],0,0,2,"['improved', 'refrigerator']",1
-US45288A,1864-11-29,Improvement in car-couplings,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'car-couplings']",1
-US45504A,1864-12-20,Improved combined caster and cooler for soda-fountains,"['VERB', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['improved', 'combined', 'caster', 'and', 'cooler', 'for', 'soda-fountains']",1
-US45650A,1864-12-27,Improvement in rests for grindstones,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['improvement', 'in', 'rests', 'for', 'grindstones']",1
-US45869A,1865-01-10,Improvement in drills for boring wells,"['NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,"['improvement', 'in', 'drills', 'for', 'boring', 'wells']",1
-US46247A,1865-02-07,Improved process for preserving and restoring natural flowers,"['ADJ', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'ADJ', 'NOUN']",[],0,0,8,"['improved', 'process', 'for', 'preserving', 'and', 'restoring', 'natural', 'flowers']",1
-US46390A,1865-02-14,Lithographic-printing press,"['ADJ', 'PUNCT', 'VERB', 'NOUN']",[],0,0,4,"['lithographic-printing', 'press']",1
+US42602A,1864-05-03,Improved bottom for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'bottom', 'for']",1
+US42667A,1864-05-10,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US42868A,1864-05-24,Improved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'machine', 'for']",1
+US42994A,1864-05-31,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US43199A,1864-06-21,Improvement in method of,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'method', 'of']",1
+US43551A,1864-07-12,Improvement in driving mechanisms for,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'driving', 'mechanisms', 'for']",1
+US43684A,1864-08-02,Improvement in for,"['NOUN', 'ADP', 'ADP']",[],0,0,3,"['improvement', 'in', 'for']",1
+US43817A,1864-08-09,Otis w,"['NOUN', 'ADP']",[],0,0,2,"['otis', 'w']",1
+US44047A,1864-08-30,Improvement in bit-holders for,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['improvement', 'in', 'bit-holders', 'for']",1
+US44057A,1864-08-30,Improvement in telescopic sights for,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,5,"['improvement', 'in', 'telescopic', 'sights', 'for']",1
+US44568A,1864-10-04,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US44585A,1864-10-04,Improvement in machines for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machines', 'for']",1
+US44634A,1864-10-11,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US45013A,1864-11-15,Improvement in apparatus for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'apparatus', 'for']",1
+US45031A,1864-11-15,Improved boiler for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'boiler', 'for']",1
+US45128A,1864-11-22,Improvement in combined time and concussion fuse for,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,8,"['improvement', 'in', 'combined', 'time', 'and', 'concussion', 'fuse', 'for']",1
+US45236A,1864-11-29,Improvement in sewing-mach in es,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,7,"['improvement', 'in', 'sewing-mach', 'in', 'es']",1
+US45538A,1864-12-20,Improved end or,"['ADJ', 'NOUN', 'CCONJ']",[],0,0,3,"['improved', 'end', 'or']",1
+US46026A,1865-01-24,Improvement in machines for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machines', 'for']",1
+US46135A,1865-01-31,Improved riding or warping but,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'CCONJ']",[],0,0,5,"['improved', 'riding', 'or', 'warping', 'but']",1
+US46234A,1865-02-07,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US46421A,1865-02-14,Improved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'machine', 'for']",1
 US46535A,1865-02-21,Improvement in means for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'means', 'for']",1
-US46776A,1865-03-14,Improvement in horse-rakes,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'horse-rakes']",1
-US46787A,1865-03-14,Improvement in time-indicators for railroad-trains,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['improvement', 'in', 'time-indicators', 'for', 'railroad-trains']",1
-US47336A,1865-04-18,Achromatic object-glass for photographic-cameras,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['achromatic', 'object-glass', 'for', 'photographic-cameras']",1
-US47354A,1865-04-18,Improvement in knitting-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'knitting-machines']",1
-US47405A,1865-04-25,Improvement in drop-hammers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'drop-hammers']",1
-US47820A,1865-05-23,Improved railroad chair and coupling,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'VERB']",[],0,0,5,"['improved', 'railroad', 'chair', 'and', 'coupling']",1
-US47839A,1865-05-23,Improvement in fanning-mills,"['NOUN', 'ADP', 'VERB', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'fanning-mills']",1
-US47921A,1865-05-30,Improved so rg hum -evaporator,"['ADJ', 'ADV', 'PRON', 'ADJ', 'NOUN']",[],0,0,5,"['improved', 'so', 'rg', 'hum', '-evaporator']",1
-US47942A,1865-05-30,Improvement in gang-plows,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'gang-plows']",1
-US48053A,1865-06-06,Improvement in washing the blankets of printing-machines,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['improvement', 'in', 'washing', 'the', 'blankets', 'of', 'printing-machines']",1
-US48375A,1865-06-27,Washing-machine,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['washing-machine'],1
-US48904A,1865-07-25,Improvement in valve-gears for oscillating engines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,8,"['improvement', 'in', 'valve-gears', 'for', 'oscillating', 'engines']",1
-US49023A,1865-07-25,Improvement in sewing-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'sewing-machines']",1
-US49131A,1865-08-01,Improvement in the manufacture of felted fabrics,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,"['improvement', 'in', 'the', 'manufacture', 'of', 'felted', 'fabrics']",1
-US49330A,1865-08-08,Improvement in grain-shovels,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'grain-shovels']",1
-US49455A,1865-08-15,Improvement in hay-racks for wagons,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,"['improvement', 'in', 'hay-racks', 'for', 'wagons']",1
-US49560A,1865-08-22,Improved car-spring,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'car-spring']",1
-US50012A,1865-09-19,Improvement in stop-motions for knitting-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,9,"['improvement', 'in', 'stop-motions', 'for', 'knitting-machines']",1
-US50106A,1865-09-26,Combined knife,"['ADJ', 'NOUN']",[],0,0,2,"['combined', 'knife']",1
-US50176A,1865-09-26,Improvement in vents for barrels,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['improvement', 'in', 'vents', 'for', 'barrels']",1
-US50331A,1865-10-10,Improvement in slide-valves,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'slide-valves']",1
-US50970A,1865-11-14,Improvement in tatting-shuttles,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'tatting-shuttles']",1
-US51124A,1865-11-21,Improved filtering-press,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'filtering-press']",1
-US51467A,1865-12-12,photo-litho,"['NOUN', 'PUNCT', 'X']",[],0,0,3,['photo-litho'],1
-US51659A,1865-12-19,Improvement in the manufacture of bread,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['improvement', 'in', 'the', 'manufacture', 'of', 'bread']",1
-US51661A,1865-12-19,photo-uthnflflapher,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['photo-uthnflflapher'],1
-US53033A,1866-03-06,Improvement,['NOUN'],[],0,0,1,['improvement'],1
-US53661A,1866-04-03,Improvement in machines for blocking and shaping hats,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,8,"['improvement', 'in', 'machines', 'for', 'blocking', 'and', 'shaping', 'hats']",1
-US53916A,1866-04-10,Improvement in names for horse-collars,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,7,"['improvement', 'in', 'names', 'for', 'horse-collars']",1
-US54489A,1866-05-08,Improved method of removing sand-bars from rivers,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,"['improved', 'method', 'of', 'removing', 'sand-bars', 'from', 'rivers']",1
-US55843A,1866-06-26,Improved broom-head,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'broom-head']",1
-US56024A,1866-07-03,Improvement in sheep-feeding racks,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'sheep-feeding', 'racks']",1
-US56953A,1866-08-07,Improved broom-head,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'broom-head']",1
-US57386A,1866-08-21,Improvement in valves for steam,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['improvement', 'in', 'valves', 'for', 'steam']",1
-US57545A,1866-08-28,Improvement in burial-cases,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'burial-cases']",1
-US57665A,1866-09-04,Improvement in catamenial sacks,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['improvement', 'in', 'catamenial', 'sacks']",1
-US57815A,1866-09-04,Improved ditching-machine,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'ditching-machine']",1
-US57825A,1866-09-04,Improved method of receiving and discharging freight,"['ADJ', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN']",[],0,0,7,"['improved', 'method', 'of', 'receiving', 'and', 'discharging', 'freight']",1
-US58122A,1866-09-18,Improvement in lanterns,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'lanterns']",1
-US58840A,1866-10-16,Improved paint,"['ADJ', 'NOUN']",[],0,0,2,"['improved', 'paint']",1
-US58899A,1866-10-16,Improvement in fruit-boxes,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'fruit-boxes']",1
-US59021A,1866-10-23,Improved car-truck,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'car-truck']",1
-US59839A,1866-11-20,Island,['NOUN'],[],0,0,1,['island'],1
-US59988A,1866-11-27,Impbovement in lozenges,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['impbovement', 'in', 'lozenges']",1
-US60097A,1866-11-27,Improvement in ghoshs,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'ghoshs']",1
-US60161A,1866-12-04,Improvement in wagon hay-rack,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'wagon', 'hay-rack']",1
-US60329A,1866-12-11,Nipbovemnent in cast iron chain pullleys,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['nipbovemnent', 'in', 'cast', 'iron', 'chain', 'pullleys']",1
-US61217A,1867-01-15,Improvement in cotton-bale ties,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'cotton-bale', 'ties']",1
-US61672A,1867-01-29,lqughborough,['ADV'],[],0,0,1,['lqughborough'],1
-US61714A,1867-02-05,e- clem,"['X', 'NOUN']",[],0,0,2,"['e-', 'clem']",1
-US62485A,1867-02-26,Administrator of the estate,"['NOUN', 'ADP', 'DET', 'NOUN']",[],0,0,4,"['administrator', 'of', 'the', 'estate']",1
-US63344A,1867-03-26,Island,['NOUN'],[],0,0,1,['island'],1
-US64403A,1867-05-07,Improvement in eobse eay-fobe,"['NOUN', 'ADP', 'VERB', 'ADJ', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'eobse', 'eay-fobe']",1
-US65403A,1867-06-04,Improvement in caeeiage-top -peop-eest,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['improvement', 'in', 'caeeiage-top', '-peop-eest']",1
-US65662A,1867-06-11,Improved mop-head,"['ADJ', 'ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['improved', 'mop-head']",1
-US67249A,1867-07-30,Improvement in machines for packing flour,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['improvement', 'in', 'machines', 'for', 'packing', 'flour']",1
-US67424A,1867-08-06,Improvement in portable percussion-cap primer,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,"['improvement', 'in', 'portable', 'percussion-cap', 'primer']",1
-US67789A,1867-08-13,Improved snap-hook,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'snap-hook']",1
-US68172A,1867-08-27,Improved check-rein holder,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['improved', 'check-rein', 'holder']",1
-US68632A,1867-09-10,Improved medical compound,"['ADJ', 'ADJ', 'NOUN']",[],0,0,3,"['improved', 'medical', 'compound']",1
-US68673A,1867-09-10,Improvement in gang-plows,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'gang-plows']",1
-US69546A,1867-10-08,Improvement in teaoe-fastening,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB']",[],0,0,5,"['improvement', 'in', 'teaoe-fastening']",1
-US69560A,1867-10-08,Improvement in cant-hooks,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'cant-hooks']",1
-US69664A,1867-10-08,Improved metal tip foe suspending beooms,"['ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['improved', 'metal', 'tip', 'foe', 'suspending', 'beooms']",1
-US70623A,1867-11-05,Ransom sargent,"['NOUN', 'NOUN']",['ORG'],0,0,2,"['ransom', 'sargent']",1
-US70696A,1867-11-12,chase,['NOUN'],[],0,0,1,['chase'],1
-US70880A,1867-11-12,mcclellan,['ADJ'],['GPE'],0,0,1,['mcclellan'],1
-US71382A,1867-11-26,Improvement in button-fasteners,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'button-fasteners']",1
-US71387A,1867-11-26,Improvement in clamps foe planking ships  sides ob floors,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'SPACE', 'NOUN', 'ADP', 'NOUN']",[],0,0,10,"['improvement', 'in', 'clamps', 'foe', 'planking', 'ships', 'sides', 'ob', 'floors']",1
-US71400A,1867-11-26,Improved steam gas-generator,"['ADJ', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improved', 'steam', 'gas-generator']",1
-US72180A,1867-12-17,Improvement in sewing-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'sewing-machines']",1
-US72253A,1867-12-17,Improvement in lamp-chimneys,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'lamp-chimneys']",1
-US72368A,1867-12-17,Improved glass-bottle mold,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['improved', 'glass-bottle', 'mold']",1
-US72442A,1867-12-24,And kevenue-stamps,"['CCONJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['and', 'kevenue-stamps']",1
-US72471A,1867-12-24,Fruit-drier,"['NOUN', 'PUNCT', 'NOUN']",[],0,0,3,['fruit-drier'],1
-US72599A,1867-12-24,Eobeet d,"['NOUN', 'NOUN']",[],0,0,2,"['eobeet', 'd']",1
-US72972A,1868-01-07,Improvement in mechanical movement,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['improvement', 'in', 'mechanical', 'movement']",1
-US73555A,1868-01-21,Elisea w,"['NOUN', 'X']",[],0,0,2,"['elisea', 'w']",1
-US73669A,1868-01-21,taplbt,['X'],[],0,0,1,['taplbt'],1
-US73709A,1868-01-28,Improvement in sewing-machine,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'sewing-machine']",1
-US74273A,1868-02-11,Dinsmgbe austin,"['NOUN', 'NOUN']",[],0,0,2,"['dinsmgbe', 'austin']",1
-US74615A,1868-02-18,Improvement in hammers,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'hammers']",1
-US74721A,1868-02-18,Improvement in shovel-plough and cultivator,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,7,"['improvement', 'in', 'shovel-plough', 'and', 'cultivator']",1
-US75040A,1868-03-03,Combined book oovee and stand,"['VERB', 'NOUN', 'NOUN', 'CCONJ', 'VERB']",[],0,0,5,"['combined', 'book', 'oovee', 'and', 'stand']",1
-US75056A,1868-03-03,Improved water-wheel,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'water-wheel']",1
-US75145A,1868-03-03,Improvement in iron posts for wire fence,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,7,"['improvement', 'in', 'iron', 'posts', 'for', 'wire', 'fence']",1
-US75210A,1868-03-03,Improved gas-begdlatob,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'gas-begdlatob']",1
-US75248A,1868-03-10,Improvement in gun-looks,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'gun-looks']",1
-US75831A,1868-03-24,bailey,['NOUN'],[],0,0,1,['bailey'],1
-US76979A,1868-04-21,Improvement in lamp-burners,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'lamp-burners']",1
-US77069A,1868-04-21,Improved blacking foe leather,"['ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['improved', 'blacking', 'foe', 'leather']",1
-US77157A,1868-04-28,adams,['NOUN'],[],0,0,1,['adams'],1
-US77159A,1868-04-28,Improved oar-brake,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'oar-brake']",1
-US77437A,1868-05-05,Island,['NOUN'],[],0,0,1,['island'],1
-US77439A,1868-05-05,Improvement in saws,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'saws']",1
-US77461A,1868-05-05,cooke,['VERB'],[],0,0,1,['cooke'],1
-US78087A,1868-05-19,Improved watee-spout fastening,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'VERB']",[],0,0,5,"['improved', 'watee-spout', 'fastening']",1
-US78261A,1868-05-26,Improved apparatus for tee atinb offal,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['improved', 'apparatus', 'for', 'tee', 'atinb', 'offal']",1
-US78722A,1868-06-09,detwiler,['NOUN'],[],0,0,1,['detwiler'],1
-US78923A,1868-06-16,Improvement in advertising devices,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,4,"['improvement', 'in', 'advertising', 'devices']",1
-US79041A,1868-06-16,Improvement in stoye-pipe dampee,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'stoye-pipe', 'dampee']",1
-US79123A,1868-06-23,Improvement in book-binding,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB']",[],0,0,5,"['improvement', 'in', 'book-binding']",1
-US79248A,1868-06-23,Improvement in sash-fasteners,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'sash-fasteners']",1
-US79587A,1868-07-07,of bridgeport,"['ADP', 'NOUN']",[],0,0,2,"['of', 'bridgeport']",1
-US79957A,1868-07-14,Improvement in toothed wheels,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,4,"['improvement', 'in', 'toothed', 'wheels']",1
-US80423A,1868-07-28,It may concern,"['PRON', 'AUX', 'VERB']",[],0,0,3,"['it', 'may', 'concern']",1
-US80874A,1868-08-11,Improvement in watee-wheels,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'watee-wheels']",1
-US80935A,1868-08-11,Giles f,"['NOUN', 'X']",[],0,0,2,"['giles', 'f']",1
-US81153A,1868-08-18,Improved fruit-crate,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'fruit-crate']",1
-US81859A,1868-09-01,wright,['NOUN'],[],0,0,1,['wright'],1
-US82773A,1868-10-06,Improvement in looms for weaving- pile fabrics,"['NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,7,"['improvement', 'in', 'looms', 'for', 'weaving-', 'pile', 'fabrics']",1
-US83068A,1868-10-13,Improvement in horse hat-forks,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'horse', 'hat-forks']",1
-US83141A,1868-10-20,Improvement in cloth drawers,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,4,"['improvement', 'in', 'cloth', 'drawers']",1
-US83152A,1868-10-20,Improvement in the manufacture of shot,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],0,0,6,"['improvement', 'in', 'the', 'manufacture', 'of', 'shot']",1
-US83811A,1868-11-03,Improvement in steam-generators,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'steam-generators']",1
-US83892A,1868-11-10,Improvement in crimping-pins,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'crimping-pins']",1
-US83989A,1868-11-10,Improvement in shutter-workers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'shutter-workers']",1
-US84035A,1868-11-10,Improvement in water-wheels,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'water-wheels']",1
-US84060A,1868-11-17,Zel hibtel,"['ADJ', 'NOUN']",[],0,0,2,"['zel', 'hibtel']",1
-US84715A,1868-12-08,Improvement in wash-boilers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'wash-boilers']",1
-US84891A,1868-12-15,Improvement in seal-bolt for rail wat-cars,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,10,"['improvement', 'in', 'seal-bolt', 'for', 'rail', 'wat-cars']",1
-US85114A,1868-12-22,Improvement in windmills,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'windmills']",1
-US85628A,1869-01-05,Improvement in harvesters,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'harvesters']",1
-US85662A,1869-01-05,Improvement in cultivators,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'cultivators']",1
-US85807A,1869-01-12,Improved lunch-box,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'lunch-box']",1
-US85844A,1869-01-12,Hay-fork gr,"['NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['hay-fork', 'gr']",1
-US86775A,1869-02-09,Improvement in horse hay-forks,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'horse', 'hay-forks']",1
-US87585A,1869-03-09,Improvement in turbine water-wheels,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'turbine', 'water-wheels']",1
-US87646A,1869-03-09,darby,['VERB'],[],0,0,1,['darby'],1
-US87832A,1869-03-16,Improvement in moulding sash-weights,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'moulding', 'sash-weights']",1
-US88801A,1869-04-13,Improvement in bog-cutter and drag,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,7,"['improvement', 'in', 'bog-cutter', 'and', 'drag']",1
-US88874A,1869-04-13,Improvement in adjusting- feed-rollers for carding-eng-ines,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,12,"['improvement', 'in', 'adjusting-', 'feed-rollers', 'for', 'carding-eng-ines']",1
-US88889A,1869-04-13,Improvement in velocipede,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'velocipede']",1
-US89393A,1869-04-27,Improved stringe,"['ADJ', 'NOUN']",[],0,0,2,"['improved', 'stringe']",1
-US89423A,1869-04-27,Improvement in cranks,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'cranks']",1
-US89452A,1869-04-27,Improvement in ear-drop suspehbers,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'ear-drop', 'suspehbers']",1
-US90209A,1869-05-18,Improvement in attaching roses for knobs to doors,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['improvement', 'in', 'attaching', 'roses', 'for', 'knobs', 'to', 'doors']",1
-US90345A,1869-05-25,Improvement in sliding-door sheave,"['NOUN', 'ADP', 'VERB', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'sliding-door', 'sheave']",1
-US90705A,1869-06-01,Improved dental mouth-meter,"['VERB', 'ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improved', 'dental', 'mouth-meter']",1
-US90750A,1869-06-01,Improved flour-sifter,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'flour-sifter']",1
-US90955A,1869-06-08,partz,['NOUN'],[],0,0,1,['partz'],1
-US91003A,1869-06-08,Improvement in corn-smellers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'corn-smellers']",1
-US91242A,1869-06-15,Improvement in hay-loaders,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'hay-loaders']",1
-US91256A,1869-06-15,Improvement in fruit-picker,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'fruit-picker']",1
-US91444A,1869-06-15,Improvement in corn-harvesters,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'corn-harvesters']",1
-US91459A,1869-06-15,Improvement in fire-extinguishers,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'fire-extinguishers']",1
-US91965A,1869-06-29,Improved machine for forming threads on screwb,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,7,"['improved', 'machine', 'for', 'forming', 'threads', 'on', 'screwb']",1
-US92021A,1869-06-29,Improved railway-rail splice,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['improved', 'railway-rail', 'splice']",1
-US92567A,1869-07-13,Improvement in dies for forming- threads on bolts,"['NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['improvement', 'in', 'dies', 'for', 'forming-', 'threads', 'on', 'bolts']",1
-US92930A,1869-07-27,Improvement in tobacco-boxes,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'tobacco-boxes']",1
-US93033A,1869-07-27,Improvement in broom-head,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'broom-head']",1
-US93246A,1869-08-03,Improvement in safety watch-pockets,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['improvement', 'in', 'safety', 'watch-pockets']",1
-US93414A,1869-08-10,Improvement in steam-engines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'steam-engines']",1
-US93537A,1869-08-10,Improvement in pumps,"['NOUN', 'ADP', 'NOUN']",[],0,0,3,"['improvement', 'in', 'pumps']",1
-US93669A,1869-08-17,Photographic-plate holder,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,4,"['photographic-plate', 'holder']",1
-US94130A,1869-08-24,Improvement in machine for turning- ovals,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'machine', 'for', 'turning-', 'ovals']",1
-US94382A,1869-08-31,Improved toe-fiats foe boots amd shoes,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,8,"['improved', 'toe-fiats', 'foe', 'boots', 'amd', 'shoes']",1
-US94386A,1869-08-31,Improved railway-car coupling,"['VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['improved', 'railway-car', 'coupling']",1
-US94604A,1869-09-07,Improved burglar-alarm,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'burglar-alarm']",1
-US94687A,1869-09-07,Improvement in device for marking- and planting corn,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NUM', 'CCONJ', 'VERB', 'NOUN']",[],0,0,8,"['improvement', 'in', 'device', 'for', 'marking-', 'and', 'planting', 'corn']",1
-US95183A,1869-09-28,Improved baby-jumper and rocker,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,"['improved', 'baby-jumper', 'and', 'rocker']",1
-US95675A,1869-10-12,Improved horse cant-hook,"['ADJ', 'NOUN', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improved', 'horse', 'cant-hook']",1
-US95742A,1869-10-12,Improved plate,"['ADJ', 'NOUN']",[],0,0,2,"['improved', 'plate']",1
-US95858A,1869-10-12,Improved medicated cigar,"['ADJ', 'ADJ', 'NOUN']",[],0,0,3,"['improved', 'medicated', 'cigar']",1
-US95859A,1869-10-12,Improvement in slate-pencil holders,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'slate-pencil', 'holders']",1
-US96068A,1869-10-19,Improved washing-machine,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'washing-machine']",1
-US96239A,1869-10-26,Improved process of reducing wood and woody fibres for paper-pulp,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,12,"['improved', 'process', 'of', 'reducing', 'wood', 'and', 'woody', 'fibres', 'for', 'paper-pulp']",1
-US96417A,1869-11-02,Improved snap-hook,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'snap-hook']",1
-US96578A,1869-11-09,Improvement in printing-presses,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'printing-presses']",1
-US96909A,1869-11-16,Improvement in lamp-shaejb holders,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['improvement', 'in', 'lamp-shaejb', 'holders']",1
-US97113A,1869-11-23,Improvement in bending-machines,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,5,"['improvement', 'in', 'bending-machines']",1
-US97157A,1869-11-23,Improved horse-rake,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'horse-rake']",1
-US97371A,1869-11-30,Improved peed-water heater,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['improved', 'peed-water', 'heater']",1
-US97548A,1869-12-07,Improvement in window and door-cap mouldings,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,8,"['improvement', 'in', 'window', 'and', 'door-cap', 'mouldings']",1
-US97831A,1869-12-14,Improved stove-shelf,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'stove-shelf']",1
-US98102A,1869-12-21,Improvement in combined oyster-knife and ice-pick,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'VERB']",[],0,0,10,"['improvement', 'in', 'combined', 'oyster-knife', 'and', 'ice-pick']",1
-US99197A,1870-01-25,Improved window-screen,"['ADJ', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['improved', 'window-screen']",1
-US99357A,1870-02-01,Improvement in device for connecting horses to vehicles,"['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['improvement', 'in', 'device', 'for', 'connecting', 'horses', 'to', 'vehicles']",1
-US99708A,1870-02-08,Improvement in stringing and tuning piano-fortes,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,8,"['improvement', 'in', 'stringing', 'and', 'tuning', 'piano-fortes']",1
+US46632A,1865-03-07,Improved apparatus for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'apparatus', 'for']",1
+US47050A,1865-03-28,Improved apparatus for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'apparatus', 'for']",1
+US47135A,1865-04-04,Improvement in clasps for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'clasps', 'for']",1
+US47338A,1865-04-18,Improvement in reels for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'reels', 'for']",1
+US48060A,1865-06-06,Improved mode of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'mode', 'of']",1
+US48376A,1865-06-27,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US48554A,1865-07-04,Chaeles w,"['NOUN', 'ADP']",[],0,0,2,"['chaeles', 'w']",1
+US48556A,1865-07-04,Ximprovement-in,"['NOUN', 'PUNCT', 'ADP']",[],0,0,3,['ximprovement-in'],1
+US49811A,1865-09-05,Improved apparatus fo,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'apparatus', 'fo']",1
+US50404A,1865-10-10,Combination of,"['NOUN', 'ADP']",[],0,0,2,"['combination', 'of']",1
+US50649A,1865-10-24,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US51194A,1865-11-28,Improved method of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'method', 'of']",1
+US52503A,1866-02-06,obernetter,['ADP'],[],0,0,1,['obernetter'],1
+US53550A,1866-03-27,Improved apparatus for disengaging boats from,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,6,"['improved', 'apparatus', 'for', 'disengaging', 'boats', 'from']",1
+US53953A,1866-04-17,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US54101A,1866-04-24,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US54216A,1866-04-24,Improved apparatus for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'apparatus', 'for']",1
+US54365A,1866-05-01,Improved method of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'method', 'of']",1
+US54375A,1866-05-01,Machine for enveloping hemp or flax waste within a sliver of,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,11,"['machine', 'for', 'enveloping', 'hemp', 'or', 'flax', 'waste', 'within', 'a', 'sliver', 'of']",1
+US55332A,1866-06-05,Improvement in machines for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machines', 'for']",1
+US55389A,1866-06-05,Improvement in planing-mach in es,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,7,"['improvement', 'in', 'planing-mach', 'in', 'es']",1
+US55498A,1866-06-12,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US56234A,1866-07-10,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US56314A,1866-07-10,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US56398A,1866-07-17,Improvement in rubber rollers for wringing-mach in es,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,10,"['improvement', 'in', 'rubber', 'rollers', 'for', 'wringing-mach', 'in', 'es']",1
+US56483A,1866-07-17,Improved apparatus for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'apparatus', 'for']",1
+US56902A,1866-08-07,Improvement in needle-feed sewing-maoh in es,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'ADP']",[],0,0,10,"['improvement', 'in', 'needle-feed', 'sewing-maoh', 'in', 'es']",1
+US57108A,1866-08-14,Improved valve for the hulls of,"['ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,6,"['improved', 'valve', 'for', 'the', 'hulls', 'of']",1
+US57524A,1866-08-28,Improved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'machine', 'for']",1
+US57969A,1866-09-11,Improvement in reducing metallic oxides and in refining the metal resulting therefrom,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'ADP', 'VERB', 'DET', 'NOUN', 'VERB', 'ADP']",[],0,0,12,"['improvement', 'in', 'reducing', 'metallic', 'oxides', 'and', 'in', 'refining', 'the', 'metal', 'resulting', 'therefrom']",1
+US59151A,1866-10-23,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US60471A,1866-12-18,Chaeles w,"['NOUN', 'ADP']",[],0,0,2,"['chaeles', 'w']",1
+US60737A,1867-01-01,Improvement in combined seat and top for,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,7,"['improvement', 'in', 'combined', 'seat', 'and', 'top', 'for']",1
+US61261A,1867-01-15,Machine poe coyekim wiee with,"['NOUN', 'NOUN', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,5,"['machine', 'poe', 'coyekim', 'wiee', 'with']",1
+US61326A,1867-01-22,G-eorge w,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['g-eorge', 'w']",1
+US61886A,1867-02-05,Disteict of,"['NOUN', 'ADP']",[],0,0,2,"['disteict', 'of']",1
+US61931A,1867-02-12,And in,"['CCONJ', 'ADP']",[],0,0,2,"['and', 'in']",1
+US62048A,1867-02-12,mcclanathan,['ADP'],[],0,0,1,['mcclanathan'],1
+US62332A,1867-02-26,he yd en,"['PRON', 'VERB', 'ADP']",[],0,0,3,"['he', 'yd', 'en']",1
+US62757A,1867-03-12,G-eorge w,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['g-eorge', 'w']",1
+US62800A,1867-03-12,Chaelottb w,"['NOUN', 'ADP']",[],0,0,2,"['chaelottb', 'w']",1
+US62899A,1867-03-12,stant on,"['ADJ', 'ADP']",[],0,0,2,"['stant', 'on']",1
+US62916A,1867-03-12,Improved mode of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'mode', 'of']",1
+US63561A,1867-04-02,Improvement in self-oiling spindles for,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP']",[],0,0,7,"['improvement', 'in', 'self-oiling', 'spindles', 'for']",1
+US63581A,1867-04-02,tilt on,"['VERB', 'ADP']",[],0,0,2,"['tilt', 'on']",1
+US63852A,1867-04-16,b ties on,"['NOUN', 'NOUN', 'ADP']",[],0,0,3,"['b', 'ties', 'on']",1
+US64311A,1867-04-30,grbenamtbe,['ADP'],[],0,0,1,['grbenamtbe'],1
+US65250A,1867-05-28,Distbict of,"['VERB', 'ADP']",[],0,0,2,"['distbict', 'of']",1
+US65348A,1867-06-04,Wellsly w,"['ADV', 'ADP']",[],0,0,2,"['wellsly', 'w']",1
+US65349A,1867-06-04,Wellsly w,"['ADV', 'ADP']",[],0,0,2,"['wellsly', 'w']",1
+US65517A,1867-06-04,sweetl-and,"['NOUN', 'PUNCT', 'CCONJ']",[],0,0,3,['sweetl-and'],1
+US66146A,1867-06-25,Ands e w,"['VERB', 'NOUN', 'ADP']",[],0,0,4,"['ands', 'e', 'w']",1
+US66247A,1867-07-02,The nor,"['PRON', 'CCONJ']",[],0,0,2,"['the', 'nor']",1
+US66301A,1867-07-02,A l v out,"['DET', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,"['a', 'l', 'v', 'out']",1
+US66607A,1867-07-09,Waed mcgea nn,"['NOUN', 'VERB', 'ADP']",['PERSON'],0,1,3,"['waed', 'mcgea', 'nn']",1
+US67272A,1867-07-30,Impkoved mode of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['impkoved', 'mode', 'of']",1
+US68365A,1867-09-03,Improvement in rollffig rubber into sheets and in,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADP']",[],0,0,8,"['improvement', 'in', 'rollffig', 'rubber', 'into', 'sheets', 'and', 'in']",1
+US68585A,1867-09-03,Impeovement in,"['NOUN', 'ADP']",[],0,0,2,"['impeovement', 'in']",1
+US68647A,1867-09-10,Geoegb n,"['NOUN', 'CCONJ']",[],0,0,2,"['geoegb', 'n']",1
+US68655A,1867-09-10,bums by,"['NOUN', 'ADP']",[],0,0,2,"['bums', 'by']",1
+US69290A,1867-09-24,wills on,"['NOUN', 'ADP']",[],0,0,2,"['wills', 'on']",1
+US69433A,1867-10-01,Impeovement in,"['NOUN', 'ADP']",[],0,0,2,"['impeovement', 'in']",1
+US70148A,1867-10-29,meeeitt as at,"['VERB', 'ADP', 'ADP']",['PERSON'],0,1,3,"['meeeitt', 'as', 'at']",1
+US70763A,1867-11-12,Isaac yarn by,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['isaac', 'yarn', 'by']",1
+US70947A,1867-11-19,bostrom,['ADP'],[],0,0,1,['bostrom'],1
+US71731A,1867-12-03,Impkoved eoo,"['VERB', 'ADP']",[],0,0,2,"['impkoved', 'eoo']",1
+US72423A,1867-12-17,Impeoved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['impeoved', 'machine', 'for']",1
+US72481A,1867-12-24,Impeovement in,"['NOUN', 'ADP']",[],0,0,2,"['impeovement', 'in']",1
+US72642A,1867-12-24,Otis w,"['NOUN', 'ADP']",[],0,0,2,"['otis', 'w']",1
+US73535A,1868-01-21,Eli as w,"['INTJ', 'ADP', 'ADP']",[],0,0,3,"['eli', 'as', 'w']",1
+US73547A,1868-01-21,neisler,['ADP'],['ORG'],0,0,1,['neisler'],1
+US74659A,1868-02-18,brockway,['ADP'],[],0,0,1,['brockway'],1
+US75116A,1868-03-03,G-eorge w,"['NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,4,"['g-eorge', 'w']",1
+US75336A,1868-03-10,Improvement in the manufacture of phosphates and in extracting phosphoric acid from,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP']",[],0,0,12,"['improvement', 'in', 'the', 'manufacture', 'of', 'phosphates', 'and', 'in', 'extracting', 'phosphoric', 'acid', 'from']",1
+US76194A,1868-03-31,Impboved mode of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['impboved', 'mode', 'of']",1
+US76667A,1868-04-14,Assigkob to himself ahi,"['ADV', 'ADP', 'PRON', 'ADP']",['ORG'],0,0,4,"['assigkob', 'to', 'himself', 'ahi']",1
+US77066A,1868-04-21,-of -atc his on,"['SPACE', 'PUNCT', 'PRON', 'ADP']",[],0,0,5,"['-of', '-atc', 'his', 'on']",1
+US77413A,1868-04-28,Otis w,"['NOUN', 'ADP']",[],0,0,2,"['otis', 'w']",1
+US77528A,1868-05-05,Ors to themselves and w,"['INTJ', 'ADP', 'PRON', 'CCONJ', 'ADP']",[],0,0,5,"['ors', 'to', 'themselves', 'and', 'w']",1
+US78054A,1868-05-19,cape on,"['VERB', 'ADP']",[],0,0,2,"['cape', 'on']",1
+US78274A,1868-05-26,garrets on,"['NOUN', 'ADP']",[],0,0,2,"['garrets', 'on']",1
+US78542A,1868-06-02,Fiog-be s af,"['NOUN', 'PUNCT', 'AUX', 'PRON', 'ADP']",[],0,0,5,"['fiog-be', 's', 'af']",1
+US78986A,1868-06-16,Administrator of,"['NOUN', 'ADP']",[],0,0,2,"['administrator', 'of']",1
+US79405A,1868-06-30,Alfked w,"['VERB', 'ADP']",[],0,0,2,"['alfked', 'w']",1
+US79460A,1868-06-30,Machine for,"['NOUN', 'ADP']",[],0,0,2,"['machine', 'for']",1
+US80172A,1868-07-21,Impeovement in,"['NOUN', 'ADP']",[],0,0,2,"['impeovement', 'in']",1
+US80679A,1868-08-04,Impeovement in,"['NOUN', 'ADP']",[],0,0,2,"['impeovement', 'in']",1
+US80986A,1868-08-11,Impeovement in,"['NOUN', 'ADP']",[],0,0,2,"['impeovement', 'in']",1
+US81228A,1868-08-18,of new to,"['ADP', 'ADJ', 'ADP']",[],0,0,4,"['of', 'new', 'to']",1
+US82406A,1868-09-22,hefl in,"['VERB', 'ADP']",[],0,0,2,"['hefl', 'in']",1
+US82823A,1868-10-06,Oes to w,"['VERB', 'ADP', 'ADP']",[],0,0,3,"['oes', 'to', 'w']",1
+US84240A,1868-11-17,Improvement in spring-but,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'CCONJ']",[],0,0,5,"['improvement', 'in', 'spring-but']",1
+US84609A,1868-12-01,Extracts and decoctions from,"['NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,4,"['extracts', 'and', 'decoctions', 'from']",1
+US85140A,1868-12-22,Improved method of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'method', 'of']",1
+US85899A,1869-01-19,Improvement in machines for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machines', 'for']",1
+US87199A,1869-02-23,Improved apparatus for treating petroleum so as to produce oil and gas therefrom,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'SCONJ', 'SCONJ', 'PART', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,13,"['improved', 'apparatus', 'for', 'treating', 'petroleum', 'so', 'as', 'to', 'produce', 'oil', 'and', 'gas', 'therefrom']",1
+US87737A,1869-03-09,S e t h w,"['NOUN', 'NOUN', 'NOUN', 'X', 'ADP']",[],0,0,5,"['s', 'e', 't', 'h', 'w']",1
+US89091A,1869-04-20,"Improvement in bevices for measuring, laying- out","['NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'PUNCT', 'VERB', 'ADP']",[],0,0,8,"['improvement', 'in', 'bevices', 'for', 'measuring,', 'laying-', 'out']",1
+US90109A,1869-05-18,Improvement in composition drawing or roving can for use in the manufacture of,"['NOUN', 'ADP', 'NOUN', 'VERB', 'CCONJ', 'VERB', 'AUX', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,13,"['improvement', 'in', 'composition', 'drawing', 'or', 'roving', 'can', 'for', 'use', 'in', 'the', 'manufacture', 'of']",1
+US90140A,1869-05-18,Improvement in the manufacture of carbonate of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,7,"['improvement', 'in', 'the', 'manufacture', 'of', 'carbonate', 'of']",1
+US90324A,1869-05-18,Improved porous porcelain for use in,"['VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,6,"['improved', 'porous', 'porcelain', 'for', 'use', 'in']",1
+US90370A,1869-05-25,Improved manner of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'manner', 'of']",1
+US90622A,1869-05-25,Improvement in machine for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machine', 'for']",1
+US90658A,1869-06-01,Improvement in device for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'device', 'for']",1
+US91619A,1869-06-22,Improved process and apparatus for,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['improved', 'process', 'and', 'apparatus', 'for']",1
+US91922A,1869-06-29,dins mo re,"['VERB', 'INTJ', 'ADP']",[],0,0,3,"['dins', 'mo', 're']",1
+US92240A,1869-07-06,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US93003A,1869-07-27,The cylinders and dial-boxes of,"['DET', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,7,"['the', 'cylinders', 'and', 'dial-boxes', 'of']",1
+US93121A,1869-07-27,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US93209A,1869-08-03,Improved medical compound or,"['ADJ', 'ADJ', 'NOUN', 'CCONJ']",[],0,0,4,"['improved', 'medical', 'compound', 'or']",1
+US93596A,1869-08-10,Improvement in devices for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'devices', 'for']",1
+US94396A,1869-08-31,Charles- w,"['NOUN', 'ADP']",[],0,0,2,"['charles-', 'w']",1
+US94756A,1869-09-14,Improved reversible but,"['VERB', 'ADJ', 'CCONJ']",[],0,0,3,"['improved', 'reversible', 'but']",1
+US95159A,1869-09-21,Improved pinch-bab,"['ADJ', 'NOUN', 'PUNCT', 'ADP']",[],0,0,4,"['improved', 'pinch-bab']",1
+US95508A,1869-10-05,pet re,"['ADJ', 'ADP']",[],0,0,2,"['pet', 're']",1
+US95624A,1869-10-05,Improved mode of,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'mode', 'of']",1
+US95974A,1869-10-19,Improved apparatus for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'apparatus', 'for']",1
+US96610A,1869-11-09,An son w,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['an', 'son', 'w']",1
+US96930A,1869-11-16,link and,"['VERB', 'CCONJ']",[],0,0,3,"['link', 'and']",1
+US96936A,1869-11-16,Oxidation of metallic water or,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ']",[],0,0,5,"['oxidation', 'of', 'metallic', 'water', 'or']",1
+US97300A,1869-11-30,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US97450A,1869-11-30,Improved machine for,"['ADJ', 'NOUN', 'ADP']",[],0,0,3,"['improved', 'machine', 'for']",1
+US98013A,1869-12-21,Improvement in,"['NOUN', 'ADP']",[],0,0,2,"['improvement', 'in']",1
+US98208A,1869-12-21,Improved self-ventilating- safety-can for,"['VERB', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,8,"['improved', 'self-ventilating-', 'safety-can', 'for']",1
+US98270A,1869-12-28,Improvement in machine for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'machine', 'for']",1
+US99054A,1870-01-25,Improvement in devices for,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['improvement', 'in', 'devices', 'for']",1
+US844A,1838-07-17 00:00:00,Boiler for,"['NOUN', 'ADP']",['PERSON'],0,1,2,"['boiler', 'for']",1
+US2632A,1842-05-20 00:00:00,Mill for,"['VERB', 'ADP']",['PERSON'],0,1,2,"['mill', 'for']",1
+US35995A,1862-07-29,Clasp for,"['VERB', 'ADP']",['PERSON'],0,1,2,"['clasp', 'for']",1

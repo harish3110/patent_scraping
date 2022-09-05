@@ -1,7 +1,6 @@
 patent_number,date,title,tokens,nltk_pos,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,bad_endings,bad_starts
 US1602313A,1925-11-05,In and out indicator,"['in', 'and', 'out', 'indicator']","[('In', 'IN'), ('and', 'CC'), ('out', 'IN'), ('indicator', 'NN')]","['ADP', 'CCONJ', 'ADV', 'PROPN']",[],1,0,5,0,1
 US1605776A,1926-11-02,And one-fourth to joseph l,"['and', 'one-fourth', 'to', 'joseph', 'l']","[('And', 'CC'), ('one-fourth', 'JJ'), ('to', 'TO'), ('joseph', 'VB'), ('l', 'NN')]","['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP', 'PROPN', 'PROPN']",['CARDINAL'],1,0,7,0,1
-US1606091A,1926-11-09,At-e n- t off,"['at-e', 'n-', 't', 'off']","[('At-e', 'JJ'), ('n-', 'JJ'), ('t', 'NN'), ('off', 'IN')]","['ADP', 'PUNCT', 'PROPN', 'X', 'PROPN', 'ADP']",[],1,0,6,0,1
 US1608059A,1926-11-23,of los angeles,"['of', 'los', 'angeles']","[('of', 'IN'), ('los', 'NN'), ('angeles', 'NNS')]","['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
 US1608364A,1925-03-30,Inside pipe wrench and nipple chuck,"['inside', 'pipe', 'wrench', 'and', 'nipple', 'chuck']","[('Inside', 'NNP'), ('pipe', 'NN'), ('wrench', 'NN'), ('and', 'CC'), ('nipple', 'JJ'), ('chuck', 'NN')]","['ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PROPN']",['PERSON'],1,1,7,0,1
 US1610019A,1926-12-07,of san francisco,"['of', 'san', 'francisco']","[('of', 'IN'), ('san', 'JJ'), ('francisco', 'NN')]","['ADP', 'PROPN', 'PROPN']",['GPE'],1,0,3,0,1
@@ -61,11 +60,11 @@ US1605768A,1925-06-02,of leicester,"['of', 'leicester']","[('of', 'IN'), ('leice
 US1605841A,1926-11-02,of rochester,"['of', 'rochester']","[('of', 'IN'), ('rochester', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
 US1605851A,1926-11-02,of montreal,"['of', 'montreal']","[('of', 'IN'), ('montreal', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
 US1605874A,1926-11-02,of bochesteb,"['of', 'bochesteb']","[('of', 'IN'), ('bochesteb', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
+US1605891A,1925-05-06,of rochester,"['of', 'rochester']","[('of', 'IN'), ('rochester', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1
 US1605948A,1926-11-09,In a beehive,"['in', 'a', 'beehive']","[('In', 'IN'), ('a', 'DT'), ('beehive', 'NN')]","['ADP', 'DET', 'ADJ']",[],0,0,3,0,1
 US1605951A,1926-11-09,And emil v,"['and', 'emil', 'v']","[('And', 'CC'), ('emil', 'VB'), ('v', 'NN')]","['CCONJ', 'VERB', 'X']",[],0,0,3,0,1
 US1605982A,1926-11-09,And clarence,"['and', 'clarence']","[('And', 'CC'), ('clarence', 'NN')]","['CCONJ', 'NOUN']",[],0,0,2,0,1
 US1606002A,1926-11-09,And helmee e,"['and', 'helmee', 'e']","[('And', 'CC'), ('helmee', 'NN'), ('e', 'NN')]","['CCONJ', 'ADJ', 'NOUN']",[],0,0,3,0,1
-US1606037A,1926-11-09,And one-third to,"['and', 'one-third', 'to']","[('And', 'CC'), ('one-third', 'NN'), ('to', 'TO')]","['CCONJ', 'NUM', 'PUNCT', 'NOUN', 'ADP']",['CARDINAL'],0,0,5,0,1
 US1606068A,1926-11-09,In preserving eggs,"['in', 'preserving', 'eggs']","[('In', 'IN'), ('preserving', 'VBG'), ('eggs', 'NNS')]","['ADP', 'VERB', 'NOUN']",[],0,0,3,0,1
 US1606481A,1926-11-09,of pittsburgh,"['of', 'pittsburgh']","[('of', 'IN'), ('pittsburgh', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1608945A,1926-02-15,Under drill bit,"['under', 'drill', 'bit']","[('Under', 'IN'), ('drill', 'JJ'), ('bit', 'NN')]","['ADP', 'NOUN', 'NOUN']",[],0,0,4,0,1
@@ -78,7 +77,6 @@ US1615105A,1927-01-18,And fbancis a,"['and', 'fbancis', 'a']","[('And', 'CC'), (
 US1615854A,1927-02-01,of springfield,"['of', 'springfield']","[('of', 'IN'), ('springfield', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1616997A,1927-02-08,of monroe,"['of', 'monroe']","[('of', 'IN'), ('monroe', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1616999A,1927-02-08,ob athol,"['ob', 'athol']","[('ob', 'NN'), ('athol', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1617255A,1925-07-31,Fungicide,['fungicide'],"[('Fungicide', 'NN')]",['ADP'],[],0,0,2,0,1
 US1617947A,1927-02-15,of leeds,"['of', 'leeds']","[('of', 'IN'), ('leeds', 'NNS')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1618592A,1927-02-22,of new yobk,"['of', 'new', 'yobk']","[('of', 'IN'), ('new', 'JJ'), ('yobk', 'NN')]","['ADP', 'ADJ', 'NOUN']",[],0,0,3,0,1
 US1619368A,1927-03-01,And wil,"['and', 'wil']","[('And', 'CC'), ('wil', 'NN')]","['CCONJ', 'NOUN']",[],0,0,2,0,1
@@ -113,7 +111,6 @@ US1636536A,1927-07-19,Or sowing machine for  boot planting,"['or', 'sowing', 'ma
 US1636901A,1927-07-26,of hopedale,"['of', 'hopedale']","[('of', 'IN'), ('hopedale', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1637452A,1927-08-02,of hartford,"['of', 'hartford']","[('of', 'IN'), ('hartford', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1637514A,1927-08-02,And edward p,"['and', 'edward', 'p']","[('And', 'CC'), ('edward', 'NN'), ('p', 'NN')]","['CCONJ', 'VERB', 'NOUN']",[],0,0,3,0,1
-US1638089A,1925-03-14,Fungicide,['fungicide'],"[('Fungicide', 'NN')]",['ADP'],[],0,0,2,0,1
 US1638164A,1927-08-09,of bockfobp,"['of', 'bockfobp']","[('of', 'IN'), ('bockfobp', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1638791A,1927-08-09,of springfield,"['of', 'springfield']","[('of', 'IN'), ('springfield', 'NN')]","['ADP', 'NOUN']",['GPE'],0,0,2,0,1
 US1640137A,1927-08-23,To diamond power,"['to', 'diamond', 'power']","[('To', 'TO'), ('diamond', 'VB'), ('power', 'NN')]","['ADP', 'NOUN', 'NOUN']",[],0,0,3,0,1
@@ -144,7 +141,6 @@ US1659088A,1928-02-14,And one,"['and', 'one']","[('And', 'CC'), ('one', 'CD')]",
 US1660800A,1928-02-28,of chaelotte,"['of', 'chaelotte']","[('of', 'IN'), ('chaelotte', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1661341A,1928-03-06,of wobcester,"['of', 'wobcester']","[('of', 'IN'), ('wobcester', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1661488A,1928-03-06,of elgin,"['of', 'elgin']","[('of', 'IN'), ('elgin', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
-US1662462A,1924-11-01,Fungicide,['fungicide'],"[('Fungicide', 'NN')]",['ADP'],[],0,0,2,0,1
 US1663725A,1928-03-27,of blacklist,"['of', 'blacklist']","[('of', 'IN'), ('blacklist', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1664523A,1928-04-03,Of endicott,"['of', 'endicott']","[('Of', 'IN'), ('endicott', 'NN')]","['ADP', 'NOUN']",[],0,0,2,0,1
 US1666639A,1928-04-17,of meriden,"['of', 'meriden']","[('of', 'IN'), ('meriden', 'NN')]","['ADP', 'ADJ']",[],0,0,2,0,1

@@ -1,8 +1,8 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings,bad_starts
 US2101247A,1934-07-23,Amplifier coupling circuits,"['ADP', 'NOUN', 'NOUN']",['PERSON'],0,1,4,"['amplifier', 'coupling', 'circuits']",0,1
 US2110602A,1936-03-16,Over-shot fishing tool,"['ADP', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['over-shot', 'fishing', 'tool']",0,1
-US2110943A,1935-06-05,Fungicide,['ADP'],[],0,0,2,['fungicide'],0,1
 US2115270A,1937-03-22,Outside surfacing for wooden buildings,"['ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,"['outside', 'surfacing', 'for', 'wooden', 'buildings']",0,1
+US2117050A,1936-06-06,Inside casing cutter,"['ADP', 'VERB', 'NOUN']",[],0,0,4,"['inside', 'casing', 'cutter']",0,1
 US2117594A,1936-06-15,Inside casing cutter,"['ADP', 'VERB', 'NOUN']",[],0,0,4,"['inside', 'casing', 'cutter']",0,1
 US2117599A,1936-08-26,Inside casing cutter,"['ADP', 'VERB', 'NOUN']",[],0,0,4,"['inside', 'casing', 'cutter']",0,1
 US2117949A,1935-06-22,Amplifier neutralizing system,"['ADP', 'ADJ', 'NOUN']",['PERSON'],0,1,4,"['amplifier', 'neutralizing', 'system']",0,1
@@ -19,7 +19,6 @@ US2161844A,1935-04-15,Amplifier cascade with negative feedback,"['ADP', 'NOUN', 
 US2170878A,1935-12-04,Amplifier feedback suppression,"['ADP', 'NOUN', 'NOUN']",['PERSON'],0,1,4,"['amplifier', 'feedback', 'suppression']",0,1
 US2175372A,1937-02-04,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['inside', 'pipe', 'cutter']",0,1
 US2175787A,1938-10-14,Weft cutting device,"['ADP', 'VERB', 'NOUN']",[],0,0,4,"['weft', 'cutting', 'device']",0,1
-US2177198A,1938-09-07,Fungicide,['ADP'],[],0,0,2,['fungicide'],0,1
 US2179985A,1935-10-05,After-treatment of yarn of artificial origin,"['ADP', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,9,"['after-treatment', 'of', 'yarn', 'of', 'artificial', 'origin']",0,1
 US2180693A,1935-02-19,Inside pipe cutter,"['ADP', 'NOUN', 'NOUN']",[],0,0,4,"['inside', 'pipe', 'cutter']",0,1
 US2182396A,1937-05-27,Inside curtain and support,"['ADP', 'NOUN', 'CCONJ', 'VERB']",[],0,0,5,"['inside', 'curtain', 'and', 'support']",0,1

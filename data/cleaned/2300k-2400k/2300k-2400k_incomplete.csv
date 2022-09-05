@@ -1,365 +1,382 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings
-US2300649A,1940-02-26,Toy airplane apparatus,"['PROPN', 'NOUN', 'NOUN']",[],1,0,4,"['toy', 'airplane', 'apparatus']",1
-US2302792A,1941-04-24,Apparatus for use in the manufacture of rayon,"['PROPN', 'ADP', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN']",[],1,0,9,"['apparatus', 'for', 'use', 'in', 'the', 'manufacture', 'of', 'rayon']",1
-US2303096A,1940-03-21,Apparatus for leveling and hardening sheet or strip material,"['PROPN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],1,0,10,"['apparatus', 'for', 'leveling', 'and', 'hardening', 'sheet', 'or', 'strip', 'material']",1
-US2303421A,1939-02-16,Apparatus for packaging articles,"['PROPN', 'ADP', 'NOUN', 'NOUN']",[],1,0,5,"['apparatus', 'for', 'packaging', 'articles']",1
-US2305239A,1934-04-26,Apparatus for coating passages,"['PROPN', 'ADP', 'NOUN', 'NOUN']",[],1,0,5,"['apparatus', 'for', 'coating', 'passages']",1
-US2308538A,1940-01-26,Method of and apparatus for manufacturing confection sticks,"['PROPN', 'ADP', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],1,0,9,"['method', 'of', 'and', 'apparatus', 'for', 'manufacturing', 'confection', 'sticks']",1
-US2308830A,1940-01-08,Nonoverfill device with centering means,"['PROPN', 'NOUN', 'ADP', 'VERB', 'VERB']",['ORG'],1,0,6,"['nonoverfill', 'device', 'with', 'centering', 'means']",1
-US2309923A,1940-07-29,Apparatus for separating finely divided materials,"['PROPN', 'ADP', 'VERB', 'ADV', 'VERB', 'NOUN']",[],1,0,7,"['apparatus', 'for', 'separating', 'finely', 'divided', 'materials']",1
-US2310146A,1939-11-28,Mixed ether-esters of cashew nutshell liquid and preparation,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP', 'VERB', 'PROPN', 'NOUN', 'CCONJ', 'NOUN']",[],1,0,11,"['mixed', 'ether-esters', 'of', 'cashew', 'nutshell', 'liquid', 'and', 'preparation']",1
-US2311728A,1940-03-28,Method of forming piston rings,"['PROPN', 'ADP', 'VERB', 'PROPN', 'NOUN']",[],1,0,6,"['method', 'of', 'forming', 'piston', 'rings']",1
-US2312137A,1943-02-23,Job cost recorder,"['PROPN', 'NOUN', 'NOUN']",[],1,0,3,"['job', 'cost', 'recorder']",1
-US2312765A,1939-09-13,Shelf or rack suitable for refrigerators or the like,"['PROPN', 'CCONJ', 'VERB', 'ADJ', 'ADP', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],1,0,10,"['shelf', 'or', 'rack', 'suitable', 'for', 'refrigerators', 'or', 'the', 'like']",1
-US2312766A,1941-06-14,Pruning hook,"['PROPN', 'NOUN']",[],1,0,3,"['pruning', 'hook']",1
-US2314408A,1940-04-29,Outlet box installation,"['PROPN', 'PROPN', 'NOUN']",['PRODUCT'],1,0,4,"['outlet', 'box', 'installation']",1
-US2317173A,1940-02-01,Apparatus for melting powdered materials,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],1,0,6,"['apparatus', 'for', 'melting', 'powdered', 'materials']",1
-US2317194A,1941-03-24,Brake mechanism,"['PROPN', 'NOUN']",[],1,0,3,"['brake', 'mechanism']",1
-US2318002A,1941-03-03,Angle disk roller,"['PROPN', 'NOUN', 'NOUN']",['ORG'],1,0,4,"['angle', 'disk', 'roller']",1
-US2318571A,1933-12-22,Manufacture of abrasives,"['PROPN', 'ADP', 'NOUN']",[],1,0,4,"['manufacture', 'of', 'abrasives']",1
-US2319774A,1939-06-24,Stoker control,"['PROPN', 'NOUN']",['PERSON'],1,1,3,"['stoker', 'control']",1
-US2324485A,1941-05-26,Diaphragm inserter,"['PROPN', 'NOUN']",['GPE'],1,0,3,"['diaphragm', 'inserter']",1
-US2326985A,1941-01-23,Heated shoe press pad,"['PROPN', 'NOUN', 'NOUN', 'NOUN']",[],1,0,5,"['heated', 'shoe', 'press', 'pad']",1
-US2327826A,1942-05-01,Method of reproducing drawings,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,"['method', 'of', 'reproducing', 'drawings']",1
-US2328244A,1941-02-24,Circular saw machine,"['PROPN', 'VERB', 'NOUN']",[],1,0,4,"['circular', 'saw', 'machine']",1
-US2328508A,1941-05-06,Apparatus for forming coated frozen confections,"['PROPN', 'ADP', 'VERB', 'VERB', 'ADJ', 'NOUN']",[],1,0,7,"['apparatus', 'for', 'forming', 'coated', 'frozen', 'confections']",1
-US2331505A,1941-04-18,Apparatus for handling cigars,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,"['apparatus', 'for', 'handling', 'cigars']",1
-US2332869A,1939-11-29,Method of manufacturing rubberlike materials,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],1,0,6,"['method', 'of', 'manufacturing', 'rubberlike', 'materials']",1
-US2334851A,1940-05-02,Container and dispensing closure therefor,"['NOUN', 'CCONJ', 'VERB', 'NOUN', 'PROPN']",[],1,0,6,"['container', 'and', 'dispensing', 'closure', 'therefor']",1
-US2343665A,1940-04-05,Vacuum apparatus,"['PROPN', 'NOUN']",[],1,0,3,"['vacuum', 'apparatus']",1
-US2345441A,1942-12-02,Light modulating apparatus and method,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'PROPN']",[],1,0,6,"['light', 'modulating', 'apparatus', 'and', 'method']",1
-US2347186A,1942-12-14,Slack adjuster,"['PROPN', 'NOUN']",[],1,0,3,"['slack', 'adjuster']",1
-US2347598A,1943-04-07,Electric arc welding electrode holder,"['ADJ', 'NOUN', 'VERB', 'PROPN', 'NOUN']",[],1,0,6,"['electric', 'arc', 'welding', 'electrode', 'holder']",1
-US2347964A,1940-11-27,Coke oven charging lorry,"['NOUN', 'ADV', 'VERB', 'PROPN']",['ORG'],1,0,5,"['coke', 'oven', 'charging', 'lorry']",1
-US2348566A,1943-06-09,Apparatus for marking billets and the like,"['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],1,0,8,"['apparatus', 'for', 'marking', 'billets', 'and', 'the', 'like']",1
-US2348663A,1940-09-19,Method of forming sheet metal articles,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN']",[],1,0,7,"['method', 'of', 'forming', 'sheet', 'metal', 'articles']",1
-US2348848A,1938-08-04,"Speed drive for fast running machines, especially for cycle dynamo machines","['NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'PUNCT', 'ADV', 'ADP', 'NOUN', 'PROPN', 'NOUN']",[],1,0,13,"['speed', 'drive', 'for', 'fast', 'running', 'machines,', 'especially', 'for', 'cycle', 'dynamo', 'machines']",1
-US2350143A,1941-01-11,Sugar refining process,"['PROPN', 'NOUN', 'NOUN']",[],1,0,4,"['sugar', 'refining', 'process']",1
-US2354250A,1942-04-11,Tractor-mounted implement,"['NOUN', 'PUNCT', 'VERB', 'PROPN']",[],1,0,5,"['tractor-mounted', 'implement']",1
-US2355454A,1943-04-13,Method and apparatus for the production of sound-absorbing materials,"['PROPN', 'CCONJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],1,0,12,"['method', 'and', 'apparatus', 'for', 'the', 'production', 'of', 'sound-absorbing', 'materials']",1
-US2355856A,1943-02-04,Method and apparatus for making bearing-retaining lock nuts,"['PROPN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN']",[],1,0,11,"['method', 'and', 'apparatus', 'for', 'making', 'bearing-retaining', 'lock', 'nuts']",1
-US2355892A,1942-06-08,Means for supporting heater tubes,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],1,0,6,"['means', 'for', 'supporting', 'heater', 'tubes']",1
-US2356500A,1941-03-27,Method for saccharifying cellulosic materials by means of diluted mineral acids,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],1,0,12,"['method', 'for', 'saccharifying', 'cellulosic', 'materials', 'by', 'means', 'of', 'diluted', 'mineral', 'acids']",1
-US2356844A,1942-05-11,Heat dissipator for marine engines,"['NOUN', 'NOUN', 'ADP', 'PROPN', 'NOUN']",[],1,0,6,"['heat', 'dissipator', 'for', 'marine', 'engines']",1
-US2357409A,1941-05-23,Manufacture of molded compositions for brake linings or similar articles,"['PROPN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,11,"['manufacture', 'of', 'molded', 'compositions', 'for', 'brake', 'linings', 'or', 'similar', 'articles']",1
-US2357539A,1943-08-27,Combination comb and case therefor,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'PROPN']",[],1,0,6,"['combination', 'comb', 'and', 'case', 'therefor']",1
-US2358940A,1942-10-29,Vapor condenser,"['PROPN', 'NOUN']",[],1,0,3,"['vapor', 'condenser']",1
-US2361015A,1942-05-02,Method of reclaiming vulcanized balata and the product thereof,"['PROPN', 'ADP', 'VERB', 'VERB', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADV']",[],1,0,10,"['method', 'of', 'reclaiming', 'vulcanized', 'balata', 'and', 'the', 'product', 'thereof']",1
-US2361412A,1943-03-20,Gunner's warning panel and lamp system,"['PROPN', 'PART', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",['ORG'],1,0,8,"[""gunner's"", 'warning', 'panel', 'and', 'lamp', 'system']",1
-US2362228A,1941-06-12,Method of forming contacts on metal oxide-metal rectifiers,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],1,0,11,"['method', 'of', 'forming', 'contacts', 'on', 'metal', 'oxide-metal', 'rectifiers']",1
-US2362984A,1941-09-05,Method and apparatus for dispensing and conserving gas material,"['PROPN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'NOUN']",[],1,0,10,"['method', 'and', 'apparatus', 'for', 'dispensing', 'and', 'conserving', 'gas', 'material']",1
-US2363779A,1942-06-25,Hose actuated press,"['PROPN', 'VERB', 'NOUN']",['PERSON'],1,1,4,"['hose', 'actuated', 'press']",1
-US2364468A,1941-11-13,Signal lamp,"['PROPN', 'NOUN']",[],1,0,3,"['signal', 'lamp']",1
-US2365883A,1940-06-13,Apparatus for extracting and refining citrus fruit juices,"['PROPN', 'ADP', 'VERB', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],1,0,9,"['apparatus', 'for', 'extracting', 'and', 'refining', 'citrus', 'fruit', 'juices']",1
-US2365912A,1942-08-14,Distillation process,"['PROPN', 'NOUN']",[],1,0,3,"['distillation', 'process']",1
-US2365983A,1941-06-19,Method and apparatus for consuming bodies,"['PROPN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],1,0,7,"['method', 'and', 'apparatus', 'for', 'consuming', 'bodies']",1
-US2368304A,1940-02-29,"Clutch, especially for motor cars with control change mechanism","['PROPN', 'PUNCT', 'ADV', 'ADP', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],1,0,11,"['clutch,', 'especially', 'for', 'motor', 'cars', 'with', 'control', 'change', 'mechanism']",1
-US2370666A,1942-09-05,Apparatus for forming sheet metal,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],1,0,6,"['apparatus', 'for', 'forming', 'sheet', 'metal']",1
-US2371427A,1943-10-28,Manufacture of zeolitic materials,"['PROPN', 'ADP', 'ADJ', 'NOUN']",[],1,0,5,"['manufacture', 'of', 'zeolitic', 'materials']",1
-US2371440A,1942-09-09,Manufacture of small drilled and tapped parts such as hexagon and other nuts,"['NOUN', 'ADP', 'ADJ', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADJ', 'ADP', 'PROPN', 'CCONJ', 'ADJ', 'NOUN']",[],1,0,14,"['manufacture', 'of', 'small', 'drilled', 'and', 'tapped', 'parts', 'such', 'as', 'hexagon', 'and', 'other', 'nuts']",1
-US2371488A,1943-05-06,Core bit,"['PROPN', 'NOUN']",[],1,0,3,"['core', 'bit']",1
-US2373241A,1942-11-18,Amplifier circuit,"['PROPN', 'NOUN']",['PERSON'],1,1,3,"['amplifier', 'circuit']",1
-US2377924A,1940-10-02,Sliver pan,"['PROPN', 'NOUN']",['PERSON'],1,1,3,"['sliver', 'pan']",1
-US2381802A,1941-10-23,Dry chemical feeder,"['PROPN', 'NOUN', 'NOUN']",[],1,0,4,"['dry', 'chemical', 'feeder']",1
-US2386843A,1941-12-03,Apparatus for surfacing plastic bodies,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN']",[],1,0,6,"['apparatus', 'for', 'surfacing', 'plastic', 'bodies']",1
-US2387481A,1944-04-11,Butadiene-styrene elastomers,"['PROPN', 'PUNCT', 'NOUN', 'NOUN']",['ORG'],1,0,5,"['butadiene-styrene', 'elastomers']",1
-US2387764A,1944-09-15,Combination bulldozer and shovel,"['NOUN', 'NOUN', 'CCONJ', 'PROPN']",[],1,0,5,"['combination', 'bulldozer', 'and', 'shovel']",1
-US2387806A,1942-06-02,Journal bearing,"['PROPN', 'VERB']",['ORG'],1,0,3,"['journal', 'bearing']",1
-US2389813A,1941-02-06,Pin wheel register,"['PROPN', 'NOUN', 'VERB']",[],1,0,4,"['pin', 'wheel', 'register']",1
-US2390641A,1942-03-13,Multichannel carrier communication system,"['PROPN', 'NOUN', 'NOUN', 'NOUN']",['GPE'],1,0,5,"['multichannel', 'carrier', 'communication', 'system']",1
-US2391139A,1943-12-15,Process for alkylating arylamines,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,"['process', 'for', 'alkylating', 'arylamines']",1
-US2391582A,1944-05-02,Spray control valve,"['PROPN', 'NOUN', 'VERB']",[],1,0,4,"['spray', 'control', 'valve']",1
-US2392534A,1940-05-20,Process of distilling alcohols,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,"['process', 'of', 'distilling', 'alcohols']",1
-US2394297A,1943-02-25,Furnace air control system,"['PROPN', 'NOUN', 'NOUN', 'NOUN']",['ORG'],1,0,5,"['furnace', 'air', 'control', 'system']",1
-US2395144A,1944-09-06,Mandrel for forming enlarged vibration dampening elements in hose sections,"['PROPN', 'ADP', 'VERB', 'VERB', 'NOUN', 'VERB', 'NOUN', 'ADP', 'PROPN', 'NOUN']",[],1,0,11,"['mandrel', 'for', 'forming', 'enlarged', 'vibration', 'dampening', 'elements', 'in', 'hose', 'sections']",1
-US2396095A,1943-03-04,Coat construction,"['PROPN', 'NOUN']",[],1,0,3,"['coat', 'construction']",1
-US2398490A,1944-03-01,Circuit for removing noise,"['PROPN', 'ADP', 'VERB', 'NOUN']",[],1,0,5,"['circuit', 'for', 'removing', 'noise']",1
-US2399138A,1944-03-07,Screw holding attachment for screw drivers,"['NOUN', 'VERB', 'NOUN', 'ADP', 'PROPN', 'NOUN']",['PERSON'],1,1,7,"['screw', 'holding', 'attachment', 'for', 'screw', 'drivers']",1
-US2300241A,1941-01-08,Covered rubber thread,"['VERB', 'NOUN', 'NOUN']",[],0,0,4,"['covered', 'rubber', 'thread']",1
-US2300373A,1942-03-11,Coated paper,"['ADJ', 'NOUN']",[],0,0,3,"['coated', 'paper']",1
-US2300537A,1940-06-03,Control system,"['NOUN', 'NOUN']",[],0,0,3,"['control', 'system']",1
-US2300571A,1938-06-14,Time controlled signal release,"['NOUN', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,"['time', 'controlled', 'signal', 'release']",1
-US2300640A,1939-11-17,Refrigerator car structure,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['refrigerator', 'car', 'structure']",1
-US2300680A,1941-04-28,Gold dredger,"['NOUN', 'NOUN']",[],0,0,3,"['gold', 'dredger']",1
-US2301232A,1940-08-03,Refrigeration,['NOUN'],[],0,0,2,['refrigeration'],1
-US2301271A,1938-11-29,Closure means for collapsible tubes,"['NOUN', 'VERB', 'ADP', 'ADJ', 'NOUN']",[],0,0,6,"['closure', 'means', 'for', 'collapsible', 'tubes']",1
-US2301307A,1942-01-14,Means for orienting tools in bore holes,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,8,"['means', 'for', 'orienting', 'tools', 'in', 'bore', 'holes']",1
-US2301755A,1940-06-24,Lock,['VERB'],[],0,0,2,['lock'],1
-US2301929A,1940-06-20,Radio distance and altitude indicating system,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,"['radio', 'distance', 'and', 'altitude', 'indicating', 'system']",1
-US2301933A,1940-03-30,Dispensing container,"['VERB', 'NOUN']",[],0,0,3,"['dispensing', 'container']",1
-US2302610A,1939-12-27,Automatic feeder for two-roll mill,"['ADJ', 'NOUN', 'ADP', 'NUM', 'PUNCT', 'NOUN', 'NOUN']",['CARDINAL'],0,0,8,"['automatic', 'feeder', 'for', 'two-roll', 'mill']",1
-US2303628A,1940-09-23,Hydraulic press with low pressure and high pressure pump,"['ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'VERB']",[],0,0,10,"['hydraulic', 'press', 'with', 'low', 'pressure', 'and', 'high', 'pressure', 'pump']",1
-US2303668A,1941-08-21,Automatic hook setting device,"['ADJ', 'NOUN', 'VERB', 'NOUN']",[],0,0,5,"['automatic', 'hook', 'setting', 'device']",1
-US2303949A,1940-01-13,Conduit bend,"['NOUN', 'VERB']",['ORG'],0,0,3,"['conduit', 'bend']",1
-US2304155A,1941-04-10,Joint washer,"['ADJ', 'NOUN']",[],0,0,3,"['joint', 'washer']",1
-US2304671A,1941-06-30,Lister harrow,"['ADJ', 'NOUN']",[],0,0,3,"['lister', 'harrow']",1
-US2304672A,1941-10-22,Material handling apparatus,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['material', 'handling', 'apparatus']",1
-US2305094A,1942-03-11,Safety chock for railroad rolling stock,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,"['safety', 'chock', 'for', 'railroad', 'rolling', 'stock']",1
-US2305095A,1941-06-07,Metallized azo dyes,"['ADJ', 'NOUN', 'NOUN']",['ORG'],0,0,4,"['metallized', 'azo', 'dyes']",1
-US2305600A,1941-04-15,Safety blade magazine accessories,"['NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['safety', 'blade', 'magazine', 'accessories']",1
-US2305679A,1941-03-10,Grinding machine,"['VERB', 'NOUN']",[],0,0,3,"['grinding', 'machine']",1
-US2306100A,1940-11-23,Combination hair drier and headrest,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'ADJ']",[],0,0,6,"['combination', 'hair', 'drier', 'and', 'headrest']",1
-US2307607A,1939-11-29,"Stocking, knitted fabric, and their method of production","['NOUN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'CCONJ', 'PRON', 'NOUN', 'ADP', 'NOUN']",[],0,0,11,"['stocking,', 'knitted', 'fabric,', 'and', 'their', 'method', 'of', 'production']",1
-US2307626A,1940-07-23,Resistance thermometer,"['NOUN', 'NOUN']",[],0,0,3,"['resistance', 'thermometer']",1
-US2307924A,1941-02-24,Liquid heater,"['NOUN', 'NOUN']",[],0,0,3,"['liquid', 'heater']",1
-US2308038A,1941-11-03,Fruit orienting device,"['NOUN', 'VERB', 'NOUN']",[],0,0,4,"['fruit', 'orienting', 'device']",1
-US2308729A,1940-07-24,Weight classifier,"['NOUN', 'NOUN']",[],0,0,3,"['weight', 'classifier']",1
-US2308735A,1942-09-19,Hog trough,"['ADJ', 'NOUN']",[],0,0,3,"['hog', 'trough']",1
-US2309846A,1941-03-06,Inhaler,['NOUN'],[],0,0,2,['inhaler'],1
-US2310069A,1939-06-23,Circuit interrupter,"['NOUN', 'NOUN']",[],0,0,3,"['circuit', 'interrupter']",1
-US2310784A,1937-08-23,Process for the preparation of gas mixtures for catalytic processes,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,11,"['process', 'for', 'the', 'preparation', 'of', 'gas', 'mixtures', 'for', 'catalytic', 'processes']",1
-US2311512A,1939-03-31,Refrigeration,['NOUN'],[],0,0,2,['refrigeration'],1
-US2311716A,1941-02-10,Venetian blind slat,"['ADJ', 'ADJ', 'NOUN']",['NORP'],0,0,4,"['venetian', 'blind', 'slat']",1
-US2312213A,1941-06-18,Hydraulic press,"['ADJ', 'NOUN']",[],0,0,3,"['hydraulic', 'press']",1
-US2312305A,1940-10-09,Flashlight,['NOUN'],[],0,0,2,['flashlight'],1
-US2314003A,1940-06-14,Counterbalanced louver construction,"['ADJ', 'ADV', 'NOUN']",[],0,0,4,"['counterbalanced', 'louver', 'construction']",1
-US2314863A,1939-02-27,Safety appliance for electrically heated apparatus,"['NOUN', 'NOUN', 'ADP', 'ADV', 'ADJ', 'NOUN']",[],0,0,7,"['safety', 'appliance', 'for', 'electrically', 'heated', 'apparatus']",1
-US2315035A,1941-07-19,Electric switch,"['ADJ', 'NOUN']",[],0,0,3,"['electric', 'switch']",1
-US2315185A,1937-07-22,Air velocity meter,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['air', 'velocity', 'meter']",1
-US2315189A,1941-07-07,Wire producing mechanism,"['NOUN', 'VERB', 'NOUN']",[],0,0,4,"['wire', 'producing', 'mechanism']",1
-US2315588A,1941-12-04,Top seal for pavement joints,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['top', 'seal', 'for', 'pavement', 'joints']",1
-US2315714A,1942-06-12,Measuring apparatus,"['VERB', 'NOUN']",[],0,0,3,"['measuring', 'apparatus']",1
-US2315780A,1943-04-06,Calculating machine,"['VERB', 'NOUN']",[],0,0,2,"['calculating', 'machine']",1
-US2315801A,1942-03-30,Hinge construction,"['NOUN', 'NOUN']",[],0,0,3,"['hinge', 'construction']",1
-US2315854A,1942-03-28,Welding electrode holder,"['VERB', 'NOUN', 'NOUN']",[],0,0,4,"['welding', 'electrode', 'holder']",1
-US2316440A,1941-12-24,Inspecting device,"['VERB', 'NOUN']",[],0,0,3,"['inspecting', 'device']",1
-US2316858A,1941-09-27,Turntable drive mechanism,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['turntable', 'drive', 'mechanism']",1
-US2317810A,1938-09-10,Finder for photogaphic purposes,"['NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,5,"['finder', 'for', 'photogaphic', 'purposes']",1
-US2317867A,1941-05-29,Display easel,"['NOUN', 'NOUN']",[],0,0,3,"['display', 'easel']",1
-US2318205A,1939-12-29,Planting and fertilizing means,"['NOUN', 'CCONJ', 'NOUN', 'VERB']",[],0,0,5,"['planting', 'and', 'fertilizing', 'means']",1
-US2318417A,1942-06-02,Artificial reverberation system,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['artificial', 'reverberation', 'system']",1
-US2319690A,1940-09-30,Cushion,['NOUN'],[],0,0,2,['cushion'],1
-US2320083A,1942-01-29,Wrench,['NOUN'],[],0,0,2,['wrench'],1
-US2320172A,1939-06-19,Tunnel kiln,"['NOUN', 'NOUN']",[],0,0,3,"['tunnel', 'kiln']",1
-US2321264A,1940-10-11,Fluid-pressure operated mechanism,"['NOUN', 'PUNCT', 'NOUN', 'VERB', 'NOUN']",[],0,0,6,"['fluid-pressure', 'operated', 'mechanism']",1
-US2321313A,1940-04-11,Paper bottle and container,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,5,"['paper', 'bottle', 'and', 'container']",1
-US2321501A,1940-10-25,Printing viscose process rayon with acid and direct colors,"['VERB', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,10,"['printing', 'viscose', 'process', 'rayon', 'with', 'acid', 'and', 'direct', 'colors']",1
-US2321642A,1941-08-02,Vending machine,"['VERB', 'NOUN']",[],0,0,3,"['vending', 'machine']",1
-US2321786A,1942-03-07,Device for cleaning side wall ports in cylinders,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,9,"['device', 'for', 'cleaning', 'side', 'wall', 'ports', 'in', 'cylinders']",1
-US2321940A,1940-12-09,Heating system,"['NOUN', 'NOUN']",[],0,0,3,"['heating', 'system']",1
-US2322201A,1941-03-28,Mineral concentration,"['NOUN', 'NOUN']",[],0,0,3,"['mineral', 'concentration']",1
-US2323025A,1939-05-13,Production of artificial fibers from fiber forming liquids,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,9,"['production', 'of', 'artificial', 'fibers', 'from', 'fiber', 'forming', 'liquids']",1
-US2323158A,1941-01-24,Humidifier,['NOUN'],[],0,0,2,['humidifier'],1
-US2323209A,1937-11-27,Internal combustion engine construction,"['ADJ', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['internal', 'combustion', 'engine', 'construction']",1
-US2324543A,1941-02-06,Enclosed circuit breaker operating mechanism,"['VERB', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['enclosed', 'circuit', 'breaker', 'operating', 'mechanism']",1
-US2324579A,1941-02-28,Automatic control apparatus,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['automatic', 'control', 'apparatus']",1
-US2324878A,1942-02-19,Cistern construction,"['ADJ', 'NOUN']",[],0,0,3,"['cistern', 'construction']",1
-US2324902A,1940-03-28,Seat construction,"['NOUN', 'NOUN']",[],0,0,3,"['seat', 'construction']",1
-US2325143A,1941-01-30,Dress construction,"['VERB', 'NOUN']",[],0,0,3,"['dress', 'construction']",1
-US2325354A,1938-04-23,Puncture-sealing pneumatic tube,"['NOUN', 'PUNCT', 'VERB', 'ADJ', 'NOUN']",[],0,0,6,"['puncture-sealing', 'pneumatic', 'tube']",1
-US2325624A,1940-03-11,Treatment of paper and paperboard,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,6,"['treatment', 'of', 'paper', 'and', 'paperboard']",1
-US2325834A,1940-11-26,Reducer attachment for pouring spouts,"['NOUN', 'NOUN', 'ADP', 'VERB', 'NOUN']",['PERSON'],0,1,6,"['reducer', 'attachment', 'for', 'pouring', 'spouts']",1
-US2326726A,1940-08-17,Shoe sewing machine,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['shoe', 'sewing', 'machine']",1
-US2326836A,1941-01-17,Picture receiving system,"['NOUN', 'VERB', 'NOUN']",[],0,0,4,"['picture', 'receiving', 'system']",1
-US2327428A,1941-12-24,Threading machine,"['NOUN', 'NOUN']",[],0,0,3,"['threading', 'machine']",1
-US2328166A,1938-12-03,Manufacture of photographic bleaching layers,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,6,"['manufacture', 'of', 'photographic', 'bleaching', 'layers']",1
-US2328466A,1936-09-03,Mechanism for controlling movements,"['NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,5,"['mechanism', 'for', 'controlling', 'movements']",1
-US2328475A,1938-08-25,Endless belt,"['ADJ', 'NOUN']",[],0,0,3,"['endless', 'belt']",1
-US2329810A,1941-10-18,Electromagnetic inspection,"['ADJ', 'NOUN']",[],0,0,3,"['electromagnetic', 'inspection']",1
-US2329890A,1943-01-13,Machine for cutting rhombic sections from sheet piles,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,9,"['machine', 'for', 'cutting', 'rhombic', 'sections', 'from', 'sheet', 'piles']",1
-US2330044A,1940-03-07,Storage pan for refrigerators,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['storage', 'pan', 'for', 'refrigerators']",1
-US2330050A,1940-08-23,Paint pigment composition,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['paint', 'pigment', 'composition']",1
-US2330103A,1940-06-22,Stripping electrodeposited metal sheets,"['VERB', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,"['stripping', 'electrodeposited', 'metal', 'sheets']",1
-US2330352A,1942-08-31,Mercury switch,"['NOUN', 'NOUN']",['ORG'],0,0,3,"['mercury', 'switch']",1
-US2330555A,1940-09-09,Stop motion mechanism for die presses,"['VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,7,"['stop', 'motion', 'mechanism', 'for', 'die', 'presses']",1
-US2330890A,1939-12-13,Profile milling machine,"['VERB', 'VERB', 'NOUN']",['ORG'],0,0,4,"['profile', 'milling', 'machine']",1
-US2331817A,1940-11-18,Profiling and contouring tracer,"['NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,"['profiling', 'and', 'contouring', 'tracer']",1
-US2332284A,1939-10-04,Refining of mineral oils,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,"['refining', 'of', 'mineral', 'oils']",1
-US2332827A,1938-08-20,Electric control apparatus,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['electric', 'control', 'apparatus']",1
-US2332995A,1939-06-22,Thermostatic fluid mixing device,"['ADJ', 'ADJ', 'VERB', 'NOUN']",[],0,0,5,"['thermostatic', 'fluid', 'mixing', 'device']",1
-US2333549A,1942-05-25,Ratchet chuck,"['NOUN', 'NOUN']",['NORP'],0,0,3,"['ratchet', 'chuck']",1
-US2333806A,1939-06-02,Coil structure,"['NOUN', 'NOUN']",[],0,0,3,"['coil', 'structure']",1
-US2334026A,1942-03-05,Tilting table,"['VERB', 'NOUN']",[],0,0,3,"['tilting', 'table']",1
-US2334461A,1940-11-16,Raking attachment for thresher cylinders,"['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['raking', 'attachment', 'for', 'thresher', 'cylinders']",1
-US2334716A,1943-01-30,Spiral filament,"['ADJ', 'NOUN']",[],0,0,3,"['spiral', 'filament']",1
-US2335750A,1940-08-23,Duplex wrapping machine,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['duplex', 'wrapping', 'machine']",1
-US2336733A,1939-04-28,Refrigerating apparatus,"['VERB', 'NOUN']",[],0,0,3,"['refrigerating', 'apparatus']",1
-US2337238A,1941-01-21,Oil filter for internal combustion engines,"['NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,7,"['oil', 'filter', 'for', 'internal', 'combustion', 'engines']",1
-US2338659A,1942-10-24,Conduit clip and supporting bracket,"['NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",['ORG'],0,0,6,"['conduit', 'clip', 'and', 'supporting', 'bracket']",1
-US2338772A,1941-10-02,Stabilization of terpene products,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,"['stabilization', 'of', 'terpene', 'products']",1
-US2338919A,1935-08-28,Process for the manufacture of artificial textile fibers,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,9,"['process', 'for', 'the', 'manufacture', 'of', 'artificial', 'textile', 'fibers']",1
-US2339889A,1940-12-26,Refining of mineral oils,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,"['refining', 'of', 'mineral', 'oils']",1
-US2340451A,1940-03-14,Garter purse,"['NOUN', 'NOUN']",[],0,0,3,"['garter', 'purse']",1
-US2340731A,1942-04-16,Inductor,['NOUN'],[],0,0,2,['inductor'],1
-US2340950A,1940-03-09,Shrinking dolly block,"['VERB', 'ADV', 'VERB']",[],0,0,4,"['shrinking', 'dolly', 'block']",1
-US2341128A,1942-04-18,Receptacle conveying and unloading apparatus,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",['ORG'],0,0,6,"['receptacle', 'conveying', 'and', 'unloading', 'apparatus']",1
-US2341139A,1940-09-14,Power control of harrows,"['NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['power', 'control', 'of', 'harrows']",1
-US2341488A,1941-04-08,Fabricated internal combustion engine,"['VERB', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['fabricated', 'internal', 'combustion', 'engine']",1
-US2341611A,1939-03-24,Process for the production of high polymeric condsensation products,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'NOUN']",[],0,0,10,"['process', 'for', 'the', 'production', 'of', 'high', 'polymeric', 'condsensation', 'products']",1
-US2341848A,1941-12-29,Threading block,"['VERB', 'NOUN']",[],0,0,3,"['threading', 'block']",1
-US2341896A,1942-09-02,Circuit controller,"['NOUN', 'NOUN']",[],0,0,3,"['circuit', 'controller']",1
-US2341964A,1941-09-30,Display device,"['VERB', 'NOUN']",[],0,0,3,"['display', 'device']",1
-US2342205A,1941-07-19,Solvent extraction of oil,"['ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['solvent', 'extraction', 'of', 'oil']",1
-US2342394A,1940-08-26,Developer,['NOUN'],[],0,0,2,['developer'],1
-US2343055A,1940-11-08,Engine connecting rod,"['NOUN', 'VERB', 'NOUN']",[],0,0,4,"['engine', 'connecting', 'rod']",1
-US2343808A,1939-05-17,Nitrogenous condensation products,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['nitrogenous', 'condensation', 'products']",1
-US2344418A,1940-10-05,Process for the removal of undesirable sulphur compounds from petroleum oil,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'VERB', 'ADP', 'NOUN', 'NOUN']",[],0,0,12,"['process', 'for', 'the', 'removal', 'of', 'undesirable', 'sulphur', 'compounds', 'from', 'petroleum', 'oil']",1
-US2345156A,1941-01-15,Lubricating oil,"['VERB', 'NOUN']",[],0,0,3,"['lubricating', 'oil']",1
-US2345236A,1941-10-24,Process for making piperazine compounds,"['NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN']",[],0,0,6,"['process', 'for', 'making', 'piperazine', 'compounds']",1
-US2345453A,1938-07-20,Refrigeration,['NOUN'],[],0,0,2,['refrigeration'],1
-US2345607A,1942-04-13,Fish scraper,"['NOUN', 'NOUN']",[],0,0,3,"['fish', 'scraper']",1
-US2346416A,1941-01-14,Treatment of resin oils,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,"['treatment', 'of', 'resin', 'oils']",1
-US2346868A,1938-01-17,Fluid control for speed varying transmissions,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'VERB', 'NOUN']",[],0,0,7,"['fluid', 'control', 'for', 'speed', 'varying', 'transmissions']",1
-US2347294A,1942-05-04,Multiple disk shaft coupling,"['ADJ', 'NOUN', 'NOUN', 'VERB']",[],0,0,5,"['multiple', 'disk', 'shaft', 'coupling']",1
-US2347422A,1943-05-18,Octagonal box,"['ADJ', 'NOUN']",[],0,0,3,"['octagonal', 'box']",1
-US2347826A,1941-10-21,High frequency switching means,"['ADJ', 'NOUN', 'NOUN', 'VERB']",[],0,0,5,"['high', 'frequency', 'switching', 'means']",1
-US2348283A,1941-05-09,Burr masher,"['NOUN', 'NOUN']",[],0,0,3,"['burr', 'masher']",1
-US2348388A,1940-12-06,Fluid pressure regulator,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['fluid', 'pressure', 'regulator']",1
-US2348436A,1942-12-29,Suitcase,['VERB'],[],0,0,2,['suitcase'],1
-US2348792A,1937-08-17,Propelling plant for aircraft,"['VERB', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['propelling', 'plant', 'for', 'aircraft']",1
-US2348811A,1942-08-20,Tire carrier,"['NOUN', 'NOUN']",[],0,0,3,"['tire', 'carrier']",1
-US2349654A,1940-03-05,Aqueous solutions of phenols and their homologues and a method of making the same,"['ADJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'PRON', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ']",[],0,0,15,"['aqueous', 'solutions', 'of', 'phenols', 'and', 'their', 'homologues', 'and', 'a', 'method', 'of', 'making', 'the', 'same']",1
-US2349655A,1942-08-07,Switch,['NOUN'],[],0,0,2,['switch'],1
-US2350118A,1941-06-03,Wheel truck,"['NOUN', 'NOUN']",[],0,0,3,"['wheel', 'truck']",1
-US2350916A,1940-05-17,Ultra short wave antenna system,"['ADJ', 'ADJ', 'NOUN', 'NOUN', 'NOUN']",['PERSON'],0,1,6,"['ultra', 'short', 'wave', 'antenna', 'system']",1
-US2351818A,1942-04-22,Shoe or similar article,"['NOUN', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,5,"['shoe', 'or', 'similar', 'article']",1
-US2352033A,1941-04-02,Pipe cleaning ash tray,"['NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['pipe', 'cleaning', 'ash', 'tray']",1
-US2352106A,1942-11-02,Furniture construction,"['NOUN', 'NOUN']",[],0,0,3,"['furniture', 'construction']",1
-US2352274A,1941-06-17,Sewing machine,"['NOUN', 'NOUN']",[],0,0,3,"['sewing', 'machine']",1
-US2352292A,1943-04-30,Self-basting pan,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",['PERSON'],0,1,5,"['self-basting', 'pan']",1
-US2352305A,1941-01-02,Microphone,['NOUN'],[],0,0,2,['microphone'],1
-US2352678A,1941-10-03,Adjustable chair,"['ADJ', 'NOUN']",[],0,0,3,"['adjustable', 'chair']",1
-US2352830A,1942-07-15,Signal mechanism,"['ADJ', 'NOUN']",[],0,0,3,"['signal', 'mechanism']",1
-US2353008A,1941-01-07,Applying metal bands to articles of manufacture,"['VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['applying', 'metal', 'bands', 'to', 'articles', 'of', 'manufacture']",1
-US2353178A,1940-07-26,Container and method of making same,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ']",[],0,0,7,"['container', 'and', 'method', 'of', 'making', 'same']",1
-US2353394A,1941-12-20,Package feeding or dispensing apparatus,"['NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,6,"['package', 'feeding', 'or', 'dispensing', 'apparatus']",1
-US2353430A,1939-06-12,Fuel and air regulating means for engines,"['NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['fuel', 'and', 'air', 'regulating', 'means', 'for', 'engines']",1
-US2353529A,1943-02-12,Bearing mounting,"['VERB', 'VERB']",[],0,0,3,"['bearing', 'mounting']",1
-US2353669A,1942-01-02,Package wrapping,"['NOUN', 'NOUN']",[],0,0,3,"['package', 'wrapping']",1
-US2353756A,1941-05-06,Magnetic actuator,"['ADJ', 'NOUN']",[],0,0,3,"['magnetic', 'actuator']",1
-US2354049A,1944-01-19,Backless reflex light reflector,"['NOUN', 'ADJ', 'ADJ', 'NOUN']",[],0,0,5,"['backless', 'reflex', 'light', 'reflector']",1
-US2355236A,1942-09-30,Electroplating apparatus,"['NOUN', 'NOUN']",[],0,0,3,"['electroplating', 'apparatus']",1
-US2356041A,1943-06-07,Safety hose clamp,"['NOUN', 'NOUN', 'VERB']",[],0,0,4,"['safety', 'hose', 'clamp']",1
-US2356629A,1941-05-08,Electrical regulator,"['ADJ', 'NOUN']",[],0,0,3,"['electrical', 'regulator']",1
-US2357261A,1942-04-28,Preparation of dicyandiamide salts,"['NOUN', 'ADP', 'NOUN', 'VERB']",[],0,0,5,"['preparation', 'of', 'dicyandiamide', 'salts']",1
-US2358329A,1941-08-21,Dispensing closure structure,"['VERB', 'NOUN', 'NOUN']",['PERSON'],0,1,4,"['dispensing', 'closure', 'structure']",1
-US2358934A,1942-11-23,Wind and rain screen and the like,"['NOUN', 'CCONJ', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'INTJ']",[],0,0,8,"['wind', 'and', 'rain', 'screen', 'and', 'the', 'like']",1
-US2360205A,1943-12-31,Compositions of matter and method of producing,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB']",[],0,0,8,"['compositions', 'of', 'matter', 'and', 'method', 'of', 'producing']",1
-US2360518A,1941-08-14,Cement composition and method of making the same,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'DET', 'ADJ']",['ORG'],0,0,9,"['cement', 'composition', 'and', 'method', 'of', 'making', 'the', 'same']",1
-US2361077A,1942-08-12,Bottle disposal rack,"['NOUN', 'NOUN', 'VERB']",[],0,0,4,"['bottle', 'disposal', 'rack']",1
-US2361080A,1941-08-25,Diesel fuel,"['NOUN', 'NOUN']",[],0,0,3,"['diesel', 'fuel']",1
-US2361085A,1943-03-04,Lathe spindle stop,"['NOUN', 'NOUN', 'VERB']",[],0,0,4,"['lathe', 'spindle', 'stop']",1
-US2361141A,1941-10-09,Show card,"['NOUN', 'NOUN']",[],0,0,3,"['show', 'card']",1
-US2361607A,1943-04-12,Plier wrench,"['NOUN', 'NOUN']",['PERSON'],0,1,3,"['plier', 'wrench']",1
-US2361700A,1943-04-09,Multiple opposed piston engine,"['ADJ', 'VERB', 'NOUN', 'NOUN']",[],0,0,5,"['multiple', 'opposed', 'piston', 'engine']",1
-US2361732A,1942-08-27,Conduit supporting device,"['NOUN', 'VERB', 'NOUN']",['ORG'],0,0,4,"['conduit', 'supporting', 'device']",1
-US2361835A,1940-07-05,Coin-controlled apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,"['coin-controlled', 'apparatus']",1
-US2362146A,1944-11-07,Wokk holder ob collet holding,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,"['wokk', 'holder', 'ob', 'collet', 'holding']",1
-US2362932A,1942-07-02,Stable sterol derivatives,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['stable', 'sterol', 'derivatives']",1
-US2363356A,1941-07-21,Antiaircraft gun turret,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['antiaircraft', 'gun', 'turret']",1
-US2363780A,1944-09-20,Flat type water level gauge assembly,"['ADJ', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,7,"['flat', 'type', 'water', 'level', 'gauge', 'assembly']",1
-US2364918A,1944-01-17,Wheel handling apparatus,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['wheel', 'handling', 'apparatus']",1
-US2365068A,1942-02-07,Connecting rod regrinding machine,"['VERB', 'NOUN', 'NOUN', 'NOUN']",[],0,0,5,"['connecting', 'rod', 'regrinding', 'machine']",1
-US2365079A,1943-08-31,Work-holding apparatus,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,"['work-holding', 'apparatus']",1
-US2365700A,1941-05-08,Emergency actuating system for fluid motors,"['NOUN', 'NOUN', 'NOUN', 'ADP', 'ADJ', 'NOUN']",[],0,0,7,"['emergency', 'actuating', 'system', 'for', 'fluid', 'motors']",1
-US2366624A,1941-12-23,Tine assembly,"['NOUN', 'NOUN']",['ORG'],0,0,3,"['tine', 'assembly']",1
-US2366785A,1940-06-28,Conversion of continuous filaments into staple fiber yarns or like products,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'ADP', 'NOUN']",[],0,0,12,"['conversion', 'of', 'continuous', 'filaments', 'into', 'staple', 'fiber', 'yarns', 'or', 'like', 'products']",1
-US2366895A,1939-08-30,Combposite article and process of making same,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ']",[],0,0,8,"['combposite', 'article', 'and', 'process', 'of', 'making', 'same']",1
-US2367053A,1941-09-06,Disazo dyestuffs,"['NOUN', 'NOUN']",[],0,0,3,"['disazo', 'dyestuffs']",1
-US2367752A,1943-09-06,Hand truck,"['NOUN', 'NOUN']",[],0,0,3,"['hand', 'truck']",1
-US2367822A,1941-07-03,Mold construction,"['NOUN', 'NOUN']",[],0,0,3,"['mold', 'construction']",1
-US2367833A,1940-08-03,Motor mounting,"['NOUN', 'VERB']",[],0,0,3,"['motor', 'mounting']",1
-US2367851A,1941-02-24,Liquid treating apparatus,"['ADJ', 'VERB', 'NOUN']",[],0,0,4,"['liquid', 'treating', 'apparatus']",1
-US2367864A,1942-07-02,Filing machine,"['NOUN', 'NOUN']",[],0,0,3,"['filing', 'machine']",1
-US2367865A,1942-05-14,Sewing machine,"['NOUN', 'NOUN']",[],0,0,3,"['sewing', 'machine']",1
-US2367925A,1942-05-15,Power line synchronizing and control system,"['NOUN', 'NOUN', 'ADJ', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,7,"['power', 'line', 'synchronizing', 'and', 'control', 'system']",1
-US2368005A,1943-05-18,Condition responsive switch,"['NOUN', 'ADJ', 'NOUN']",[],0,0,4,"['condition', 'responsive', 'switch']",1
-US2368006A,1943-10-07,Heterocyclic tertiary amines,"['ADJ', 'ADJ', 'NOUN']",['ORDINAL'],0,0,4,"['heterocyclic', 'tertiary', 'amines']",1
-US2368030A,1941-10-11,Multiple roll mill,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['multiple', 'roll', 'mill']",1
-US2368061A,1940-08-03,Milling machine,"['VERB', 'NOUN']",[],0,0,3,"['milling', 'machine']",1
-US2368062A,1942-04-22,Cellulose triacetate coating compositions,"['NOUN', 'ADJ', 'NOUN', 'NOUN']",[],0,0,5,"['cellulose', 'triacetate', 'coating', 'compositions']",1
-US2368070A,1941-09-29,Pyrophoric lighter,"['NOUN', 'ADJ']",[],0,0,3,"['pyrophoric', 'lighter']",1
-US2368077A,1942-09-07,Chucking means for drill bits,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['chucking', 'means', 'for', 'drill', 'bits']",1
-US2368107A,1943-03-12,Wire-drawing equipment,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,"['wire-drawing', 'equipment']",1
-US2368114A,1943-11-06,Material handling vehicle,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['material', 'handling', 'vehicle']",1
-US2368115A,1942-03-12,Humidifying apparatus,"['ADJ', 'NOUN']",[],0,0,3,"['humidifying', 'apparatus']",1
-US2368833A,1941-05-24,X-ray contrast composition,"['NOUN', 'NOUN', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['x-ray', 'contrast', 'composition']",1
-US2368932A,1943-03-27,Mounting for rock drills,"['VERB', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,"['mounting', 'for', 'rock', 'drills']",1
-US2369902A,1944-08-10,Container lifter,"['NOUN', 'NOUN']",[],0,0,3,"['container', 'lifter']",1
-US2370114A,1943-01-29,Mandelic acid ester of n-methylpiperidinol-4,"['ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'SPACE']",['NORP'],0,0,8,"['mandelic', 'acid', 'ester', 'of', 'n-methylpiperidinol-4']",1
-US2370851A,1943-03-08,Couch bed,"['NOUN', 'NOUN']",[],0,0,3,"['couch', 'bed']",1
-US2370999A,1940-11-09,Liquid-solid separation,"['NOUN', 'PUNCT', 'ADJ', 'NOUN']",[],0,0,5,"['liquid-solid', 'separation']",1
-US2371049A,1941-08-06,Building structure,"['VERB', 'NOUN']",[],0,0,3,"['building', 'structure']",1
-US2371261A,1945-03-13,Wheel gauge adjustment,"['NOUN', 'NOUN', 'NOUN']",[],0,0,3,"['wheel', 'gauge', 'adjustment']",1
-US2371605A,1933-06-01,"Coating, particularly for manufacture of abrasives","['NOUN', 'PUNCT', 'ADV', 'ADP', 'NOUN', 'ADP', 'NOUN']",[],0,0,8,"['coating,', 'particularly', 'for', 'manufacture', 'of', 'abrasives']",1
-US2371762A,1941-04-25,Bale ejector for scrap metal baling presses,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'VERB']",[],0,0,8,"['bale', 'ejector', 'for', 'scrap', 'metal', 'baling', 'presses']",1
-US2371962A,1943-01-15,Dynamoelectric machine,"['ADJ', 'NOUN']",[],0,0,3,"['dynamoelectric', 'machine']",1
-US2372118A,1943-04-23,Coating apparatus,"['NOUN', 'NOUN']",[],0,0,3,"['coating', 'apparatus']",1
-US2372134A,1942-06-24,Protective relay system,"['ADJ', 'NOUN', 'NOUN']",[],0,0,4,"['protective', 'relay', 'system']",1
-US2372284A,1941-09-24,Coated cement product and the manufacture thereof,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADV']",[],0,0,8,"['coated', 'cement', 'product', 'and', 'the', 'manufacture', 'thereof']",1
-US2373447A,1943-07-30,Door lift mechanism,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['door', 'lift', 'mechanism']",1
-US2373609A,1943-10-21,Refrigeration drive,"['NOUN', 'NOUN']",[],0,0,3,"['refrigeration', 'drive']",1
-US2373654A,1942-06-08,Valve,['VERB'],[],0,0,2,['valve'],1
-US2373667A,1943-02-11,Impact clutch,"['NOUN', 'VERB']",[],0,0,3,"['impact', 'clutch']",1
-US2373904A,1940-10-10,Aircraft armament,"['NOUN', 'NOUN']",[],0,0,3,"['aircraft', 'armament']",1
-US2374001A,1941-10-18,Automatic reclosing circuit breaker system,"['ADJ', 'VERB', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['automatic', 'reclosing', 'circuit', 'breaker', 'system']",1
-US2374114A,1942-08-20,Filtering apparatus and process,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",['LOC'],0,0,5,"['filtering', 'apparatus', 'and', 'process']",1
-US2374151A,1943-03-15,Catalytic conversion and regeneration system,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,6,"['catalytic', 'conversion', 'and', 'regeneration', 'system']",1
-US2374184A,1941-08-06,Absorption refrigerating apparatus,"['NOUN', 'VERB', 'NOUN']",[],0,0,4,"['absorption', 'refrigerating', 'apparatus']",1
-US2375077A,1944-05-04,By-pass valve,"['ADP', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['by-pass', 'valve']",1
-US2375383A,1929-01-17,Selective signaling system,"['ADJ', 'VERB', 'NOUN']",[],0,0,4,"['selective', 'signaling', 'system']",1
-US2377641A,1943-11-22,Trailer wheel support and guiding means,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB']",[],0,0,7,"['trailer', 'wheel', 'support', 'and', 'guiding', 'means']",1
-US2377834A,1942-07-04,Reducing syneresis of methyl cellulose,"['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['reducing', 'syneresis', 'of', 'methyl', 'cellulose']",1
-US2377937A,1942-09-24,Stirring and mixing device,"['ADJ', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,"['stirring', 'and', 'mixing', 'device']",1
-US2377961A,1942-04-22,Manufacture of water-soluble egg albumen,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'NOUN']",[],0,0,8,"['manufacture', 'of', 'water-soluble', 'egg', 'albumen']",1
-US2379249A,1942-11-25,Heat transfer medium,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['heat', 'transfer', 'medium']",1
-US2379250A,1941-03-28,Preparation of carbonic acid esters,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'NOUN']",[],0,0,6,"['preparation', 'of', 'carbonic', 'acid', 'esters']",1
-US2379460A,1943-08-12,Treatment of rubber,"['NOUN', 'ADP', 'NOUN']",[],0,0,4,"['treatment', 'of', 'rubber']",1
-US2379898A,1941-06-05,Can bodymaker,"['AUX', 'VERB']",[],0,0,3,"['can', 'bodymaker']",1
-US2380186A,1944-03-21,"Scraper for pots, pans, and the like","['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'DET', 'INTJ']",[],0,0,10,"['scraper', 'for', 'pots,', 'pans,', 'and', 'the', 'like']",1
-US2380482A,1942-03-30,Duplicating recorder,"['VERB', 'NOUN']",[],0,0,3,"['duplicating', 'recorder']",1
-US2380766A,1942-03-16,Remote-control plant,"['ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,5,"['remote-control', 'plant']",1
-US2380941A,1940-12-07,Erection device for gyro verticals,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['erection', 'device', 'for', 'gyro', 'verticals']",1
-US2381289A,1944-03-10,Oil vaporizer and burner,"['NOUN', 'NOUN', 'CCONJ', 'NOUN']",[],0,0,5,"['oil', 'vaporizer', 'and', 'burner']",1
-US2381382A,1941-08-22,Bead lock,"['VERB', 'VERB']",[],0,0,3,"['bead', 'lock']",1
-US2381927A,1941-11-27,Turntable for phonographs and sound recorders,"['ADJ', 'ADP', 'ADJ', 'CCONJ', 'ADJ', 'NOUN']",[],0,0,7,"['turntable', 'for', 'phonographs', 'and', 'sound', 'recorders']",1
-US2381979A,1943-08-28,Sound film printing optical system,"['ADJ', 'NOUN', 'VERB', 'ADJ', 'NOUN']",[],0,0,6,"['sound', 'film', 'printing', 'optical', 'system']",1
-US2382001A,1941-08-15,Agricultural implement,"['ADJ', 'NOUN']",[],0,0,3,"['agricultural', 'implement']",1
-US2382095A,1943-06-09,Electrical connector,"['ADJ', 'NOUN']",[],0,0,3,"['electrical', 'connector']",1
-US2382474A,1943-06-17,Insulation clip,"['NOUN', 'NOUN']",[],0,0,3,"['insulation', 'clip']",1
-US2382579A,1944-02-05,Condensation drain,"['NOUN', 'NOUN']",[],0,0,3,"['condensation', 'drain']",1
-US2383072A,1940-12-12,Producing toluene,"['VERB', 'NOUN']",[],0,0,3,"['producing', 'toluene']",1
-US2383229A,1940-04-13,Empty lock for vending machines,"['ADJ', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['empty', 'lock', 'for', 'vending', 'machines']",1
-US2383565A,1942-10-12,Engine,['NOUN'],[],0,0,2,['engine'],1
-US2383571A,1943-04-15,Gain control for seismograph amplifiers,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['gain', 'control', 'for', 'seismograph', 'amplifiers']",1
-US2383626A,1942-11-16,Cylinder for internal-combustion engines,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,7,"['cylinder', 'for', 'internal-combustion', 'engines']",1
-US2384118A,1941-05-06,Composition of matter,"['NOUN', 'ADP', 'NOUN']",[],0,0,4,"['composition', 'of', 'matter']",1
-US2384307A,1943-10-30,Material handling apparatus,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['material', 'handling', 'apparatus']",1
-US2384415A,1941-03-27,Continuous production and stabilization of nitrates of cellulose or nitrates of other alcohols like starch,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,16,"['continuous', 'production', 'and', 'stabilization', 'of', 'nitrates', 'of', 'cellulose', 'or', 'nitrates', 'of', 'other', 'alcohols', 'like', 'starch']",1
-US2384648A,1942-01-14,Locating bottom of oil production,"['VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['locating', 'bottom', 'of', 'oil', 'production']",1
-US2385034A,1944-06-09,Shuttle feeler tip,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['shuttle', 'feeler', 'tip']",1
-US2385035A,1941-03-18,Typewriting machine,"['VERB', 'NOUN']",[],0,0,3,"['typewriting', 'machine']",1
-US2385197A,1944-04-19,Educational toy,"['ADJ', 'NOUN']",[],0,0,3,"['educational', 'toy']",1
-US2385482A,1944-05-11,Heel breasting machine,"['NOUN', 'VERB', 'NOUN']",[],0,0,4,"['heel', 'breasting', 'machine']",1
-US2385758A,1943-10-08,Open-center snow track,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['open-center', 'snow', 'track']",1
-US2385888A,1943-06-24,Builder motion,"['NOUN', 'NOUN']",[],0,0,3,"['builder', 'motion']",1
-US2386660A,1944-11-27,Feeding mechanism for sewing machines,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['feeding', 'mechanism', 'for', 'sewing', 'machines']",1
-US2386669A,1943-04-20,Engine control device,"['NOUN', 'NOUN', 'NOUN']",[],0,0,4,"['engine', 'control', 'device']",1
-US2387256A,1940-11-09,Curing phenol-formaldehyde resins,"['VERB', 'NOUN', 'PUNCT', 'NOUN', 'NOUN']",[],0,0,6,"['curing', 'phenol-formaldehyde', 'resins']",1
-US2387743A,1942-12-30,Can testing machine,"['AUX', 'VERB', 'NOUN']",[],0,0,4,"['can', 'testing', 'machine']",1
-US2387980A,1945-02-17,Electrical resistance alloys,"['ADJ', 'NOUN', 'VERB']",[],0,0,4,"['electrical', 'resistance', 'alloys']",1
-US2388321A,1944-10-26,Dehorning paste applicator,"['VERB', 'VERB', 'NOUN']",[],0,0,4,"['dehorning', 'paste', 'applicator']",1
-US2388601A,1942-08-22,Polymerization of vinyl esters,"['NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,5,"['polymerization', 'of', 'vinyl', 'esters']",1
-US2388640A,1943-12-17,Well point,"['INTJ', 'NOUN']",[],0,0,3,"['well', 'point']",1
-US2388673A,1944-06-09,Dual power optical system,"['ADJ', 'NOUN', 'ADJ', 'NOUN']",[],0,0,5,"['dual', 'power', 'optical', 'system']",1
-US2389193A,1944-08-18,Supplemental feed for drapers,"['ADJ', 'NOUN', 'ADP', 'NOUN']",[],0,0,5,"['supplemental', 'feed', 'for', 'drapers']",1
-US2389221A,1944-12-18,Elevator,['NOUN'],[],0,0,2,['elevator'],1
-US2390030A,1942-01-12,Chilling cabinet,"['VERB', 'NOUN']",[],0,0,3,"['chilling', 'cabinet']",1
-US2390916A,1944-11-11,Tool,['NOUN'],[],0,0,2,['tool'],1
-US2391406A,1943-06-04,Automatic crankshaft grinding and polishing machine,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,7,"['automatic', 'crankshaft', 'grinding', 'and', 'polishing', 'machine']",1
-US2391561A,1943-12-02,Drain mechanism,"['NOUN', 'NOUN']",[],0,0,3,"['drain', 'mechanism']",1
-US2392019A,1939-12-07,Processing of materials,"['NOUN', 'ADP', 'NOUN']",[],0,0,4,"['processing', 'of', 'materials']",1
-US2392662A,1942-03-26,Viscosimeter,['NOUN'],[],0,0,2,['viscosimeter'],1
-US2393181A,1939-04-15,Production of wax modifying agents,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['production', 'of', 'wax', 'modifying', 'agents']",1
-US2393586A,1944-11-07,Slitting and scoring apparatus,"['VERB', 'CCONJ', 'NOUN', 'NOUN']",[],0,0,5,"['slitting', 'and', 'scoring', 'apparatus']",1
-US2393867A,1944-02-15,Siphon tube,"['ADJ', 'NOUN']",[],0,0,3,"['siphon', 'tube']",1
-US2393880A,1944-07-27,Light tool,"['NOUN', 'NOUN']",[],0,0,3,"['light', 'tool']",1
-US2394459A,1943-07-02,Juice extractor,"['NOUN', 'NOUN']",[],0,0,3,"['juice', 'extractor']",1
-US2394926A,1944-11-16,Key operated telephone call transmitter,"['ADJ', 'VERB', 'NOUN', 'NOUN', 'NOUN']",[],0,0,6,"['key', 'operated', 'telephone', 'call', 'transmitter']",1
-US2395933A,1943-01-26,Drying apparatus,"['VERB', 'NOUN']",[],0,0,3,"['drying', 'apparatus']",1
-US2396584A,1940-08-22,Cutting frame for dividing apparatus,"['VERB', 'NOUN', 'ADP', 'VERB', 'NOUN']",[],0,0,6,"['cutting', 'frame', 'for', 'dividing', 'apparatus']",1
-US2396918A,1938-11-04,Water-treating composition,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,"['water-treating', 'composition']",1
-US2397420A,1945-04-05,Power-driven conveyer,"['NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,5,"['power-driven', 'conveyer']",1
-US2398299A,1944-08-22,Sectional suitcase,"['ADJ', 'NOUN']",[],0,0,3,"['sectional', 'suitcase']",1
-US2399388A,1944-04-27,Regulating system,"['VERB', 'NOUN']",[],0,0,3,"['regulating', 'system']",1
-US2399550A,1944-08-16,Packing,['NOUN'],[],0,0,2,['packing'],1
+US2300564A,1940-05-07,Process of purifying water and composition therefor,"['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,8,"['process', 'of', 'purifying', 'water', 'and', 'composition', 'therefor']",1
+US2300686A,1942-11-03,Lead resinate and method of,"['PROPN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,5,"['lead', 'resinate', 'and', 'method', 'of']",1
+US2302268A,1942-11-17,Interior cooker construction for,"['PROPN', 'NOUN', 'NOUN', 'ADP']",[],1,0,4,"['interior', 'cooker', 'construction', 'for']",1
+US2302354A,1942-11-17,Method and apparatus for,"['PROPN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,4,"['method', 'and', 'apparatus', 'for']",1
+US2302467A,1941-03-26,Process of oxidizing a mixture of a cymene and a menthane and products therefrom,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,15,"['process', 'of', 'oxidizing', 'a', 'mixture', 'of', 'a', 'cymene', 'and', 'a', 'menthane', 'and', 'products', 'therefrom']",1
+US2305420A,1941-10-13,Hydraulic let-off,"['PROPN', 'VERB', 'PUNCT', 'ADP']",[],1,0,5,"['hydraulic', 'let-off']",1
+US2306120A,1940-03-08,Method of molding and product resulting therefrom,"['PROPN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],1,0,8,"['method', 'of', 'molding', 'and', 'product', 'resulting', 'therefrom']",1
+US2309666A,1939-07-10,Method of forming standard blanks and a variety of finished units therefrom,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP']",[],1,0,13,"['method', 'of', 'forming', 'standard', 'blanks', 'and', 'a', 'variety', 'of', 'finished', 'units', 'therefrom']",1
+US2311228A,1943-02-16,Bauxite ceramic and method of,"['PROPN', 'ADJ', 'CCONJ', 'NOUN', 'ADP']",[],1,0,5,"['bauxite', 'ceramic', 'and', 'method', 'of']",1
+US2312298A,1943-02-23,Process of preparing esters of,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['process', 'of', 'preparing', 'esters', 'of']",1
+US2312610A,1941-06-10,Belt conveyer idler,"['PROPN', 'NOUN', 'ADP']",[],1,0,4,"['belt', 'conveyer', 'idler']",1
+US2313489A,1938-04-30,Manufacture of decorated products permeable to the luminous rays and product obtained therefrom,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADJ', 'ADP', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],1,0,14,"['manufacture', 'of', 'decorated', 'products', 'permeable', 'to', 'the', 'luminous', 'rays', 'and', 'product', 'obtained', 'therefrom']",1
+US2314120A,1940-02-13,Press unloader,"['PROPN', 'ADP']",[],1,0,3,"['press', 'unloader']",1
+US2314123A,1940-05-17,Press unloader,"['PROPN', 'ADP']",[],1,0,3,"['press', 'unloader']",1
+US2314440A,1937-02-18,Azo dyestuffs and process for coloring therewith,"['PROPN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADP']",['PERSON'],1,1,8,"['azo', 'dyestuffs', 'and', 'process', 'for', 'coloring', 'therewith']",1
+US2317370A,1940-06-13,Method of setting printing inks and composition therefor,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,9,"['method', 'of', 'setting', 'printing', 'inks', 'and', 'composition', 'therefor']",1
+US2317764A,1939-12-12,Carrier frequency amplifier,"['PROPN', 'NOUN', 'ADP']",[],1,0,4,"['carrier', 'frequency', 'amplifier']",1
+US2319626A,1937-08-19,Signal controlled amplifier,"['PROPN', 'VERB', 'ADP']",[],1,0,4,"['signal', 'controlled', 'amplifier']",1
+US2320181A,1943-05-25,Method for the production of,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['method', 'for', 'the', 'production', 'of']",1
+US2320286A,1941-11-07,Brake construction and adjusting means therefor,"['PROPN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP']",['ORG'],1,0,7,"['brake', 'construction', 'and', 'adjusting', 'means', 'therefor']",1
+US2320766A,1943-06-01,Method of separating albumin from,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['method', 'of', 'separating', 'albumin', 'from']",1
+US2321242A,1943-06-08,Method and apparatus for,"['PROPN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,4,"['method', 'and', 'apparatus', 'for']",1
+US2327495A,1943-08-24,Process of removing wax from,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['process', 'of', 'removing', 'wax', 'from']",1
+US2329101A,1940-06-08,Apparatus for silencing pulsating gas streams and separating particles therefrom,"['PROPN', 'ADP', 'VERB', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],1,0,11,"['apparatus', 'for', 'silencing', 'pulsating', 'gas', 'streams', 'and', 'separating', 'particles', 'therefrom']",1
+US2330471A,1941-10-16,Spray stencil hold-down,"['PROPN', 'PROPN', 'VERB', 'PUNCT', 'ADP']",[],1,0,6,"['spray', 'stencil', 'hold-down']",1
+US2333796A,1940-06-13,Polyvinyl acetal resin and film therefrom,"['PROPN', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",['PERSON'],1,1,7,"['polyvinyl', 'acetal', 'resin', 'and', 'film', 'therefrom']",1
+US2335050A,1942-06-22,Electron discharge amplifier,"['PROPN', 'NOUN', 'ADP']",[],1,0,4,"['electron', 'discharge', 'amplifier']",1
+US2336664A,1943-12-14,Nitko-aryl amine sulphonic acids of,"['PROPN', 'PUNCT', 'PROPN', 'NOUN', 'NOUN', 'NOUN', 'ADP']",['ORG'],1,0,7,"['nitko-aryl', 'amine', 'sulphonic', 'acids', 'of']",1
+US2338486A,1941-10-09,Compressor unloader,"['PROPN', 'ADP']",[],1,0,3,"['compressor', 'unloader']",1
+US2341418A,1942-07-27,Drill jig,"['PROPN', 'ADP']",[],1,0,3,"['drill', 'jig']",1
+US2342634A,1938-11-25,Method of treating fibrous material and product resulting therefrom,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],1,0,10,"['method', 'of', 'treating', 'fibrous', 'material', 'and', 'product', 'resulting', 'therefrom']",1
+US2343256A,1944-03-07,Process fob the condensation of,"['PROPN', 'VERB', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['process', 'fob', 'the', 'condensation', 'of']",1
+US2343961A,1941-10-31,Film take-up,"['PROPN', 'VERB', 'PUNCT', 'ADP']",[],1,0,5,"['film', 'take-up']",1
+US2344319A,1942-09-11,Method for the purification of titanium tetrachloride,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],1,0,8,"['method', 'for', 'the', 'purification', 'of', 'titanium', 'tetrachloride']",1
+US2344731A,1940-11-13,Detected frequency modulated wave amplifier,"['PROPN', 'NOUN', 'VERB', 'NOUN', 'ADP']",[],1,0,6,"['detected', 'frequency', 'modulated', 'wave', 'amplifier']",1
+US2344859A,1941-02-07,Method of producing calcium boride,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,6,"['method', 'of', 'producing', 'calcium', 'boride']",1
+US2345669A,1942-06-09,Apparatus for loading and transporting barrels and dispensing liquids therefrom,"['PROPN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],1,0,11,"['apparatus', 'for', 'loading', 'and', 'transporting', 'barrels', 'and', 'dispensing', 'liquids', 'therefrom']",1
+US2349142A,1942-03-14,Drill jig,"['PROPN', 'ADP']",[],1,0,3,"['drill', 'jig']",1
+US2350523A,1943-03-17,Salt-form azo pigment dyestuff and coating composition made therefrom,"['NOUN', 'PUNCT', 'NOUN', 'PROPN', 'NOUN', 'PROPN', 'CCONJ', 'VERB', 'NOUN', 'VERB', 'ADP']",[],1,0,12,"['salt-form', 'azo', 'pigment', 'dyestuff', 'and', 'coating', 'composition', 'made', 'therefrom']",1
+US2351025A,1944-06-13,Preparation of aryl ethers of,"['NOUN', 'ADP', 'PROPN', 'NOUN', 'ADP']",[],1,0,5,"['preparation', 'of', 'aryl', 'ethers', 'of']",1
+US2351295A,1944-06-13,Method of rinsing soap from,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['method', 'of', 'rinsing', 'soap', 'from']",1
+US2353000A,1944-07-04,Method of forming articles of,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['method', 'of', 'forming', 'articles', 'of']",1
+US2353972A,1942-02-10,Apparatus for loading wheeled vehicles and stocking-out material unloaded therefrom,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'ADP', 'NOUN', 'VERB', 'ADP']",[],1,0,13,"['apparatus', 'for', 'loading', 'wheeled', 'vehicles', 'and', 'stocking-out', 'material', 'unloaded', 'therefrom']",1
+US2356681A,1943-06-21,Method of carroting and composition therefor,"['PROPN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,7,"['method', 'of', 'carroting', 'and', 'composition', 'therefor']",1
+US2358273A,1941-09-08,Alkyl diamides of aromatic disulphonic acids and products treated therewith,"['PROPN', 'NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],1,1,11,"['alkyl', 'diamides', 'of', 'aromatic', 'disulphonic', 'acids', 'and', 'products', 'treated', 'therewith']",1
+US2358954A,1940-01-10,Quill feeding and adjusting means therefor,"['PROPN', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP']",['ORG'],1,0,7,"['quill', 'feeding', 'and', 'adjusting', 'means', 'therefor']",1
+US2359122A,1943-03-17,"Process for reclaiming scrap containing vulcanized copolymers of butadiene-1,3 and compounds copolymerizable therewith","['PROPN', 'ADP', 'VERB', 'NOUN', 'VERB', 'VERB', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'ADJ', 'ADP']",[],1,0,14,"['process', 'for', 'reclaiming', 'scrap', 'containing', 'vulcanized', 'copolymers', 'of', 'butadiene-1,3', 'and', 'compounds', 'copolymerizable', 'therewith']",1
+US2359328A,1942-02-17,Method of preparing multileaved edges for receiving colored markings and the article resulting therefrom,"['PROPN', 'ADP', 'VERB', 'VERB', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'VERB', 'ADP']",[],1,0,15,"['method', 'of', 'preparing', 'multileaved', 'edges', 'for', 'receiving', 'colored', 'markings', 'and', 'the', 'article', 'resulting', 'therefrom']",1
+US2359734A,1942-07-31,Spectrophotometer amplifier,"['PROPN', 'ADP']",[],1,0,3,"['spectrophotometer', 'amplifier']",1
+US2360170A,1943-04-01,Conductor identifier,"['PROPN', 'ADP']",[],1,0,3,"['conductor', 'identifier']",1
+US2361577A,1941-11-21,Apparatus for separating oil from water contaminated therewith,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADP']",[],1,0,9,"['apparatus', 'for', 'separating', 'oil', 'from', 'water', 'contaminated', 'therewith']",1
+US2363921A,1938-03-01,Method of treating waters and composition therefor,"['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,8,"['method', 'of', 'treating', 'waters', 'and', 'composition', 'therefor']",1
+US2365575A,1941-12-31,Electron discharge amplifier,"['PROPN', 'NOUN', 'ADP']",[],1,0,4,"['electron', 'discharge', 'amplifier']",1
+US2366462A,1940-08-02,Cloth take-up,"['PROPN', 'VERB', 'PUNCT', 'ADP']",[],1,0,5,"['cloth', 'take-up']",1
+US2369024A,1941-09-05,Process of treating coal and composition therefor,"['PROPN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],1,0,8,"['process', 'of', 'treating', 'coal', 'and', 'composition', 'therefor']",1
+US2370207A,1945-02-27,Apparatus for the disposition of,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['apparatus', 'for', 'the', 'disposition', 'of']",1
+US2371112A,1945-03-06,Dithiobiuret xnd method of,"['PROPN', 'PROPN', 'PROPN', 'ADP']",['GPE'],1,0,4,"['dithiobiuret', 'xnd', 'method', 'of']",1
+US2371126A,1945-03-13,Apparatus for feeding-articles from,"['PROPN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],1,0,6,"['apparatus', 'for', 'feeding-articles', 'from']",1
+US2371136A,1945-03-13,Lignin compounds and process of,"['PROPN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",['ORG'],1,0,5,"['lignin', 'compounds', 'and', 'process', 'of']",1
+US2371137A,1945-03-13,Lignin stjlphonic acid compounds in,"['PROPN', 'ADJ', 'NOUN', 'VERB', 'ADP']",['ORG'],1,0,5,"['lignin', 'stjlphonic', 'acid', 'compounds', 'in']",1
+US2371245A,1945-03-13,Process fob the manufacture of,"['PROPN', 'VERB', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['process', 'fob', 'the', 'manufacture', 'of']",1
+US2371290A,1945-03-13,Method fob installing joints in,"['PROPN', 'ADV', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['method', 'fob', 'installing', 'joints', 'in']",1
+US2371294A,1945-03-13,Apparatus for the manufacture of,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['apparatus', 'for', 'the', 'manufacture', 'of']",1
+US2371322A,1945-03-13,Shank stiffener and method of,"['PROPN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",['ORG'],1,0,5,"['shank', 'stiffener', 'and', 'method', 'of']",1
+US2374371A,1945-04-24,Apparatus for the animating of,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['apparatus', 'for', 'the', 'animating', 'of']",1
+US2376842A,1943-06-26,Drill jig,"['PROPN', 'ADP']",[],1,0,3,"['drill', 'jig']",1
+US2378579A,1939-02-02,Means for conveying material from one machine to another,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP', 'NUM', 'NOUN', 'ADP', 'DET']",['CARDINAL'],1,0,10,"['means', 'for', 'conveying', 'material', 'from', 'one', 'machine', 'to', 'another']",1
+US2380269A,1944-01-13,Apparatus for bonding one article to another,"['PROPN', 'ADP', 'VERB', 'NUM', 'NOUN', 'ADP', 'DET']",['CARDINAL'],1,0,8,"['apparatus', 'for', 'bonding', 'one', 'article', 'to', 'another']",1
+US2380498A,1942-11-17,Method and apparatus for treating vegetables to remove unwanted particles therefrom,"['PROPN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'PART', 'VERB', 'ADJ', 'NOUN', 'ADP']",[],1,0,12,"['method', 'and', 'apparatus', 'for', 'treating', 'vegetables', 'to', 'remove', 'unwanted', 'particles', 'therefrom']",1
+US2381338A,1942-10-05,Vinyl trimethyl acetate and synthetic resins made therefrom,"['PROPN', 'PROPN', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'VERB', 'ADP']",['DATE'],1,0,9,"['vinyl', 'trimethyl', 'acetate', 'and', 'synthetic', 'resins', 'made', 'therefrom']",1
+US2381943A,1942-05-26,Drill jig,"['PROPN', 'ADP']",[],1,0,3,"['drill', 'jig']",1
+US2384137A,1945-09-04,Process fob the manufacture of,"['PROPN', 'VERB', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['process', 'fob', 'the', 'manufacture', 'of']",1
+US2384479A,1945-09-11,Process fob the production of,"['PROPN', 'VERB', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['process', 'fob', 'the', 'production', 'of']",1
+US2385373A,1942-08-12,Method of producing a resin and product derived therefrom,"['PROPN', 'ADP', 'VERB', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],1,0,10,"['method', 'of', 'producing', 'a', 'resin', 'and', 'product', 'derived', 'therefrom']",1
+US2385786A,1945-10-02,Apparatus for the administration of,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['apparatus', 'for', 'the', 'administration', 'of']",1
+US2386157A,1945-10-02,Method for the treatment of,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP']",[],1,0,5,"['method', 'for', 'the', 'treatment', 'of']",1
+US2386813A,1942-07-21,Method of preserving steel plate from corrosion and preparing elements of container bodies therefrom,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP']",[],1,0,15,"['method', 'of', 'preserving', 'steel', 'plate', 'from', 'corrosion', 'and', 'preparing', 'elements', 'of', 'container', 'bodies', 'therefrom']",1
+US2390780A,1943-10-02,Process of making coated textile materials and the articles produced therefrom,"['PROPN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'VERB', 'ADP']",[],1,0,12,"['process', 'of', 'making', 'coated', 'textile', 'materials', 'and', 'the', 'articles', 'produced', 'therefrom']",1
+US2391226A,1943-02-25,Method of preparing a cyclic dicarboxylic acid anhydride,"['PROPN', 'ADP', 'VERB', 'DET', 'ADJ', 'ADJ', 'NOUN', 'ADP']",[],1,0,9,"['method', 'of', 'preparing', 'a', 'cyclic', 'dicarboxylic', 'acid', 'anhydride']",1
+US2391588A,1945-12-25,Method of prepaking pellets for,"['PROPN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],1,0,5,"['method', 'of', 'prepaking', 'pellets', 'for']",1
+US2396458A,1944-09-26,Method for the purification of titanium tetrachloride,"['PROPN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],1,0,8,"['method', 'for', 'the', 'purification', 'of', 'titanium', 'tetrachloride']",1
+US2398687A,1942-12-18,Method of treating cresylic pitch to obtain tar-acids therefrom,"['PROPN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'PART', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],1,0,12,"['method', 'of', 'treating', 'cresylic', 'pitch', 'to', 'obtain', 'tar-acids', 'therefrom']",1
+US2300133A,1940-09-20,Broad band amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['broad', 'band', 'amplifier']",1
+US2300626A,1941-04-26,Power amplifier,"['NOUN', 'ADP']",[],0,0,3,"['power', 'amplifier']",1
+US2301053A,1942-11-03,Process for the production of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['process', 'for', 'the', 'production', 'of']",1
+US2301636A,1939-09-25,Vehicle body building jig,"['NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['vehicle', 'body', 'building', 'jig']",1
+US2301684A,1939-05-05,Device for turning fabric into tubular from,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP', 'ADJ', 'ADP']",[],0,0,8,"['device', 'for', 'turning', 'fabric', 'into', 'tubular', 'from']",1
+US2301905A,1942-11-10,Cobalt resinate and method of,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['cobalt', 'resinate', 'and', 'method', 'of']",1
+US2301952A,1942-11-17,Condensation products of,"['NOUN', 'NOUN', 'ADP']",[],0,0,3,"['condensation', 'products', 'of']",1
+US2302468A,1941-03-26,Process of oxidizing menthanes and products therefrom,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,8,"['process', 'of', 'oxidizing', 'menthanes', 'and', 'products', 'therefrom']",1
+US2302798A,1939-03-22,Thermionic valve amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['thermionic', 'valve', 'amplifier']",1
+US2303357A,1939-07-26,Seismic wave amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['seismic', 'wave', 'amplifier']",1
+US2303363A,1935-05-02,Process for rendering textiles water-repellent and product therefrom,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,11,"['process', 'for', 'rendering', 'textiles', 'water-repellent', 'and', 'product', 'therefrom']",1
+US2303517A,1942-12-01,Manufacture of derivatives of,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['manufacture', 'of', 'derivatives', 'of']",1
+US2303631A,1941-03-14,Toy structural element and joint made therefrom,"['VERB', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,8,"['toy', 'structural', 'element', 'and', 'joint', 'made', 'therefrom']",1
+US2303862A,1940-06-01,Oscillation generator and amplifier,"['NOUN', 'NOUN', 'CCONJ', 'ADP']",[],0,0,5,"['oscillation', 'generator', 'and', 'amplifier']",1
+US2304751A,1941-04-24,Foundry mold and core and composition therefor,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",['ORG'],0,0,8,"['foundry', 'mold', 'and', 'core', 'and', 'composition', 'therefor']",1
+US2305248A,1941-11-25,Process for the recovery of antimony trichloride,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,8,"['process', 'for', 'the', 'recovery', 'of', 'antimony', 'trichloride']",1
+US2305497A,1940-06-29,Coating composition and article coated therewith,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,7,"['coating', 'composition', 'and', 'article', 'coated', 'therewith']",1
+US2305545A,1942-12-15,Organic mercury compounds as,"['ADJ', 'NOUN', 'VERB', 'ADP']",['ORG'],0,0,4,"['organic', 'mercury', 'compounds', 'as']",1
+US2306382A,1941-01-28,Oxygen distribution system and regulator therefor,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,7,"['oxygen', 'distribution', 'system', 'and', 'regulator', 'therefor']",1
+US2306760A,1941-11-28,Assembly jig,"['NOUN', 'ADP']",['ORG'],0,0,3,"['assembly', 'jig']",1
+US2308545A,1938-07-19,Dielectric for electrostatic condensers and condensers made therefrom,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,9,"['dielectric', 'for', 'electrostatic', 'condensers', 'and', 'condensers', 'made', 'therefrom']",1
+US2308940A,1943-01-19,Tens transfer mechanism for,"['NOUN', 'VERB', 'NOUN', 'ADP']",[],0,0,4,"['tens', 'transfer', 'mechanism', 'for']",1
+US2309292A,1943-01-26,Fraction computing mechanism for,"['NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,"['fraction', 'computing', 'mechanism', 'for']",1
+US2309389A,1940-06-11,Floor constructions and prefabricated members therefor,"['NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,7,"['floor', 'constructions', 'and', 'prefabricated', 'members', 'therefor']",1
+US2309471A,1943-01-26,Mechanism for recovering and ar,"['NOUN', 'ADP', 'VERB', 'CCONJ', 'ADP']",[],0,0,5,"['mechanism', 'for', 'recovering', 'and', 'ar']",1
+US2309598A,1943-01-26,Process for the preparation of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['process', 'for', 'the', 'preparation', 'of']",1
+US2309620A,1940-08-23,Grinding jig,"['VERB', 'ADP']",[],0,0,3,"['grinding', 'jig']",1
+US2309946A,1940-05-27,Textile printing composition and method of printing therewith,"['NOUN', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADP']",[],0,0,9,"['textile', 'printing', 'composition', 'and', 'method', 'of', 'printing', 'therewith']",1
+US2310709A,1941-02-06,Type tie-up,"['NOUN', 'NOUN', 'PUNCT', 'ADP']",[],0,0,5,"['type', 'tie-up']",1
+US2310953A,1943-02-16,Ceramic from bauxite and process of,"['ADJ', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,6,"['ceramic', 'from', 'bauxite', 'and', 'process', 'of']",1
+US2311030A,1942-02-13,Power take-off,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['power', 'take-off']",1
+US2311033A,1941-06-04,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2311147A,1939-01-09,Hydraulic hold-down,"['ADJ', 'NOUN', 'PUNCT', 'ADP']",[],0,0,5,"['hydraulic', 'hold-down']",1
+US2311343A,1938-09-10,Milk product and the manufacture thereof and composition therefor,"['NOUN', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADV', 'CCONJ', 'NOUN', 'ADP']",[],0,0,10,"['milk', 'product', 'and', 'the', 'manufacture', 'thereof', 'and', 'composition', 'therefor']",1
+US2311369A,1941-04-11,Tank type vacuum cleaner and supporting means therefor,"['NOUN', 'NOUN', 'NOUN', 'ADJ', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,9,"['tank', 'type', 'vacuum', 'cleaner', 'and', 'supporting', 'means', 'therefor']",1
+US2311653A,1939-08-07,Treatment of frictional surfaces to facilitate wearing-in,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'PART', 'VERB', 'VERB', 'PUNCT', 'ADP']",[],0,0,10,"['treatment', 'of', 'frictional', 'surfaces', 'to', 'facilitate', 'wearing-in']",1
+US2312040A,1938-07-22,Production of colored photographic images by color development and composition therefor,"['NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,12,"['production', 'of', 'colored', 'photographic', 'images', 'by', 'color', 'development', 'and', 'composition', 'therefor']",1
+US2312121A,1941-03-31,Tube bending jig,"['NOUN', 'VERB', 'ADP']",[],0,0,4,"['tube', 'bending', 'jig']",1
+US2312450A,1940-04-20,Device for storing toy logs and loading toy cars therewith,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,11,"['device', 'for', 'storing', 'toy', 'logs', 'and', 'loading', 'toy', 'cars', 'therewith']",1
+US2312739A,1939-12-02,Ultra-short wave amplifier,"['ADJ', 'ADJ', 'ADJ', 'NOUN', 'ADP']",[],0,0,6,"['ultra-short', 'wave', 'amplifier']",1
+US2313008A,1939-11-30,Electric wave amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['electric', 'wave', 'amplifier']",1
+US2313014A,1939-04-06,Anticoupled amplifier,"['VERB', 'ADP']",[],0,0,3,"['anticoupled', 'amplifier']",1
+US2313030A,1937-10-22,Firearm and ammunition therefor,"['NOUN', 'CCONJ', 'NOUN', 'ADP']",['ORG'],0,0,5,"['firearm', 'and', 'ammunition', 'therefor']",1
+US2313962A,1941-07-08,Audio frequency amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['audio', 'frequency', 'amplifier']",1
+US2314132A,1941-06-21,High frequency amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['high', 'frequency', 'amplifier']",1
+US2315343A,1942-03-25,Backlash take-up,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['backlash', 'take-up']",1
+US2316130A,1941-04-26,Power take-off,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['power', 'take-off']",1
+US2317168A,1941-02-06,Thermocouple,['DET'],[],0,0,2,['thermocouple'],1
+US2317309A,1943-04-20,Pyridine carboxylic acid amide,"['NOUN', 'ADJ', 'NOUN', 'ADP']",[],0,0,4,"['pyridine', 'carboxylic', 'acid', 'amide']",1
+US2317365A,1941-07-11,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2317957A,1939-05-19,Power take-off,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['power', 'take-off']",1
+US2318058A,1940-12-23,Building unit and construction made therefrom,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,7,"['building', 'unit', 'and', 'construction', 'made', 'therefrom']",1
+US2318150A,1941-07-10,Towing device and hook-up,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'ADP']",[],0,0,7,"['towing', 'device', 'and', 'hook-up']",1
+US2318347A,1941-03-01,Track and detachable grouser therefor,"['NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP']",[],0,0,6,"['track', 'and', 'detachable', 'grouser', 'therefor']",1
+US2318687A,1943-05-11,Means fob determining the sex of,"['VERB', 'AUX', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,6,"['means', 'fob', 'determining', 'the', 'sex', 'of']",1
+US2318861A,1941-05-02,Current take-off,"['ADJ', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['current', 'take-off']",1
+US2319043A,1940-02-28,Anthraquinone compounds and cellulose derivatives colored therewith,"['NOUN', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'VERB', 'ADP']",[],0,0,8,"['anthraquinone', 'compounds', 'and', 'cellulose', 'derivatives', 'colored', 'therewith']",1
+US2319507A,1943-05-18,Composition containing wood oil ob,"['NOUN', 'VERB', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['composition', 'containing', 'wood', 'oil', 'ob']",1
+US2319953A,1943-05-25,Heat stabilizer for polymers of,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,5,"['heat', 'stabilizer', 'for', 'polymers', 'of']",1
+US2320060A,1940-03-04,Soil treatment and composition therefor,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,6,"['soil', 'treatment', 'and', 'composition', 'therefor']",1
+US2320208A,1939-10-13,Contact amplifier,"['NOUN', 'ADP']",[],0,0,3,"['contact', 'amplifier']",1
+US2320260A,1940-11-22,Columbium-bearing austenitic steel and articles produced therefrom,"['NOUN', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,10,"['columbium-bearing', 'austenitic', 'steel', 'and', 'articles', 'produced', 'therefrom']",1
+US2320707A,1941-11-15,Surface active agent and the process of treating fibrous materials therewith,"['VERB', 'ADJ', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADP', 'VERB', 'ADJ', 'NOUN', 'ADP']",[],0,0,12,"['surface', 'active', 'agent', 'and', 'the', 'process', 'of', 'treating', 'fibrous', 'materials', 'therewith']",1
+US2320738A,1940-05-13,Fractionation of mixtures of fatty oils and free acids derived therefrom,"['NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'VERB', 'ADP']",[],0,0,12,"['fractionation', 'of', 'mixtures', 'of', 'fatty', 'oils', 'and', 'free', 'acids', 'derived', 'therefrom']",1
+US2321107A,1941-04-10,Mold die metal and method of making dies therefrom,"['NOUN', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,10,"['mold', 'die', 'metal', 'and', 'method', 'of', 'making', 'dies', 'therefrom']",1
+US2321238A,1941-08-30,Smokeless briquette,"['NOUN', 'ADP']",[],0,0,3,"['smokeless', 'briquette']",1
+US2321751A,1941-04-25,Power take-off,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['power', 'take-off']",1
+US2322528A,1941-10-02,Signal amplifier,"['NOUN', 'ADP']",[],0,0,3,"['signal', 'amplifier']",1
+US2322555A,1941-04-23,Adsorbent and treatment of oil therewith,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,7,"['adsorbent', 'and', 'treatment', 'of', 'oil', 'therewith']",1
+US2322765A,1940-08-03,Microphone amplifier,"['NOUN', 'ADP']",[],0,0,3,"['microphone', 'amplifier']",1
+US2322925A,1941-12-11,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2323314A,1940-11-09,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2323315A,1941-07-21,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2323633A,1943-07-06,Typewriter actuating mechanism for,"['NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,"['typewriter', 'actuating', 'mechanism', 'for']",1
+US2323634A,1936-08-11,Low frequency amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['low', 'frequency', 'amplifier']",1
+US2324034A,1942-04-23,Air-cooled power amplifier,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP']",[],0,0,6,"['air-cooled', 'power', 'amplifier']",1
+US2324097A,1939-11-10,Adhesive and the method of causing adherence therewith,"['NOUN', 'CCONJ', 'DET', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,9,"['adhesive', 'and', 'the', 'method', 'of', 'causing', 'adherence', 'therewith']",1
+US2324432A,1943-07-13,Coating composition and method of,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['coating', 'composition', 'and', 'method', 'of']",1
+US2325605A,1941-06-14,Impact member for impact crushers and securing means therefor,"['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,10,"['impact', 'member', 'for', 'impact', 'crushers', 'and', 'securing', 'means', 'therefor']",1
+US2325621A,1936-10-05,High tension sign insulator and attaching means therefor,"['ADJ', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,9,"['high', 'tension', 'sign', 'insulator', 'and', 'attaching', 'means', 'therefor']",1
+US2325844A,1939-03-13,"Magnetic recording and reproducing apparatus for use with steel bands, wires, or thelike","['ADJ', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'ADP']",[],0,0,16,"['magnetic', 'recording', 'and', 'reproducing', 'apparatus', 'for', 'use', 'with', 'steel', 'bands,', 'wires,', 'or', 'thelike']",1
+US2325933A,1939-11-10,Wide range amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['wide', 'range', 'amplifier']",1
+US2326477A,1941-03-04,Track and grouser therefor,"['NOUN', 'CCONJ', 'VERB', 'ADP']",[],0,0,5,"['track', 'and', 'grouser', 'therefor']",1
+US2326481A,1941-07-21,Battery hold-down,"['NOUN', 'NOUN', 'PUNCT', 'ADP']",[],0,0,5,"['battery', 'hold-down']",1
+US2327321A,1941-11-12,Hearing aid amplifier,"['VERB', 'NOUN', 'ADP']",[],0,0,4,"['hearing', 'aid', 'amplifier']",1
+US2328040A,1941-04-08,Assembly jig,"['NOUN', 'ADP']",['ORG'],0,0,3,"['assembly', 'jig']",1
+US2328570A,1938-08-16,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2328719A,1943-09-07,Vapor phase hydrogenation of,"['NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,"['vapor', 'phase', 'hydrogenation', 'of']",1
+US2329172A,1933-04-03,Process for making urea-formaldehyde molding compositions and products therefrom,"['NOUN', 'ADP', 'VERB', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,12,"['process', 'for', 'making', 'urea-formaldehyde', 'molding', 'compositions', 'and', 'products', 'therefrom']",1
+US2331112A,1941-09-24,Airplane carrier and apparatus for launching airplanes therefrom,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,9,"['airplane', 'carrier', 'and', 'apparatus', 'for', 'launching', 'airplanes', 'therefrom']",1
+US2331233A,1940-10-04,Sealed tag and attaching means therefor,"['ADJ', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,7,"['sealed', 'tag', 'and', 'attaching', 'means', 'therefor']",1
+US2331358A,1941-07-23,Colored glazed coated granules and roofing sheet material surfaced therewith,"['ADJ', 'VERB', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'ADP']",[],0,0,11,"['colored', 'glazed', 'coated', 'granules', 'and', 'roofing', 'sheet', 'material', 'surfaced', 'therewith']",1
+US2331360A,1942-08-18,Peak limiting amplifier,"['NOUN', 'VERB', 'ADP']",[],0,0,4,"['peak', 'limiting', 'amplifier']",1
+US2331664A,1940-09-28,Yarn conditioning process and composition therefor,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",['PERSON'],0,1,7,"['yarn', 'conditioning', 'process', 'and', 'composition', 'therefor']",1
+US2331761A,1940-11-08,Power amplifier,"['NOUN', 'ADP']",[],0,0,3,"['power', 'amplifier']",1
+US2331812A,1942-02-05,Water insoluble azo dyestuffs and fiber dyed therewith,"['NOUN', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,9,"['water', 'insoluble', 'azo', 'dyestuffs', 'and', 'fiber', 'dyed', 'therewith']",1
+US2331829A,1943-10-12,Carriage shift mechanism for,"['NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,"['carriage', 'shift', 'mechanism', 'for']",1
+US2331868A,1941-05-15,Colored glazed coated roofing granules and roofing sheet material surfaced therewith,"['ADJ', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'ADP']",[],0,0,12,"['colored', 'glazed', 'coated', 'roofing', 'granules', 'and', 'roofing', 'sheet', 'material', 'surfaced', 'therewith']",1
+US2332302A,1941-10-21,"Condensation product of an aminotriazole, an aldehyde, and a halogenated amide","['NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'PUNCT', 'CCONJ', 'DET', 'NOUN', 'ADP']",[],0,0,14,"['condensation', 'product', 'of', 'an', 'aminotriazole,', 'an', 'aldehyde,', 'and', 'a', 'halogenated', 'amide']",1
+US2332625A,1940-08-28,Assembly jig,"['NOUN', 'ADP']",['ORG'],0,0,3,"['assembly', 'jig']",1
+US2333329A,1941-04-07,Ink and method of marking dry cleaned articles therewith,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADJ', 'VERB', 'NOUN', 'ADP']",[],0,0,10,"['ink', 'and', 'method', 'of', 'marking', 'dry', 'cleaned', 'articles', 'therewith']",1
+US2333373A,1943-11-02,Stocking footlet and method of,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['stocking', 'footlet', 'and', 'method', 'of']",1
+US2333639A,1940-07-02,Treatment of polyesters and product therefrom,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,7,"['treatment', 'of', 'polyesters', 'and', 'product', 'therefrom']",1
+US2334764A,1940-03-22,Process of treating textiles and composition therefor,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,8,"['process', 'of', 'treating', 'textiles', 'and', 'composition', 'therefor']",1
+US2335122A,1943-11-23,Ticket issue counting mechanism for,"['NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['ticket', 'issue', 'counting', 'mechanism', 'for']",1
+US2335958A,1941-03-31,Sealing and antiseize composition and article coated therewith,"['NOUN', 'CCONJ', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,9,"['sealing', 'and', 'antiseize', 'composition', 'and', 'article', 'coated', 'therewith']",1
+US2335992A,1941-11-14,Hand stamp and stencil therefor,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,6,"['hand', 'stamp', 'and', 'stencil', 'therefor']",1
+US2336141A,1941-07-02,Safety throwoff,"['NOUN', 'ADP']",[],0,0,3,"['safety', 'throwoff']",1
+US2336249A,1941-07-10,Machine and stop motion therefor,"['NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,6,"['machine', 'and', 'stop', 'motion', 'therefor']",1
+US2336359A,1941-08-21,Process for making a phenyl mercuric carboxylic acid amide,"['NOUN', 'ADP', 'VERB', 'DET', 'NOUN', 'ADJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,10,"['process', 'for', 'making', 'a', 'phenyl', 'mercuric', 'carboxylic', 'acid', 'amide']",1
+US2336472A,1939-10-30,Treatment of tall oil and products obtained therefrom,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,9,"['treatment', 'of', 'tall', 'oil', 'and', 'products', 'obtained', 'therefrom']",1
+US2337295A,1940-07-09,Treating oil and gas wells for improvement of production therefrom,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,11,"['treating', 'oil', 'and', 'gas', 'wells', 'for', 'improvement', 'of', 'production', 'therefrom']",1
+US2337386A,1940-09-23,Printing press and method of printing therewith,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADP']",[],0,0,8,"['printing', 'press', 'and', 'method', 'of', 'printing', 'therewith']",1
+US2337423A,1942-10-01,Negative feed-back amplifier,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['negative', 'feed-back', 'amplifier']",1
+US2338464A,1938-12-20,Process for making urea-formaldehyde molding compositions and product therefrom,"['NOUN', 'ADP', 'VERB', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,12,"['process', 'for', 'making', 'urea-formaldehyde', 'molding', 'compositions', 'and', 'product', 'therefrom']",1
+US2338709A,1941-10-30,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2338728A,1941-09-27,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2338908A,1939-11-25,Anthraquinone compounds and material colored therewith,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,7,"['anthraquinone', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2339066A,1944-01-11,Process for the manufacture of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['process', 'for', 'the', 'manufacture', 'of']",1
+US2339264A,1944-01-18,Aluminous ceramic and method of,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['aluminous', 'ceramic', 'and', 'method', 'of']",1
+US2339434A,1941-11-28,Contact-spring stack-up,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT', 'ADP']",[],0,0,7,"['contact-spring', 'stack-up']",1
+US2340104A,1944-01-25,Process fob making mixtures of,"['NOUN', 'ADV', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['process', 'fob', 'making', 'mixtures', 'of']",1
+US2340196A,1941-06-16,Rotary hydraulic pump and pressure control valving therefor,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'VERB', 'ADP']",['GPE'],0,0,9,"['rotary', 'hydraulic', 'pump', 'and', 'pressure', 'control', 'valving', 'therefor']",1
+US2340631A,1939-06-06,Secondary electron amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['secondary', 'electron', 'amplifier']",1
+US2341186A,1940-03-13,Lubricated vinyl aromatic resin and preparation of shaped articles therefrom,"['ADJ', 'NOUN', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,11,"['lubricated', 'vinyl', 'aromatic', 'resin', 'and', 'preparation', 'of', 'shaped', 'articles', 'therefrom']",1
+US2341427A,1942-03-03,Azo compounds and materials colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'materials', 'colored', 'therewith']",1
+US2342463A,1944-02-22,Process for the manufacture of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['process', 'for', 'the', 'manufacture', 'of']",1
+US2342521A,1939-07-20,Photoelectric signal amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['photoelectric', 'signal', 'amplifier']",1
+US2342630A,1942-01-01,Refining of lubricating oils and simultaneous refining of gasoline type motor fuels therewith,"['NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,14,"['refining', 'of', 'lubricating', 'oils', 'and', 'simultaneous', 'refining', 'of', 'gasoline', 'type', 'motor', 'fuels', 'therewith']",1
+US2342678A,1941-07-21,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2342859A,1940-01-19,Plaster base and wall formed therewith,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,7,"['plaster', 'base', 'and', 'wall', 'formed', 'therewith']",1
+US2343012A,1942-02-16,"Pseudothiohydantoin-protein, derivatives, and solutions therefrom","['NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'CCONJ', 'NOUN', 'ADP']",[],0,0,10,"['pseudothiohydantoin-protein,', 'derivatives,', 'and', 'solutions', 'therefrom']",1
+US2345301A,1939-05-05,Syringe and ampoule,"['NOUN', 'CCONJ', 'ADP']",[],0,0,4,"['syringe', 'and', 'ampoule']",1
+US2345501A,1942-05-02,High gain amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['high', 'gain', 'amplifier']",1
+US2346013A,1940-07-31,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2346195A,1941-04-01,Lace web and process of making lace strips therefrom,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'ADP']",[],0,0,10,"['lace', 'web', 'and', 'process', 'of', 'making', 'lace', 'strips', 'therefrom']",1
+US2346970A,1941-05-24,Bitumen and ink made therefrom,"['NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,6,"['bitumen', 'and', 'ink', 'made', 'therefrom']",1
+US2347722A,1939-06-26,Derivative of tropic acid amide,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'ADP']",[],0,0,6,"['derivative', 'of', 'tropic', 'acid', 'amide']",1
+US2348095A,1944-05-02,Gauge for setting the pitch of,"['VERB', 'ADP', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,6,"['gauge', 'for', 'setting', 'the', 'pitch', 'of']",1
+US2349227A,1940-11-20,Process for preparing condensed low lactose skim milk for storage and recovery of lactose therefrom,"['NOUN', 'ADP', 'VERB', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,16,"['process', 'for', 'preparing', 'condensed', 'low', 'lactose', 'skim', 'milk', 'for', 'storage', 'and', 'recovery', 'of', 'lactose', 'therefrom']",1
+US2349336A,1940-04-23,Cutting blade and method of cutting therewith,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADP']",[],0,0,8,"['cutting', 'blade', 'and', 'method', 'of', 'cutting', 'therewith']",1
+US2350087A,1944-05-30,Recovery of vinyl acetate from,"['NOUN', 'ADP', 'NOUN', 'VERB', 'ADP']",[],0,0,5,"['recovery', 'of', 'vinyl', 'acetate', 'from']",1
+US2350732A,1933-06-10,Coating composition and adhesive resulting therefrom,"['VERB', 'NOUN', 'CCONJ', 'ADJ', 'VERB', 'ADP']",[],0,0,7,"['coating', 'composition', 'and', 'adhesive', 'resulting', 'therefrom']",1
+US2350891A,1942-03-14,Pot-type burner and improved baffle therefor,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'CCONJ']",[],0,0,9,"['pot-type', 'burner', 'and', 'improved', 'baffle', 'therefor']",1
+US2351034A,1944-06-13,Optical system composed of,"['ADJ', 'NOUN', 'VERB', 'ADP']",[],0,0,4,"['optical', 'system', 'composed', 'of']",1
+US2351381A,1944-06-13,Process for the conversion of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['process', 'for', 'the', 'conversion', 'of']",1
+US2351559A,1944-06-13,Process for the preparation of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['process', 'for', 'the', 'preparation', 'of']",1
+US2351602A,1941-09-06,"Condensation product of an aminotriazine, an aldehyde, and a halogenated amide","['NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'PUNCT', 'DET', 'NOUN', 'PUNCT', 'CCONJ', 'DET', 'NOUN', 'ADP']",[],0,0,14,"['condensation', 'product', 'of', 'an', 'aminotriazine,', 'an', 'aldehyde,', 'and', 'a', 'halogenated', 'amide']",1
+US2351655A,1942-06-24,Wheel trim and securing means therefor,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,7,"['wheel', 'trim', 'and', 'securing', 'means', 'therefor']",1
+US2351830A,1942-08-06,Ground working implement,"['NOUN', 'VERB', 'ADP']",[],0,0,4,"['ground', 'working', 'implement']",1
+US2351979A,1944-06-20,Lifesaving and exploring device for,"['VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['lifesaving', 'and', 'exploring', 'device', 'for']",1
+US2352463A,1940-06-15,Adhesive coated fabric and barrier coating composition therefor,"['ADJ', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,9,"['adhesive', 'coated', 'fabric', 'and', 'barrier', 'coating', 'composition', 'therefor']",1
+US2353451A,1944-07-11,Dimpling machine with ejector for,"['VERB', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,5,"['dimpling', 'machine', 'with', 'ejector', 'for']",1
+US2354035A,1944-07-18,Auxiliary ignition system fob in,"['ADJ', 'NOUN', 'NOUN', 'ADV', 'ADP']",[],0,0,5,"['auxiliary', 'ignition', 'system', 'fob', 'in']",1
+US2354206A,1942-11-07,Fungicide,['ADP'],[],0,0,2,['fungicide'],1
+US2354318A,1941-01-08,Calcium carbonate-adhesive base product and method of preparing coatings therefrom,"['NOUN', 'NOUN', 'PUNCT', 'ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,13,"['calcium', 'carbonate-adhesive', 'base', 'product', 'and', 'method', 'of', 'preparing', 'coatings', 'therefrom']",1
+US2354940A,1942-10-20,Fungicide,['ADP'],[],0,0,2,['fungicide'],1
+US2355272A,1942-04-14,Power take-off,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['power', 'take-off']",1
+US2355598A,1942-03-06,Methods and solutions for treating fibers and products resulting therefrom,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,11,"['methods', 'and', 'solutions', 'for', 'treating', 'fibers', 'and', 'products', 'resulting', 'therefrom']",1
+US2355686A,1943-09-25,Torque amplifier,"['NOUN', 'ADP']",[],0,0,3,"['torque', 'amplifier']",1
+US2355972A,1941-08-29,Process for treating 2-hydroxy-1-dithionaphthoic acid and product resulting therefrom,"['NOUN', 'ADP', 'VERB', 'NUM', 'PUNCT', 'SPACE', 'PUNCT', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['CARDINAL'],0,0,14,"['process', 'for', 'treating', '2-hydroxy-1-dithionaphthoic', 'acid', 'and', 'product', 'resulting', 'therefrom']",1
+US2356308A,1941-01-31,Wide band amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['wide', 'band', 'amplifier']",1
+US2356384A,1941-02-11,Treatment of resin oils and resin product resulting therefrom,"['NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'VERB', 'ADP']",[],0,0,10,"['treatment', 'of', 'resin', 'oils', 'and', 'resin', 'product', 'resulting', 'therefrom']",1
+US2356416A,1940-06-03,Pressure hinged lever system for,"['NOUN', 'VERB', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['pressure', 'hinged', 'lever', 'system', 'for']",1
+US2356694A,1944-08-22,Optical filter and method of,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['optical', 'filter', 'and', 'method', 'of']",1
+US2357317A,1941-09-23,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2357318A,1940-06-10,Pressure-actuated valve and vibration damping means therefor,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'NOUN', 'ADP']",[],0,0,10,"['pressure-actuated', 'valve', 'and', 'vibration', 'damping', 'means', 'therefor']",1
+US2357661A,1941-10-14,Control amplifier,"['NOUN', 'ADP']",[],0,0,3,"['control', 'amplifier']",1
+US2359177A,1943-08-13,Rotating jig,"['VERB', 'ADP']",[],0,0,3,"['rotating', 'jig']",1
+US2359305A,1941-02-12,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2359320A,1944-10-03,Delayed action time control for,"['VERB', 'NOUN', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['delayed', 'action', 'time', 'control', 'for']",1
+US2359618A,1939-03-22,Short-wave amplifier,"['ADJ', 'PUNCT', 'NOUN', 'ADP']",[],0,0,5,"['short-wave', 'amplifier']",1
+US2359874A,1940-12-31,Cellulose derivative lacquer and sheeting coated therewith,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,8,"['cellulose', 'derivative', 'lacquer', 'and', 'sheeting', 'coated', 'therewith']",1
+US2360005A,1944-10-10,Key set gonteol mechanism for,"['ADJ', 'ADJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['key', 'set', 'gonteol', 'mechanism', 'for']",1
+US2360197A,1944-10-10,Processes of removing fluorine from,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['processes', 'of', 'removing', 'fluorine', 'from']",1
+US2360280A,1941-07-17,"Heat-transmitting, light-absorbing glass and articles made therefrom","['NOUN', 'PUNCT', 'VERB', 'PUNCT', 'ADJ', 'PUNCT', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,13,"['heat-transmitting,', 'light-absorbing', 'glass', 'and', 'articles', 'made', 'therefrom']",1
+US2360399A,1941-10-20,Directional gyroscope and follow-up,"['ADJ', 'NOUN', 'CCONJ', 'VERB', 'PUNCT', 'ADP']",[],0,0,7,"['directional', 'gyroscope', 'and', 'follow-up']",1
+US2360475A,1941-04-11,Broad band high frequency amplifier,"['ADJ', 'NOUN', 'ADJ', 'NOUN', 'ADP']",[],0,0,6,"['broad', 'band', 'high', 'frequency', 'amplifier']",1
+US2360689A,1944-10-17,Process for the dehydrogenation of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['process', 'for', 'the', 'dehydrogenation', 'of']",1
+US2362187A,1941-02-10,Panel or unit for buildings and building constructed therefrom,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,10,"['panel', 'or', 'unit', 'for', 'buildings', 'and', 'building', 'constructed', 'therefrom']",1
+US2362644A,1941-03-15,Self-lubricating belt idler,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP']",[],0,0,6,"['self-lubricating', 'belt', 'idler']",1
+US2363103A,1944-11-21,Coating materials and process for,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['coating', 'materials', 'and', 'process', 'for']",1
+US2364359A,1940-11-06,Printing compositions and methods of printing therewith,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'ADP']",[],0,0,8,"['printing', 'compositions', 'and', 'methods', 'of', 'printing', 'therewith']",1
+US2365340A,1942-02-05,Solvolysis of polymeric n-vinylimides and products therefrom,"['NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,10,"['solvolysis', 'of', 'polymeric', 'n-vinylimides', 'and', 'products', 'therefrom']",1
+US2366007A,1942-08-11,Production of synthetic polymeric compositions comprising sulphonated polymerizates of poly-vinyl aryl compounds and treatment of liquid media therewith,"['NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'VERB', 'VERB', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,21,"['production', 'of', 'synthetic', 'polymeric', 'compositions', 'comprising', 'sulphonated', 'polymerizates', 'of', 'poly-vinyl', 'aryl', 'compounds', 'and', 'treatment', 'of', 'liquid', 'media', 'therewith']",1
+US2366008A,1942-08-11,Production of synthetic polymeric compositions comprising aminated polymerizates of poly-vinyl aryl compounds and treatment of liquid media therewith,"['NOUN', 'ADP', 'ADJ', 'ADJ', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,21,"['production', 'of', 'synthetic', 'polymeric', 'compositions', 'comprising', 'aminated', 'polymerizates', 'of', 'poly-vinyl', 'aryl', 'compounds', 'and', 'treatment', 'of', 'liquid', 'media', 'therewith']",1
+US2366011A,1941-07-23,Two-way amplifier,"['NUM', 'PUNCT', 'NOUN', 'ADP']",['CARDINAL'],0,0,5,"['two-way', 'amplifier']",1
+US2366049A,1944-12-26,Resin composition and method of,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",['PERSON'],0,1,5,"['resin', 'composition', 'and', 'method', 'of']",1
+US2366396A,1945-01-02,Rubber substitute and method of,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['rubber', 'substitute', 'and', 'method', 'of']",1
+US2366485A,1941-12-18,Inorganic molding compositions and products produced therefrom,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,8,"['inorganic', 'molding', 'compositions', 'and', 'products', 'produced', 'therefrom']",1
+US2366565A,1943-05-13,Audio-frequency amplifier,"['ADJ', 'PUNCT', 'NOUN', 'ADP']",[],0,0,5,"['audio-frequency', 'amplifier']",1
+US2366796A,1941-02-28,Preventing corrosion of ferrous metals by ammoniacal solutions of ammonium nitrate,"['VERB', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,12,"['preventing', 'corrosion', 'of', 'ferrous', 'metals', 'by', 'ammoniacal', 'solutions', 'of', 'ammonium', 'nitrate']",1
+US2367377A,1940-02-03,Mineral oil compoisition and improving agents therefor,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,8,"['mineral', 'oil', 'compoisition', 'and', 'improving', 'agents', 'therefor']",1
+US2367711A,1943-01-12,Broad band amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['broad', 'band', 'amplifier']",1
+US2368028A,1940-05-23,Treatment of oil or fat containing material for the recovery of oil or fat therefrom,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,16,"['treatment', 'of', 'oil', 'or', 'fat', 'containing', 'material', 'for', 'the', 'recovery', 'of', 'oil', 'or', 'fat', 'therefrom']",1
+US2368900A,1943-03-15,Compression testing jig,"['NOUN', 'NOUN', 'ADP']",[],0,0,4,"['compression', 'testing', 'jig']",1
+US2369016A,1942-06-15,Resilient tire and wheel provided therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,7,"['resilient', 'tire', 'and', 'wheel', 'provided', 'therewith']",1
+US2369499A,1945-02-13,Apparatus fob measuring rate of,"['NOUN', 'ADV', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['apparatus', 'fob', 'measuring', 'rate', 'of']",1
+US2370326A,1941-10-20,Thermocouple,['DET'],[],0,0,2,['thermocouple'],1
+US2370405A,1935-05-02,Process for rendering material water-repellent and products therefrom,"['NOUN', 'ADP', 'VERB', 'NOUN', 'NOUN', 'PUNCT', 'ADJ', 'CCONJ', 'NOUN', 'ADP']",[],0,0,11,"['process', 'for', 'rendering', 'material', 'water-repellent', 'and', 'products', 'therefrom']",1
+US2370525A,1942-11-16,Purification of titanium tetrachloride,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,5,"['purification', 'of', 'titanium', 'tetrachloride']",1
+US2371052A,1941-09-17,Process and products therefrom,"['NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['process', 'and', 'products', 'therefrom']",1
+US2371101A,1945-03-06,Polar quikontl sclphonamides as,"['ADJ', 'VERB', 'NOUN', 'ADP']",[],0,0,4,"['polar', 'quikontl', 'sclphonamides', 'as']",1
+US2371179A,1945-03-13,Collating machine and method of,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['collating', 'machine', 'and', 'method', 'of']",1
+US2371246A,1945-03-13,Antislipping attachment for,"['VERB', 'NOUN', 'ADP']",[],0,0,3,"['antislipping', 'attachment', 'for']",1
+US2371259A,1945-03-13,Device for detecting formation of,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['device', 'for', 'detecting', 'formation', 'of']",1
+US2371281A,1945-03-13,Lactyuactic esters and process of,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['lactyuactic', 'esters', 'and', 'process', 'of']",1
+US2371282A,1945-03-13,Front-band construction for,"['ADJ', 'PUNCT', 'NOUN', 'NOUN', 'ADP']",['ORG'],0,0,5,"['front-band', 'construction', 'for']",1
+US2371318A,1945-03-13,Decorative material and method of,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['decorative', 'material', 'and', 'method', 'of']",1
+US2371321A,1945-03-13,Waste-collecting system for,"['NOUN', 'PUNCT', 'VERB', 'NOUN', 'ADP']",[],0,0,5,"['waste-collecting', 'system', 'for']",1
+US2371856A,1943-08-23,Hydraulic brake with mechanical follow-up,"['ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'PUNCT', 'ADP']",[],0,0,8,"['hydraulic', 'brake', 'with', 'mechanical', 'follow-up']",1
+US2371934A,1944-03-02,Holding jig,"['VERB', 'ADP']",[],0,0,3,"['holding', 'jig']",1
+US2372663A,1941-07-18,Anthraquinone compounds and material colored therewith,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,7,"['anthraquinone', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2372838A,1945-04-03,Cleansing mass and method of,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['cleansing', 'mass', 'and', 'method', 'of']",1
+US2373394A,1943-10-27,Expansible wood downspout,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['expansible', 'wood', 'downspout']",1
+US2373494A,1945-04-10,Automatic control device for,"['ADJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,4,"['automatic', 'control', 'device', 'for']",1
+US2373534A,1936-08-03,Low frequency amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['low', 'frequency', 'amplifier']",1
+US2373700A,1940-06-29,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2373953A,1945-04-17,Salts of,"['NOUN', 'ADP']",[],0,0,2,"['salts', 'of']",1
+US2374078A,1940-11-18,Vinyl compounds and polymers therefrom,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,6,"['vinyl', 'compounds', 'and', 'polymers', 'therefrom']",1
+US2374242A,1941-02-19,Polymerization of piperylene-olefin mixtures and products obtained therefrom,"['NOUN', 'ADP', 'ADJ', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,11,"['polymerization', 'of', 'piperylene-olefin', 'mixtures', 'and', 'products', 'obtained', 'therefrom']",1
+US2374381A,1945-04-24,Drying oil products and process of,"['VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,6,"['drying', 'oil', 'products', 'and', 'process', 'of']",1
+US2374494A,1945-04-24,Halogenated ketals and process for,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['halogenated', 'ketals', 'and', 'process', 'for']",1
+US2375388A,1942-08-05,Plastic compositions and articles made therefrom,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,7,"['plastic', 'compositions', 'and', 'articles', 'made', 'therefrom']",1
+US2375508A,1940-11-19,Removable driving equipment for cycles and cycles provided therewith,"['ADJ', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,10,"['removable', 'driving', 'equipment', 'for', 'cycles', 'and', 'cycles', 'provided', 'therewith']",1
+US2375540A,1945-05-08,Composition of matter and method of,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,6,"['composition', 'of', 'matter', 'and', 'method', 'of']",1
+US2375551A,1943-03-18,Impulse amplifier,"['ADJ', 'ADP']",[],0,0,3,"['impulse', 'amplifier']",1
+US2375731A,1945-05-08,Process for the production of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['process', 'for', 'the', 'production', 'of']",1
+US2375804A,1942-12-16,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2375898A,1940-08-10,Process for the production of substantially anhydrous calcium nitrate,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'ADV', 'ADJ', 'NOUN', 'ADP']",[],0,0,10,"['process', 'for', 'the', 'production', 'of', 'substantially', 'anhydrous', 'calcium', 'nitrate']",1
+US2375922A,1938-10-05,Treatment of solutions to obtain solid matter therefrom,"['NOUN', 'ADP', 'NOUN', 'PART', 'VERB', 'ADJ', 'NOUN', 'ADP']",[],0,0,9,"['treatment', 'of', 'solutions', 'to', 'obtain', 'solid', 'matter', 'therefrom']",1
+US2375948A,1943-03-24,Direct current voltage amplifier,"['ADJ', 'ADJ', 'NOUN', 'ADP']",[],0,0,5,"['direct', 'current', 'voltage', 'amplifier']",1
+US2376604A,1943-03-24,Prefabricating jig,"['VERB', 'ADP']",[],0,0,3,"['prefabricating', 'jig']",1
+US2378724A,1942-04-30,Textile finishing and composition therefor,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,6,"['textile', 'finishing', 'and', 'composition', 'therefor']",1
+US2378804A,1940-05-13,Thermocouple,['DET'],[],0,0,2,['thermocouple'],1
+US2378822A,1945-06-19,Draft reducing air distributor for,"['NOUN', 'VERB', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['draft', 'reducing', 'air', 'distributor', 'for']",1
+US2379775A,1944-06-02,Power take-off,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['power', 'take-off']",1
+US2379776A,1944-06-24,Power take-off,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['power', 'take-off']",1
+US2379940A,1941-06-25,Power take-off,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['power', 'take-off']",1
+US2380711A,1942-07-28,Chromium-free air-hardening alloy steels and articles of manufacture produced therefrom,"['NOUN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADP']",[],0,0,15,"['chromium-free', 'air-hardening', 'alloy', 'steels', 'and', 'articles', 'of', 'manufacture', 'produced', 'therefrom']",1
+US2380923A,1943-01-06,Negative feedback amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['negative', 'feedback', 'amplifier']",1
+US2381058A,1941-12-09,Thermocouple,['DET'],[],0,0,2,['thermocouple'],1
+US2381411A,1945-08-07,Protecting seeds and plants from,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['protecting', 'seeds', 'and', 'plants', 'from']",1
+US2381819A,1942-08-19,Thermocouple,['DET'],[],0,0,2,['thermocouple'],1
+US2381860A,1944-11-27,Links and ornamental fabric therefrom,"['NOUN', 'CCONJ', 'ADJ', 'NOUN', 'ADP']",[],0,0,6,"['links', 'and', 'ornamental', 'fabric', 'therefrom']",1
+US2381878A,1939-07-13,Textile printing pastes and textiles produced therefrom,"['NOUN', 'VERB', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,8,"['textile', 'printing', 'pastes', 'and', 'textiles', 'produced', 'therefrom']",1
+US2382231A,1944-04-26,Animal trophy cutout,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['animal', 'trophy', 'cutout']",1
+US2382298A,1942-05-06,Process for pebbling ammonium nitrate,"['NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,6,"['process', 'for', 'pebbling', 'ammonium', 'nitrate']",1
+US2382680A,1942-07-28,Beryllium cobalt alloy steels and articles of manufacture produced therefrom,"['NOUN', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADP']",[],0,0,11,"['beryllium', 'cobalt', 'alloy', 'steels', 'and', 'articles', 'of', 'manufacture', 'produced', 'therefrom']",1
+US2382802A,1942-02-03,"Emulsion copolymerization of butadiene-1,3 hydrocarbons and monovinyl compounds copolymerizable therewith","['NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADJ', 'ADP']",[],0,0,11,"['emulsion', 'copolymerization', 'of', 'butadiene-1,3', 'hydrocarbons', 'and', 'monovinyl', 'compounds', 'copolymerizable', 'therewith']",1
+US2383046A,1945-08-21,Means fob igniting a torch under,"['VERB', 'VERB', 'VERB', 'DET', 'NOUN', 'ADP']",[],0,0,6,"['means', 'fob', 'igniting', 'a', 'torch', 'under']",1
+US2383050A,1943-06-09,Multiple operation toolhead,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['multiple', 'operation', 'toolhead']",1
+US2383096A,1942-08-03,Cork composition and products made therefrom,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,7,"['cork', 'composition', 'and', 'products', 'made', 'therefrom']",1
+US2383458A,1945-08-28,Antimalarial and process for,"['NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,4,"['antimalarial', 'and', 'process', 'for']",1
+US2383603A,1945-08-28,Condensation of nitroalkanes with,"['NOUN', 'ADP', 'NOUN', 'ADP']",[],0,0,4,"['condensation', 'of', 'nitroalkanes', 'with']",1
+US2383687A,1941-11-10,Upholstered furniture with removable cover on,"['ADJ', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'ADP']",[],0,0,7,"['upholstered', 'furniture', 'with', 'removable', 'cover', 'on']",1
+US2383855A,1942-12-10,Potential ratio-controlled amplifier,"['ADJ', 'NOUN', 'PUNCT', 'VERB', 'ADP']",[],0,0,6,"['potential', 'ratio-controlled', 'amplifier']",1
+US2384136A,1945-09-04,Pyridine derivatives and process for,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['pyridine', 'derivatives', 'and', 'process', 'for']",1
+US2384263A,1943-05-07,Video amplifier,"['NOUN', 'ADP']",[],0,0,3,"['video', 'amplifier']",1
+US2384691A,1945-09-11,Automatic sheep pelt scrubbing or,"['ADJ', 'NOUN', 'NOUN', 'VERB', 'CCONJ']",[],0,0,5,"['automatic', 'sheep', 'pelt', 'scrubbing', 'or']",1
+US2384791A,1942-01-06,Distortionless radio-frequency amplifier,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['distortionless', 'radio-frequency', 'amplifier']",1
+US2385379A,1940-07-20,Manufacture of pigments and products made therewith,"['NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,8,"['manufacture', 'of', 'pigments', 'and', 'products', 'made', 'therewith']",1
+US2386347A,1945-02-13,Interpolymers of ethylene with vinyl esters and products therefrom,"['NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,10,"['interpolymers', 'of', 'ethylene', 'with', 'vinyl', 'esters', 'and', 'products', 'therefrom']",1
+US2386599A,1943-04-22,Azo compounds and material colored therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['azo', 'compounds', 'and', 'material', 'colored', 'therewith']",1
+US2386842A,1943-10-01,Boiler amplifier,"['NOUN', 'ADP']",['PERSON'],0,1,3,"['boiler', 'amplifier']",1
+US2386869A,1945-10-16,Manufacture of,"['NOUN', 'ADP']",[],0,0,2,"['manufacture', 'of']",1
+US2387259A,1940-12-18,High boiling unsaturated products of petroleum pyrolysis and heat polymers therefrom,"['ADJ', 'VERB', 'ADJ', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,12,"['high', 'boiling', 'unsaturated', 'products', 'of', 'petroleum', 'pyrolysis', 'and', 'heat', 'polymers', 'therefrom']",1
+US2387280A,1941-06-13,Oil burner and regulator therefor,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,6,"['oil', 'burner', 'and', 'regulator', 'therefor']",1
+US2387891A,1945-10-30,Ignition controlling device for,"['NOUN', 'VERB', 'NOUN', 'ADP']",[],0,0,4,"['ignition', 'controlling', 'device', 'for']",1
+US2388547A,1943-04-01,Shaper tool post hold-down,"['NOUN', 'NOUN', 'NOUN', 'NOUN', 'PUNCT', 'ADP']",[],0,0,7,"['shaper', 'tool', 'post', 'hold-down']",1
+US2388917A,1941-10-13,Process for preservation of biological materials and products resulting therefrom,"['NOUN', 'ADP', 'NOUN', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,11,"['process', 'for', 'preservation', 'of', 'biological', 'materials', 'and', 'products', 'resulting', 'therefrom']",1
+US2389035A,1942-07-02,Backlash take-up,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['backlash', 'take-up']",1
+US2389375A,1941-06-13,Device for bolting up double windows connected with one another,"['NOUN', 'ADP', 'VERB', 'ADP', 'ADJ', 'NOUN', 'VERB', 'ADP', 'NUM', 'DET']",[],0,0,11,"['device', 'for', 'bolting', 'up', 'double', 'windows', 'connected', 'with', 'one', 'another']",1
+US2389847A,1944-05-29,Power take-off,"['NOUN', 'VERB', 'PUNCT', 'ADP']",[],0,0,5,"['power', 'take-off']",1
+US2390233A,1941-12-17,Sealed aviator's suit and helmet and means for controlling gas pressure and oxygen delivery therein,"['ADJ', 'NOUN', 'PART', 'NOUN', 'CCONJ', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP']",[],0,0,17,"['sealed', ""aviator's"", 'suit', 'and', 'helmet', 'and', 'means', 'for', 'controlling', 'gas', 'pressure', 'and', 'oxygen', 'delivery', 'therein']",1
+US2390547A,1944-07-08,Torque amplifier,"['NOUN', 'ADP']",[],0,0,3,"['torque', 'amplifier']",1
+US2390768A,1944-10-07,Variable selectivity amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['variable', 'selectivity', 'amplifier']",1
+US2392353A,1943-01-15,"Flux-forming fuel, and method for thermally working minerals therewith","['NOUN', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'CCONJ', 'NOUN', 'ADP', 'ADV', 'VERB', 'NOUN', 'ADP']",[],0,0,13,"['flux-forming', 'fuel,', 'and', 'method', 'for', 'thermally', 'working', 'minerals', 'therewith']",1
+US2392844A,1941-04-16,Structural unit and method of making structures therewith,"['ADJ', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'VERB', 'NOUN', 'ADP']",[],0,0,9,"['structural', 'unit', 'and', 'method', 'of', 'making', 'structures', 'therewith']",1
+US2393109A,1946-01-15,Process for the preparation of,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['process', 'for', 'the', 'preparation', 'of']",1
+US2393488A,1942-07-28,Beryllium alloy steels and articles of manufacture produced therefrom,"['NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADP']",[],0,0,10,"['beryllium', 'alloy', 'steels', 'and', 'articles', 'of', 'manufacture', 'produced', 'therefrom']",1
+US2394147A,1942-02-02,Panel or unit for buildings and buildings constructed therefrom,"['NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,10,"['panel', 'or', 'unit', 'for', 'buildings', 'and', 'buildings', 'constructed', 'therefrom']",1
+US2394988A,1943-07-15,Rail drilling jig,"['NOUN', 'NOUN', 'ADP']",[],0,0,4,"['rail', 'drilling', 'jig']",1
+US2395118A,1945-09-19,Self-standing cutout,"['NOUN', 'PUNCT', 'VERB', 'ADP']",[],0,0,5,"['self-standing', 'cutout']",1
+US2395787A,1939-09-28,Machine and humidity responsive control therefor,"['NOUN', 'CCONJ', 'NOUN', 'ADJ', 'NOUN', 'CCONJ']",[],0,0,7,"['machine', 'and', 'humidity', 'responsive', 'control', 'therefor']",1
+US2395979A,1941-12-18,Torque amplifier,"['NOUN', 'ADP']",[],0,0,3,"['torque', 'amplifier']",1
+US2396023A,1943-04-26,Television signal amplifier,"['NOUN', 'NOUN', 'ADP']",[],0,0,4,"['television', 'signal', 'amplifier']",1
+US2396264A,1944-01-22,Fungicide,['ADP'],[],0,0,2,['fungicide'],1
+US2396452A,1943-10-15,Protractor welding jig,"['NOUN', 'NOUN', 'ADP']",[],0,0,4,"['protractor', 'welding', 'jig']",1
+US2396788A,1942-02-06,Reaction and products therefrom,"['NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['reaction', 'and', 'products', 'therefrom']",1
+US2397119A,1942-05-23,Masonry structure and units used therewith,"['NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",['PERSON'],0,1,7,"['masonry', 'structure', 'and', 'units', 'used', 'therewith']",1
+US2397222A,1942-07-28,Beryllium copper alloy steels and articles of manufacture produced therefrom,"['NOUN', 'NOUN', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'VERB', 'ADP']",[],0,0,11,"['beryllium', 'copper', 'alloy', 'steels', 'and', 'articles', 'of', 'manufacture', 'produced', 'therefrom']",1
+US2397625A,1942-03-10,Thermionic feed-back amplifier,"['ADJ', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['thermionic', 'feed-back', 'amplifier']",1
+US2397744A,1944-07-01,Metallic coating composition and structure produced therefrom,"['ADJ', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,8,"['metallic', 'coating', 'composition', 'and', 'structure', 'produced', 'therefrom']",1
+US2398691A,1944-04-28,Wide band amplifier,"['ADJ', 'NOUN', 'ADP']",[],0,0,4,"['wide', 'band', 'amplifier']",1
+US2399179A,1946-04-30,Coating composition and method of,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'ADP']",[],0,0,5,"['coating', 'composition', 'and', 'method', 'of']",1
+US2399314A,1942-12-03,Semiconducting composition and tape produced therefrom,"['VERB', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP']",[],0,0,7,"['semiconducting', 'composition', 'and', 'tape', 'produced', 'therefrom']",1
+US2399325A,1940-03-14,High-frequency-oscillation generator or amplifier,"['ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'ADP']",[],0,0,9,"['high-frequency-oscillation', 'generator', 'or', 'amplifier']",1
+US2399675A,1943-01-22,Signal amplifier,"['NOUN', 'ADP']",[],0,0,3,"['signal', 'amplifier']",1

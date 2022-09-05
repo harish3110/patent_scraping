@@ -1,27 +1,23 @@
 patent_number,date,title,spacy_pos,spacy_label,is_prpn_spacy,is_person_spacy,spacy_pos_len,tokens,bad_endings
-US1169989A,1914-11-17,Gripper-disk for binders.,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT']",[],0,0,7,"['gripper-disk', 'for', 'binders.']",1
-US1191775A,1915-01-16,Priming-cup for gas-engines.,"['NOUN', 'PUNCT', 'NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,9,"['priming-cup', 'for', 'gas-engines.']",1
-US1191803A,1912-09-19,Machine for making show-cards or tickets.,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT']",[],0,0,10,"['machine', 'for', 'making', 'show-cards', 'or', 'tickets.']",1
-US1191812A,1914-04-16,Electric-lamp-socket casing.,"['ADJ', 'PUNCT', 'NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,8,"['electric-lamp-socket', 'casing.']",1
-US1191939A,1912-08-29,Punching-machine.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['punching-machine.'],1
-US1192191A,1914-11-30,Draft-rigging.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['draft-rigging.'],1
-US1192256A,1916-03-25,Range-boiler.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['range-boiler.'],1
-US1192407A,1915-02-26,Machine for making box-blanks.,"['NOUN', 'ADP', 'VERB', 'NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,8,"['machine', 'for', 'making', 'box-blanks.']",1
-US1192408A,1912-12-05,Vacuum-cleaner nozzle.,"['NOUN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT']",[],0,0,6,"['vacuum-cleaner', 'nozzle.']",1
-US1192409A,1912-12-05,Vacuum-cleaner nozzle.,"['NOUN', 'PUNCT', 'ADJ', 'NOUN', 'PUNCT']",[],0,0,6,"['vacuum-cleaner', 'nozzle.']",1
-US1192585A,1916-03-08,Electric display device.,"['ADJ', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,5,"['electric', 'display', 'device.']",1
-US1192648A,1916-01-21,Tire-protector.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['tire-protector.'],1
-US1192847A,1916-02-18,Shade-bracket.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['shade-bracket.'],1
-US1193216A,1916-08-01,Floating fish-trap,"['VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,4,"['floating', 'fish-trap']",1
-US1193443A,1916-08-01,Asbignqj to a,"['VERB', 'ADP', 'PRON']",[],0,0,3,"['asbignqj', 'to', 'a']",1
-US1193663A,1916-08-08,Clay-pboducts-stjkfaging mechanism,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT', 'VERB', 'NOUN']",[],0,0,6,"['clay-pboducts-stjkfaging', 'mechanism']",1
-US1193932A,1916-08-08,shadbolt,['NOUN'],[],0,0,1,['shadbolt'],1
-US1194158A,1916-08-08,Clement eitgel,"['NOUN', 'NOUN']",[],0,0,2,"['clement', 'eitgel']",1
-US1194243A,1916-08-08,Electric switch,"['ADJ', 'NOUN']",[],0,0,2,"['electric', 'switch']",1
-US1195385A,1916-08-22,Mechanical movement,"['ADJ', 'NOUN']",[],0,0,2,"['mechanical', 'movement']",1
-US1195582A,1916-08-22,Door operating mechanism for freight cars,"['NOUN', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'NOUN']",[],0,0,6,"['door', 'operating', 'mechanism', 'for', 'freight', 'cars']",1
-US1195856A,1916-08-22,Automatically-feeding oil-cup,"['ADV', 'PUNCT', 'VERB', 'NOUN', 'PUNCT', 'NOUN']",[],0,0,6,"['automatically-feeding', 'oil-cup']",1
-US1196196A,1916-08-29,Railway signal and stopping mechanism,"['NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN']",[],0,0,5,"['railway', 'signal', 'and', 'stopping', 'mechanism']",1
-US1196220A,1915-09-08,Engine-stop device.,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,"['engine-stop', 'device.']",1
-US1196298A,1915-07-01,Field-gun carriage.,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'PUNCT']",[],0,0,6,"['field-gun', 'carriage.']",1
-US1196432A,1916-02-24,Land-pulverizer.,"['NOUN', 'PUNCT', 'NOUN', 'PUNCT']",[],0,0,5,['land-pulverizer.'],1
+US1193540A,1916-08-08,Method fob converting higher-boiling petroleum hydrocarbons into,"['PROPN', 'AUX', 'VERB', 'ADV', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'ADP']",[],1,0,9,"['method', 'fob', 'converting', 'higher-boiling', 'petroleum', 'hydrocarbons', 'into']",1
+US1193541A,1916-08-08,Method foe converting higher-boiling petroleum hydrocarbons into,"['PROPN', 'AUX', 'VERB', 'ADV', 'PUNCT', 'VERB', 'NOUN', 'NOUN', 'ADP']",[],1,0,9,"['method', 'foe', 'converting', 'higher-boiling', 'petroleum', 'hydrocarbons', 'into']",1
+US1195455A,1916-08-22,Raveluto pick-to,"['PROPN', 'NOUN', 'PUNCT', 'ADP']",[],1,0,4,"['raveluto', 'pick-to']",1
+US1195934A,1916-08-22,Assigi ios osi cub-hals  to,"['NOUN', 'VERB', 'PROPN', 'NOUN', 'PUNCT', 'NOUN', 'SPACE', 'ADP']",[],1,0,8,"['assigi', 'ios', 'osi', 'cub-hals', 'to']",1
+US1175224A,1916-03-14,Pboces of,"['NOUN', 'ADP']",[],0,0,2,"['pboces', 'of']",1
+US1193019A,1916-08-01,A coffiposatioh of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'coffiposatioh', 'of']",1
+US1193049A,1916-08-01,Assiotob to,"['VERB', 'ADP']",[],0,0,2,"['assiotob', 'to']",1
+US1193145A,1916-08-01,Bath tub fixture or,"['NOUN', 'NOUN', 'NOUN', 'CCONJ']",[],0,0,4,"['bath', 'tub', 'fixture', 'or']",1
+US1193420A,1916-08-01,A cobpobation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'cobpobation', 'of']",1
+US1193542A,1916-08-08,Building block ob,"['NOUN', 'NOUN', 'ADP']",[],0,0,3,"['building', 'block', 'ob']",1
+US1193691A,1916-08-08,Tire in,"['NOUN', 'ADP']",[],0,0,2,"['tire', 'in']",1
+US1193738A,1916-08-08,Pateot of,"['NOUN', 'ADP']",[],0,0,2,"['pateot', 'of']",1
+US1193914A,1916-08-08,Proportional compasses for per,"['ADJ', 'NOUN', 'ADP', 'ADP']",[],0,0,4,"['proportional', 'compasses', 'for', 'per']",1
+US1194295A,1916-08-08,Hand ob,"['NOUN', 'ADP']",[],0,0,2,"['hand', 'ob']",1
+US1194426A,1916-08-15,Device fob locking cottebs and peeventing same fbom dbopping out of,"['NOUN', 'ADV', 'VERB', 'NOUN', 'CCONJ', 'VERB', 'ADJ', 'NOUN', 'VERB', 'ADP', 'ADP']",[],0,0,11,"['device', 'fob', 'locking', 'cottebs', 'and', 'peeventing', 'same', 'fbom', 'dbopping', 'out', 'of']",1
+US1194579A,1916-08-15,Assigwob of owe-fousth to,"['NOUN', 'ADP', 'NOUN', 'PUNCT', 'NOUN', 'ADP']",[],0,0,6,"['assigwob', 'of', 'owe-fousth', 'to']",1
+US1194715A,1916-08-15,A cobpobatiqn of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'cobpobatiqn', 'of']",1
+US1194759A,1916-08-15,A cospobation of,"['DET', 'NOUN', 'ADP']",[],0,0,3,"['a', 'cospobation', 'of']",1
+US1195562A,1916-08-22,Mail delivering and receiving device for,"['NOUN', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP']",[],0,0,6,"['mail', 'delivering', 'and', 'receiving', 'device', 'for']",1
+US1195952A,1916-08-22,Assigitoe to the fafnie beae,"['NOUN', 'ADP', 'DET', 'NOUN', 'ADP']",[],0,0,5,"['assigitoe', 'to', 'the', 'fafnie', 'beae']",1
+US1196012A,1916-08-29,Track-handling device for,"['NOUN', 'PUNCT', 'NOUN', 'NOUN', 'ADP']",[],0,0,5,"['track-handling', 'device', 'for']",1
+US1196115A,1916-08-29,Spectacle ob,"['NOUN', 'ADP']",[],0,0,2,"['spectacle', 'ob']",1
